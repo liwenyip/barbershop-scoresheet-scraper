@@ -2,7 +2,827 @@
   "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
   "contest": "QUARTET PRELIM CONTEST 1-BIRMINGHAM: 2013/2014",
   "date": "17/11/2013",
-  "contestants": [],
+  "contestants": [
+    {
+      "name": "Portobello Road",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "917",
+      "pc_score": "76.4",
+      "singers": [
+        {
+          "name": "Ian James",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Schofield",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Emery",
+          "part": "bari"
+        },
+        {
+          "name": "Stuart Owen",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "My Foolish Heart",
+          "mus": "149",
+          "prs": "152",
+          "sng": "152"
+        },
+        {
+          "song": "There I've Said It Again",
+          "mus": "156",
+          "prs": "154",
+          "sng": "154"
+        }
+      ]
+    },
+    {
+      "name": "Figaro",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "865",
+      "pc_score": "72.1",
+      "singers": [
+        {
+          "name": "Aidan Brand",
+          "part": "tenor"
+        },
+        {
+          "name": "John Ward",
+          "part": "lead"
+        },
+        {
+          "name": "Andy Rzysko",
+          "part": "bari"
+        },
+        {
+          "name": "Richard Leatham",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Beautiful Dreamer",
+          "mus": "148",
+          "prs": "142",
+          "sng": "143"
+        },
+        {
+          "song": "It's Only A Paper Moon",
+          "mus": "147",
+          "prs": "141",
+          "sng": "144"
+        }
+      ]
+    },
+    {
+      "name": "Impromtu",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "817",
+      "pc_score": "68.1",
+      "singers": [
+        {
+          "name": "Nigel Boucher",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy Allen",
+          "part": "lead"
+        },
+        {
+          "name": "Tim Briggs",
+          "part": "bari"
+        },
+        {
+          "name": "Steve Holden",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Wait Till The Sun Shines, Nellie",
+          "mus": "136",
+          "prs": "136",
+          "sng": "141"
+        },
+        {
+          "song": "Zip-A - Dee-Doodah",
+          "mus": "135",
+          "prs": "131",
+          "sng": "138"
+        }
+      ]
+    },
+    {
+      "name": "Sparks",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "808",
+      "pc_score": "67.3",
+      "singers": [
+        {
+          "name": "Hayden Cole",
+          "part": "tenor"
+        },
+        {
+          "name": "John Ward",
+          "part": "lead"
+        },
+        {
+          "name": "Ian Saxby",
+          "part": "bari"
+        },
+        {
+          "name": "Steve Neck",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Sweet, Sweet Roses Of Morn",
+          "mus": "136",
+          "prs": "132",
+          "sng": "137"
+        },
+        {
+          "song": "Sweet And Lovely",
+          "mus": "135",
+          "prs": "133",
+          "sng": "135"
+        }
+      ]
+    },
+    {
+      "name": "QM",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "806",
+      "pc_score": "67.2",
+      "singers": [
+        {
+          "name": "Paul Jeffrey",
+          "part": "tenor"
+        },
+        {
+          "name": "Trevor Dawson",
+          "part": "lead"
+        },
+        {
+          "name": "Adrian Armstrong",
+          "part": "bari"
+        },
+        {
+          "name": "Steve Cox",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "It's Only A Paper Moon",
+          "mus": "141",
+          "prs": "131",
+          "sng": "132"
+        },
+        {
+          "song": "The Little Boy",
+          "mus": "141",
+          "prs": "130",
+          "sng": "131"
+        }
+      ]
+    },
+    {
+      "name": "The Moondogs",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "801",
+      "pc_score": "66.8",
+      "singers": [
+        {
+          "name": "Vaugh Dooley",
+          "part": "tenor"
+        },
+        {
+          "name": "Jony Coulter",
+          "part": "lead"
+        },
+        {
+          "name": "Dean Whitehouse",
+          "part": "bari"
+        },
+        {
+          "name": "Joe White",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Masquerade Is Over",
+          "mus": "133",
+          "prs": "133",
+          "sng": "132"
+        },
+        {
+          "song": "Undecided Medley",
+          "mus": "137",
+          "prs": "136",
+          "sng": "130"
+        }
+      ]
+    },
+    {
+      "name": "The Grand Dads",
+      "type": "quartet",
+      "place": "7",
+      "tot_score": "776",
+      "pc_score": "64.7",
+      "singers": [
+        {
+          "name": "Mick Barnacle",
+          "part": "tenor"
+        },
+        {
+          "name": "Rob Parnham",
+          "part": "lead"
+        },
+        {
+          "name": "Dave Hughes",
+          "part": "bari"
+        },
+        {
+          "name": "Rob Taylor",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Bring Back Those Good Old Days",
+          "mus": "133",
+          "prs": "127",
+          "sng": "125"
+        },
+        {
+          "song": "I'll Be Seeing You",
+          "mus": "133",
+          "prs": "129",
+          "sng": "129"
+        }
+      ]
+    },
+    {
+      "name": "The Simpletones",
+      "type": "quartet",
+      "place": "8",
+      "tot_score": "774",
+      "pc_score": "64.5",
+      "singers": [
+        {
+          "name": "Nick Pawley",
+          "part": "tenor"
+        },
+        {
+          "name": "Simon Lubkowski",
+          "part": "lead"
+        },
+        {
+          "name": "Nik Robinson",
+          "part": "bari"
+        },
+        {
+          "name": "Ian White",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "It's Only A Paper Moon",
+          "mus": "128",
+          "prs": "132",
+          "sng": "126"
+        },
+        {
+          "song": "My Old Kentucky Home",
+          "mus": "127",
+          "prs": "132",
+          "sng": "129"
+        }
+      ]
+    },
+    {
+      "name": "Graffiti",
+      "type": "quartet",
+      "place": "9",
+      "tot_score": "766",
+      "pc_score": "63.8",
+      "singers": [
+        {
+          "name": "Nick Howell",
+          "part": "tenor"
+        },
+        {
+          "name": "Terry Mansfield",
+          "part": "lead"
+        },
+        {
+          "name": "Gary Roussak",
+          "part": "bari"
+        },
+        {
+          "name": "Peter Williams",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "When My Baby Smiles At Me",
+          "mus": "128",
+          "prs": "126",
+          "sng": "124"
+        },
+        {
+          "song": "Lover Come Back",
+          "mus": "133",
+          "prs": "132",
+          "sng": "123"
+        }
+      ]
+    },
+    {
+      "name": "Four To The Bar",
+      "type": "quartet",
+      "place": "10",
+      "tot_score": "750",
+      "pc_score": "62.5",
+      "singers": [
+        {
+          "name": "Peter Porter",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Sutton",
+          "part": "lead"
+        },
+        {
+          "name": "John Hardman",
+          "part": "bari"
+        },
+        {
+          "name": "Norman Ambrose",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "For All We Know",
+          "mus": "124",
+          "prs": "126",
+          "sng": "124"
+        },
+        {
+          "song": "Once Upon A Time",
+          "mus": "128",
+          "prs": "126",
+          "sng": "122"
+        }
+      ]
+    },
+    {
+      "name": "The Back Room Boys",
+      "type": "quartet",
+      "place": "11",
+      "tot_score": "744",
+      "pc_score": "62.0",
+      "singers": [
+        {
+          "name": "Chris Blatchford",
+          "part": "tenor"
+        },
+        {
+          "name": "Geoff Plant",
+          "part": "lead"
+        },
+        {
+          "name": "Dave Hughes",
+          "part": "bari"
+        },
+        {
+          "name": "Frank Salter",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "If I Had My Way",
+          "mus": "133",
+          "prs": "116",
+          "sng": "121"
+        },
+        {
+          "song": "Goodbye My Coney Island / We All Fall Medley",
+          "mus": "137",
+          "prs": "119",
+          "sng": "118"
+        }
+      ]
+    },
+    {
+      "name": "MIDA's Touch",
+      "type": "quartet",
+      "place": "12",
+      "tot_score": "742",
+      "pc_score": "61.8",
+      "singers": [
+        {
+          "name": "Ian Heald",
+          "part": "tenor"
+        },
+        {
+          "name": "Mike Riley",
+          "part": "lead"
+        },
+        {
+          "name": "Dean Whitehouse",
+          "part": "bari"
+        },
+        {
+          "name": "Andy Salter",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Let The Rest Of The World Go By",
+          "mus": "127",
+          "prs": "118",
+          "sng": "126"
+        },
+        {
+          "song": "I Can't Give You Anything But Love",
+          "mus": "126",
+          "prs": "121",
+          "sng": "124"
+        }
+      ]
+    },
+    {
+      "name": "Contraband",
+      "type": "quartet",
+      "place": "13",
+      "tot_score": "734",
+      "pc_score": "61.2",
+      "singers": [
+        {
+          "name": "Lee White",
+          "part": "tenor"
+        },
+        {
+          "name": "Rob Jones",
+          "part": "lead"
+        },
+        {
+          "name": "Rob Bennett",
+          "part": "bari"
+        },
+        {
+          "name": "Jason Jones",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Me",
+          "mus": "128",
+          "prs": "121",
+          "sng": "120"
+        },
+        {
+          "song": "May I Never Love Again",
+          "mus": "125",
+          "prs": "119",
+          "sng": "121"
+        }
+      ]
+    },
+    {
+      "name": "One Digestive",
+      "type": "quartet",
+      "place": "14",
+      "tot_score": "721",
+      "pc_score": "60.1",
+      "singers": [
+        {
+          "name": "Chas Voss",
+          "part": "tenor"
+        },
+        {
+          "name": "Jez Knowles",
+          "part": "lead"
+        },
+        {
+          "name": "Liam Buswell",
+          "part": "bari"
+        },
+        {
+          "name": "Nigel Cutts",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Moment I Saw Your Eyes",
+          "mus": "122",
+          "prs": "120",
+          "sng": "119"
+        },
+        {
+          "song": "Bright Was The Night",
+          "mus": "122",
+          "prs": "118",
+          "sng": "120"
+        }
+      ]
+    },
+    {
+      "name": "Sons of Harmony",
+      "type": "quartet",
+      "place": "15",
+      "tot_score": "717",
+      "pc_score": "59.8",
+      "singers": [
+        {
+          "name": "Bob Walker",
+          "part": "tenor"
+        },
+        {
+          "name": "Steve Riley",
+          "part": "lead"
+        },
+        {
+          "name": "Andy Wheeler",
+          "part": "bari"
+        },
+        {
+          "name": "James Dubois",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Don't Tell Me The Same Things Over Again",
+          "mus": "122",
+          "prs": "122",
+          "sng": "116"
+        },
+        {
+          "song": "After You've Gone",
+          "mus": "120",
+          "prs": "121",
+          "sng": "116"
+        }
+      ]
+    },
+    {
+      "name": "Cantorum",
+      "type": "quartet",
+      "place": "16",
+      "tot_score": "713",
+      "pc_score": "59.4",
+      "singers": [
+        {
+          "name": "Tim Sowter",
+          "part": "tenor"
+        },
+        {
+          "name": "Peter Wigington",
+          "part": "lead"
+        },
+        {
+          "name": "Frank Jans",
+          "part": "bari"
+        },
+        {
+          "name": "John Williams",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Me",
+          "mus": "118",
+          "prs": "119",
+          "sng": "123"
+        },
+        {
+          "song": "What'll I Do",
+          "mus": "115",
+          "prs": "118",
+          "sng": "120"
+        }
+      ]
+    },
+    {
+      "name": "Classmates",
+      "type": "quartet",
+      "place": "17",
+      "tot_score": "705",
+      "pc_score": "58.8",
+      "singers": [
+        {
+          "name": "Ed Carter",
+          "part": "tenor"
+        },
+        {
+          "name": "John Brough",
+          "part": "lead"
+        },
+        {
+          "name": "Henry Foster",
+          "part": "bari"
+        },
+        {
+          "name": "George Badland",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Midnight Rose",
+          "mus": "123",
+          "prs": "114",
+          "sng": "117"
+        },
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "122",
+          "prs": "116",
+          "sng": "113"
+        }
+      ]
+    },
+    {
+      "name": "Four Crying Out Loud",
+      "type": "quartet",
+      "place": "18",
+      "tot_score": "698",
+      "pc_score": "58.2",
+      "singers": [
+        {
+          "name": "Peter Bannerman",
+          "part": "tenor"
+        },
+        {
+          "name": "Alex Wilson",
+          "part": "lead"
+        },
+        {
+          "name": "Bill Cheyne",
+          "part": "bari"
+        },
+        {
+          "name": "David Aberdeen",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "After You've Gone",
+          "mus": "124",
+          "prs": "116",
+          "sng": "110"
+        },
+        {
+          "song": "If I Give My Heart To You",
+          "mus": "125",
+          "prs": "114",
+          "sng": "109"
+        }
+      ]
+    },
+    {
+      "name": "Isis",
+      "type": "quartet",
+      "place": "20",
+      "tot_score": "0659",
+      "pc_score": "54.9",
+      "singers": [
+        {
+          "name": "Alex Russell",
+          "part": "tenor"
+        },
+        {
+          "name": "Phil Paine",
+          "part": "lead"
+        },
+        {
+          "name": "Peter Leverett",
+          "part": "bari"
+        },
+        {
+          "name": "Robert Barr",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "A Wink And A Smile",
+          "mus": "118",
+          "prs": "109",
+          "sng": "107"
+        },
+        {
+          "song": "Amongst My Souvenirs",
+          "mus": "117",
+          "prs": "106",
+          "sng": "102"
+        }
+      ]
+    },
+    {
+      "name": "Drastic Measures",
+      "type": "quartet",
+      "place": "21",
+      "tot_score": "647",
+      "pc_score": "53.9",
+      "singers": [
+        {
+          "name": "Jason Foxwell",
+          "part": "tenor"
+        },
+        {
+          "name": "Joe Hayward",
+          "part": "lead"
+        },
+        {
+          "name": "Paul Keeping",
+          "part": "bari"
+        },
+        {
+          "name": "Dave Barber",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "That's Life",
+          "mus": "109",
+          "prs": "108",
+          "sng": "107"
+        },
+        {
+          "song": "Nevertheless",
+          "mus": "107",
+          "prs": "107",
+          "sng": "109"
+        }
+      ]
+    },
+    {
+      "name": "Phristam",
+      "type": "quartet",
+      "place": "22",
+      "tot_score": "631",
+      "pc_score": "52.6",
+      "singers": [
+        {
+          "name": "Ian Dent",
+          "part": "tenor"
+        },
+        {
+          "name": "Mike Brown",
+          "part": "lead"
+        },
+        {
+          "name": "Stuart Eels",
+          "part": "bari"
+        },
+        {
+          "name": "Phillip Ward",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "After You've Gone",
+          "mus": "103",
+          "prs": "109",
+          "sng": "105"
+        },
+        {
+          "song": "You Don't Know Me",
+          "mus": "100",
+          "prs": "113",
+          "sng": "101"
+        }
+      ]
+    }
+  ],
   "judges": [
     {
       "cat": "m",

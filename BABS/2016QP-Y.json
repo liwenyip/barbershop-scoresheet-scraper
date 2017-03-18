@@ -160,6 +160,45 @@
       ]
     },
     {
+      "name": "Student Unison",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "1137",
+      "pc_score": "63.2",
+      "singers": [
+        {
+          "name": "Rich Platt",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy Davies",
+          "part": "lead"
+        },
+        {
+          "name": "Tomos Gwyn",
+          "part": "bari"
+        },
+        {
+          "name": "Peter Shipway",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "185",
+          "prs": "194",
+          "sng": "192"
+        },
+        {
+          "song": "You Are So Beautiful",
+          "mus": "183",
+          "prs": "191",
+          "sng": "192"
+        }
+      ]
+    },
+    {
       "name": "Wavelength",
       "type": "quartet",
       "place": "6",

@@ -589,6 +589,45 @@
       ]
     },
     {
+      "name": "The Tagpipes",
+      "type": "quartet",
+      "place": "16",
+      "tot_score": "1162",
+      "pc_score": "64.6",
+      "singers": [
+        {
+          "name": "Callum Rickard",
+          "part": "tenor"
+        },
+        {
+          "name": "Shaun McCormack",
+          "part": "lead"
+        },
+        {
+          "name": "David Sangster",
+          "part": "bari"
+        },
+        {
+          "name": "Nick Drew",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "195",
+          "prs": "191",
+          "sng": "195"
+        },
+        {
+          "song": "Love Me And The World Is Mine",
+          "mus": "201",
+          "prs": "188",
+          "sng": "192"
+        }
+      ]
+    },
+    {
       "name": "The Moondogs",
       "type": "quartet",
       "place": "17",

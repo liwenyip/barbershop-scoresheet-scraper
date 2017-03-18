@@ -119,6 +119,45 @@
           "sng": "183"
         }
       ]
+    },
+    {
+      "name": "Four Shades Of Grey",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "994",
+      "pc_score": "55.2",
+      "singers": [
+        {
+          "name": "Barclay Marshall",
+          "part": "tenor"
+        },
+        {
+          "name": "Graham Lake",
+          "part": "lead"
+        },
+        {
+          "name": "Richard Barley",
+          "part": "bari"
+        },
+        {
+          "name": "Ken Miles",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "When You Wore A Tulip",
+          "mus": "172",
+          "prs": "165",
+          "sng": "168"
+        },
+        {
+          "song": "Sweet Georgia Brown",
+          "mus": "168",
+          "prs": "162",
+          "sng": "159"
+        }
+      ]
     }
   ],
   "judges": [

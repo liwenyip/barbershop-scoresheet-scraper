@@ -2,7 +2,749 @@
   "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
   "contest": "QUARTET PRELIM CONTEST 2-BIRMINGHAM: 2013/2014",
   "date": "17/11/2013",
-  "contestants": [],
+  "contestants": [
+    {
+      "name": "Park Street",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "934",
+      "pc_score": "77.8",
+      "singers": [
+        {
+          "name": "James Whittick",
+          "part": "tenor"
+        },
+        {
+          "name": "Alastair Hay-Plumb",
+          "part": "lead"
+        },
+        {
+          "name": "David Foot",
+          "part": "bari"
+        },
+        {
+          "name": "Simon Arnott",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Just A Cottage Small",
+          "mus": "149",
+          "prs": "158",
+          "sng": "155"
+        },
+        {
+          "song": "Drivin' Me Crazy",
+          "mus": "154",
+          "prs": "162",
+          "sng": "156"
+        }
+      ]
+    },
+    {
+      "name": "TAGLINE",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "911",
+      "pc_score": "75.9",
+      "singers": [
+        {
+          "name": "Ben Ferguson",
+          "part": "tenor"
+        },
+        {
+          "name": "James Gower-Smith",
+          "part": "lead"
+        },
+        {
+          "name": "Chris Langworthy",
+          "part": "bari"
+        },
+        {
+          "name": "Rob Foot",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "My Romance",
+          "mus": "151",
+          "prs": "150",
+          "sng": "149"
+        },
+        {
+          "song": "Swanee",
+          "mus": "154",
+          "prs": "156",
+          "sng": "151"
+        }
+      ]
+    },
+    {
+      "name": "Homespun",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "860",
+      "pc_score": "71.7",
+      "singers": [
+        {
+          "name": "James Williams",
+          "part": "tenor"
+        },
+        {
+          "name": "Eddie Williams",
+          "part": "lead"
+        },
+        {
+          "name": "Nick Williams",
+          "part": "bari"
+        },
+        {
+          "name": "Nigel Williams",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "If I Had My Way",
+          "mus": "141",
+          "prs": "147",
+          "sng": "144"
+        },
+        {
+          "song": "Fit As A Fiddle",
+          "mus": "139",
+          "prs": "143",
+          "sng": "146"
+        }
+      ]
+    },
+    {
+      "name": "eXcel",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "838",
+      "pc_score": "69.8",
+      "singers": [
+        {
+          "name": "Simon Hunt",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy Salter",
+          "part": "lead"
+        },
+        {
+          "name": "Dave Whittle",
+          "part": "bari"
+        },
+        {
+          "name": "Jon Dawson",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "140",
+          "prs": "138",
+          "sng": "137"
+        },
+        {
+          "song": "Where The Southern Roses Grow",
+          "mus": "142",
+          "prs": "143",
+          "sng": "138"
+        }
+      ]
+    },
+    {
+      "name": "QuarteTones",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "797",
+      "pc_score": "66.4",
+      "singers": [
+        {
+          "name": "Graham Harper",
+          "part": "tenor"
+        },
+        {
+          "name": "Richard Gardner",
+          "part": "lead"
+        },
+        {
+          "name": "Alex du Bruin",
+          "part": "bari"
+        },
+        {
+          "name": "Iain Hallam",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "All Aboard For Dixie Land",
+          "mus": "126",
+          "prs": "130",
+          "sng": "137"
+        },
+        {
+          "song": "When I Leave The World Behind",
+          "mus": "129",
+          "prs": "133",
+          "sng": "142"
+        }
+      ]
+    },
+    {
+      "name": "Price Tag",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "776",
+      "pc_score": "64.7",
+      "singers": [
+        {
+          "name": "Steve Cox",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy McPhee",
+          "part": "lead"
+        },
+        {
+          "name": "Dan Jones",
+          "part": "bari"
+        },
+        {
+          "name": "Graeme Crawford",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "That's Life",
+          "mus": "132",
+          "prs": "128",
+          "sng": "131"
+        },
+        {
+          "song": "Over The Rainbow",
+          "mus": "130",
+          "prs": "127",
+          "sng": "128"
+        }
+      ]
+    },
+    {
+      "name": "The Tagpipes",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "776",
+      "pc_score": "64.7",
+      "singers": [
+        {
+          "name": "Callum Rickard",
+          "part": "tenor"
+        },
+        {
+          "name": "Shaun McCormack",
+          "part": "lead"
+        },
+        {
+          "name": "David Sangster",
+          "part": "bari"
+        },
+        {
+          "name": "Nick Drew",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "It Don't Mean A Thing",
+          "mus": "132",
+          "prs": "129",
+          "sng": "123"
+        },
+        {
+          "song": "Love Me And The World Is Mine",
+          "mus": "134",
+          "prs": "130",
+          "sng": "128"
+        }
+      ]
+    },
+    {
+      "name": "Soundcheck",
+      "type": "quartet",
+      "place": "8",
+      "tot_score": "773",
+      "pc_score": "64.4",
+      "singers": [
+        {
+          "name": "Alan Wright",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Gidney",
+          "part": "lead"
+        },
+        {
+          "name": "Jack Haslam",
+          "part": "bari"
+        },
+        {
+          "name": "John Clarke",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Way You Look Tonight",
+          "mus": "127",
+          "prs": "127",
+          "sng": "129"
+        },
+        {
+          "song": "It Happened In Monterey",
+          "mus": "130",
+          "prs": "127",
+          "sng": "133"
+        }
+      ]
+    },
+    {
+      "name": "Stepping Out",
+      "type": "quartet",
+      "place": "9",
+      "tot_score": "761",
+      "pc_score": "63.4",
+      "singers": [
+        {
+          "name": "Brian Shorrocks",
+          "part": "tenor"
+        },
+        {
+          "name": "David Ellwood",
+          "part": "lead"
+        },
+        {
+          "name": "Nigel Green",
+          "part": "bari"
+        },
+        {
+          "name": "John Higgins",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "mus": "121",
+          "prs": "135",
+          "sng": "126"
+        },
+        {
+          "song": "You Don't Know Me",
+          "mus": "122",
+          "prs": "134",
+          "sng": "123"
+        }
+      ]
+    },
+    {
+      "name": "Chord Almighty",
+      "type": "quartet",
+      "place": "10",
+      "tot_score": "752",
+      "pc_score": "62.7",
+      "singers": [
+        {
+          "name": "Alex Blankley",
+          "part": "tenor"
+        },
+        {
+          "name": "David Sangwell",
+          "part": "lead"
+        },
+        {
+          "name": "Torsten Hay",
+          "part": "bari"
+        },
+        {
+          "name": "Rob Barber",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Moment I Saw Your Eyes",
+          "mus": "131",
+          "prs": "126",
+          "sng": "120"
+        },
+        {
+          "song": "Where The Southern Roses Grow",
+          "mus": "126",
+          "prs": "128",
+          "sng": "121"
+        }
+      ]
+    },
+    {
+      "name": "The Travellers",
+      "type": "quartet",
+      "place": "11",
+      "tot_score": "744",
+      "pc_score": "62.0",
+      "singers": [
+        {
+          "name": "Andy Woolley",
+          "part": "tenor"
+        },
+        {
+          "name": "Tony Parton",
+          "part": "lead"
+        },
+        {
+          "name": "Derek Harris",
+          "part": "bari"
+        },
+        {
+          "name": "John Kenny",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Darktown Strutter's Ball",
+          "mus": "124",
+          "prs": "134",
+          "sng": "122"
+        },
+        {
+          "song": "There Goes My Heart",
+          "mus": "116",
+          "prs": "129",
+          "sng": "119"
+        }
+      ]
+    },
+    {
+      "name": "The Quadranauts",
+      "type": "quartet",
+      "place": "12",
+      "tot_score": "742",
+      "pc_score": "61.8",
+      "singers": [
+        {
+          "name": "Martyn Lapworth",
+          "part": "tenor"
+        },
+        {
+          "name": "Bill Payne",
+          "part": "lead"
+        },
+        {
+          "name": "Andy Douglas",
+          "part": "bari"
+        },
+        {
+          "name": "Tom Jeffries",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "123",
+          "prs": "127",
+          "sng": "121"
+        },
+        {
+          "song": "Once Upon A Time",
+          "mus": "124",
+          "prs": "125",
+          "sng": "122"
+        }
+      ]
+    },
+    {
+      "name": "Formidable",
+      "type": "quartet",
+      "place": "13",
+      "tot_score": "719",
+      "pc_score": "59.9",
+      "singers": [
+        {
+          "name": "Bob Devine",
+          "part": "tenor"
+        },
+        {
+          "name": "Jason Leonard",
+          "part": "lead"
+        },
+        {
+          "name": "Andy Coan",
+          "part": "bari"
+        },
+        {
+          "name": "Paul Mason",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Do You Really Love Me",
+          "mus": "111",
+          "prs": "117",
+          "sng": "126"
+        },
+        {
+          "song": "The Darktown Strutter's Ball",
+          "mus": "120",
+          "prs": "121",
+          "sng": "124"
+        }
+      ]
+    },
+    {
+      "name": "Routemasters",
+      "type": "quartet",
+      "place": "14",
+      "tot_score": "699",
+      "pc_score": "58.3",
+      "singers": [
+        {
+          "name": "Thomas Fitch",
+          "part": "tenor"
+        },
+        {
+          "name": "Pritpal Gill",
+          "part": "lead"
+        },
+        {
+          "name": "Rob Langley Jones",
+          "part": "bari"
+        },
+        {
+          "name": "Stuart Butchers",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Basin Street Blues",
+          "mus": "119",
+          "prs": "118",
+          "sng": "115"
+        },
+        {
+          "song": "You Don't Know Me",
+          "mus": "113",
+          "prs": "122",
+          "sng": "112"
+        }
+      ]
+    },
+    {
+      "name": "Four Mchugh",
+      "type": "quartet",
+      "place": "15",
+      "tot_score": "698",
+      "pc_score": "58.2",
+      "singers": [
+        {
+          "name": "Christopher Brian",
+          "part": "tenor"
+        },
+        {
+          "name": "Les Mcghee",
+          "part": "lead"
+        },
+        {
+          "name": "Brian Tutt",
+          "part": "bari"
+        },
+        {
+          "name": "Denis Lax",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "A Little Street Where Old Friends Meet",
+          "mus": "115",
+          "prs": "118",
+          "sng": "119"
+        },
+        {
+          "song": "I Don't Know Why",
+          "mus": "111",
+          "prs": "118",
+          "sng": "117"
+        }
+      ]
+    },
+    {
+      "name": "Alchemy",
+      "type": "quartet",
+      "place": "16",
+      "tot_score": "662",
+      "pc_score": "55.2",
+      "singers": [
+        {
+          "name": "David Gamble",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Clay",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Gill",
+          "part": "bari"
+        },
+        {
+          "name": "Chris Shannon",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You Don't Know Me",
+          "mus": "109",
+          "prs": "110",
+          "sng": "106"
+        },
+        {
+          "song": "Sweet Georgia Brown",
+          "mus": "114",
+          "prs": "115",
+          "sng": "108"
+        }
+      ]
+    },
+    {
+      "name": "The UniSons",
+      "type": "quartet",
+      "place": "17",
+      "tot_score": "661",
+      "pc_score": "55.1",
+      "singers": [
+        {
+          "name": "Josh Smith",
+          "part": "tenor"
+        },
+        {
+          "name": "Robert Reed",
+          "part": "lead"
+        },
+        {
+          "name": "Jonathan Pipe",
+          "part": "bari"
+        },
+        {
+          "name": "Nick Hoare",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Last Night Was The End Of The World",
+          "mus": "116",
+          "prs": "108",
+          "sng": "106"
+        },
+        {
+          "song": "Taking A Chance On Love",
+          "mus": "116",
+          "prs": "111",
+          "sng": "104"
+        }
+      ]
+    },
+    {
+      "name": "Work In Progress",
+      "type": "quartet",
+      "place": "18",
+      "tot_score": "659",
+      "pc_score": "54.9",
+      "singers": [
+        {
+          "name": "Tony White",
+          "part": "tenor"
+        },
+        {
+          "name": "Nigel Woner-Phillips",
+          "part": "lead"
+        },
+        {
+          "name": "Brian Millbank",
+          "part": "bari"
+        },
+        {
+          "name": "Dave Colner",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Five Foot Two",
+          "mus": "107",
+          "prs": "111",
+          "sng": "108"
+        },
+        {
+          "song": "Once Upon A Time",
+          "mus": "111",
+          "prs": "114",
+          "sng": "108"
+        }
+      ]
+    },
+    {
+      "name": "Copyright",
+      "type": "quartet",
+      "place": "19",
+      "tot_score": "644",
+      "pc_score": "53.7",
+      "singers": [
+        {
+          "name": "Nigel Kearney",
+          "part": "tenor"
+        },
+        {
+          "name": "Mike Blundell",
+          "part": "lead"
+        },
+        {
+          "name": "John Kelsey",
+          "part": "bari"
+        },
+        {
+          "name": "Paul Tatton",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Chances Are",
+          "mus": "108",
+          "prs": "109",
+          "sng": "105"
+        },
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "109",
+          "prs": "110",
+          "sng": "103"
+        }
+      ]
+    }
+  ],
   "judges": [
     {
       "cat": "m",

@@ -533,6 +533,29 @@
       ]
     },
     {
+      "name": "Kings Of Herts",
+      "type": "chorus",
+      "place": "28",
+      "tot_score": "1022",
+      "pc_score": "56.8",
+      "director": "Roger Chantrelle",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "Nice Work If You Can Get It",
+          "m": "173",
+          "p": "173",
+          "s": "172"
+        },
+        {
+          "song": "If You Were The Only Girl In The World",
+          "m": "166",
+          "p": "169",
+          "s": "169"
+        }
+      ]
+    },
+    {
       "name": "The Pilgrimaires",
       "type": "chorus",
       "place": "29",
@@ -552,6 +575,167 @@
           "m": "170",
           "p": "174",
           "s": "160"
+        }
+      ]
+    },
+    {
+      "name": "Ocean Harmony",
+      "type": "chorus",
+      "place": "30",
+      "tot_score": "996",
+      "pc_score": "55.3",
+      "director": "Graham Frampton",
+      "singers": "20",
+      "songs": [
+        {
+          "song": "Beautiful Dreamer",
+          "m": "161",
+          "p": "164",
+          "s": "170"
+        },
+        {
+          "song": "I Can't Give You Anything But Love",
+          "m": "163",
+          "p": "169",
+          "s": "169"
+        }
+      ]
+    },
+    {
+      "name": "Harmony Lincs",
+      "type": "chorus",
+      "place": "31",
+      "tot_score": "983",
+      "pc_score": "54.6",
+      "director": "Jeremy Curtis",
+      "singers": "21",
+      "songs": [
+        {
+          "song": "My Foolish Heart",
+          "m": "168",
+          "p": "165",
+          "s": "166"
+        },
+        {
+          "song": "Recipe For Makin' Love",
+          "m": "157",
+          "p": "162",
+          "s": "165"
+        }
+      ]
+    },
+    {
+      "name": "Hereward Harmony",
+      "type": "chorus",
+      "place": "32",
+      "tot_score": "958",
+      "pc_score": "53.2",
+      "director": "Mike Sampson",
+      "singers": "16",
+      "songs": [
+        {
+          "song": "Georgia On My Mind",
+          "m": "161",
+          "p": "164",
+          "s": "154"
+        },
+        {
+          "song": "I'm Sitting On Top Of The World",
+          "m": "162",
+          "p": "163",
+          "s": "154"
+        }
+      ]
+    },
+    {
+      "name": "The White Rose Chorus",
+      "type": "chorus",
+      "place": "33",
+      "tot_score": "955",
+      "pc_score": "53.1",
+      "director": "Hazel  Jiggins",
+      "singers": "20",
+      "songs": [
+        {
+          "song": "Young And Foolish",
+          "m": "158",
+          "p": "159",
+          "s": "153"
+        },
+        {
+          "song": "Let's Get Away From It All",
+          "m": "166",
+          "p": "163",
+          "s": "156"
+        }
+      ]
+    },
+    {
+      "name": "Oxford Harmony",
+      "type": "chorus",
+      "place": "34",
+      "tot_score": "949",
+      "pc_score": "52.7",
+      "director": "Anna Shackelton",
+      "singers": "19",
+      "songs": [
+        {
+          "song": "You Make Me Feel So Young",
+          "m": "164",
+          "p": "161",
+          "s": "151"
+        },
+        {
+          "song": "If I Give My Heart To You",
+          "m": "164",
+          "p": "159",
+          "s": "150"
+        }
+      ]
+    },
+    {
+      "name": "Western Approach",
+      "type": "chorus",
+      "place": "35",
+      "tot_score": "925",
+      "pc_score": "51.4",
+      "director": "Tom Knight",
+      "singers": "22",
+      "songs": [
+        {
+          "song": "Old Cape Cod",
+          "m": "155",
+          "p": "162",
+          "s": "151"
+        },
+        {
+          "song": "The Old Piano Roll Blues",
+          "m": "152",
+          "p": "157",
+          "s": "148"
+        }
+      ]
+    },
+    {
+      "name": "East Kent Chorus",
+      "type": "chorus",
+      "place": "36",
+      "tot_score": "863",
+      "pc_score": "47.9",
+      "director": "David Holloway",
+      "singers": "14",
+      "songs": [
+        {
+          "song": "Wonderful Day Medley",
+          "m": "142",
+          "p": "149",
+          "s": "146"
+        },
+        {
+          "song": "Sentimental Journey",
+          "m": "141",
+          "p": "146",
+          "s": "139"
         }
       ]
     }

@@ -119,6 +119,29 @@
       ]
     },
     {
+      "name": "Mantunian Way",
+      "type": "chorus",
+      "place": "7",
+      "tot_score": "1332",
+      "pc_score": "74.0",
+      "director": "Seb Marshall",
+      "singers": "21",
+      "songs": [
+        {
+          "song": "It's You",
+          "m": "226",
+          "p": "215",
+          "s": "222"
+        },
+        {
+          "song": "Save The Last Dance For Me/Sway Medley",
+          "m": "226",
+          "p": "217",
+          "s": "226"
+        }
+      ]
+    },
+    {
       "name": "Tuxedo Junction",
       "type": "chorus",
       "place": "9",
@@ -138,6 +161,29 @@
           "m": "211",
           "p": "218",
           "s": "208"
+        }
+      ]
+    },
+    {
+      "name": "Anvil Chorus",
+      "type": "chorus",
+      "place": "10",
+      "tot_score": "1238",
+      "pc_score": "68.8",
+      "director": "Rod Butcher",
+      "singers": "30",
+      "songs": [
+        {
+          "song": "It's You",
+          "m": "214",
+          "p": "202",
+          "s": "206"
+        },
+        {
+          "song": "You Belong To Me",
+          "m": "215",
+          "p": "200",
+          "s": "201"
         }
       ]
     },
@@ -184,6 +230,29 @@
           "m": "199",
           "p": "202",
           "s": "201"
+        }
+      ]
+    },
+    {
+      "name": "The Kentones",
+      "type": "chorus",
+      "place": "13",
+      "tot_score": "1207",
+      "pc_score": "67.1",
+      "director": "Peter Kennedy",
+      "singers": "42",
+      "songs": [
+        {
+          "song": "It's Impossible",
+          "m": "207",
+          "p": "201",
+          "s": "200"
+        },
+        {
+          "song": "Can't Buy Me Love",
+          "m": "204",
+          "p": "198",
+          "s": "197"
         }
       ]
     },
@@ -552,6 +621,144 @@
           "m": "175",
           "p": "163",
           "s": "165"
+        }
+      ]
+    },
+    {
+      "name": "Western Approach",
+      "type": "chorus",
+      "place": "30",
+      "tot_score": "991",
+      "pc_score": "55.1",
+      "director": "Tom Knight",
+      "singers": "7",
+      "songs": [
+        {
+          "song": "My Old Dutch",
+          "m": "166",
+          "p": "166",
+          "s": "159"
+        },
+        {
+          "song": "I Don't Mind Being All Alone",
+          "m": "171",
+          "p": "167",
+          "s": "162"
+        }
+      ]
+    },
+    {
+      "name": "Harmony Revival",
+      "type": "chorus",
+      "place": "31",
+      "tot_score": "988",
+      "pc_score": "54.9",
+      "director": "Jack Haslam",
+      "singers": "22",
+      "songs": [
+        {
+          "song": "After You've Gone",
+          "m": "166",
+          "p": "163",
+          "s": "163"
+        },
+        {
+          "song": "You Belong To Me",
+          "m": "170",
+          "p": "164",
+          "s": "162"
+        }
+      ]
+    },
+    {
+      "name": "Ocean Harmony",
+      "type": "chorus",
+      "place": "32",
+      "tot_score": "977",
+      "pc_score": "54.3",
+      "director": "Graham Frampton",
+      "singers": "17",
+      "songs": [
+        {
+          "song": "You Don't Know Me",
+          "m": "169",
+          "p": "160",
+          "s": "161"
+        },
+        {
+          "song": "Firefly",
+          "m": "168",
+          "p": "159",
+          "s": "160"
+        }
+      ]
+    },
+    {
+      "name": "The Pilgrimaires",
+      "type": "chorus",
+      "place": "33",
+      "tot_score": "920",
+      "pc_score": "51.1",
+      "director": "Delyth Knight",
+      "singers": "19",
+      "songs": [
+        {
+          "song": "Who'll Dry Your Tears",
+          "m": "157",
+          "p": "157",
+          "s": "160"
+        },
+        {
+          "song": "Crazy 'Bout You Baby",
+          "m": "143",
+          "p": "155",
+          "s": "148"
+        }
+      ]
+    },
+    {
+      "name": "Hereward Harmony",
+      "type": "chorus",
+      "place": "34",
+      "tot_score": "908",
+      "pc_score": "50.4",
+      "director": "Mike Sampson",
+      "singers": "15",
+      "songs": [
+        {
+          "song": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": "161",
+          "p": "155",
+          "s": "153"
+        },
+        {
+          "song": "For All We Know",
+          "m": "146",
+          "p": "145",
+          "s": "148"
+        }
+      ]
+    },
+    {
+      "name": "Northern Acchord",
+      "type": "chorus",
+      "place": "35",
+      "tot_score": "899",
+      "pc_score": "49.9",
+      "director": "Les McGhee",
+      "singers": "28",
+      "songs": [
+        {
+          "song": "From The First Hello To The Last Goodbye",
+          "m": "154",
+          "p": "150",
+          "s": "152"
+        },
+        {
+          "song": "Almost Like Being In Love",
+          "m": "147",
+          "p": "148",
+          "s": "148"
         }
       ]
     }

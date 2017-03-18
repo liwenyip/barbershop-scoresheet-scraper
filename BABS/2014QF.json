@@ -2,7 +2,233 @@
   "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
   "contest": "QUARTET FINAL (NATIONAL STREAM)  -  HARROGATE: 2013/2014",
   "date": "25/05/2014",
-  "contestants": [],
+  "contestants": [
+    {
+      "name": "Portobello Road",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "2764.0",
+      "pc_score": "76.8",
+      "singers": [
+        {
+          "name": "Ian James",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Schofield",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Emery",
+          "part": "bari"
+        },
+        {
+          "name": "Stuart Owen",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "What'll I Do",
+          "mus": "223",
+          "prs": "229",
+          "sng": "229"
+        },
+        {
+          "song": "Destination Moon",
+          "mus": "224",
+          "prs": "228",
+          "sng": "228"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "468.0",
+          "prs": "466.0",
+          "sng": "469.0"
+        }
+      ]
+    },
+    {
+      "name": "HomeSpun",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "2628.0",
+      "pc_score": "73.0",
+      "singers": [
+        {
+          "name": "James Williams",
+          "part": "tenor"
+        },
+        {
+          "name": "Eddie Williams",
+          "part": "lead"
+        },
+        {
+          "name": "Nick Williams",
+          "part": "bari"
+        },
+        {
+          "name": "Nigel Williams",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "All Aboard For Dixie Land",
+          "mus": "213",
+          "prs": "220",
+          "sng": "211"
+        },
+        {
+          "song": "Mona Lisa",
+          "mus": "220",
+          "prs": "220",
+          "sng": "212"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "446.0",
+          "prs": "449.0",
+          "sng": "437.0"
+        }
+      ]
+    },
+    {
+      "name": "Tagline",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "2625.0",
+      "pc_score": "72.9",
+      "singers": [
+        {
+          "name": "Ben Ferguson",
+          "part": "tenor"
+        },
+        {
+          "name": "James Gower-Smith",
+          "part": "lead"
+        },
+        {
+          "name": "Chris Langworthy",
+          "part": "bari"
+        },
+        {
+          "name": "Rob Foot",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "For Once In My Life",
+          "mus": "228",
+          "prs": "217",
+          "sng": "221"
+        },
+        {
+          "song": "Ain't That A Kick In The Head",
+          "mus": "221",
+          "prs": "215",
+          "sng": "218"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "444.0",
+          "prs": "425.0",
+          "sng": "436.0"
+        }
+      ]
+    },
+    {
+      "name": "QuarteTones",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "2601.0",
+      "pc_score": "72.3",
+      "singers": [
+        {
+          "name": "Graham Harper",
+          "part": "tenor"
+        },
+        {
+          "name": "Richard Gardner",
+          "part": "lead"
+        },
+        {
+          "name": "Alex du Bruin",
+          "part": "bari"
+        },
+        {
+          "name": "Iain Hallam",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Unsaid Things",
+          "mus": "219",
+          "prs": "215",
+          "sng": "216"
+        },
+        {
+          "song": "Too Much Love Will Kill You",
+          "mus": "212",
+          "prs": "218",
+          "sng": "208"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "441.0",
+          "prs": "442.0",
+          "sng": "430.0"
+        }
+      ]
+    },
+    {
+      "name": "eXceL",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "2542.0",
+      "pc_score": "70.6",
+      "singers": [
+        {
+          "name": "Simon Hunt",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy Salter",
+          "part": "lead"
+        },
+        {
+          "name": "Dave Whittle",
+          "part": "bari"
+        },
+        {
+          "name": "Jon Dawson",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Give Me A Barbershop Song",
+          "mus": "205",
+          "prs": "203",
+          "sng": "206"
+        },
+        {
+          "song": "That Old Quartet Of Mine",
+          "mus": "208",
+          "prs": "207",
+          "sng": "206"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "440.0",
+          "prs": "435.0",
+          "sng": "432.0"
+        }
+      ]
+    }
+  ],
   "judges": [
     {
       "cat": "m",

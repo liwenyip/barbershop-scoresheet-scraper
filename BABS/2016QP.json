@@ -199,6 +199,45 @@
       ]
     },
     {
+      "name": "Mic Drop",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "1307",
+      "pc_score": "72.6",
+      "singers": [
+        {
+          "name": "Laurence Hasson",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Fox",
+          "part": "lead"
+        },
+        {
+          "name": "James Whittick",
+          "part": "bari"
+        },
+        {
+          "name": "Sean Egan",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "219",
+          "prs": "214",
+          "sng": "222"
+        },
+        {
+          "song": "You Belong To Me",
+          "mus": "214",
+          "prs": "218",
+          "sng": "220"
+        }
+      ]
+    },
+    {
       "name": "Tonic",
       "type": "quartet",
       "place": "7",
@@ -624,6 +663,45 @@
           "mus": "200",
           "prs": "204",
           "sng": "201"
+        }
+      ]
+    },
+    {
+      "name": "INCLINE",
+      "type": "quartet",
+      "place": "18",
+      "tot_score": "1187",
+      "pc_score": "65.9",
+      "singers": [
+        {
+          "name": "Bob Devine",
+          "part": "tenor"
+        },
+        {
+          "name": "Jason Leonard",
+          "part": "lead"
+        },
+        {
+          "name": "Jonathan Beard",
+          "part": "bari"
+        },
+        {
+          "name": "Julian Pieters",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Darktown Strutters' Ball",
+          "mus": "200",
+          "prs": "201",
+          "sng": "191"
+        },
+        {
+          "song": "Mona Lisa",
+          "mus": "200",
+          "prs": "203",
+          "sng": "192"
         }
       ]
     },
@@ -1287,6 +1365,84 @@
           "mus": "158",
           "prs": "171",
           "sng": "168"
+        }
+      ]
+    },
+    {
+      "name": "Benner Benner Bari and Tenor",
+      "type": "quartet",
+      "place": "37",
+      "tot_score": "999",
+      "pc_score": "55.5",
+      "singers": [
+        {
+          "name": "Steve Norman",
+          "part": "tenor"
+        },
+        {
+          "name": "Damien Benner",
+          "part": "lead"
+        },
+        {
+          "name": "Tony Howson",
+          "part": "bari"
+        },
+        {
+          "name": "Matthew Benner",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "After You've Gone",
+          "mus": "164",
+          "prs": "167",
+          "sng": "172"
+        },
+        {
+          "song": "From The First Hello To The Last Goodbye",
+          "mus": "163",
+          "prs": "165",
+          "sng": "168"
+        }
+      ]
+    },
+    {
+      "name": "The Codebreakers",
+      "type": "quartet",
+      "place": "38",
+      "tot_score": "937",
+      "pc_score": "52.1",
+      "singers": [
+        {
+          "name": "Chris Marchant",
+          "part": "tenor"
+        },
+        {
+          "name": "Rick Barry",
+          "part": "lead"
+        },
+        {
+          "name": "Darren Morgan",
+          "part": "bari"
+        },
+        {
+          "name": "James Boyle",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "That's An Irish Lullaby",
+          "mus": "158",
+          "prs": "151",
+          "sng": "158"
+        },
+        {
+          "song": "Love Me",
+          "mus": "157",
+          "prs": "154",
+          "sng": "159"
         }
       ]
     }

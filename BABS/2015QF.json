@@ -2,7 +2,233 @@
   "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
   "contest": "QUARTET FINAL (NATIONAL STREAM)  -  LLANDUDNO: 2014/2015",
   "date": "24/05/2015",
-  "contestants": [],
+  "contestants": [
+    {
+      "name": "Tagline",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "2846.0",
+      "pc_score": "79.1",
+      "singers": [
+        {
+          "name": "Ben Ferguson",
+          "part": "tenor"
+        },
+        {
+          "name": "James Gower-Smith",
+          "part": "lead"
+        },
+        {
+          "name": "Chris Langworthy",
+          "part": "bari"
+        },
+        {
+          "name": "Rob Foot",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Nearness Of You",
+          "mus": "225",
+          "prs": "239",
+          "sng": "234"
+        },
+        {
+          "song": "Come Fly With Me",
+          "mus": "235",
+          "prs": "237",
+          "sng": "233"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "479.0",
+          "prs": "488.0",
+          "sng": "476.0"
+        }
+      ]
+    },
+    {
+      "name": "Portobello Road",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "2837.0",
+      "pc_score": "78.8",
+      "singers": [
+        {
+          "name": "Ian James",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Schofield",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Emery",
+          "part": "bari"
+        },
+        {
+          "name": "Stuart Owen",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Wouldn't It Be Lovely",
+          "mus": "240",
+          "prs": "237",
+          "sng": "230"
+        },
+        {
+          "song": "Mr. Success",
+          "mus": "240",
+          "prs": "239",
+          "sng": "228"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "483.0",
+          "prs": "479.0",
+          "sng": "461.0"
+        }
+      ]
+    },
+    {
+      "name": "Finest Hour",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "2828.0",
+      "pc_score": "78.6",
+      "singers": [
+        {
+          "name": "James Williams",
+          "part": "tenor"
+        },
+        {
+          "name": "Eddie Williams",
+          "part": "lead"
+        },
+        {
+          "name": "Nick Williams",
+          "part": "bari"
+        },
+        {
+          "name": "Phil Cuthbert",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I'll Be Seeing You",
+          "mus": "235",
+          "prs": "235",
+          "sng": "231"
+        },
+        {
+          "song": "Georgia May",
+          "mus": "242",
+          "prs": "242",
+          "sng": "230"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "472.0",
+          "prs": "472.0",
+          "sng": "469.0"
+        }
+      ]
+    },
+    {
+      "name": "Hustle",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "2642.0",
+      "pc_score": "73.4",
+      "singers": [
+        {
+          "name": "Neil Firth",
+          "part": "tenor"
+        },
+        {
+          "name": "Giovanni Arsciwals",
+          "part": "lead"
+        },
+        {
+          "name": "Scott Tatton",
+          "part": "bari"
+        },
+        {
+          "name": "Dale Thompson",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "On The Street Where You Live",
+          "mus": "217",
+          "prs": "225",
+          "sng": "216"
+        },
+        {
+          "song": "Fly Me To The Moon",
+          "mus": "215",
+          "prs": "224",
+          "sng": "217"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "440.0",
+          "prs": "454.0",
+          "sng": "434.0"
+        }
+      ]
+    },
+    {
+      "name": "Blueprint",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "2631.0",
+      "pc_score": "73.1",
+      "singers": [
+        {
+          "name": "Alex Edwards",
+          "part": "tenor"
+        },
+        {
+          "name": "Dave Brown",
+          "part": "lead"
+        },
+        {
+          "name": "Paul Grier",
+          "part": "bari"
+        },
+        {
+          "name": "Timm Barkworth",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Sweet Adeline",
+          "mus": "214",
+          "prs": "213",
+          "sng": "213"
+        },
+        {
+          "song": "Daydream Believer",
+          "mus": "221",
+          "prs": "213",
+          "sng": "214"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "461.0",
+          "prs": "432.0",
+          "sng": "450.0"
+        }
+      ]
+    }
+  ],
   "judges": [
     {
       "cat": "m",

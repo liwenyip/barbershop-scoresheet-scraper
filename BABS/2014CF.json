@@ -464,6 +464,29 @@
       ]
     },
     {
+      "name": "The Sussex Harmonisers",
+      "type": "chorus",
+      "place": "22",
+      "tot_score": "1128",
+      "pc_score": "62.7",
+      "director": "Zoe Peate",
+      "singers": "34",
+      "songs": [
+        {
+          "song": "If I Give My Heart To You",
+          "m": "189",
+          "p": "192",
+          "s": "190"
+        },
+        {
+          "song": "Rhythm Medley",
+          "m": "187",
+          "p": "186",
+          "s": "184"
+        }
+      ]
+    },
+    {
       "name": "5ways",
       "type": "chorus",
       "place": "23",
@@ -579,6 +602,29 @@
       ]
     },
     {
+      "name": "Fine City Chorus",
+      "type": "chorus",
+      "place": "29",
+      "tot_score": "1058",
+      "pc_score": "58.8",
+      "director": "Carol Logan",
+      "singers": "23",
+      "songs": [
+        {
+          "song": "If I Had My Way",
+          "m": "183",
+          "p": "179",
+          "s": "165"
+        },
+        {
+          "song": "I'm Beginning To See The Light",
+          "m": "184",
+          "p": "179",
+          "s": "168"
+        }
+      ]
+    },
+    {
       "name": "The Rivertones",
       "type": "chorus",
       "place": "31",
@@ -671,6 +717,29 @@
       ]
     },
     {
+      "name": "Ocean Harmony",
+      "type": "chorus",
+      "place": "36",
+      "tot_score": "1033",
+      "pc_score": "57.4",
+      "director": "Graham Frampton",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "If I Give My Heart To You",
+          "m": "175",
+          "p": "177",
+          "s": "170"
+        },
+        {
+          "song": "Consider Yourself",
+          "m": "173",
+          "p": "173",
+          "s": "165"
+        }
+      ]
+    },
+    {
       "name": "The Rolling Hills Chorus",
       "type": "chorus",
       "place": "37",
@@ -736,6 +805,144 @@
           "m": "170",
           "p": "168",
           "s": "156"
+        }
+      ]
+    },
+    {
+      "name": "Ouse Valley Chorus",
+      "type": "chorus",
+      "place": "40",
+      "tot_score": "982",
+      "pc_score": "54.6",
+      "director": "Paul Clay",
+      "singers": "12",
+      "songs": [
+        {
+          "song": "It's Only A Paper Moon",
+          "m": "170",
+          "p": "163",
+          "s": "169"
+        },
+        {
+          "song": "You Don't Know Me",
+          "m": "165",
+          "p": "164",
+          "s": "151"
+        }
+      ]
+    },
+    {
+      "name": "Northern Acchord",
+      "type": "chorus",
+      "place": "41",
+      "tot_score": "977",
+      "pc_score": "54.3",
+      "director": "Les McGhee",
+      "singers": "27",
+      "songs": [
+        {
+          "song": "Old St. Louis",
+          "m": "164",
+          "p": "161",
+          "s": "160"
+        },
+        {
+          "song": "With A Wink And A Smile",
+          "m": "166",
+          "p": "163",
+          "s": "163"
+        }
+      ]
+    },
+    {
+      "name": "Harmony Revival",
+      "type": "chorus",
+      "place": "42",
+      "tot_score": "968",
+      "pc_score": "53.8",
+      "director": "Sue Ward",
+      "singers": "22",
+      "songs": [
+        {
+          "song": "Bare Necessities",
+          "m": "166",
+          "p": "160",
+          "s": "157"
+        },
+        {
+          "song": "Give Me A Barbershop Song",
+          "m": "163",
+          "p": "162",
+          "s": "160"
+        }
+      ]
+    },
+    {
+      "name": "Hereward Harmony",
+      "type": "chorus",
+      "place": "43",
+      "tot_score": "959",
+      "pc_score": "53.3",
+      "director": "Mike Sampson",
+      "singers": "19",
+      "songs": [
+        {
+          "song": "Let The Rest Of The World Go By",
+          "m": "166",
+          "p": "165",
+          "s": "156"
+        },
+        {
+          "song": "I'm Sitting On Top Of The World",
+          "m": "161",
+          "p": "162",
+          "s": "149"
+        }
+      ]
+    },
+    {
+      "name": "The Downsmen",
+      "type": "chorus",
+      "place": "45",
+      "tot_score": "2956",
+      "pc_score": "53.1",
+      "director": "Lisa Robathan",
+      "singers": "23",
+      "songs": [
+        {
+          "song": "When Somebody Loves Me",
+          "m": "165",
+          "p": "163",
+          "s": "159"
+        },
+        {
+          "song": "Liar Medley",
+          "m": "160",
+          "p": "158",
+          "s": "151"
+        }
+      ]
+    },
+    {
+      "name": "Derby A Cappella",
+      "type": "chorus",
+      "place": "46",
+      "tot_score": "896",
+      "pc_score": "49.8",
+      "director": "Andy Petch",
+      "singers": "18",
+      "songs": [
+        {
+          "song": "Love's Old Sweet Song",
+          "m": "151",
+          "p": "153",
+          "s": "149"
+        },
+        {
+          "song": "I'm Looking Over A Four Leaf Clover",
+          "m": "146",
+          "p": "156",
+          "s": "141"
         }
       ]
     }

@@ -977,6 +977,123 @@
           "sng": "174"
         }
       ]
+    },
+    {
+      "name": "Four Shades Of Grey",
+      "type": "quartet",
+      "place": "27",
+      "tot_score": "994",
+      "pc_score": "55.2",
+      "singers": [
+        {
+          "name": "Barclay Marshall",
+          "part": "tenor"
+        },
+        {
+          "name": "Graham Lake",
+          "part": "lead"
+        },
+        {
+          "name": "Richard Barley",
+          "part": "bari"
+        },
+        {
+          "name": "Ken Miles",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "When You Wore A Tulip",
+          "mus": "172",
+          "prs": "165",
+          "sng": "168"
+        },
+        {
+          "song": "Sweet Georgia Brown",
+          "mus": "168",
+          "prs": "162",
+          "sng": "159"
+        }
+      ]
+    },
+    {
+      "name": "Cabin Crew",
+      "type": "quartet",
+      "place": "28",
+      "tot_score": "986",
+      "pc_score": "54.8",
+      "singers": [
+        {
+          "name": "John Dunning",
+          "part": "tenor"
+        },
+        {
+          "name": "Dudley Stone",
+          "part": "lead"
+        },
+        {
+          "name": "Jason Foxwell",
+          "part": "bari"
+        },
+        {
+          "name": "Hugh Sainsbury",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "168",
+          "prs": "166",
+          "sng": "166"
+        },
+        {
+          "song": "For Sale, One Broken Heart",
+          "mus": "163",
+          "prs": "162",
+          "sng": "161"
+        }
+      ]
+    },
+    {
+      "name": "Jack The Cat",
+      "type": "quartet",
+      "place": "29",
+      "tot_score": "931",
+      "pc_score": "51.7",
+      "singers": [
+        {
+          "name": "Colin Howart",
+          "part": "tenor"
+        },
+        {
+          "name": "Walter Dods",
+          "part": "lead"
+        },
+        {
+          "name": "Geoff Stockham",
+          "part": "bari"
+        },
+        {
+          "name": "Dougie Brown",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "After You've Gone",
+          "mus": "162",
+          "prs": "150",
+          "sng": "155"
+        },
+        {
+          "song": "Lover Come Back",
+          "mus": "165",
+          "prs": "147",
+          "sng": "152"
+        }
+      ]
     }
   ],
   "judges": [
