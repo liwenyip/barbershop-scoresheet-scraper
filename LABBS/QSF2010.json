@@ -1,0 +1,732 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET SEMI-FINALS-LLANDUDNO: 2010",
+  "date": "29/10/2010",
+  "contestants": [
+    {
+      "name": "Miss-Demeanour",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "1326",
+      "pc_score": "73.7",
+      "singers": [
+        {
+          "name": "Sarah Foster",
+          "part": "tenor"
+        },
+        {
+          "name": "Suzanne Mansfield",
+          "part": "lead"
+        },
+        {
+          "name": "Amelia Charnock",
+          "part": "bari"
+        },
+        {
+          "name": "Sarah Cole",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "At Last",
+          "mus": "220",
+          "prs": "220",
+          "sng": "219"
+        },
+        {
+          "song": "Don't Break The Heart That Loves You",
+          "mus": "225",
+          "prs": "222",
+          "sng": "220"
+        }
+      ]
+    },
+    {
+      "name": "Temptation",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "1226",
+      "pc_score": "68.1",
+      "singers": [
+        {
+          "name": "Lucy Edmonds",
+          "part": "tenor"
+        },
+        {
+          "name": "Jean Lord",
+          "part": "lead"
+        },
+        {
+          "name": "Marisa O'Connor",
+          "part": "bari"
+        },
+        {
+          "name": "Kat Male",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Me",
+          "mus": "206",
+          "prs": "199",
+          "sng": "206"
+        },
+        {
+          "song": "How About Me?",
+          "mus": "207",
+          "prs": "202",
+          "sng": "206"
+        }
+      ]
+    },
+    {
+      "name": "Bowled Over",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "1214",
+      "pc_score": "67.4",
+      "singers": [
+        {
+          "name": "Joanne Lea",
+          "part": "tenor"
+        },
+        {
+          "name": "Lindsey Kendall",
+          "part": "lead"
+        },
+        {
+          "name": "Karen Lewis",
+          "part": "bari"
+        },
+        {
+          "name": "Elaine Kendall",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Ya Gotta Know How To Love / I Can't Give You Anything But Love",
+          "mus": "204",
+          "prs": "212",
+          "sng": "199"
+        },
+        {
+          "song": "If I Give My Heart To You",
+          "mus": "197",
+          "prs": "207",
+          "sng": "195"
+        }
+      ]
+    },
+    {
+      "name": "LipSync",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "1204",
+      "pc_score": "66.9",
+      "singers": [
+        {
+          "name": "Karen Campbell",
+          "part": "tenor"
+        },
+        {
+          "name": "Andrea Day",
+          "part": "lead"
+        },
+        {
+          "name": "Lisa Berry",
+          "part": "bari"
+        },
+        {
+          "name": "Brenda Mansfield",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Taking A Chance On Love",
+          "mus": "200",
+          "prs": "200",
+          "sng": "200"
+        },
+        {
+          "song": "If I Love Again",
+          "mus": "196",
+          "prs": "203",
+          "sng": "205"
+        }
+      ]
+    },
+    {
+      "name": "Northern Vibe",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "1203",
+      "pc_score": "66.8",
+      "singers": [
+        {
+          "name": "Emma McManus",
+          "part": "tenor"
+        },
+        {
+          "name": "Katy Phillips",
+          "part": "lead"
+        },
+        {
+          "name": "Teresa Thackeray",
+          "part": "bari"
+        },
+        {
+          "name": "Susan Ould",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "All The Way",
+          "mus": "201",
+          "prs": "196",
+          "sng": "204"
+        },
+        {
+          "song": "Flying Sinatra Medley",
+          "mus": "205",
+          "prs": "196",
+          "sng": "201"
+        }
+      ]
+    },
+    {
+      "name": "Wavelength",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "1182",
+      "pc_score": "65.7",
+      "singers": [
+        {
+          "name": "Sarah Hooker",
+          "part": "tenor"
+        },
+        {
+          "name": "Justine Nye",
+          "part": "lead"
+        },
+        {
+          "name": "Antonia Hancocks",
+          "part": "bari"
+        },
+        {
+          "name": "Rae Miller",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Me",
+          "mus": "193",
+          "prs": "203",
+          "sng": "200"
+        },
+        {
+          "song": "Good Luck Charm",
+          "mus": "187",
+          "prs": "199",
+          "sng": "200"
+        }
+      ]
+    },
+    {
+      "name": "Jiggle",
+      "type": "quartet",
+      "place": "7",
+      "tot_score": "1175",
+      "pc_score": "65.3",
+      "singers": [
+        {
+          "name": "Michelle Jeffries",
+          "part": "tenor"
+        },
+        {
+          "name": "Kate Sullivan",
+          "part": "lead"
+        },
+        {
+          "name": "Elaine Mobsby",
+          "part": "bari"
+        },
+        {
+          "name": "Mandy Gilliland",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Me, And The World Is Mine",
+          "mus": "193",
+          "prs": "200",
+          "sng": "198"
+        },
+        {
+          "song": "Love Me",
+          "mus": "193",
+          "prs": "194",
+          "sng": "197"
+        }
+      ]
+    },
+    {
+      "name": "Overboard",
+      "type": "quartet",
+      "place": "8",
+      "tot_score": "1130",
+      "pc_score": "62.8",
+      "singers": [
+        {
+          "name": "Vickie China",
+          "part": "tenor"
+        },
+        {
+          "name": "Alison Thompson",
+          "part": "lead"
+        },
+        {
+          "name": "Kate Goddard",
+          "part": "bari"
+        },
+        {
+          "name": "Carol Logan",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "If You Love Me Really Love Me",
+          "mus": "190",
+          "prs": "186",
+          "sng": "186"
+        },
+        {
+          "song": "Jeepers Creepers",
+          "mus": "193",
+          "prs": "187",
+          "sng": "188"
+        }
+      ]
+    },
+    {
+      "name": "Dilemma",
+      "type": "quartet",
+      "place": "9",
+      "tot_score": "1113",
+      "pc_score": "61.8",
+      "singers": [
+        {
+          "name": "Dot Cook",
+          "part": "tenor"
+        },
+        {
+          "name": "Lesley Beswick",
+          "part": "lead"
+        },
+        {
+          "name": "Emma Richardson",
+          "part": "bari"
+        },
+        {
+          "name": "Brenda Roberts",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You Turned The Tables On Me",
+          "mus": "184",
+          "prs": "184",
+          "sng": "184"
+        },
+        {
+          "song": "If You Love Me Really Love Me",
+          "mus": "185",
+          "prs": "188",
+          "sng": "188"
+        }
+      ]
+    },
+    {
+      "name": "B4 Time",
+      "type": "quartet",
+      "place": "10",
+      "tot_score": "1064",
+      "pc_score": "59.1",
+      "singers": [
+        {
+          "name": "Sharon King",
+          "part": "tenor"
+        },
+        {
+          "name": "Joanne Green",
+          "part": "lead"
+        },
+        {
+          "name": "Lynda Green",
+          "part": "bari"
+        },
+        {
+          "name": "Sue Engledow",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "All The Way",
+          "mus": "174",
+          "prs": "169",
+          "sng": "185"
+        },
+        {
+          "song": "I've Been Waiting For Your Phone Call",
+          "mus": "177",
+          "prs": "180",
+          "sng": "179"
+        }
+      ]
+    },
+    {
+      "name": "Island Edition",
+      "type": "quartet",
+      "place": "11",
+      "tot_score": "1021",
+      "pc_score": "56.7",
+      "singers": [
+        {
+          "name": "Anita Sides",
+          "part": "tenor"
+        },
+        {
+          "name": "Christine Sloper",
+          "part": "lead"
+        },
+        {
+          "name": "Shirley Denne",
+          "part": "bari"
+        },
+        {
+          "name": "Jenny Cordery-Jones",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "In The Wee Small Hours Of The Morning",
+          "mus": "173",
+          "prs": "162",
+          "sng": "168"
+        },
+        {
+          "song": "Taking A Chance On Love",
+          "mus": "181",
+          "prs": "169",
+          "sng": "168"
+        }
+      ]
+    },
+    {
+      "name": "TECHnique",
+      "type": "quartet",
+      "place": "12",
+      "tot_score": "1009",
+      "pc_score": "56.1",
+      "singers": [
+        {
+          "name": "Helen Jones",
+          "part": "tenor"
+        },
+        {
+          "name": "Chris Ryan",
+          "part": "lead"
+        },
+        {
+          "name": "Elaine Lowe",
+          "part": "bari"
+        },
+        {
+          "name": "Teresa Phillips",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "It Had To Be You",
+          "mus": "175",
+          "prs": "156",
+          "sng": "165"
+        },
+        {
+          "song": "After You've Gone",
+          "mus": "189",
+          "prs": "161",
+          "sng": "163"
+        }
+      ]
+    },
+    {
+      "name": "Quizzical",
+      "type": "quartet",
+      "place": "13",
+      "tot_score": "996",
+      "pc_score": "55.3",
+      "singers": [
+        {
+          "name": "Sally Stephenson",
+          "part": "tenor"
+        },
+        {
+          "name": "Mandy Miller",
+          "part": "lead"
+        },
+        {
+          "name": "Linda Blackett",
+          "part": "bari"
+        },
+        {
+          "name": "Maxine Udale",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "'Deed I Do Medley",
+          "mus": "167",
+          "prs": "164",
+          "sng": "165"
+        },
+        {
+          "song": "Goodbye Medley",
+          "mus": "164",
+          "prs": "172",
+          "sng": "164"
+        }
+      ]
+    },
+    {
+      "name": "Chordination",
+      "type": "quartet",
+      "place": "14",
+      "tot_score": "979",
+      "pc_score": "54.4",
+      "singers": [
+        {
+          "name": "Tina Ruggles",
+          "part": "tenor"
+        },
+        {
+          "name": "Hannah Washington",
+          "part": "lead"
+        },
+        {
+          "name": "Maria Crane",
+          "part": "bari"
+        },
+        {
+          "name": "Debbie Gale",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Old Cape Cod",
+          "mus": "161",
+          "prs": "160",
+          "sng": "165"
+        },
+        {
+          "song": "That's Life",
+          "mus": "165",
+          "prs": "162",
+          "sng": "166"
+        }
+      ]
+    },
+    {
+      "name": "Scarlet Moon",
+      "type": "quartet",
+      "place": "15",
+      "tot_score": "969",
+      "pc_score": "53.8",
+      "singers": [
+        {
+          "name": "Kate Scarle",
+          "part": "tenor"
+        },
+        {
+          "name": "Victoria Smith",
+          "part": "lead"
+        },
+        {
+          "name": "Dianne Steele",
+          "part": "bari"
+        },
+        {
+          "name": "Angi Rix",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Don't Sit Under The Apple Tree",
+          "mus": "161",
+          "prs": "161",
+          "sng": "161"
+        },
+        {
+          "song": "Don't Cry Little Girl, Don't Cry",
+          "mus": "160",
+          "prs": "164",
+          "sng": "162"
+        }
+      ]
+    },
+    {
+      "name": "Sounds Blended",
+      "type": "quartet",
+      "place": "16",
+      "tot_score": "937",
+      "pc_score": "52.1",
+      "singers": [
+        {
+          "name": "Sam Miles",
+          "part": "tenor"
+        },
+        {
+          "name": "Cathrine Large",
+          "part": "lead"
+        },
+        {
+          "name": "MaryAnne Beames",
+          "part": "bari"
+        },
+        {
+          "name": "Linda Longhurst",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Dream A Little Dream Of Me",
+          "mus": "163",
+          "prs": "150",
+          "sng": "156"
+        },
+        {
+          "song": "Orange Coloured Sky",
+          "mus": "160",
+          "prs": "150",
+          "sng": "158"
+        }
+      ]
+    },
+    {
+      "name": "In Fashion",
+      "type": "quartet",
+      "place": "17",
+      "tot_score": "933",
+      "pc_score": "51.8",
+      "singers": [
+        {
+          "name": "Julie Bugler",
+          "part": "tenor"
+        },
+        {
+          "name": "Janis Smith",
+          "part": "lead"
+        },
+        {
+          "name": "Deborah Griffiths",
+          "part": "bari"
+        },
+        {
+          "name": "Kathryn Turton",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Drivin' Me Crazy",
+          "mus": "152",
+          "prs": "153",
+          "sng": "157"
+        },
+        {
+          "song": "Heart Of My Heart",
+          "mus": "153",
+          "prs": "159",
+          "sng": "159"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Debi Cox"
+    },
+    {
+      "cat": "mus",
+      "name": "Delyth Knight"
+    },
+    {
+      "cat": "mus",
+      "name": "Joyce Stroud"
+    },
+    {
+      "cat": "prs",
+      "name": "Linda de Jong"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "prs",
+      "name": "Alison Zdzylowski"
+    },
+    {
+      "cat": "sng",
+      "name": "Monica Funnell"
+    },
+    {
+      "cat": "sng",
+      "name": "Nancy Kelsall"
+    },
+    {
+      "cat": "sng",
+      "name": "Paula Taylor-Williams"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Hari Birtles"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    }
+  ]
+}

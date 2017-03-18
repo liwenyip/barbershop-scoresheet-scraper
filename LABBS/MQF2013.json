@@ -1,0 +1,412 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "MIXED QUARTET FINALS-LLANDUDNO: 2013",
+  "date": "27/10/2013",
+  "contestants": [
+    {
+      "name": "Patchwork",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "861",
+      "pc_score": "71.8",
+      "singers": [
+        {
+          "name": "Helen Warner",
+          "part": "tenor"
+        },
+        {
+          "name": "Alastair Hay-Plumb",
+          "part": "lead"
+        },
+        {
+          "name": "James Whittick",
+          "part": "bari"
+        },
+        {
+          "name": "Sean Egan",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You Belong To Me",
+          "mus": "151",
+          "prs": "143",
+          "sng": "142"
+        },
+        {
+          "song": "Georgia May",
+          "mus": "142",
+          "prs": "144",
+          "sng": "139"
+        }
+      ]
+    },
+    {
+      "name": "Jigsaw",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "845",
+      "pc_score": "70.4",
+      "singers": [
+        {
+          "name": "Ali Jack",
+          "part": "tenor"
+        },
+        {
+          "name": "Keith Rees",
+          "part": "lead"
+        },
+        {
+          "name": "Donna Rees",
+          "part": "bari"
+        },
+        {
+          "name": "Pete Nugent",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "My Foolish Heart",
+          "mus": "145",
+          "prs": "140",
+          "sng": "137"
+        },
+        {
+          "song": "The Way You Look Tonight",
+          "mus": "145",
+          "prs": "143",
+          "sng": "135"
+        }
+      ]
+    },
+    {
+      "name": "K4",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "807",
+      "pc_score": "67.3",
+      "singers": [
+        {
+          "name": "Delyth Knight",
+          "part": "tenor"
+        },
+        {
+          "name": "Dick Knight",
+          "part": "lead"
+        },
+        {
+          "name": "Joe Knight",
+          "part": "bari"
+        },
+        {
+          "name": "Tom Knight",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Me",
+          "mus": "145",
+          "prs": "132",
+          "sng": "132"
+        },
+        {
+          "song": "Where The Southern Roses Grow",
+          "mus": "139",
+          "prs": "131",
+          "sng": "128"
+        }
+      ]
+    },
+    {
+      "name": "Rhythmix",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "796",
+      "pc_score": "66.3",
+      "singers": [
+        {
+          "name": "Cherie Morgan",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Shaw",
+          "part": "lead"
+        },
+        {
+          "name": "Helen Lappert",
+          "part": "bari"
+        },
+        {
+          "name": "Keith Hirst",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Party's Over",
+          "mus": "132",
+          "prs": "133",
+          "sng": "132"
+        },
+        {
+          "song": "Bare Necessities",
+          "mus": "138",
+          "prs": "135",
+          "sng": "126"
+        }
+      ]
+    },
+    {
+      "name": "Post IT Notes",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "779",
+      "pc_score": "64.9",
+      "singers": [
+        {
+          "name": "Alison Soutar",
+          "part": "tenor"
+        },
+        {
+          "name": "Jeanette Yuile",
+          "part": "lead"
+        },
+        {
+          "name": "Brian Leel",
+          "part": "bari"
+        },
+        {
+          "name": "Colin Reid",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Young And Foolish",
+          "mus": "128",
+          "prs": "126",
+          "sng": "137"
+        },
+        {
+          "song": "Taking A Chance On Love",
+          "mus": "124",
+          "prs": "130",
+          "sng": "134"
+        }
+      ]
+    },
+    {
+      "name": "Blarney Tones",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "773",
+      "pc_score": "64.4",
+      "singers": [
+        {
+          "name": "Emma McManus",
+          "part": "tenor"
+        },
+        {
+          "name": "Katy Phillips",
+          "part": "lead"
+        },
+        {
+          "name": "Teresa Phillips",
+          "part": "bari"
+        },
+        {
+          "name": "Eamon Phillips",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "That's An Irish Lullaby",
+          "mus": "124",
+          "prs": "127",
+          "sng": "128"
+        },
+        {
+          "song": "You Make Me Feel So Young",
+          "mus": "133",
+          "prs": "133",
+          "sng": "128"
+        }
+      ]
+    },
+    {
+      "name": "4 Kandles",
+      "type": "quartet",
+      "place": "7",
+      "tot_score": "764",
+      "pc_score": "63.7",
+      "singers": [
+        {
+          "name": "Sarah Hooker",
+          "part": "tenor"
+        },
+        {
+          "name": "Justine Nye",
+          "part": "lead"
+        },
+        {
+          "name": "Rose Hopkinson",
+          "part": "bari"
+        },
+        {
+          "name": "Jerry Cadge",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Since I Don't Have You",
+          "mus": "130",
+          "prs": "128",
+          "sng": "130"
+        },
+        {
+          "song": "Good Luck Charm",
+          "mus": "121",
+          "prs": "128",
+          "sng": "127"
+        }
+      ]
+    },
+    {
+      "name": "Fusion",
+      "type": "quartet",
+      "place": "8",
+      "tot_score": "752",
+      "pc_score": "62.7",
+      "singers": [
+        {
+          "name": "Louise Jourdan",
+          "part": "tenor"
+        },
+        {
+          "name": "Caroline Clarke",
+          "part": "lead"
+        },
+        {
+          "name": "Cly Wallace",
+          "part": "bari"
+        },
+        {
+          "name": "Andrew Edgley",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Bare Necessities",
+          "mus": "122",
+          "prs": "122",
+          "sng": "124"
+        },
+        {
+          "song": "Ain't Misbehavin'",
+          "mus": "127",
+          "prs": "128",
+          "sng": "129"
+        }
+      ]
+    },
+    {
+      "name": "Chill",
+      "type": "quartet",
+      "place": "9",
+      "tot_score": "721",
+      "pc_score": "60.1",
+      "singers": [
+        {
+          "name": "Una Woodhead",
+          "part": "tenor"
+        },
+        {
+          "name": "Janette Smith",
+          "part": "lead"
+        },
+        {
+          "name": "Mike Coumans",
+          "part": "bari"
+        },
+        {
+          "name": "Bill Cheyne",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Nevertheless",
+          "mus": "119",
+          "prs": "121",
+          "sng": "120"
+        },
+        {
+          "song": "It's Only A Paper Moon",
+          "mus": "122",
+          "prs": "121",
+          "sng": "118"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "mus",
+      "name": "Liz Garnett"
+    },
+    {
+      "cat": "prs",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "sng",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "sng",
+      "name": "Alison Thompson"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Nancy Philbin"
+    }
+  ]
+}

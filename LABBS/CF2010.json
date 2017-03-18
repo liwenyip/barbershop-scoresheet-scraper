@@ -1,0 +1,690 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL CHORUS FINALS-LLANDUDNO: 2010",
+  "date": "30/10/2010",
+  "contestants": [
+    {
+      "name": "Amersham A Cappella",
+      "type": "chorus",
+      "place": "1",
+      "tot_score": "1348",
+      "pc_score": "74.9",
+      "director": "Helen Lappert",
+      "singers": "51",
+      "songs": [
+        {
+          "song": "Ain't Misbehavin'",
+          "mus": "223",
+          "prs": "225",
+          "sng": "226"
+        },
+        {
+          "song": "The Joint Is Jumpin'",
+          "mus": "221",
+          "prs": "227",
+          "sng": "226"
+        }
+      ]
+    },
+    {
+      "name": "Signature",
+      "type": "chorus",
+      "place": "2",
+      "tot_score": "1346",
+      "pc_score": "74.8",
+      "director": "Paul Jeanes",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "Come Dance With Me",
+          "mus": "222",
+          "prs": "225",
+          "sng": "219"
+        },
+        {
+          "song": "Only You",
+          "mus": "228",
+          "prs": "225",
+          "sng": "227"
+        }
+      ]
+    },
+    {
+      "name": "Green Street Blues",
+      "type": "chorus",
+      "place": "3",
+      "tot_score": "1335",
+      "pc_score": "74.2",
+      "director": "Peter Kennedy",
+      "singers": "31",
+      "songs": [
+        {
+          "song": "What Kind Of Fool Am I?",
+          "mus": "221",
+          "prs": "224",
+          "sng": "224"
+        },
+        {
+          "song": "Straighten Up And Fly Right",
+          "mus": "224",
+          "prs": "222",
+          "sng": "220"
+        }
+      ]
+    },
+    {
+      "name": "Second City Sound",
+      "type": "chorus",
+      "place": "4",
+      "tot_score": "1289",
+      "pc_score": "71.6",
+      "director": "Rod Butcher",
+      "singers": "43",
+      "songs": [
+        {
+          "song": "It's You",
+          "mus": "217",
+          "prs": "212",
+          "sng": "216"
+        },
+        {
+          "song": "I Want You, I Need You, I Love You",
+          "mus": "216",
+          "prs": "212",
+          "sng": "216"
+        }
+      ]
+    },
+    {
+      "name": "Capital Connection",
+      "type": "chorus",
+      "place": "5",
+      "tot_score": "1287",
+      "pc_score": "71.5",
+      "director": "Debi Cox",
+      "singers": "33",
+      "songs": [
+        {
+          "song": "At Last",
+          "mus": "211",
+          "prs": "206",
+          "sng": "220"
+        },
+        {
+          "song": "Time After Time",
+          "mus": "218",
+          "prs": "213",
+          "sng": "219"
+        }
+      ]
+    },
+    {
+      "name": "Belles Of Three Spires",
+      "type": "chorus",
+      "place": "6",
+      "tot_score": "1279",
+      "pc_score": "71.1",
+      "director": "Timm Barkworth",
+      "singers": "54",
+      "songs": [
+        {
+          "song": "I Never Meant To Fall In Love",
+          "mus": "211",
+          "prs": "211",
+          "sng": "220"
+        },
+        {
+          "song": "Come Fly With Me",
+          "mus": "211",
+          "prs": "210",
+          "sng": "216"
+        }
+      ]
+    },
+    {
+      "name": "Crystal Chords",
+      "type": "chorus",
+      "place": "7",
+      "tot_score": "1229",
+      "pc_score": "68.3",
+      "director": "Monica Funnell",
+      "singers": "50",
+      "songs": [
+        {
+          "song": "The Way You Look Tonight",
+          "mus": "201",
+          "prs": "200",
+          "sng": "212"
+        },
+        {
+          "song": "The Nearness Of You",
+          "mus": "201",
+          "prs": "197",
+          "sng": "218"
+        }
+      ]
+    },
+    {
+      "name": "Red Rosettes",
+      "type": "chorus",
+      "place": "8",
+      "tot_score": "1191",
+      "pc_score": "66.2",
+      "director": "Katy Phillips",
+      "singers": "45",
+      "songs": [
+        {
+          "song": "I Never Meant To Fall In Love",
+          "mus": "195",
+          "prs": "191",
+          "sng": "213"
+        },
+        {
+          "song": "I Can't Give You Anything But Love / I've Gotta Feeling I'm Falling",
+          "mus": "193",
+          "prs": "194",
+          "sng": "205"
+        }
+      ]
+    },
+    {
+      "name": "Silver Lining",
+      "type": "chorus",
+      "place": "9",
+      "tot_score": "1187",
+      "pc_score": "65.9",
+      "director": "Sara Jackson",
+      "singers": "36",
+      "songs": [
+        {
+          "song": "How Do You Like Your Eggs In The Morning?",
+          "mus": "194",
+          "prs": "196",
+          "sng": "201"
+        },
+        {
+          "song": "Lover Come Back To Me",
+          "mus": "196",
+          "prs": "198",
+          "sng": "202"
+        }
+      ]
+    },
+    {
+      "name": "Wessex Harmony",
+      "type": "chorus",
+      "place": "10",
+      "tot_score": "1172",
+      "pc_score": "65.1",
+      "director": "Franz Atkinson",
+      "singers": "41",
+      "songs": [
+        {
+          "song": "There Goes My Heart",
+          "mus": "194",
+          "prs": "196",
+          "sng": "196"
+        },
+        {
+          "song": "Redhead",
+          "mus": "192",
+          "prs": "200",
+          "sng": "194"
+        }
+      ]
+    },
+    {
+      "name": "Fascinating Rhythm",
+      "type": "chorus",
+      "place": "11",
+      "tot_score": "1165",
+      "pc_score": "64.7",
+      "director": "Jo Dean",
+      "singers": "35",
+      "songs": [
+        {
+          "song": "Flying Sinatra Medley",
+          "mus": "190",
+          "prs": "189",
+          "sng": "199"
+        },
+        {
+          "song": "How Deep Is The Ocean?",
+          "mus": "191",
+          "prs": "194",
+          "sng": "202"
+        }
+      ]
+    },
+    {
+      "name": "Bristol Fashion",
+      "type": "chorus",
+      "place": "12",
+      "tot_score": "1159",
+      "pc_score": "64.4",
+      "director": "Craig Kehoe",
+      "singers": "43",
+      "songs": [
+        {
+          "song": "Taking A Chance On Love",
+          "mus": "189",
+          "prs": "189",
+          "sng": "191"
+        },
+        {
+          "song": "Time After Time",
+          "mus": "194",
+          "prs": "199",
+          "sng": "197"
+        }
+      ]
+    },
+    {
+      "name": "Mountain Harmony",
+      "type": "chorus",
+      "place": "13",
+      "tot_score": "1134",
+      "pc_score": "63.0",
+      "director": "Derek Hollis",
+      "singers": "48",
+      "songs": [
+        {
+          "song": "There Goes My Heart",
+          "mus": "187",
+          "prs": "184",
+          "sng": "197"
+        },
+        {
+          "song": "Love Me",
+          "mus": "182",
+          "prs": "187",
+          "sng": "197"
+        }
+      ]
+    },
+    {
+      "name": "Pennine Chimes",
+      "type": "chorus",
+      "place": "14",
+      "tot_score": "1128",
+      "pc_score": "62.7",
+      "director": "Pauline Corrieri",
+      "singers": "28",
+      "songs": [
+        {
+          "song": "Fly Me To The Moon",
+          "mus": "191",
+          "prs": "177",
+          "sng": "190"
+        },
+        {
+          "song": "Side By Side",
+          "mus": "197",
+          "prs": "179",
+          "sng": "194"
+        }
+      ]
+    },
+    {
+      "name": "The Chordettes",
+      "type": "chorus",
+      "place": "15",
+      "tot_score": "1084",
+      "pc_score": "60.2",
+      "director": "Peter Nugent",
+      "singers": "28",
+      "songs": [
+        {
+          "song": "Fit As A Fiddle",
+          "mus": "182",
+          "prs": "177",
+          "sng": "191"
+        },
+        {
+          "song": "A Nightingale Sang In Berkeley Square",
+          "mus": "170",
+          "prs": "174",
+          "sng": "190"
+        }
+      ]
+    },
+    {
+      "name": "Avon Harmony",
+      "type": "chorus",
+      "place": "16",
+      "tot_score": "1081",
+      "pc_score": "60.1",
+      "director": "Caroline Bamford",
+      "singers": "27",
+      "songs": [
+        {
+          "song": "Red Hot",
+          "mus": "180",
+          "prs": "177",
+          "sng": "178"
+        },
+        {
+          "song": "Lover Come Back To Me",
+          "mus": "183",
+          "prs": "183",
+          "sng": "180"
+        }
+      ]
+    },
+    {
+      "name": "Norwich Harmony",
+      "type": "chorus",
+      "place": "17",
+      "tot_score": "1072",
+      "pc_score": "59.6",
+      "director": "Carol Logan",
+      "singers": "31",
+      "songs": [
+        {
+          "song": "I'd Give A Million Tomorrows",
+          "mus": "181",
+          "prs": "174",
+          "sng": "182"
+        },
+        {
+          "song": "Lucky Day / I'm Sitting On Top Of The World Medley",
+          "mus": "179",
+          "prs": "177",
+          "sng": "179"
+        }
+      ]
+    },
+    {
+      "name": "Colne Harmony",
+      "type": "chorus",
+      "place": "18",
+      "tot_score": "1044",
+      "pc_score": "58.0",
+      "director": "Maxine Udale",
+      "singers": "32",
+      "songs": [
+        {
+          "song": "Love Me",
+          "mus": "179",
+          "prs": "169",
+          "sng": "178"
+        },
+        {
+          "song": "My Baby Just Cares For Me",
+          "mus": "172",
+          "prs": "169",
+          "sng": "177"
+        }
+      ]
+    },
+    {
+      "name": "Brunel Harmony",
+      "type": "chorus",
+      "place": "19",
+      "tot_score": "1037",
+      "pc_score": "57.6",
+      "director": "Delyth Knight",
+      "singers": "28",
+      "songs": [
+        {
+          "song": "A Nightingale Sang In Berkeley Square",
+          "mus": "174",
+          "prs": "170",
+          "sng": "171"
+        },
+        {
+          "song": "'Deed I Do / Put Your Arms Around Me Honey Medley",
+          "mus": "171",
+          "prs": "176",
+          "sng": "175"
+        }
+      ]
+    },
+    {
+      "name": "River City",
+      "type": "chorus",
+      "place": "20",
+      "tot_score": "1036",
+      "pc_score": "57.6",
+      "director": "Valerie Harvey",
+      "singers": "27",
+      "songs": [
+        {
+          "song": "A Room With A View",
+          "mus": "169",
+          "prs": "176",
+          "sng": "172"
+        },
+        {
+          "song": "If You Love Me Really Love Me",
+          "mus": "170",
+          "prs": "179",
+          "sng": "170"
+        }
+      ]
+    },
+    {
+      "name": "Mersey Harmony",
+      "type": "chorus",
+      "place": "21",
+      "tot_score": "1015",
+      "pc_score": "56.4",
+      "director": "Lesley Crawford",
+      "singers": "41",
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "170",
+          "prs": "169",
+          "sng": "169"
+        },
+        {
+          "song": "When I Fall In Love",
+          "mus": "167",
+          "prs": "171",
+          "sng": "169"
+        }
+      ]
+    },
+    {
+      "name": "Arun Sounds",
+      "type": "chorus",
+      "place": "22",
+      "tot_score": "1012",
+      "pc_score": "56.2",
+      "director": "Madeleine Branson",
+      "singers": "20",
+      "songs": [
+        {
+          "song": "I Love The Limelight",
+          "mus": "164",
+          "prs": "173",
+          "sng": "163"
+        },
+        {
+          "song": "There Goes My Heart",
+          "mus": "174",
+          "prs": "172",
+          "sng": "166"
+        }
+      ]
+    },
+    {
+      "name": "A Touch Of TLC",
+      "type": "chorus",
+      "place": "23",
+      "tot_score": "1007",
+      "pc_score": "55.9",
+      "director": "Peter Jones",
+      "singers": "30",
+      "songs": [
+        {
+          "song": "For The Sake Of Auld Lang Syne",
+          "mus": "165",
+          "prs": "164",
+          "sng": "165"
+        },
+        {
+          "song": "I Can't Give You Anything By Love / Steppin' Out With My Baby M",
+          "mus": "170",
+          "prs": "169",
+          "sng": "174"
+        }
+      ]
+    },
+    {
+      "name": "Junction 14",
+      "type": "chorus",
+      "place": "24",
+      "tot_score": "1002",
+      "pc_score": "55.7",
+      "director": "Hannah Washington",
+      "singers": "20",
+      "songs": [
+        {
+          "song": "Georgia On My Mind",
+          "mus": "168",
+          "prs": "166",
+          "sng": "167"
+        },
+        {
+          "song": "Orange Coloured Sky",
+          "mus": "164",
+          "prs": "172",
+          "sng": "165"
+        }
+      ]
+    },
+    {
+      "name": "The Pitchpipers",
+      "type": "chorus",
+      "place": "25",
+      "tot_score": "973",
+      "pc_score": "54.1",
+      "director": "Marilyn Penketh",
+      "singers": "26",
+      "songs": [
+        {
+          "song": "Many Years Ago",
+          "mus": "166",
+          "prs": "154",
+          "sng": "159"
+        },
+        {
+          "song": "Love Me",
+          "mus": "169",
+          "prs": "165",
+          "sng": "160"
+        }
+      ]
+    },
+    {
+      "name": "Wight Satin",
+      "type": "chorus",
+      "place": "26",
+      "tot_score": "956",
+      "pc_score": "53.1",
+      "director": "Anita Sides / Shirley Denne",
+      "singers": "21",
+      "songs": [
+        {
+          "song": "Someone To Watch Over Me",
+          "mus": "164",
+          "prs": "149",
+          "sng": "162"
+        },
+        {
+          "song": "Keep Young And Beautiful",
+          "mus": "166",
+          "prs": "154",
+          "sng": "161"
+        }
+      ]
+    },
+    {
+      "name": "Spirit Of The South",
+      "type": "chorus",
+      "place": "27",
+      "tot_score": "926",
+      "pc_score": "51.4",
+      "director": "Lucy Van der Ven",
+      "singers": "19",
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "157",
+          "prs": "152",
+          "sng": "155"
+        },
+        {
+          "song": "If You Love Me Really Love Me",
+          "mus": "154",
+          "prs": "156",
+          "sng": "152"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Liz Garnett"
+    },
+    {
+      "cat": "mus",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "mus",
+      "name": "Jean Sutton"
+    },
+    {
+      "cat": "prs",
+      "name": "Linda de Jong"
+    },
+    {
+      "cat": "prs",
+      "name": "Sandra Landey"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "sng",
+      "name": "Nicky Salt"
+    },
+    {
+      "cat": "sng",
+      "name": "Paula Taylor-Williams"
+    },
+    {
+      "cat": "sng",
+      "name": "Alison Thompson"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    }
+  ]
+}

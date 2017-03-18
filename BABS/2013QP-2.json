@@ -1,0 +1,44 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET PRELIM CONTEST 2-BIRMINGHAM: 2013/2014",
+  "date": "17/11/2013",
+  "contestants": [],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "m",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "p",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Paula Taylor-Williams"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    }
+  ]
+}

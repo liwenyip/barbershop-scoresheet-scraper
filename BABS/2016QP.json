@@ -1,0 +1,1344 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS (NATIONAL STREAM)  -  RNCM MANCHESTER: 2016/2017",
+  "date": "06/11/2016",
+  "contestants": [
+    {
+      "name": "Portobello Road",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "1418",
+      "pc_score": "78.8",
+      "singers": [
+        {
+          "name": "Ian James",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Schofield",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Emery",
+          "part": "bari"
+        },
+        {
+          "name": "Stuart Owen",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "There I've Said It Again",
+          "mus": "234",
+          "prs": "233",
+          "sng": "235"
+        },
+        {
+          "song": "Wouldn't It Be Lovely",
+          "mus": "242",
+          "prs": "236",
+          "sng": "238"
+        }
+      ]
+    },
+    {
+      "name": "The Locksmiths",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "1401",
+      "pc_score": "77.8",
+      "singers": [
+        {
+          "name": "Richard Fisher",
+          "part": "tenor"
+        },
+        {
+          "name": "Simon Lubkowski",
+          "part": "lead"
+        },
+        {
+          "name": "Zac Booles",
+          "part": "bari"
+        },
+        {
+          "name": "Andrew Walker",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Won't Send Roses",
+          "mus": "234",
+          "prs": "231",
+          "sng": "236"
+        },
+        {
+          "song": "I Have Dreamed",
+          "mus": "231",
+          "prs": "229",
+          "sng": "240"
+        }
+      ]
+    },
+    {
+      "name": "HeadQuarters",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "1361",
+      "pc_score": "75.6",
+      "singers": [
+        {
+          "name": "Peter Kennedy",
+          "part": "tenor"
+        },
+        {
+          "name": "Michael Potts",
+          "part": "lead"
+        },
+        {
+          "name": "Ryan Jensen",
+          "part": "bari"
+        },
+        {
+          "name": "John Williams",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Over The Rainbow",
+          "mus": "231",
+          "prs": "229",
+          "sng": "227"
+        },
+        {
+          "song": "You Took Advantage Of Me",
+          "mus": "223",
+          "prs": "226",
+          "sng": "225"
+        }
+      ]
+    },
+    {
+      "name": "The Brit Pack",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "1360",
+      "pc_score": "75.6",
+      "singers": [
+        {
+          "name": "Simon Hunt",
+          "part": "tenor"
+        },
+        {
+          "name": "kenneth Nilsson",
+          "part": "lead"
+        },
+        {
+          "name": "Peter Nugent",
+          "part": "bari"
+        },
+        {
+          "name": "Jon Dawson",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "How Deep Is The Ocean",
+          "mus": "227",
+          "prs": "222",
+          "sng": "228"
+        },
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "225",
+          "prs": "226",
+          "sng": "232"
+        }
+      ]
+    },
+    {
+      "name": "Hustle",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "1352",
+      "pc_score": "75.1",
+      "singers": [
+        {
+          "name": "Neil Firth",
+          "part": "tenor"
+        },
+        {
+          "name": "Giovanni Arsciwals",
+          "part": "lead"
+        },
+        {
+          "name": "Scott Tatton",
+          "part": "bari"
+        },
+        {
+          "name": "Dale Thompson",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Feelin' Good",
+          "mus": "219",
+          "prs": "230",
+          "sng": "232"
+        },
+        {
+          "song": "Love Me And The World Is Mine",
+          "mus": "217",
+          "prs": "225",
+          "sng": "229"
+        }
+      ]
+    },
+    {
+      "name": "Tonic",
+      "type": "quartet",
+      "place": "7",
+      "tot_score": "1299",
+      "pc_score": "72.2",
+      "singers": [
+        {
+          "name": "Craig Kehoe",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Hargest",
+          "part": "lead"
+        },
+        {
+          "name": "Alex de Bruin",
+          "part": "bari"
+        },
+        {
+          "name": "Ian Maslen",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "There'll Be No New Tunes On This Old Piano",
+          "mus": "213",
+          "prs": "219",
+          "sng": "221"
+        },
+        {
+          "song": "From The First Hello To The Last Goodbye",
+          "mus": "208",
+          "prs": "218",
+          "sng": "220"
+        }
+      ]
+    },
+    {
+      "name": "Blueprint",
+      "type": "quartet",
+      "place": "8",
+      "tot_score": "1287",
+      "pc_score": "71.5",
+      "singers": [
+        {
+          "name": "Alex Edwards",
+          "part": "tenor"
+        },
+        {
+          "name": "Dave Brown",
+          "part": "lead"
+        },
+        {
+          "name": "Tim Braham",
+          "part": "bari"
+        },
+        {
+          "name": "Timm Barkworth",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Five Foot Two",
+          "mus": "217",
+          "prs": "220",
+          "sng": "213"
+        },
+        {
+          "song": "All Dressed Up With A Broken Heart",
+          "mus": "210",
+          "prs": "217",
+          "sng": "210"
+        }
+      ]
+    },
+    {
+      "name": "4 On Demand",
+      "type": "quartet",
+      "place": "9",
+      "tot_score": "1283",
+      "pc_score": "71.3",
+      "singers": [
+        {
+          "name": "Jamie Braham",
+          "part": "tenor"
+        },
+        {
+          "name": "Peter Bryant",
+          "part": "lead"
+        },
+        {
+          "name": "Nick Bryant",
+          "part": "bari"
+        },
+        {
+          "name": "Calvin Laverick",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Way You Look Tonight",
+          "mus": "217",
+          "prs": "210",
+          "sng": "221"
+        },
+        {
+          "song": "Show Me Where The Good Times Are",
+          "mus": "208",
+          "prs": "211",
+          "sng": "216"
+        }
+      ]
+    },
+    {
+      "name": "Sound Hypothesis",
+      "type": "quartet",
+      "place": "10",
+      "tot_score": "1270",
+      "pc_score": "70.6",
+      "singers": [
+        {
+          "name": "Ehsaan Shivarani",
+          "part": "tenor"
+        },
+        {
+          "name": "Conrad Godfrey",
+          "part": "lead"
+        },
+        {
+          "name": "Arun O'Sullivan",
+          "part": "bari"
+        },
+        {
+          "name": "Alex Moore",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Can't Give You Anything But Love",
+          "mus": "208",
+          "prs": "204",
+          "sng": "218"
+        },
+        {
+          "song": "It's You",
+          "mus": "213",
+          "prs": "208",
+          "sng": "219"
+        }
+      ]
+    },
+    {
+      "name": "Harmonopoly",
+      "type": "quartet",
+      "place": "11",
+      "tot_score": "1258",
+      "pc_score": "69.9",
+      "singers": [
+        {
+          "name": "Joseph Spratt",
+          "part": "tenor"
+        },
+        {
+          "name": "Chris Littlewood",
+          "part": "lead"
+        },
+        {
+          "name": "Oliver Gildea",
+          "part": "bari"
+        },
+        {
+          "name": "Tim Bagley",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "That's An Irish Lullaby",
+          "mus": "209",
+          "prs": "204",
+          "sng": "212"
+        },
+        {
+          "song": "Goodbye My Coney Island Baby",
+          "mus": "210",
+          "prs": "208",
+          "sng": "215"
+        }
+      ]
+    },
+    {
+      "name": "Nova",
+      "type": "quartet",
+      "place": "11",
+      "tot_score": "1258",
+      "pc_score": "69.9",
+      "singers": [
+        {
+          "name": "Andrew Edgley",
+          "part": "tenor"
+        },
+        {
+          "name": "Mark Gooch",
+          "part": "lead"
+        },
+        {
+          "name": "John Ward",
+          "part": "bari"
+        },
+        {
+          "name": "Alan Lamprell",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Once Upon A Time",
+          "mus": "209",
+          "prs": "212",
+          "sng": "210"
+        },
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "208",
+          "prs": "210",
+          "sng": "209"
+        }
+      ]
+    },
+    {
+      "name": "South Parade",
+      "type": "quartet",
+      "place": "13",
+      "tot_score": "1239",
+      "pc_score": "68.8",
+      "singers": [
+        {
+          "name": "Andy Salter",
+          "part": "tenor"
+        },
+        {
+          "name": "Dean Whitehouse",
+          "part": "lead"
+        },
+        {
+          "name": "Tom Wilkin",
+          "part": "bari"
+        },
+        {
+          "name": "Peter Blackeby",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Walkin' My Baby Back Home",
+          "mus": "206",
+          "prs": "207",
+          "sng": "206"
+        },
+        {
+          "song": "Smilin' Through",
+          "mus": "203",
+          "prs": "209",
+          "sng": "208"
+        }
+      ]
+    },
+    {
+      "name": "Northern Quarter",
+      "type": "quartet",
+      "place": "14",
+      "tot_score": "1234",
+      "pc_score": "68.6",
+      "singers": [
+        {
+          "name": "Robert Gall",
+          "part": "tenor"
+        },
+        {
+          "name": "Ciaran Wilson",
+          "part": "lead"
+        },
+        {
+          "name": "Seb Marshall",
+          "part": "bari"
+        },
+        {
+          "name": "Matt Thomas",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Love Being Here With You",
+          "mus": "206",
+          "prs": "208",
+          "sng": "207"
+        },
+        {
+          "song": "I Won't Send Roses",
+          "mus": "196",
+          "prs": "211",
+          "sng": "206"
+        }
+      ]
+    },
+    {
+      "name": "Three 'n' Easy",
+      "type": "quartet",
+      "place": "15",
+      "tot_score": "1204",
+      "pc_score": "66.9",
+      "singers": [
+        {
+          "name": "Gary Roussak",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Gidney",
+          "part": "lead"
+        },
+        {
+          "name": "Paul Tatton",
+          "part": "bari"
+        },
+        {
+          "name": "John Clarke",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Old Cape Cod",
+          "mus": "201",
+          "prs": "203",
+          "sng": "203"
+        },
+        {
+          "song": "If I Loved You",
+          "mus": "196",
+          "prs": "202",
+          "sng": "199"
+        }
+      ]
+    },
+    {
+      "name": "Half Eight",
+      "type": "quartet",
+      "place": "16",
+      "tot_score": "1202",
+      "pc_score": "66.8",
+      "singers": [
+        {
+          "name": "David Enness",
+          "part": "tenor"
+        },
+        {
+          "name": "Tim Nuttall",
+          "part": "lead"
+        },
+        {
+          "name": "Greg Matthews",
+          "part": "bari"
+        },
+        {
+          "name": "Mike Lofthouse",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Smile",
+          "mus": "207",
+          "prs": "198",
+          "sng": "196"
+        },
+        {
+          "song": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "mus": "202",
+          "prs": "202",
+          "sng": "197"
+        }
+      ]
+    },
+    {
+      "name": "QM",
+      "type": "quartet",
+      "place": "17",
+      "tot_score": "1200",
+      "pc_score": "66.7",
+      "singers": [
+        {
+          "name": "Paul Jeffrey",
+          "part": "tenor"
+        },
+        {
+          "name": "Trevor Dawson",
+          "part": "lead"
+        },
+        {
+          "name": "Adrian Armstrong",
+          "part": "bari"
+        },
+        {
+          "name": "Stephen Cox",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "All The Way",
+          "mus": "196",
+          "prs": "200",
+          "sng": "199"
+        },
+        {
+          "song": "Make 'Em Laugh",
+          "mus": "200",
+          "prs": "204",
+          "sng": "201"
+        }
+      ]
+    },
+    {
+      "name": "Platform 1",
+      "type": "quartet",
+      "place": "19",
+      "tot_score": "1182",
+      "pc_score": "65.7",
+      "singers": [
+        {
+          "name": "Chris Blatchford",
+          "part": "tenor"
+        },
+        {
+          "name": "Peter Walters",
+          "part": "lead"
+        },
+        {
+          "name": "Mark Soave",
+          "part": "bari"
+        },
+        {
+          "name": "Frank Salter",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I'll Be Seeing You",
+          "mus": "194",
+          "prs": "200",
+          "sng": "197"
+        },
+        {
+          "song": "Georgia On My Mind",
+          "mus": "197",
+          "prs": "200",
+          "sng": "194"
+        }
+      ]
+    },
+    {
+      "name": "Cemetery Junction",
+      "type": "quartet",
+      "place": "21",
+      "tot_score": "1174",
+      "pc_score": "65.2",
+      "singers": [
+        {
+          "name": "Michael Zefferman",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy Wheeler",
+          "part": "lead"
+        },
+        {
+          "name": "Andy Rzysko",
+          "part": "bari"
+        },
+        {
+          "name": "Richard Leathem",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Birth Of The Blues",
+          "mus": "193",
+          "prs": "197",
+          "sng": "195"
+        },
+        {
+          "song": "One For My Baby",
+          "mus": "194",
+          "prs": "204",
+          "sng": "191"
+        }
+      ]
+    },
+    {
+      "name": "The Amazing Greys",
+      "type": "quartet",
+      "place": "22",
+      "tot_score": "1150",
+      "pc_score": "63.9",
+      "singers": [
+        {
+          "name": "Bob Devine",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Tutt",
+          "part": "lead"
+        },
+        {
+          "name": "Colin Maskrey",
+          "part": "bari"
+        },
+        {
+          "name": "Mick Nadin",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Anything Goes",
+          "mus": "191",
+          "prs": "190",
+          "sng": "194"
+        },
+        {
+          "song": "Do You Really Love Me",
+          "mus": "192",
+          "prs": "192",
+          "sng": "191"
+        }
+      ]
+    },
+    {
+      "name": "Wrekin Havoc",
+      "type": "quartet",
+      "place": "23",
+      "tot_score": "1136",
+      "pc_score": "63.1",
+      "singers": [
+        {
+          "name": "Phil Smith",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Turner",
+          "part": "lead"
+        },
+        {
+          "name": "Simon Degge",
+          "part": "bari"
+        },
+        {
+          "name": "Eddie Evans",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Don't Blame Me",
+          "mus": "184",
+          "prs": "190",
+          "sng": "187"
+        },
+        {
+          "song": "Love Me",
+          "mus": "191",
+          "prs": "194",
+          "sng": "190"
+        }
+      ]
+    },
+    {
+      "name": "Wavelength",
+      "type": "quartet",
+      "place": "24",
+      "tot_score": "1126",
+      "pc_score": "62.6",
+      "singers": [
+        {
+          "name": "Jeremy Jacomet",
+          "part": "tenor"
+        },
+        {
+          "name": "Mark Smith",
+          "part": "lead"
+        },
+        {
+          "name": "Joe Berry",
+          "part": "bari"
+        },
+        {
+          "name": "Jonny Beeden",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Hello My Baby",
+          "mus": "192",
+          "prs": "183",
+          "sng": "195"
+        },
+        {
+          "song": "I Won't Send Roses",
+          "mus": "183",
+          "prs": "186",
+          "sng": "187"
+        }
+      ]
+    },
+    {
+      "name": "Timeless",
+      "type": "quartet",
+      "place": "25",
+      "tot_score": "1121",
+      "pc_score": "62.3",
+      "singers": [
+        {
+          "name": "Martin Proctor",
+          "part": "tenor"
+        },
+        {
+          "name": "Gary Evans",
+          "part": "lead"
+        },
+        {
+          "name": "Peter Leverett",
+          "part": "bari"
+        },
+        {
+          "name": "Brian Callaghan",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Chordbuster March",
+          "mus": "190",
+          "prs": "191",
+          "sng": "186"
+        },
+        {
+          "song": "Zing! Went The Strings Of My Heart",
+          "mus": "182",
+          "prs": "186",
+          "sng": "186"
+        }
+      ]
+    },
+    {
+      "name": "Borderline",
+      "type": "quartet",
+      "place": "26",
+      "tot_score": "1120",
+      "pc_score": "62.2",
+      "singers": [
+        {
+          "name": "Joel Stephano",
+          "part": "tenor"
+        },
+        {
+          "name": "Amir Bagheri",
+          "part": "lead"
+        },
+        {
+          "name": "Jon Leeper",
+          "part": "bari"
+        },
+        {
+          "name": "Jake Waghorn",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Dream Of Jeannie With The Light Brown Hair",
+          "mus": "184",
+          "prs": "186",
+          "sng": "186"
+        },
+        {
+          "song": "Drivin' Me Crazy",
+          "mus": "185",
+          "prs": "189",
+          "sng": "190"
+        }
+      ]
+    },
+    {
+      "name": "Thumbs Up",
+      "type": "quartet",
+      "place": "27",
+      "tot_score": "1110",
+      "pc_score": "61.7",
+      "singers": [
+        {
+          "name": "Alex Santuary",
+          "part": "tenor"
+        },
+        {
+          "name": "Chris Tongue",
+          "part": "lead"
+        },
+        {
+          "name": "James Horsburgh",
+          "part": "bari"
+        },
+        {
+          "name": "Gary Wells",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Feed The Birds",
+          "mus": "185",
+          "prs": "189",
+          "sng": "181"
+        },
+        {
+          "song": "Come Fly With Me",
+          "mus": "181",
+          "prs": "186",
+          "sng": "188"
+        }
+      ]
+    },
+    {
+      "name": "Oakie Dokie",
+      "type": "quartet",
+      "place": "28",
+      "tot_score": "1106",
+      "pc_score": "61.4",
+      "singers": [
+        {
+          "name": "Mike Paterson",
+          "part": "tenor"
+        },
+        {
+          "name": "Pete Dowling",
+          "part": "lead"
+        },
+        {
+          "name": "Shane Neville",
+          "part": "bari"
+        },
+        {
+          "name": "John Mason",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Wonderful Day Medley",
+          "mus": "188",
+          "prs": "187",
+          "sng": "184"
+        },
+        {
+          "song": "What'll I Do",
+          "mus": "183",
+          "prs": "182",
+          "sng": "182"
+        }
+      ]
+    },
+    {
+      "name": "Diminshed Fifth",
+      "type": "quartet",
+      "place": "29",
+      "tot_score": "1101",
+      "pc_score": "61.2",
+      "singers": [
+        {
+          "name": "Abe Armitage",
+          "part": "tenor"
+        },
+        {
+          "name": "Chris Holdridge",
+          "part": "lead"
+        },
+        {
+          "name": "Jakob Painter",
+          "part": "bari"
+        },
+        {
+          "name": "Tom Hill",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Love To Hear That Old Barbershop Style",
+          "mus": "184",
+          "prs": "180",
+          "sng": "186"
+        },
+        {
+          "song": "When She Loved Me",
+          "mus": "181",
+          "prs": "184",
+          "sng": "186"
+        }
+      ]
+    },
+    {
+      "name": "The Four Posters",
+      "type": "quartet",
+      "place": "30",
+      "tot_score": "1081",
+      "pc_score": "60.1",
+      "singers": [
+        {
+          "name": "Ru Pattie",
+          "part": "tenor"
+        },
+        {
+          "name": "Chris Bromley",
+          "part": "lead"
+        },
+        {
+          "name": "Nigel Smith",
+          "part": "bari"
+        },
+        {
+          "name": "Phil Gill",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "That's An Irish Lullaby",
+          "mus": "173",
+          "prs": "185",
+          "sng": "183"
+        },
+        {
+          "song": "Mona Lisa",
+          "mus": "172",
+          "prs": "187",
+          "sng": "181"
+        }
+      ]
+    },
+    {
+      "name": "Diversion",
+      "type": "quartet",
+      "place": "31",
+      "tot_score": "1076",
+      "pc_score": "59.8",
+      "singers": [
+        {
+          "name": "Tim Sowter",
+          "part": "tenor"
+        },
+        {
+          "name": "Jez Knowles",
+          "part": "lead"
+        },
+        {
+          "name": "Liam Buswell",
+          "part": "bari"
+        },
+        {
+          "name": "Jens Vanhoof",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Come Josephine In My Flying Machine",
+          "mus": "188",
+          "prs": "168",
+          "sng": "180"
+        },
+        {
+          "song": "I'm Forever Blowing Bubbles",
+          "mus": "187",
+          "prs": "170",
+          "sng": "183"
+        }
+      ]
+    },
+    {
+      "name": "Waikikamukau",
+      "type": "quartet",
+      "place": "32",
+      "tot_score": "1058",
+      "pc_score": "58.8",
+      "singers": [
+        {
+          "name": "Joe Dod",
+          "part": "tenor"
+        },
+        {
+          "name": "Doug Munro",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Smith",
+          "part": "bari"
+        },
+        {
+          "name": "Paul Kaiserman",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "A Wink And A Smile",
+          "mus": "172",
+          "prs": "183",
+          "sng": "178"
+        },
+        {
+          "song": "Let The Rest Of The World Go By",
+          "mus": "171",
+          "prs": "179",
+          "sng": "175"
+        }
+      ]
+    },
+    {
+      "name": "Shoreline",
+      "type": "quartet",
+      "place": "33",
+      "tot_score": "1053",
+      "pc_score": "58.5",
+      "singers": [
+        {
+          "name": "Steve Mowatt",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Richmond",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Thorn",
+          "part": "bari"
+        },
+        {
+          "name": "Steve Derrick",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You Make Me Feel So Young",
+          "mus": "182",
+          "prs": "177",
+          "sng": "178"
+        },
+        {
+          "song": "The Song Is Ended",
+          "mus": "173",
+          "prs": "173",
+          "sng": "170"
+        }
+      ]
+    },
+    {
+      "name": "Open Road",
+      "type": "quartet",
+      "place": "34",
+      "tot_score": "1043",
+      "pc_score": "57.9",
+      "singers": [
+        {
+          "name": "Colin Howarth",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy Sinclair",
+          "part": "lead"
+        },
+        {
+          "name": "Richard Morrison",
+          "part": "bari"
+        },
+        {
+          "name": "Joe Jobling",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Cinderella",
+          "mus": "172",
+          "prs": "180",
+          "sng": "174"
+        },
+        {
+          "song": "If You Were The Only Girl In The World",
+          "mus": "169",
+          "prs": "177",
+          "sng": "171"
+        }
+      ]
+    },
+    {
+      "name": "Intersection",
+      "type": "quartet",
+      "place": "35",
+      "tot_score": "1041",
+      "pc_score": "57.8",
+      "singers": [
+        {
+          "name": "Mick Hill",
+          "part": "tenor"
+        },
+        {
+          "name": "Richard Fort",
+          "part": "lead"
+        },
+        {
+          "name": "Graham Frampton",
+          "part": "bari"
+        },
+        {
+          "name": "David Poucher",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "If I Loved You",
+          "mus": "173",
+          "prs": "173",
+          "sng": "175"
+        },
+        {
+          "song": "I Love To Hear That Old Barbershop Style",
+          "mus": "174",
+          "prs": "173",
+          "sng": "173"
+        }
+      ]
+    },
+    {
+      "name": "Cheers",
+      "type": "quartet",
+      "place": "36",
+      "tot_score": "1000",
+      "pc_score": "55.6",
+      "singers": [
+        {
+          "name": "David Kitchenham",
+          "part": "tenor"
+        },
+        {
+          "name": "Terry Mansfield",
+          "part": "lead"
+        },
+        {
+          "name": "John Hardman",
+          "part": "bari"
+        },
+        {
+          "name": "Dave C Brown",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "That's An Irish Lullaby",
+          "mus": "159",
+          "prs": "174",
+          "sng": "170"
+        },
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "158",
+          "prs": "171",
+          "sng": "168"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Helen Brown"
+    },
+    {
+      "cat": "m",
+      "name": "Rob Campbell"
+    },
+    {
+      "cat": "m",
+      "name": "Ed Cox"
+    },
+    {
+      "cat": "p",
+      "name": "Andy Funnell"
+    },
+    {
+      "cat": "p",
+      "name": "Neil Horchover"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Neil Brinkworth"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Cherry Hartshorn"
+    },
+    {
+      "cat": "ca",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "ca",
+      "name": "Yvonne Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Alastair Taylor-Pay"
+    }
+  ]
+}

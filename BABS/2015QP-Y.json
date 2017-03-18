@@ -1,0 +1,291 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS (YOUTH STREAM)  -  NEW: 2015/2016",
+  "date": "10/10/2015",
+  "contestants": [
+    {
+      "name": "Trailblazers",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "1310",
+      "pc_score": "72.8",
+      "singers": [
+        {
+          "name": "Alex Sanctuary",
+          "part": "tenor"
+        },
+        {
+          "name": "Alastair Hay-Plumb",
+          "part": "lead"
+        },
+        {
+          "name": "Nick Jones",
+          "part": "bari"
+        },
+        {
+          "name": "Simon Arnott",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Can't Give You Anything But Love",
+          "mus": "222",
+          "prs": "224",
+          "sng": "220"
+        },
+        {
+          "song": "Goodbye Yellow Brick Road",
+          "mus": "214",
+          "prs": "222",
+          "sng": "208"
+        }
+      ]
+    },
+    {
+      "name": "Harmonopoly",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "1292",
+      "pc_score": "71.8",
+      "singers": [
+        {
+          "name": "Joseph Spratt",
+          "part": "tenor"
+        },
+        {
+          "name": "Christopher Littlewood",
+          "part": "lead"
+        },
+        {
+          "name": "Oliver Gildea",
+          "part": "bari"
+        },
+        {
+          "name": "Tim Bagley",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Cuddle Up A Little Closer, Lovey Mine",
+          "mus": "211",
+          "prs": "207",
+          "sng": "220"
+        },
+        {
+          "song": "Love Me And The World Is Mine",
+          "mus": "217",
+          "prs": "214",
+          "sng": "223"
+        }
+      ]
+    },
+    {
+      "name": "The Perfect Pitchers",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "1259",
+      "pc_score": "69.9",
+      "singers": [
+        {
+          "name": "Luke Freeney",
+          "part": "tenor"
+        },
+        {
+          "name": "Danny Gortler",
+          "part": "lead"
+        },
+        {
+          "name": "Josh Betley",
+          "part": "bari"
+        },
+        {
+          "name": "Joe O'Leary",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Cruella De Vil",
+          "mus": "221",
+          "prs": "218",
+          "sng": "203"
+        },
+        {
+          "song": "Lucky Old Sun",
+          "mus": "210",
+          "prs": "211",
+          "sng": "196"
+        }
+      ]
+    },
+    {
+      "name": "4 On Demand",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "1224",
+      "pc_score": "68.0",
+      "singers": [
+        {
+          "name": "Jamie Braham",
+          "part": "tenor"
+        },
+        {
+          "name": "Peter Bryant",
+          "part": "lead"
+        },
+        {
+          "name": "Nick Bryant",
+          "part": "bari"
+        },
+        {
+          "name": "Calvin Laverick",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Cinderella",
+          "mus": "207",
+          "prs": "201",
+          "sng": "201"
+        },
+        {
+          "song": "I'll Forget You",
+          "mus": "209",
+          "prs": "203",
+          "sng": "203"
+        }
+      ]
+    },
+    {
+      "name": "Northern Quarter",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "1164",
+      "pc_score": "64.7",
+      "singers": [
+        {
+          "name": "Robert Gall",
+          "part": "tenor"
+        },
+        {
+          "name": "Ciaran Wilson",
+          "part": "lead"
+        },
+        {
+          "name": "Seb Marshall",
+          "part": "bari"
+        },
+        {
+          "name": "Matt Thomas",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Zip-A - Dee-Doodah",
+          "mus": "199",
+          "prs": "197",
+          "sng": "191"
+        },
+        {
+          "song": "I Won't Send Roses",
+          "mus": "198",
+          "prs": "191",
+          "sng": "188"
+        }
+      ]
+    },
+    {
+      "name": "Student Unison",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "1080",
+      "pc_score": "60.0",
+      "singers": [
+        {
+          "name": "Richard Platt",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy Davies",
+          "part": "lead"
+        },
+        {
+          "name": "Tomos Gwyn",
+          "part": "bari"
+        },
+        {
+          "name": "Peter Shipway",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Will Go Sailing No More",
+          "mus": "186",
+          "prs": "173",
+          "sng": "170"
+        },
+        {
+          "song": "Swanee",
+          "mus": "187",
+          "prs": "183",
+          "sng": "181"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Helen Brown"
+    },
+    {
+      "cat": "m",
+      "name": "Rob Campbell"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Andy Funnell"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Cherry Hartshorn"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Yvonne H"
+    }
+  ]
+}

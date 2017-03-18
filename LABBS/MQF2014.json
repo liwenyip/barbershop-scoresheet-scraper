@@ -1,0 +1,338 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "MIXED QUARTET FINALS-HARROGATE: 2014",
+  "date": "02/11/2014",
+  "contestants": [
+    {
+      "name": "Hannah and the Hurricanes",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "883",
+      "pc_score": "73.6",
+      "singers": [
+        {
+          "name": "Andrea Day",
+          "part": "tenor"
+        },
+        {
+          "name": "Hannah Braham",
+          "part": "lead"
+        },
+        {
+          "name": "Tim Briggs",
+          "part": "bari"
+        },
+        {
+          "name": "Duncan Whinyates",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You Took Advantage Of Me",
+          "mus": "153",
+          "prs": "147",
+          "sng": "148"
+        },
+        {
+          "song": "I Want You, I Need You, I Love You",
+          "mus": "140",
+          "prs": "147",
+          "sng": "148"
+        }
+      ]
+    },
+    {
+      "name": "Jigsaw",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "878",
+      "pc_score": "73.2",
+      "singers": [
+        {
+          "name": "Ali Jack",
+          "part": "tenor"
+        },
+        {
+          "name": "Keith Rees",
+          "part": "lead"
+        },
+        {
+          "name": "Donna Rees",
+          "part": "bari"
+        },
+        {
+          "name": "Pete Nugent",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Undecided Medley",
+          "mus": "144",
+          "prs": "148",
+          "sng": "146"
+        },
+        {
+          "song": "If I Had My Way",
+          "mus": "148",
+          "prs": "146",
+          "sng": "146"
+        }
+      ]
+    },
+    {
+      "name": "Patchwork",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "870",
+      "pc_score": "72.5",
+      "singers": [
+        {
+          "name": "Helen Warner",
+          "part": "tenor"
+        },
+        {
+          "name": "Alastair Hay-Plumb",
+          "part": "lead"
+        },
+        {
+          "name": "James Whittick",
+          "part": "bari"
+        },
+        {
+          "name": "Sean Egan",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Yesterday I Heard The Rain",
+          "mus": "144",
+          "prs": "142",
+          "sng": "147"
+        },
+        {
+          "song": "Little Patch Of Heaven",
+          "mus": "149",
+          "prs": "142",
+          "sng": "146"
+        }
+      ]
+    },
+    {
+      "name": "The Entire Population of China",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "856",
+      "pc_score": "71.3",
+      "singers": [
+        {
+          "name": "Emily Atherton",
+          "part": "tenor"
+        },
+        {
+          "name": "Simon Lubowski",
+          "part": "lead"
+        },
+        {
+          "name": "Joe Knight",
+          "part": "bari"
+        },
+        {
+          "name": "Alan Hughes",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Bring Back Those Good Old Days",
+          "mus": "147",
+          "prs": "147",
+          "sng": "146"
+        },
+        {
+          "song": "How To Build A Quartet",
+          "mus": "124",
+          "prs": "150",
+          "sng": "142"
+        }
+      ]
+    },
+    {
+      "name": "Delekate",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "854",
+      "pc_score": "71.2",
+      "singers": [
+        {
+          "name": "Karen Whitworth",
+          "part": "tenor"
+        },
+        {
+          "name": "Terry Adamson",
+          "part": "lead"
+        },
+        {
+          "name": "Dean Whitehouse",
+          "part": "bari"
+        },
+        {
+          "name": "Les Whitworth",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Let The Rest Of The World Go By",
+          "mus": "146",
+          "prs": "137",
+          "sng": "142"
+        },
+        {
+          "song": "Wait Till The Sun Shines, Nellie",
+          "mus": "146",
+          "prs": "140",
+          "sng": "143"
+        }
+      ]
+    },
+    {
+      "name": "Man Overboard!",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "756",
+      "pc_score": "63.0",
+      "singers": [
+        {
+          "name": "Alison Thompson",
+          "part": "tenor"
+        },
+        {
+          "name": "Carol Logan",
+          "part": "lead"
+        },
+        {
+          "name": "Kate Goddard",
+          "part": "bari"
+        },
+        {
+          "name": "David Moore",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Why Should I Cry Over You?",
+          "mus": "123",
+          "prs": "124",
+          "sng": "129"
+        },
+        {
+          "song": "So Long Dearie",
+          "mus": "122",
+          "prs": "128",
+          "sng": "130"
+        }
+      ]
+    },
+    {
+      "name": "BS4",
+      "type": "quartet",
+      "place": "7",
+      "tot_score": "702",
+      "pc_score": "58.5",
+      "singers": [
+        {
+          "name": "Mary Williams",
+          "part": "tenor"
+        },
+        {
+          "name": "Sue Davis",
+          "part": "lead"
+        },
+        {
+          "name": "Noey McElwee",
+          "part": "bari"
+        },
+        {
+          "name": "David Proud",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Once Upon A Time",
+          "mus": "117",
+          "prs": "121",
+          "sng": "117"
+        },
+        {
+          "song": "It's Only A Paper Moon",
+          "mus": "114",
+          "prs": "119",
+          "sng": "114"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Debi Cox"
+    },
+    {
+      "cat": "mus",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie James"
+    },
+    {
+      "cat": "prs",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "sng",
+      "name": "Monica Funnell"
+    },
+    {
+      "cat": "sng",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Nancy Philbin"
+    },
+    {
+      "cat": "ca",
+      "name": "Katie Dew"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    }
+  ]
+}

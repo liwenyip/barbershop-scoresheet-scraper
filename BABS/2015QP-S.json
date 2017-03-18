@@ -1,0 +1,174 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS (SENIORS STREAM)  -  NEW: 2015/2016",
+  "date": "10/10/2015",
+  "contestants": [
+    {
+      "name": "South Parade",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "1243",
+      "pc_score": "69.1",
+      "singers": [
+        {
+          "name": "Andy Salter",
+          "part": "tenor"
+        },
+        {
+          "name": "Dean Whitehouse",
+          "part": "lead"
+        },
+        {
+          "name": "Paul Grier",
+          "part": "bari"
+        },
+        {
+          "name": "Peter Blackeby",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Walkin' My Baby Back Home",
+          "mus": "204",
+          "prs": "208",
+          "sng": "208"
+        },
+        {
+          "song": "May I Never Love Again",
+          "mus": "207",
+          "prs": "210",
+          "sng": "206"
+        }
+      ]
+    },
+    {
+      "name": "Three 'n' Easy",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "1237",
+      "pc_score": "68.7",
+      "singers": [
+        {
+          "name": "Gary Roussak",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Gidney",
+          "part": "lead"
+        },
+        {
+          "name": "Paul Tatton",
+          "part": "bari"
+        },
+        {
+          "name": "John Clarke",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Old Cape Cod",
+          "mus": "208",
+          "prs": "209",
+          "sng": "203"
+        },
+        {
+          "song": "There's A Brand New Gang",
+          "mus": "204",
+          "prs": "211",
+          "sng": "202"
+        }
+      ]
+    },
+    {
+      "name": "YOUTHLESS",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "1154",
+      "pc_score": "64.1",
+      "singers": [
+        {
+          "name": "Martin Procter",
+          "part": "tenor"
+        },
+        {
+          "name": "Alan Hill",
+          "part": "lead"
+        },
+        {
+          "name": "Peter Leverett",
+          "part": "bari"
+        },
+        {
+          "name": "Brian Callaghan",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "My Wife The Dancer",
+          "mus": "198",
+          "prs": "197",
+          "sng": "182"
+        },
+        {
+          "song": "Jazz Came Up The River From New Orleans",
+          "mus": "196",
+          "prs": "198",
+          "sng": "183"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Helen Brown"
+    },
+    {
+      "cat": "m",
+      "name": "Rob Campbell"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Andy Funnell"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Cherry Hartshorn"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Yvonne H"
+    }
+  ]
+}

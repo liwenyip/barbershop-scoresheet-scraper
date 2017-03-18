@@ -1,0 +1,48 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET PRELIM CONTEST 1-BIRMINGHAM: 2013/2014",
+  "date": "17/11/2013",
+  "contestants": [],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Delyth Knight"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "p",
+      "name": "Alison Zdzylowski"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "Alison Thompson"
+    },
+    {
+      "cat": "ca",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Samantha Roberts"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    }
+  ]
+}

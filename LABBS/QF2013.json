@@ -1,0 +1,343 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET FINALS-LLANDUDNO: 2013",
+  "date": "25/10/2013",
+  "contestants": [
+    {
+      "name": "Echo",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "2750.0",
+      "pc_score": "76.4",
+      "singers": [
+        {
+          "name": "Karen Riley",
+          "part": "tenor"
+        },
+        {
+          "name": "Emma Shanks",
+          "part": "lead"
+        },
+        {
+          "name": "Beckie Puncher",
+          "part": "bari"
+        },
+        {
+          "name": "Claire Heighway",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "He Was There",
+          "mus": "227",
+          "prs": "228",
+          "sng": "234"
+        },
+        {
+          "song": "How Could You Believe Me / It's A Sin To Tell A Lie Medley",
+          "mus": "221",
+          "prs": "224",
+          "sng": "228"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "458.0",
+          "prs": "463.0",
+          "sng": "467.0"
+        }
+      ]
+    },
+    {
+      "name": "Tone-acity",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "2681.0",
+      "pc_score": "74.5",
+      "singers": [
+        {
+          "name": "Jennifer Carson-Fox",
+          "part": "tenor"
+        },
+        {
+          "name": "Lesley Carson",
+          "part": "lead"
+        },
+        {
+          "name": "Lorna Williamson",
+          "part": "bari"
+        },
+        {
+          "name": "Lesley Sheridan",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "226",
+          "prs": "228",
+          "sng": "221"
+        },
+        {
+          "song": "All The Way",
+          "mus": "225",
+          "prs": "226",
+          "sng": "217"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "443.0",
+          "prs": "451.0",
+          "sng": "444.0"
+        }
+      ]
+    },
+    {
+      "name": "Northern Vibe",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "2650.0",
+      "pc_score": "73.6",
+      "singers": [
+        {
+          "name": "Emma McManus",
+          "part": "tenor"
+        },
+        {
+          "name": "Katy Phillips",
+          "part": "lead"
+        },
+        {
+          "name": "Laura Phillips",
+          "part": "bari"
+        },
+        {
+          "name": "Susan Wilbraham",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Runnin' Wild",
+          "mus": "210",
+          "prs": "217",
+          "sng": "224"
+        },
+        {
+          "song": "All The Way",
+          "mus": "221",
+          "prs": "225",
+          "sng": "227"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "442.0",
+          "prs": "449.0",
+          "sng": "435.0"
+        }
+      ]
+    },
+    {
+      "name": "Pzazz",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "2648.0",
+      "pc_score": "73.6",
+      "singers": [
+        {
+          "name": "Sarah Hicks",
+          "part": "tenor"
+        },
+        {
+          "name": "Gill Irwin",
+          "part": "lead"
+        },
+        {
+          "name": "Julie Robinson",
+          "part": "bari"
+        },
+        {
+          "name": "Monica Funnell",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Time After Time",
+          "mus": "224",
+          "prs": "217",
+          "sng": "225"
+        },
+        {
+          "song": "Love And The Weather",
+          "mus": "223",
+          "prs": "218",
+          "sng": "226"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "436.0",
+          "prs": "445.0",
+          "sng": "434.0"
+        }
+      ]
+    },
+    {
+      "name": "Good FourTune",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "2540.0",
+      "pc_score": "70.6",
+      "singers": [
+        {
+          "name": "Heidi Walsh",
+          "part": "tenor"
+        },
+        {
+          "name": "Laura Maples",
+          "part": "lead"
+        },
+        {
+          "name": "Ruth Starling",
+          "part": "bari"
+        },
+        {
+          "name": "Emma Holden",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Fit As A Fiddle",
+          "mus": "203",
+          "prs": "216",
+          "sng": "209"
+        },
+        {
+          "song": "Love Me, And The World Is Mine",
+          "mus": "205",
+          "prs": "214",
+          "sng": "209"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "431.0",
+          "prs": "437.0",
+          "sng": "416.0"
+        }
+      ]
+    },
+    {
+      "name": "Bowled Over",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "2421.0",
+      "pc_score": "67.3",
+      "singers": [
+        {
+          "name": "Joanna Lea",
+          "part": "tenor"
+        },
+        {
+          "name": "Lindsey Marr",
+          "part": "lead"
+        },
+        {
+          "name": "Karen Lewis",
+          "part": "bari"
+        },
+        {
+          "name": "Elaine Kendall",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I've Got A Feeling I'm Falling",
+          "mus": "201",
+          "prs": "199",
+          "sng": "200"
+        },
+        {
+          "song": "Time After Time",
+          "mus": "197",
+          "prs": "200",
+          "sng": "201"
+        },
+        {
+          "song": "Previous (balanced)",
+          "mus": "399.0",
+          "prs": "418.0",
+          "sng": "406.0"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Debi Cox"
+    },
+    {
+      "cat": "mus",
+      "name": "Liz Garnett"
+    },
+    {
+      "cat": "mus",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "prs",
+      "name": "Linda van Buerink"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "prs",
+      "name": "Alison Zdzylowski"
+    },
+    {
+      "cat": "sng",
+      "name": "Claire Barnett-Jones"
+    },
+    {
+      "cat": "sng",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "sng",
+      "name": "Nicky Salt"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Nancy Philbin"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    }
+  ]
+}

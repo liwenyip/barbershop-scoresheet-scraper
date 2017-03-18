@@ -1,0 +1,190 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL GOLD MEDALLISTS-LLANDUDNO: 2013",
+  "date": "25/10/2013",
+  "contestants": [
+    {
+      "name": "Finesse",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "1471",
+      "pc_score": "81.7",
+      "singers": [
+        {
+          "name": "Helen Owen",
+          "part": "tenor"
+        },
+        {
+          "name": "Beth Brimmicombe",
+          "part": "lead"
+        },
+        {
+          "name": "Tanya Jenkins",
+          "part": "bari"
+        },
+        {
+          "name": "Nicky Salt",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You Turned The Tables On Me (3)",
+          "mus": "246",
+          "prs": "238",
+          "sng": "257"
+        },
+        {
+          "song": "Package",
+          "mus": "247",
+          "prs": "242",
+          "sng": "241"
+        }
+      ]
+    },
+    {
+      "name": "The Mix",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "1465",
+      "pc_score": "81.4",
+      "singers": [
+        {
+          "name": "Andrea Day",
+          "part": "tenor"
+        },
+        {
+          "name": "Jo Braham",
+          "part": "lead"
+        },
+        {
+          "name": "Nancy Kelsall",
+          "part": "bari"
+        },
+        {
+          "name": "Sandra Lea-Riley",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Razzle Dazzle (1)",
+          "mus": "238",
+          "prs": "247",
+          "sng": "241"
+        },
+        {
+          "song": "Package",
+          "mus": "245",
+          "prs": "253",
+          "sng": "241"
+        }
+      ]
+    },
+    {
+      "name": "NoteOrious",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "1406",
+      "pc_score": "78.1",
+      "singers": [
+        {
+          "name": "Astrid Shepherd",
+          "part": "tenor"
+        },
+        {
+          "name": "Alison Moore",
+          "part": "lead"
+        },
+        {
+          "name": "Rose Hopkinson",
+          "part": "bari"
+        },
+        {
+          "name": "Helen Lappert",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Love Jazz Medley (1)",
+          "mus": "231",
+          "prs": "233",
+          "sng": "239"
+        },
+        {
+          "song": "Package",
+          "mus": "236",
+          "prs": "233",
+          "sng": "234"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Debi Cox"
+    },
+    {
+      "cat": "mus",
+      "name": "Liz Garnett"
+    },
+    {
+      "cat": "mus",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "prs",
+      "name": "Linda van Buerink"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "prs",
+      "name": "Alison Zdzylowski"
+    },
+    {
+      "cat": "sng",
+      "name": "Claire Barnett-Jones"
+    },
+    {
+      "cat": "sng",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "sng",
+      "name": "Sng Avg 1"
+    },
+    {
+      "cat": "ca",
+      "name": "Nancy Philbin"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL CHORUS PRELIMS ROUND 1-LEEDS: 2011",
+  "date": "02/04/2011",
+  "contestants": [
+    {
+      "name": "The White Rosettes",
+      "type": "chorus",
+      "place": "1",
+      "tot_score": "957",
+      "pc_score": "79.8",
+      "director": "Sally McLean",
+      "singers": "55",
+      "songs": [
+        {
+          "song": "Let Yourself Go",
+          "mus": "155",
+          "prs": "162",
+          "sng": "158"
+        },
+        {
+          "song": "Auld Lang Syne",
+          "mus": "160",
+          "prs": "164",
+          "sng": "158"
+        }
+      ]
+    },
+    {
+      "name": "Cheshire Chord Company",
+      "type": "chorus",
+      "place": "2",
+      "tot_score": "929",
+      "pc_score": "77.4",
+      "director": "Jo Braham",
+      "singers": "33",
+      "songs": [
+        {
+          "song": "Tramp Medley",
+          "mus": "155",
+          "prs": "154",
+          "sng": "157"
+        },
+        {
+          "song": "Are You Lonesome Tonight?",
+          "mus": "156",
+          "prs": "149",
+          "sng": "158"
+        }
+      ]
+    },
+    {
+      "name": "Gem Connection",
+      "type": "chorus",
+      "place": "3",
+      "tot_score": "850",
+      "pc_score": "70.8",
+      "director": "Rachael Murphy",
+      "singers": "44",
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "143",
+          "prs": "138",
+          "sng": "139"
+        },
+        {
+          "song": "If You Love Me Really Love Me",
+          "mus": "148",
+          "prs": "142",
+          "sng": "140"
+        }
+      ]
+    },
+    {
+      "name": "Crystal Chords",
+      "type": "chorus",
+      "place": "4",
+      "tot_score": "849",
+      "pc_score": "70.8",
+      "director": "Monica Funnell",
+      "singers": "50",
+      "songs": [
+        {
+          "song": "The Way You Look Tonight",
+          "mus": "151",
+          "prs": "141",
+          "sng": "138"
+        },
+        {
+          "song": "The Nearness Of You",
+          "mus": "146",
+          "prs": "137",
+          "sng": "136"
+        }
+      ]
+    },
+    {
+      "name": "Silver Lining",
+      "type": "chorus",
+      "place": "5",
+      "tot_score": "772",
+      "pc_score": "64.3",
+      "director": "Sara Jackson",
+      "singers": "31",
+      "songs": [
+        {
+          "song": "Lover Come Back To Me",
+          "mus": "126",
+          "prs": "125",
+          "sng": "132"
+        },
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "130",
+          "prs": "129",
+          "sng": "130"
+        }
+      ]
+    },
+    {
+      "name": "Red Rosettes",
+      "type": "chorus",
+      "place": "6",
+      "tot_score": "762",
+      "pc_score": "63.5",
+      "director": "Katy Phillips",
+      "singers": "36",
+      "songs": [
+        {
+          "song": "Stars Fell On Alabama",
+          "mus": "126",
+          "prs": "127",
+          "sng": "127"
+        },
+        {
+          "song": "I Never Meant To Fall In Love",
+          "mus": "126",
+          "prs": "129",
+          "sng": "127"
+        }
+      ]
+    },
+    {
+      "name": "Mountain Harmony",
+      "type": "chorus",
+      "place": "7",
+      "tot_score": "699",
+      "pc_score": "58.3",
+      "director": "Derek Hollis",
+      "singers": "44",
+      "songs": [
+        {
+          "song": "There Goes My Heart",
+          "mus": "122",
+          "prs": "115",
+          "sng": "115"
+        },
+        {
+          "song": "All The Way",
+          "mus": "117",
+          "prs": "117",
+          "sng": "113"
+        }
+      ]
+    },
+    {
+      "name": "Abbey Belles",
+      "type": "chorus",
+      "place": "8",
+      "tot_score": "671",
+      "pc_score": "55.9",
+      "director": "Anne Turner/Catrina Lakin",
+      "singers": "27",
+      "songs": [
+        {
+          "song": "May I Never Love Again",
+          "mus": "118",
+          "prs": "109",
+          "sng": "112"
+        },
+        {
+          "song": "Love Is The Sweetest Thing",
+          "mus": "112",
+          "prs": "110",
+          "sng": "110"
+        }
+      ]
+    },
+    {
+      "name": "A Touch Of TLC",
+      "type": "chorus",
+      "place": "9",
+      "tot_score": "668",
+      "pc_score": "55.7",
+      "director": "Peter Jones",
+      "singers": "34",
+      "songs": [
+        {
+          "song": "If You Love Me Really Love Me",
+          "mus": "118",
+          "prs": "112",
+          "sng": "105"
+        },
+        {
+          "song": "I Can't Give You Anything But Love / Steppin' Out With My Baby",
+          "mus": "117",
+          "prs": "114",
+          "sng": "102"
+        }
+      ]
+    },
+    {
+      "name": "Mersey Harmony",
+      "type": "chorus",
+      "place": "10",
+      "tot_score": "660",
+      "pc_score": "55.0",
+      "director": "Lesley Crawford",
+      "singers": "33",
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "112",
+          "prs": "108",
+          "sng": "107"
+        },
+        {
+          "song": "When I Fall In Love",
+          "mus": "114",
+          "prs": "111",
+          "sng": "108"
+        }
+      ]
+    },
+    {
+      "name": "Main Street Sound",
+      "type": "chorus",
+      "place": "11",
+      "tot_score": "653",
+      "pc_score": "54.4",
+      "director": "Terry Adamson",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "118",
+          "prs": "109",
+          "sng": "102"
+        },
+        {
+          "song": "Once Upon A Time",
+          "mus": "119",
+          "prs": "105",
+          "sng": "100"
+        }
+      ]
+    },
+    {
+      "name": "Tartan Harmony",
+      "type": "chorus",
+      "place": "12",
+      "tot_score": "645",
+      "pc_score": "53.8",
+      "director": "Juliet Erskine",
+      "singers": "51",
+      "songs": [
+        {
+          "song": "How Do You Like Your Eggs In The Morning?",
+          "mus": "113",
+          "prs": "109",
+          "sng": "104"
+        },
+        {
+          "song": "When I Just Wear My Smile",
+          "mus": "111",
+          "prs": "104",
+          "sng": "104"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Linda Blackett"
+    },
+    {
+      "cat": "mus",
+      "name": "Debi Cox"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "prs",
+      "name": "Alison Zdzylowski"
+    },
+    {
+      "cat": "sng",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "sng",
+      "name": "Nicky Salt"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    }
+  ]
+}

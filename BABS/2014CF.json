@@ -1,0 +1,793 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "CHORUS FINAL-HARROGATE: 2013/2014",
+  "date": "24/05/2014",
+  "contestants": [
+    {
+      "name": "Hallmark Of Harmony",
+      "type": "chorus",
+      "place": "1",
+      "tot_score": "1463",
+      "pc_score": "81.3",
+      "director": "Andy Allen",
+      "singers": "78",
+      "songs": [
+        {
+          "song": "My Romance",
+          "m": "241",
+          "p": "243",
+          "s": "245"
+        },
+        {
+          "song": "I Won't Dance",
+          "m": "243",
+          "p": "249",
+          "s": "242"
+        }
+      ]
+    },
+    {
+      "name": "The Great Western Chorus Of Bristol",
+      "type": "chorus",
+      "place": "2",
+      "tot_score": "1423",
+      "pc_score": "79.1",
+      "director": "Linda Corcoran",
+      "singers": "59",
+      "songs": [
+        {
+          "song": "One Alone",
+          "m": "237",
+          "p": "235",
+          "s": "244"
+        },
+        {
+          "song": "Let Yourself Go",
+          "m": "230",
+          "p": "241",
+          "s": "236"
+        }
+      ]
+    },
+    {
+      "name": "Mantunian Way",
+      "type": "chorus",
+      "place": "3",
+      "tot_score": "1415",
+      "pc_score": "78.6",
+      "director": "Ben Ferguson",
+      "singers": "29",
+      "songs": [
+        {
+          "song": "You Are So Beautiful",
+          "m": "237",
+          "p": "236",
+          "s": "245"
+        },
+        {
+          "song": "Everything's Coming Up Roses",
+          "m": "230",
+          "p": "231",
+          "s": "236"
+        }
+      ]
+    },
+    {
+      "name": "The Royal Harmonics",
+      "type": "chorus",
+      "place": "4",
+      "tot_score": "1410",
+      "pc_score": "78.3",
+      "director": "John Palmer",
+      "singers": "55",
+      "songs": [
+        {
+          "song": "Since I Don't Have You",
+          "m": "227",
+          "p": "236",
+          "s": "237"
+        },
+        {
+          "song": "They Remind Me Too Much Of You",
+          "m": "232",
+          "p": "241",
+          "s": "237"
+        }
+      ]
+    },
+    {
+      "name": "Grand Central Chorus",
+      "type": "chorus",
+      "place": "5",
+      "tot_score": "1409",
+      "pc_score": "78.3",
+      "director": "Zac Booles",
+      "singers": "57",
+      "songs": [
+        {
+          "song": "Lover Come Back",
+          "m": "233",
+          "p": "234",
+          "s": "238"
+        },
+        {
+          "song": "So Long Dearie",
+          "m": "231",
+          "p": "239",
+          "s": "234"
+        }
+      ]
+    },
+    {
+      "name": "Spirit Of Harmony",
+      "type": "chorus",
+      "place": "6",
+      "tot_score": "1399",
+      "pc_score": "77.7",
+      "director": "Sally McLean",
+      "singers": "53",
+      "songs": [
+        {
+          "song": "If Ever I Would Leave You",
+          "m": "230",
+          "p": "227",
+          "s": "235"
+        },
+        {
+          "song": "Fit As A Fiddle",
+          "m": "236",
+          "p": "235",
+          "s": "236"
+        }
+      ]
+    },
+    {
+      "name": "Cambridge Chord Company",
+      "type": "chorus",
+      "place": "7",
+      "tot_score": "1352",
+      "pc_score": "75.1",
+      "director": "Bob Croft",
+      "singers": "29",
+      "songs": [
+        {
+          "song": "Cross That Mason Dixon Line",
+          "m": "227",
+          "p": "223",
+          "s": "220"
+        },
+        {
+          "song": "My Foolish Heart",
+          "m": "228",
+          "p": "232",
+          "s": "222"
+        }
+      ]
+    },
+    {
+      "name": "Tuxedo Junction",
+      "type": "chorus",
+      "place": "8",
+      "tot_score": "1291",
+      "pc_score": "71.7",
+      "director": "Rob Barber",
+      "singers": "22",
+      "songs": [
+        {
+          "song": "You Brought A New Kind Of Love To Me",
+          "m": "214",
+          "p": "212",
+          "s": "222"
+        },
+        {
+          "song": "I Get Along Without You Very Well",
+          "m": "218",
+          "p": "208",
+          "s": "217"
+        }
+      ]
+    },
+    {
+      "name": "Shannon Express",
+      "type": "chorus",
+      "place": "9",
+      "tot_score": "1284",
+      "pc_score": "71.3",
+      "director": "Tony Bylett",
+      "singers": "56",
+      "songs": [
+        {
+          "song": "The Sunshine Of Your Smile",
+          "m": "209",
+          "p": "212",
+          "s": "217"
+        },
+        {
+          "song": "Bring Me Sunshine",
+          "m": "211",
+          "p": "216",
+          "s": "219"
+        }
+      ]
+    },
+    {
+      "name": "Anvil Chorus",
+      "type": "chorus",
+      "place": "10",
+      "tot_score": "1275",
+      "pc_score": "70.8",
+      "director": "Duncan Whinyates",
+      "singers": "34",
+      "songs": [
+        {
+          "song": "You Don't Know Me",
+          "m": "214",
+          "p": "210",
+          "s": "212"
+        },
+        {
+          "song": "Sweet Pea",
+          "m": "215",
+          "p": "215",
+          "s": "209"
+        }
+      ]
+    },
+    {
+      "name": "Knights Of Harmony",
+      "type": "chorus",
+      "place": "11",
+      "tot_score": "1249",
+      "pc_score": "69.4",
+      "director": "Mark Grindall",
+      "singers": "48",
+      "songs": [
+        {
+          "song": "Just A Cottage Small",
+          "m": "211",
+          "p": "209",
+          "s": "203"
+        },
+        {
+          "song": "Sentimental Gentleman From Georgia",
+          "m": "210",
+          "p": "215",
+          "s": "201"
+        }
+      ]
+    },
+    {
+      "name": "The ViPs",
+      "type": "chorus",
+      "place": "11",
+      "tot_score": "1249",
+      "pc_score": "69.4",
+      "director": "Gaynor Schofield",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "I Won't Send Roses",
+          "m": "214",
+          "p": "205",
+          "s": "210"
+        },
+        {
+          "song": "Too Marvelous For Words",
+          "m": "208",
+          "p": "205",
+          "s": "207"
+        }
+      ]
+    },
+    {
+      "name": "Clwyd Clippers",
+      "type": "chorus",
+      "place": "14",
+      "tot_score": "1217",
+      "pc_score": "67.6",
+      "director": "Rhiannon Owens-Hall",
+      "singers": "40",
+      "songs": [
+        {
+          "song": "You Don't Know Me",
+          "m": "208",
+          "p": "199",
+          "s": "208"
+        },
+        {
+          "song": "That's Life",
+          "m": "203",
+          "p": "200",
+          "s": "199"
+        }
+      ]
+    },
+    {
+      "name": "The Major Oak Chorus",
+      "type": "chorus",
+      "place": "15",
+      "tot_score": "1200",
+      "pc_score": "66.7",
+      "director": "Joe Knight",
+      "singers": "55",
+      "songs": [
+        {
+          "song": "They All Laughed",
+          "m": "201",
+          "p": "199",
+          "s": "194"
+        },
+        {
+          "song": "What'll I Do",
+          "m": "204",
+          "p": "202",
+          "s": "200"
+        }
+      ]
+    },
+    {
+      "name": "Granite City Chorus",
+      "type": "chorus",
+      "place": "16",
+      "tot_score": "1190",
+      "pc_score": "66.1",
+      "director": "Colin Reid",
+      "singers": "34",
+      "songs": [
+        {
+          "song": "May I Never Love Again",
+          "m": "201",
+          "p": "196",
+          "s": "200"
+        },
+        {
+          "song": "Consider Yourself",
+          "m": "200",
+          "p": "195",
+          "s": "198"
+        }
+      ]
+    },
+    {
+      "name": "The Telfordaires",
+      "type": "chorus",
+      "place": "17",
+      "tot_score": "1178",
+      "pc_score": "65.4",
+      "director": "Andy Funnell and Alan Hughes",
+      "singers": "31",
+      "songs": [
+        {
+          "song": "The First, The Last, My Everything/Can't Get Enough Of Your Lov",
+          "m": "177",
+          "p": "199",
+          "s": "197"
+        },
+        {
+          "song": "She",
+          "m": "191",
+          "p": "203",
+          "s": "211"
+        }
+      ]
+    },
+    {
+      "name": "The Kentones",
+      "type": "chorus",
+      "place": "18",
+      "tot_score": "1175",
+      "pc_score": "65.3",
+      "director": "Colin Couves",
+      "singers": "43",
+      "songs": [
+        {
+          "song": "What'll I Do",
+          "m": "193",
+          "p": "194",
+          "s": "198"
+        },
+        {
+          "song": "Love Me",
+          "m": "194",
+          "p": "200",
+          "s": "196"
+        }
+      ]
+    },
+    {
+      "name": "Wight Harmony",
+      "type": "chorus",
+      "place": "19",
+      "tot_score": "1149",
+      "pc_score": "63.8",
+      "director": "Dave Bryant",
+      "singers": "31",
+      "songs": [
+        {
+          "song": "Wonderful Day Medley",
+          "m": "196",
+          "p": "192",
+          "s": "189"
+        },
+        {
+          "song": "How Deep Is The Ocean",
+          "m": "192",
+          "p": "191",
+          "s": "189"
+        }
+      ]
+    },
+    {
+      "name": "Capital Chorus",
+      "type": "chorus",
+      "place": "20",
+      "tot_score": "1145",
+      "pc_score": "63.6",
+      "director": "Julian Nicholl and Aidan Brand",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "It Had To Be You",
+          "m": "191",
+          "p": "191",
+          "s": "189"
+        },
+        {
+          "song": "When She Loved Me",
+          "m": "188",
+          "p": "200",
+          "s": "186"
+        }
+      ]
+    },
+    {
+      "name": "Sound Company",
+      "type": "chorus",
+      "place": "21",
+      "tot_score": "1144",
+      "pc_score": "63.6",
+      "director": "Pat Deeble",
+      "singers": "10",
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "m": "185",
+          "p": "199",
+          "s": "192"
+        },
+        {
+          "song": "Everybody Loves Somebody",
+          "m": "183",
+          "p": "196",
+          "s": "189"
+        }
+      ]
+    },
+    {
+      "name": "5ways",
+      "type": "chorus",
+      "place": "23",
+      "tot_score": "1118",
+      "pc_score": "62.1",
+      "director": "Shanna Wells",
+      "singers": "22",
+      "songs": [
+        {
+          "song": "The Sunshine Of Your Smile",
+          "m": "191",
+          "p": "183",
+          "s": "181"
+        },
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "m": "189",
+          "p": "190",
+          "s": "184"
+        }
+      ]
+    },
+    {
+      "name": "The Sound Of Three Spires",
+      "type": "chorus",
+      "place": "25",
+      "tot_score": "1109",
+      "pc_score": "61.6",
+      "director": "Andrew Kneeshaw",
+      "singers": "36",
+      "songs": [
+        {
+          "song": "That's An Irish Lullaby",
+          "m": "184",
+          "p": "185",
+          "s": "181"
+        },
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "m": "187",
+          "p": "187",
+          "s": "185"
+        }
+      ]
+    },
+    {
+      "name": "Solent City Chorus",
+      "type": "chorus",
+      "place": "26",
+      "tot_score": "1107",
+      "pc_score": "61.5",
+      "director": "Peter Mumford",
+      "singers": "20",
+      "songs": [
+        {
+          "song": "I Don't Know Why",
+          "m": "182",
+          "p": "179",
+          "s": "189"
+        },
+        {
+          "song": "If I Give My Heart To You",
+          "m": "187",
+          "p": "185",
+          "s": "185"
+        }
+      ]
+    },
+    {
+      "name": "Vale Harmony",
+      "type": "chorus",
+      "place": "28",
+      "tot_score": "1075",
+      "pc_score": "59.7",
+      "director": "Chris Hartwright",
+      "singers": "15",
+      "songs": [
+        {
+          "song": "Yes Sir, That's My Baby",
+          "m": "186",
+          "p": "178",
+          "s": "168"
+        },
+        {
+          "song": "For All We Know",
+          "m": "194",
+          "p": "186",
+          "s": "163"
+        }
+      ]
+    },
+    {
+      "name": "Essex Chordsmen",
+      "type": "chorus",
+      "place": "29",
+      "tot_score": "1058",
+      "pc_score": "58.8",
+      "director": "Geoff White",
+      "singers": "20",
+      "songs": [
+        {
+          "song": "Sweet Georgia Brown",
+          "m": "185",
+          "p": "172",
+          "s": "169"
+        },
+        {
+          "song": "If I Give My Heart To You",
+          "m": "185",
+          "p": "179",
+          "s": "168"
+        }
+      ]
+    },
+    {
+      "name": "The Rivertones",
+      "type": "chorus",
+      "place": "31",
+      "tot_score": "1049",
+      "pc_score": "58.3",
+      "director": "Peter Gover",
+      "singers": "32",
+      "songs": [
+        {
+          "song": "Zing! Went The Strings Of My Heart",
+          "m": "171",
+          "p": "178",
+          "s": "171"
+        },
+        {
+          "song": "If I Give My Heart To You",
+          "m": "181",
+          "p": "180",
+          "s": "168"
+        }
+      ]
+    },
+    {
+      "name": "The Pilgrimaires",
+      "type": "chorus",
+      "place": "32",
+      "tot_score": "1043",
+      "pc_score": "57.9",
+      "director": "Elaine Ford",
+      "singers": "28",
+      "songs": [
+        {
+          "song": "I'm Alone Because I Love You",
+          "m": "178",
+          "p": "169",
+          "s": "174"
+        },
+        {
+          "song": "Cabaret",
+          "m": "179",
+          "p": "170",
+          "s": "173"
+        }
+      ]
+    },
+    {
+      "name": "Western Approach",
+      "type": "chorus",
+      "place": "33",
+      "tot_score": "1042",
+      "pc_score": "57.9",
+      "director": "Dick Knight",
+      "singers": "15",
+      "songs": [
+        {
+          "song": "Consider Yourself",
+          "m": "176",
+          "p": "174",
+          "s": "175"
+        },
+        {
+          "song": "My Old Dutch",
+          "m": "175",
+          "p": "169",
+          "s": "173"
+        }
+      ]
+    },
+    {
+      "name": "Close Shave Chorus",
+      "type": "chorus",
+      "place": "35",
+      "tot_score": "1041",
+      "pc_score": "57.8",
+      "director": "Eoin Millar",
+      "singers": "17",
+      "songs": [
+        {
+          "song": "Let The Rest Of The World Go By",
+          "m": "172",
+          "p": "179",
+          "s": "172"
+        },
+        {
+          "song": "I Wish You Love",
+          "m": "165",
+          "p": "181",
+          "s": "172"
+        }
+      ]
+    },
+    {
+      "name": "The Rolling Hills Chorus",
+      "type": "chorus",
+      "place": "37",
+      "tot_score": "1029",
+      "pc_score": "57.2",
+      "director": "Nick Hayes",
+      "singers": "35",
+      "songs": [
+        {
+          "song": "The Skye Boat Song",
+          "m": "165",
+          "p": "174",
+          "s": "161"
+        },
+        {
+          "song": "Sentimental Gentleman From Georgia",
+          "m": "177",
+          "p": "182",
+          "s": "170"
+        }
+      ]
+    },
+    {
+      "name": "The White Rose Chorus",
+      "type": "chorus",
+      "place": "38",
+      "tot_score": "1020",
+      "pc_score": "56.7",
+      "director": "Hazel  Jiggins",
+      "singers": "21",
+      "songs": [
+        {
+          "song": "For Sale, One Broken Heart",
+          "m": "170",
+          "p": "172",
+          "s": "171"
+        },
+        {
+          "song": "Consider Yourself",
+          "m": "169",
+          "p": "172",
+          "s": "166"
+        }
+      ]
+    },
+    {
+      "name": "Harmony Lincs",
+      "type": "chorus",
+      "place": "39",
+      "tot_score": "1000",
+      "pc_score": "55.6",
+      "director": "Tony Chapman",
+      "singers": "28",
+      "songs": [
+        {
+          "song": "I'll Forget You",
+          "m": "169",
+          "p": "174",
+          "s": "163"
+        },
+        {
+          "song": "Cinderella",
+          "m": "170",
+          "p": "168",
+          "s": "156"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "Helen Brown"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Jon Conway"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "ca",
+      "name": "Samantha Roberts"
+    },
+    {
+      "cat": "ca",
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "ca",
+      "name": ""
+    }
+  ]
+}

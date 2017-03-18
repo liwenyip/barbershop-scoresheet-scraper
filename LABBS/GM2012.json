@@ -1,0 +1,143 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL GOLD MEDALLISTS-TELFORD: 2012",
+  "date": "26/10/2012",
+  "contestants": [
+    {
+      "name": "Miss-Demeanour",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "1426",
+      "pc_score": "79.2",
+      "singers": [
+        {
+          "name": "Kim Potter",
+          "part": "tenor"
+        },
+        {
+          "name": "Suzanne Mansfield",
+          "part": "lead"
+        },
+        {
+          "name": "Amelia Charnock",
+          "part": "bari"
+        },
+        {
+          "name": "Sarah Cole",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Time After Time",
+          "mus": "247",
+          "prs": "239",
+          "sng": "235"
+        },
+        {
+          "song": "I've Got A Feeling I'm Falling",
+          "mus": "239",
+          "prs": "232",
+          "sng": "234"
+        }
+      ]
+    },
+    {
+      "name": "NoteOrious",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "1362",
+      "pc_score": "75.7",
+      "singers": [
+        {
+          "name": "Astrid Shepherd",
+          "part": "tenor"
+        },
+        {
+          "name": "Alison Moore",
+          "part": "lead"
+        },
+        {
+          "name": "Rose Hopkinson",
+          "part": "bari"
+        },
+        {
+          "name": "Helen Lappert",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Wizard Of Oz Medley",
+          "mus": "223",
+          "prs": "228",
+          "sng": "226"
+        },
+        {
+          "song": "If I Only Had A Brain",
+          "mus": "231",
+          "prs": "226",
+          "sng": "228"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Delyth Knight"
+    },
+    {
+      "cat": "mus",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "mus",
+      "name": "Joyce Stroud"
+    },
+    {
+      "cat": "prs",
+      "name": "Andy Funnell"
+    },
+    {
+      "cat": "prs",
+      "name": "Linda van Buerink"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "sng",
+      "name": "Monica Funnell"
+    },
+    {
+      "cat": "sng",
+      "name": "Nicky Salt"
+    },
+    {
+      "cat": "sng",
+      "name": "Alison Thompson"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Nancy Philbin"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    }
+  ]
+}

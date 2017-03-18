@@ -1,0 +1,233 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL CHORUS PRELIMS ROUND 3-RICKMANSWORTH: 2011",
+  "date": "10/04/2011",
+  "contestants": [
+    {
+      "name": "Green Street Blues",
+      "type": "chorus",
+      "place": "1",
+      "tot_score": "876",
+      "pc_score": "73.0",
+      "director": "Timm Barkworth",
+      "singers": "23",
+      "songs": [
+        {
+          "song": "What Kind Of Fool Am I?",
+          "mus": "143",
+          "prs": "148",
+          "sng": "149"
+        },
+        {
+          "song": "I Love Jazz Medley",
+          "mus": "142",
+          "prs": "146",
+          "sng": "148"
+        }
+      ]
+    },
+    {
+      "name": "Capital Connection",
+      "type": "chorus",
+      "place": "2",
+      "tot_score": "849",
+      "pc_score": "70.8",
+      "director": "Debi Cox",
+      "singers": "32",
+      "songs": [
+        {
+          "song": "You Don't Know Me",
+          "mus": "139",
+          "prs": "141",
+          "sng": "147"
+        },
+        {
+          "song": "It Had To Be You",
+          "mus": "137",
+          "prs": "137",
+          "sng": "148"
+        }
+      ]
+    },
+    {
+      "name": "Guildford Harmony",
+      "type": "chorus",
+      "place": "3",
+      "tot_score": "758",
+      "pc_score": "63.2",
+      "director": "Andrew Edgley",
+      "singers": "21",
+      "songs": [
+        {
+          "song": "If I Give My Heart To You",
+          "mus": "129",
+          "prs": "127",
+          "sng": "126"
+        },
+        {
+          "song": "There Goes My Heart",
+          "mus": "124",
+          "prs": "125",
+          "sng": "127"
+        }
+      ]
+    },
+    {
+      "name": "Norwich Harmony",
+      "type": "chorus",
+      "place": "4",
+      "tot_score": "755",
+      "pc_score": "62.9",
+      "director": "Alison Thompson/Carol Logan",
+      "singers": "37",
+      "songs": [
+        {
+          "song": "I'd Give A Million Tomorrows",
+          "mus": "122",
+          "prs": "125",
+          "sng": "127"
+        },
+        {
+          "song": "Lucky Day / Sitting On Top Of The World Medley",
+          "mus": "120",
+          "prs": "129",
+          "sng": "132"
+        }
+      ]
+    },
+    {
+      "name": "The Barberettes",
+      "type": "chorus",
+      "place": "5",
+      "tot_score": "725",
+      "pc_score": "60.4",
+      "director": "Emma Lelliott",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "If I Give My Heart To You",
+          "mus": "126",
+          "prs": "118",
+          "sng": "122"
+        },
+        {
+          "song": "How Deep Is The Ocean?",
+          "mus": "122",
+          "prs": "120",
+          "sng": "117"
+        }
+      ]
+    },
+    {
+      "name": "Welwyn Harmony",
+      "type": "chorus",
+      "place": "6",
+      "tot_score": "713",
+      "pc_score": "59.4",
+      "director": "Alan Hooke",
+      "singers": "36",
+      "songs": [
+        {
+          "song": "Wrap Your Troubles In Dreams",
+          "mus": "119",
+          "prs": "118",
+          "sng": "114"
+        },
+        {
+          "song": "My Baby Just Cares For Me",
+          "mus": "121",
+          "prs": "124",
+          "sng": "117"
+        }
+      ]
+    },
+    {
+      "name": "Harmony Inspires",
+      "type": "chorus",
+      "place": "7",
+      "tot_score": "646",
+      "pc_score": "53.8",
+      "director": "Helen Carter",
+      "singers": "27",
+      "songs": [
+        {
+          "song": "When I Just Wear My Smile",
+          "mus": "110",
+          "prs": "110",
+          "sng": "107"
+        },
+        {
+          "song": "Linger Awhile",
+          "mus": "106",
+          "prs": "106",
+          "sng": "107"
+        }
+      ]
+    },
+    {
+      "name": "Spirit Of The South",
+      "type": "chorus",
+      "place": "7",
+      "tot_score": "646",
+      "pc_score": "53.8",
+      "director": "Lucy van de Ven",
+      "singers": "19",
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "104",
+          "prs": "109",
+          "sng": "106"
+        },
+        {
+          "song": "If You Love Me Really Love Me",
+          "mus": "111",
+          "prs": "110",
+          "sng": "106"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Delyth Knight"
+    },
+    {
+      "cat": "mus",
+      "name": "Jean Sutton"
+    },
+    {
+      "cat": "prs",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "prs",
+      "name": "Liz Joyce"
+    },
+    {
+      "cat": "sng",
+      "name": "Nancy Kelsall"
+    },
+    {
+      "cat": "sng",
+      "name": "Nicky Salt"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    }
+  ]
+}

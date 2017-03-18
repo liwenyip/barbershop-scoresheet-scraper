@@ -1,0 +1,778 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL CHORUS FINALS (NATIONAL STREAM)  -  BOURNEMOUTH: 2015",
+  "date": "31/10/2015",
+  "contestants": [
+    {
+      "name": "The White Rosettes",
+      "type": "chorus",
+      "place": "1",
+      "tot_score": "1501",
+      "pc_score": "83.4",
+      "director": "Sally McLean",
+      "singers": "66",
+      "songs": [
+        {
+          "song": "You'll Never Know",
+          "mus": "251",
+          "prs": "250",
+          "sng": "252"
+        },
+        {
+          "song": "Puttin' On The Ritz",
+          "mus": "250",
+          "prs": "250",
+          "sng": "248"
+        }
+      ]
+    },
+    {
+      "name": "Amersham A Cappella",
+      "type": "chorus",
+      "place": "2",
+      "tot_score": "1479",
+      "pc_score": "82.2",
+      "director": "Helen Lappert",
+      "singers": "59",
+      "songs": [
+        {
+          "song": "Some Enchanted Evening",
+          "mus": "248",
+          "prs": "242",
+          "sng": "246"
+        },
+        {
+          "song": "Hot Note Medley",
+          "mus": "248",
+          "prs": "247",
+          "sng": "248"
+        }
+      ]
+    },
+    {
+      "name": "Gem Connection",
+      "type": "chorus",
+      "place": "3",
+      "tot_score": "1391",
+      "pc_score": "77.3",
+      "director": "Rachael Murphy",
+      "singers": "54",
+      "songs": [
+        {
+          "song": "The Night Has A Thousand Eyes",
+          "mus": "239",
+          "prs": "227",
+          "sng": "229"
+        },
+        {
+          "song": "Lover Come Back To Me",
+          "mus": "241",
+          "prs": "226",
+          "sng": "229"
+        }
+      ]
+    },
+    {
+      "name": "Crystal Chords",
+      "type": "chorus",
+      "place": "4",
+      "tot_score": "1378",
+      "pc_score": "76.6",
+      "director": "Monica Funnell",
+      "singers": "55",
+      "songs": [
+        {
+          "song": "All The Way",
+          "mus": "226",
+          "prs": "228",
+          "sng": "230"
+        },
+        {
+          "song": "Let's Do It (Let's Fall In Love)",
+          "mus": "232",
+          "prs": "233",
+          "sng": "229"
+        }
+      ]
+    },
+    {
+      "name": "Fascinating Rhythm",
+      "type": "chorus",
+      "place": "5",
+      "tot_score": "1334",
+      "pc_score": "74.1",
+      "director": "Jo Dean",
+      "singers": "56",
+      "songs": [
+        {
+          "song": "Sway",
+          "mus": "223",
+          "prs": "217",
+          "sng": "224"
+        },
+        {
+          "song": "Manhattan",
+          "mus": "228",
+          "prs": "220",
+          "sng": "222"
+        }
+      ]
+    },
+    {
+      "name": "Capital Connection",
+      "type": "chorus",
+      "place": "6",
+      "tot_score": "1320",
+      "pc_score": "73.3",
+      "director": "Debi Cox",
+      "singers": "44",
+      "songs": [
+        {
+          "song": "New Orleans Medley",
+          "mus": "224",
+          "prs": "222",
+          "sng": "217"
+        },
+        {
+          "song": "South Rampart Street Parade",
+          "mus": "222",
+          "prs": "224",
+          "sng": "211"
+        }
+      ]
+    },
+    {
+      "name": "Belles Of Three Spires",
+      "type": "chorus",
+      "place": "7",
+      "tot_score": "1302",
+      "pc_score": "72.3",
+      "director": "Lucy Guess",
+      "singers": "69",
+      "songs": [
+        {
+          "song": "It's You",
+          "mus": "215",
+          "prs": "216",
+          "sng": "220"
+        },
+        {
+          "song": "The Joint Is Jumpin'",
+          "mus": "218",
+          "prs": "214",
+          "sng": "219"
+        }
+      ]
+    },
+    {
+      "name": "Affinity Show Chorus",
+      "type": "chorus",
+      "place": "8",
+      "tot_score": "1301",
+      "pc_score": "72.3",
+      "director": "Lesley Carson",
+      "singers": "46",
+      "songs": [
+        {
+          "song": "The Night Has A Thousand Eyes",
+          "mus": "220",
+          "prs": "218",
+          "sng": "214"
+        },
+        {
+          "song": "My Foolish Heart",
+          "mus": "216",
+          "prs": "216",
+          "sng": "217"
+        }
+      ]
+    },
+    {
+      "name": "Red Rosettes",
+      "type": "chorus",
+      "place": "9",
+      "tot_score": "1295",
+      "pc_score": "71.9",
+      "director": "Emma McManus",
+      "singers": "44",
+      "songs": [
+        {
+          "song": "Swanee",
+          "mus": "216",
+          "prs": "214",
+          "sng": "214"
+        },
+        {
+          "song": "Over The Rainbow",
+          "mus": "217",
+          "prs": "215",
+          "sng": "219"
+        }
+      ]
+    },
+    {
+      "name": "Bristol Fashion",
+      "type": "chorus",
+      "place": "10",
+      "tot_score": "1280",
+      "pc_score": "71.1",
+      "director": "Craig Kehoe",
+      "singers": "45",
+      "songs": [
+        {
+          "song": "Some Enchanted Evening",
+          "mus": "216",
+          "prs": "207",
+          "sng": "214"
+        },
+        {
+          "song": "What Kind Of Fool Am I?",
+          "mus": "217",
+          "prs": "211",
+          "sng": "215"
+        }
+      ]
+    },
+    {
+      "name": "Second City Sound",
+      "type": "chorus",
+      "place": "10",
+      "tot_score": "1280",
+      "pc_score": "71.1",
+      "director": "Rod Butcher",
+      "singers": "48",
+      "songs": [
+        {
+          "song": "It's You",
+          "mus": "212",
+          "prs": "217",
+          "sng": "212"
+        },
+        {
+          "song": "I Want You, I Need You, I Love You",
+          "mus": "214",
+          "prs": "215",
+          "sng": "210"
+        }
+      ]
+    },
+    {
+      "name": "Silver Lining",
+      "type": "chorus",
+      "place": "12",
+      "tot_score": "1272",
+      "pc_score": "70.7",
+      "director": "Sara Jackson",
+      "singers": "38",
+      "songs": [
+        {
+          "song": "If I Love Again",
+          "mus": "212",
+          "prs": "210",
+          "sng": "212"
+        },
+        {
+          "song": "I Can't Give You Anything But Love / Steppin' Out Medley",
+          "mus": "216",
+          "prs": "211",
+          "sng": "211"
+        }
+      ]
+    },
+    {
+      "name": "Green Street Blues",
+      "type": "chorus",
+      "place": "13",
+      "tot_score": "1220",
+      "pc_score": "67.8",
+      "director": "Mark Grindall",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "And I Love You So",
+          "mus": "208",
+          "prs": "199",
+          "sng": "204"
+        },
+        {
+          "song": "Straighten Up And Fly Right",
+          "mus": "205",
+          "prs": "201",
+          "sng": "203"
+        }
+      ]
+    },
+    {
+      "name": "Norwich Harmony",
+      "type": "chorus",
+      "place": "14",
+      "tot_score": "1204",
+      "pc_score": "66.9",
+      "director": "Alison Thompson",
+      "singers": "37",
+      "songs": [
+        {
+          "song": "The Way You Look Tonight",
+          "mus": "202",
+          "prs": "200",
+          "sng": "200"
+        },
+        {
+          "song": "My Foolish Heart",
+          "mus": "204",
+          "prs": "201",
+          "sng": "197"
+        }
+      ]
+    },
+    {
+      "name": "Yours in Harmony",
+      "type": "chorus",
+      "place": "15",
+      "tot_score": "1179",
+      "pc_score": "65.5",
+      "director": "Anne Proctor",
+      "singers": "38",
+      "songs": [
+        {
+          "song": "As Long As He Needs Me",
+          "mus": "198",
+          "prs": "193",
+          "sng": "197"
+        },
+        {
+          "song": "Razzle Dazzle",
+          "mus": "200",
+          "prs": "196",
+          "sng": "195"
+        }
+      ]
+    },
+    {
+      "name": "Mountain Harmony",
+      "type": "chorus",
+      "place": "16",
+      "tot_score": "1177",
+      "pc_score": "65.4",
+      "director": "Nova Evans",
+      "singers": "38",
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "194",
+          "prs": "193",
+          "sng": "200"
+        },
+        {
+          "song": "All The Way",
+          "mus": "195",
+          "prs": "195",
+          "sng": "200"
+        }
+      ]
+    },
+    {
+      "name": "Brunel Harmony",
+      "type": "chorus",
+      "place": "17",
+      "tot_score": "1159",
+      "pc_score": "64.4",
+      "director": "Delyth Knight",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "Broadway Baby",
+          "mus": "190",
+          "prs": "190",
+          "sng": "196"
+        },
+        {
+          "song": "Broadway Star Medley",
+          "mus": "196",
+          "prs": "191",
+          "sng": "196"
+        }
+      ]
+    },
+    {
+      "name": "Chorus Iceni",
+      "type": "chorus",
+      "place": "17",
+      "tot_score": "1159",
+      "pc_score": "64.4",
+      "director": "Ian and Nickie James",
+      "singers": "39",
+      "songs": [
+        {
+          "song": "You Don't Know Me",
+          "mus": "196",
+          "prs": "191",
+          "sng": "193"
+        },
+        {
+          "song": "I Can't Give You Anything By Love Baby / L O V E Medley",
+          "mus": "197",
+          "prs": "190",
+          "sng": "192"
+        }
+      ]
+    },
+    {
+      "name": "Main Street Sound",
+      "type": "chorus",
+      "place": "19",
+      "tot_score": "1158",
+      "pc_score": "64.3",
+      "director": "Terry Adamson",
+      "singers": "36",
+      "songs": [
+        {
+          "song": "After You've Gone",
+          "mus": "197",
+          "prs": "189",
+          "sng": "194"
+        },
+        {
+          "song": "On The Sunny Side Of The Street",
+          "mus": "193",
+          "prs": "190",
+          "sng": "195"
+        }
+      ]
+    },
+    {
+      "name": "Pennine Chimes",
+      "type": "chorus",
+      "place": "20",
+      "tot_score": "1156",
+      "pc_score": "64.2",
+      "director": "Kim Webb",
+      "singers": "28",
+      "songs": [
+        {
+          "song": "Forget It, I've Had It",
+          "mus": "196",
+          "prs": "187",
+          "sng": "196"
+        },
+        {
+          "song": "No Strings",
+          "mus": "194",
+          "prs": "187",
+          "sng": "196"
+        }
+      ]
+    },
+    {
+      "name": "Welwyn Harmony",
+      "type": "chorus",
+      "place": "21",
+      "tot_score": "1150",
+      "pc_score": "63.9",
+      "director": "Helen Bylett",
+      "singers": "33",
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "190",
+          "prs": "191",
+          "sng": "191"
+        },
+        {
+          "song": "If I Give My Heart To You",
+          "mus": "194",
+          "prs": "193",
+          "sng": "191"
+        }
+      ]
+    },
+    {
+      "name": "The Tudor Roses",
+      "type": "chorus",
+      "place": "22",
+      "tot_score": "1127",
+      "pc_score": "62.6",
+      "director": "Di Crosfield",
+      "singers": "36",
+      "songs": [
+        {
+          "song": "Each Time I Fall In Love",
+          "mus": "187",
+          "prs": "185",
+          "sng": "188"
+        },
+        {
+          "song": "If I Give My Heart To You",
+          "mus": "190",
+          "prs": "189",
+          "sng": "188"
+        }
+      ]
+    },
+    {
+      "name": "The Chordettes",
+      "type": "chorus",
+      "place": "23",
+      "tot_score": "1096",
+      "pc_score": "60.9",
+      "director": "Jane Barry",
+      "singers": "43",
+      "songs": [
+        {
+          "song": "The Night Has A Thousand Eyes",
+          "mus": "183",
+          "prs": "184",
+          "sng": "175"
+        },
+        {
+          "song": "You Don't Kinow Me",
+          "mus": "188",
+          "prs": "188",
+          "sng": "178"
+        }
+      ]
+    },
+    {
+      "name": "Wessex Harmony",
+      "type": "chorus",
+      "place": "24",
+      "tot_score": "1092",
+      "pc_score": "60.7",
+      "director": "Dyrck Lamble",
+      "singers": "33",
+      "songs": [
+        {
+          "song": "Somewhere Over The Rainbow",
+          "mus": "187",
+          "prs": "182",
+          "sng": "183"
+        },
+        {
+          "song": "It Was Love At First Sight",
+          "mus": "180",
+          "prs": "184",
+          "sng": "176"
+        }
+      ]
+    },
+    {
+      "name": "Mersey Harmony",
+      "type": "chorus",
+      "place": "25",
+      "tot_score": "1077",
+      "pc_score": "59.8",
+      "director": "Ted Ward",
+      "singers": "29",
+      "songs": [
+        {
+          "song": "My Baby Just Cares For Me",
+          "mus": "175",
+          "prs": "181",
+          "sng": "185"
+        },
+        {
+          "song": "Nevertheless",
+          "mus": "175",
+          "prs": "179",
+          "sng": "182"
+        }
+      ]
+    },
+    {
+      "name": "Harmony InSpires",
+      "type": "chorus",
+      "place": "26",
+      "tot_score": "1065",
+      "pc_score": "59.2",
+      "director": "Peter Cookson",
+      "singers": "40",
+      "songs": [
+        {
+          "song": "Love Letters",
+          "mus": "185",
+          "prs": "177",
+          "sng": "172"
+        },
+        {
+          "song": "I Don't Care If The Sun Don't Shine / Steppin' Out Medley",
+          "mus": "184",
+          "prs": "178",
+          "sng": "169"
+        }
+      ]
+    },
+    {
+      "name": "The Barberettes",
+      "type": "chorus",
+      "place": "27",
+      "tot_score": "1046",
+      "pc_score": "58.1",
+      "director": "Emma Lelliott",
+      "singers": "29",
+      "songs": [
+        {
+          "song": "If Ever I Would Leave You",
+          "mus": "179",
+          "prs": "177",
+          "sng": "174"
+        },
+        {
+          "song": "Love Eyes Medley",
+          "mus": "174",
+          "prs": "173",
+          "sng": "169"
+        }
+      ]
+    },
+    {
+      "name": "Albacappella",
+      "type": "chorus",
+      "place": "28",
+      "tot_score": "1036",
+      "pc_score": "57.6",
+      "director": "Mike Warner",
+      "singers": "16",
+      "songs": [
+        {
+          "song": "Yesterday I Heard The Rain",
+          "mus": "177",
+          "prs": "172",
+          "sng": "170"
+        },
+        {
+          "song": "Wrap Your Troubles In Dreams",
+          "mus": "176",
+          "prs": "171",
+          "sng": "170"
+        }
+      ]
+    },
+    {
+      "name": "Abbey Belles",
+      "type": "chorus",
+      "place": "29",
+      "tot_score": "1026",
+      "pc_score": "57.0",
+      "director": "Catrina Webb",
+      "singers": "22",
+      "songs": [
+        {
+          "song": "Orange Coloured Sky",
+          "mus": "170",
+          "prs": "173",
+          "sng": "168"
+        },
+        {
+          "song": "With A Song In My Heart",
+          "mus": "169",
+          "prs": "173",
+          "sng": "173"
+        }
+      ]
+    },
+    {
+      "name": "Guildford Harmony",
+      "type": "chorus",
+      "place": "30",
+      "tot_score": "1012",
+      "pc_score": "56.2",
+      "director": "Andrew Edgley",
+      "singers": "17",
+      "songs": [
+        {
+          "song": "As Long As He Needs Me",
+          "mus": "174",
+          "prs": "168",
+          "sng": "169"
+        },
+        {
+          "song": "Consider Yourself",
+          "mus": "168",
+          "prs": "168",
+          "sng": "165"
+        }
+      ]
+    },
+    {
+      "name": "Spirit Of The South",
+      "type": "chorus",
+      "place": "31",
+      "tot_score": "993",
+      "pc_score": "55.2",
+      "director": "Lucy van de Ven",
+      "singers": "24",
+      "songs": [
+        {
+          "song": "After You've Gone",
+          "mus": "167",
+          "prs": "169",
+          "sng": "159"
+        },
+        {
+          "song": "At Last",
+          "mus": "170",
+          "prs": "168",
+          "sng": "160"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Rob Campbell"
+    },
+    {
+      "cat": "mus",
+      "name": "Jenny Mills"
+    },
+    {
+      "cat": "mus",
+      "name": "Joyce Stroud"
+    },
+    {
+      "cat": "prs",
+      "name": "Andy Funnell"
+    },
+    {
+      "cat": "prs",
+      "name": "Linda van Buerink"
+    },
+    {
+      "cat": "prs",
+      "name": "Alison Zdzylowski"
+    },
+    {
+      "cat": "sng",
+      "name": "Nancy Kelsall"
+    },
+    {
+      "cat": "sng",
+      "name": "Nicky Salt"
+    },
+    {
+      "cat": "sng",
+      "name": "Paula Taylor-Williams"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Charles Grainger"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    },
+    {
+      "cat": "ca",
+      "name": "Gail Grainger"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    }
+  ]
+}

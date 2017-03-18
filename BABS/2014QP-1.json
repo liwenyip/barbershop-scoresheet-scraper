@@ -1,0 +1,40 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET PRELIM CONTEST 1-BIRMINGHAM: 2014/2015",
+  "date": "16/11/2014",
+  "contestants": [],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Helen Brown"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "s",
+      "name": "Cherry Hartshorn"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Alastair Tayl"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL CHORUS PRELIMS ROUND 2-BRISTOL: 2011",
+  "date": "09/04/2011",
+  "contestants": [
+    {
+      "name": "Fascinating Rhythm",
+      "type": "chorus",
+      "place": "1",
+      "tot_score": "862",
+      "pc_score": "71.8",
+      "director": "Jo Dean",
+      "singers": "40",
+      "songs": [
+        {
+          "song": "Flying Sinatra Medley",
+          "mus": "142",
+          "prs": "140",
+          "sng": "150"
+        },
+        {
+          "song": "How Deep Is The Ocean?",
+          "mus": "141",
+          "prs": "140",
+          "sng": "149"
+        }
+      ]
+    },
+    {
+      "name": "Bristol Fashion",
+      "type": "chorus",
+      "place": "2",
+      "tot_score": "783",
+      "pc_score": "65.3",
+      "director": "Craig Kehoe",
+      "singers": "47",
+      "songs": [
+        {
+          "song": "If I Love Again",
+          "mus": "125",
+          "prs": "129",
+          "sng": "134"
+        },
+        {
+          "song": "Time After Time",
+          "mus": "129",
+          "prs": "131",
+          "sng": "135"
+        }
+      ]
+    },
+    {
+      "name": "The Tudor Roses",
+      "type": "chorus",
+      "place": "3",
+      "tot_score": "746",
+      "pc_score": "62.2",
+      "director": "Di Crosfield",
+      "singers": "29",
+      "songs": [
+        {
+          "song": "How Deep Is The Ocean?",
+          "mus": "127",
+          "prs": "116",
+          "sng": "126"
+        },
+        {
+          "song": "You Make Me Feel So Young",
+          "mus": "129",
+          "prs": "124",
+          "sng": "124"
+        }
+      ]
+    },
+    {
+      "name": "Avon Harmony",
+      "type": "chorus",
+      "place": "4",
+      "tot_score": "723",
+      "pc_score": "60.3",
+      "director": "David Proud",
+      "singers": "27",
+      "songs": [
+        {
+          "song": "How Deep Is The Ocean?",
+          "mus": "120",
+          "prs": "118",
+          "sng": "122"
+        },
+        {
+          "song": "The Moment I Saw Your Eyes",
+          "mus": "119",
+          "prs": "124",
+          "sng": "120"
+        }
+      ]
+    },
+    {
+      "name": "Brunel Harmony",
+      "type": "chorus",
+      "place": "5",
+      "tot_score": "690",
+      "pc_score": "57.5",
+      "director": "Delyth Knight",
+      "singers": "18",
+      "songs": [
+        {
+          "song": "A Nightingale Sang In Berkeley Square",
+          "mus": "115",
+          "prs": "120",
+          "sng": "110"
+        },
+        {
+          "song": "Deed I Do / Put Your Arms Around Me Honey Medley",
+          "mus": "121",
+          "prs": "115",
+          "sng": "109"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "mus",
+      "name": "Joyce Stroud"
+    },
+    {
+      "cat": "prs",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "prs",
+      "name": "Liz Joyce"
+    },
+    {
+      "cat": "sng",
+      "name": "Paula Taylor-Williams"
+    },
+    {
+      "cat": "sng",
+      "name": "Alison Thompson"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    }
+  ]
+}

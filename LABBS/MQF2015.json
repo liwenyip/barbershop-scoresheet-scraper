@@ -1,0 +1,591 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "MIXED QUARTET FINALS-BOURNEMOUTH: 2015",
+  "date": "01/11/2015",
+  "contestants": [
+    {
+      "name": "Hannah and the Hurricanes",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "922",
+      "pc_score": "76.8",
+      "singers": [
+        {
+          "name": "Andrea Day",
+          "part": "tenor"
+        },
+        {
+          "name": "Hannah Braham",
+          "part": "lead"
+        },
+        {
+          "name": "Tim Briggs",
+          "part": "bari"
+        },
+        {
+          "name": "Duncan Whinyates",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Nearness Of You",
+          "mus": "152",
+          "prs": "153",
+          "sng": "154"
+        },
+        {
+          "song": "You Took Advantage Of Me",
+          "mus": "154",
+          "prs": "153",
+          "sng": "156"
+        }
+      ]
+    },
+    {
+      "name": "MasterMix",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "889",
+      "pc_score": "74.1",
+      "singers": [
+        {
+          "name": "Cherie Morgan",
+          "part": "tenor"
+        },
+        {
+          "name": "Sarah Cole",
+          "part": "lead"
+        },
+        {
+          "name": "Brian Shaw",
+          "part": "bari"
+        },
+        {
+          "name": "Kenneth Nilsson",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Steppin' Out With My Baby",
+          "mus": "144",
+          "prs": "145",
+          "sng": "154"
+        },
+        {
+          "song": "You Are So Beautiful",
+          "mus": "147",
+          "prs": "147",
+          "sng": "152"
+        }
+      ]
+    },
+    {
+      "name": "Mojo",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "882",
+      "pc_score": "73.5",
+      "singers": [
+        {
+          "name": "Rose Hopkinson",
+          "part": "tenor"
+        },
+        {
+          "name": "Jon Conway",
+          "part": "lead"
+        },
+        {
+          "name": "Helen Lappert",
+          "part": "bari"
+        },
+        {
+          "name": "David Tanner",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Sooner Or Later / Ask Me Medley",
+          "mus": "149",
+          "prs": "146",
+          "sng": "146"
+        },
+        {
+          "song": "Always",
+          "mus": "148",
+          "prs": "147",
+          "sng": "146"
+        }
+      ]
+    },
+    {
+      "name": "Way Out West",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "799",
+      "pc_score": "66.6",
+      "singers": [
+        {
+          "name": "Dick Knight",
+          "part": "tenor"
+        },
+        {
+          "name": "Tracey Bailey",
+          "part": "lead"
+        },
+        {
+          "name": "Delyth Knight",
+          "part": "bari"
+        },
+        {
+          "name": "Steve Neck",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "On A Slow Boat To China",
+          "mus": "139",
+          "prs": "131",
+          "sng": "131"
+        },
+        {
+          "song": "Almost Like Being In Love",
+          "mus": "136",
+          "prs": "129",
+          "sng": "133"
+        }
+      ]
+    },
+    {
+      "name": "Frisson",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "781",
+      "pc_score": "65.1",
+      "singers": [
+        {
+          "name": "Helen Lappert",
+          "part": "tenor"
+        },
+        {
+          "name": "Cathy Davies",
+          "part": "lead"
+        },
+        {
+          "name": "Di Harris",
+          "part": "bari"
+        },
+        {
+          "name": "Andrew Binns",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Lover Come Back To Me",
+          "mus": "127",
+          "prs": "129",
+          "sng": "131"
+        },
+        {
+          "song": "Nice Work If You Can Get It",
+          "mus": "129",
+          "prs": "132",
+          "sng": "133"
+        }
+      ]
+    },
+    {
+      "name": "Patchwork",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "779",
+      "pc_score": "64.9",
+      "singers": [
+        {
+          "name": "Pippa Goodall",
+          "part": "tenor"
+        },
+        {
+          "name": "Helen Warner",
+          "part": "lead"
+        },
+        {
+          "name": "James Whittick",
+          "part": "bari"
+        },
+        {
+          "name": "Sean Egan",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "'Til I Hear You Sing",
+          "mus": "127",
+          "prs": "123",
+          "sng": "131"
+        },
+        {
+          "song": "The Night Has A Thousand Eyes",
+          "mus": "137",
+          "prs": "128",
+          "sng": "133"
+        }
+      ]
+    },
+    {
+      "name": "Man Overboard!",
+      "type": "quartet",
+      "place": "7",
+      "tot_score": "770",
+      "pc_score": "64.2",
+      "singers": [
+        {
+          "name": "Alison Thompson",
+          "part": "tenor"
+        },
+        {
+          "name": "Carol Logan",
+          "part": "lead"
+        },
+        {
+          "name": "Kate Goddard",
+          "part": "bari"
+        },
+        {
+          "name": "David Moore",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "There, I've Said It Again",
+          "mus": "133",
+          "prs": "127",
+          "sng": "127"
+        },
+        {
+          "song": "Dream A Little Dream Of Me",
+          "mus": "129",
+          "prs": "128",
+          "sng": "126"
+        }
+      ]
+    },
+    {
+      "name": "Constellation",
+      "type": "quartet",
+      "place": "8",
+      "tot_score": "755",
+      "pc_score": "62.9",
+      "singers": [
+        {
+          "name": "Boo de Bruin",
+          "part": "tenor"
+        },
+        {
+          "name": "Nick Jones",
+          "part": "lead"
+        },
+        {
+          "name": "Alexander de Bruin",
+          "part": "bari"
+        },
+        {
+          "name": "Alexander Sanctuary",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "A Fool Such As I",
+          "mus": "138",
+          "prs": "125",
+          "sng": "131"
+        },
+        {
+          "song": "Come What May",
+          "mus": "128",
+          "prs": "117",
+          "sng": "116"
+        }
+      ]
+    },
+    {
+      "name": "Blind Date",
+      "type": "quartet",
+      "place": "9",
+      "tot_score": "738",
+      "pc_score": "61.5",
+      "singers": [
+        {
+          "name": "Nicki Brant",
+          "part": "tenor"
+        },
+        {
+          "name": "Andrew Lilico",
+          "part": "lead"
+        },
+        {
+          "name": "Aidan Brand",
+          "part": "bari"
+        },
+        {
+          "name": "Li Wen Yip",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Smile",
+          "mus": "131",
+          "prs": "120",
+          "sng": "115"
+        },
+        {
+          "song": "It Had To Be You",
+          "mus": "134",
+          "prs": "122",
+          "sng": "116"
+        }
+      ]
+    },
+    {
+      "name": "BS4",
+      "type": "quartet",
+      "place": "10",
+      "tot_score": "718",
+      "pc_score": "59.8",
+      "singers": [
+        {
+          "name": "Mary Williams",
+          "part": "tenor"
+        },
+        {
+          "name": "Sue Davis",
+          "part": "lead"
+        },
+        {
+          "name": "Noey McElwee",
+          "part": "bari"
+        },
+        {
+          "name": "David Proud",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Me, And The World Is Mine",
+          "mus": "128",
+          "prs": "119",
+          "sng": "116"
+        },
+        {
+          "song": "Make 'Em Laugh",
+          "mus": "122",
+          "prs": "120",
+          "sng": "113"
+        }
+      ]
+    },
+    {
+      "name": "4 Moor",
+      "type": "quartet",
+      "place": "11",
+      "tot_score": "691",
+      "pc_score": "57.6",
+      "singers": [
+        {
+          "name": "Val Metcalf",
+          "part": "tenor"
+        },
+        {
+          "name": "Jo Stevenson",
+          "part": "lead"
+        },
+        {
+          "name": "Richard Knight",
+          "part": "bari"
+        },
+        {
+          "name": "Sharon Ashby",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Dream A Little Dream Of Me",
+          "mus": "112",
+          "prs": "116",
+          "sng": "115"
+        },
+        {
+          "song": "Heart Of My Heart",
+          "mus": "115",
+          "prs": "119",
+          "sng": "114"
+        }
+      ]
+    },
+    {
+      "name": "4Kandles",
+      "type": "quartet",
+      "place": "12",
+      "tot_score": "687",
+      "pc_score": "57.3",
+      "singers": [
+        {
+          "name": "Sarah Hooker",
+          "part": "tenor"
+        },
+        {
+          "name": "Justine Nye",
+          "part": "lead"
+        },
+        {
+          "name": "Khusro Ali Khan",
+          "part": "bari"
+        },
+        {
+          "name": "Jerry Cadge",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Peter Pan Medley",
+          "mus": "113",
+          "prs": "116",
+          "sng": "105"
+        },
+        {
+          "song": "Second Star From The Right",
+          "mus": "120",
+          "prs": "118",
+          "sng": "115"
+        }
+      ]
+    },
+    {
+      "name": "Tetrafonica",
+      "type": "quartet",
+      "place": "12",
+      "tot_score": "687",
+      "pc_score": "57.3",
+      "singers": [
+        {
+          "name": "Rachel Dunn",
+          "part": "tenor"
+        },
+        {
+          "name": "Jake Wheeler",
+          "part": "lead"
+        },
+        {
+          "name": "Lynne Lawrance",
+          "part": "bari"
+        },
+        {
+          "name": "Gary Wells",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Georgia On My Mind",
+          "mus": "113",
+          "prs": "117",
+          "sng": "113"
+        },
+        {
+          "song": "I'm Alone Because I Love You",
+          "mus": "115",
+          "prs": "115",
+          "sng": "114"
+        }
+      ]
+    },
+    {
+      "name": "Noteability",
+      "type": "quartet",
+      "place": "14",
+      "tot_score": "680",
+      "pc_score": "56.7",
+      "singers": [
+        {
+          "name": "Jill Barnes",
+          "part": "tenor"
+        },
+        {
+          "name": "Stewart Boucher",
+          "part": "lead"
+        },
+        {
+          "name": "Kevin Barnes",
+          "part": "bari"
+        },
+        {
+          "name": "John Green",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "For All We Know",
+          "mus": "118",
+          "prs": "113",
+          "sng": "108"
+        },
+        {
+          "song": "It's Only A Paper Moon",
+          "mus": "117",
+          "prs": "114",
+          "sng": "110"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Rob Campbell"
+    },
+    {
+      "cat": "mus",
+      "name": "Joyce Stroud"
+    },
+    {
+      "cat": "prs",
+      "name": "Andy Funnell"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie James"
+    },
+    {
+      "cat": "sng",
+      "name": "Monica Funnell"
+    },
+    {
+      "cat": "sng",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Gail Grainger"
+    },
+    {
+      "cat": "ca",
+      "name": "Charles Grainger"
+    }
+  ]
+}

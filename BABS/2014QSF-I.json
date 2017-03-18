@@ -1,0 +1,763 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET SEMI-FINAL (INTERNATIONAL STREAM)  -  HARROGATE: 2013/2014",
+  "date": "23/05/2014",
+  "contestants": [
+    {
+      "name": "RECKLESS",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "1425",
+      "pc_score": "79.2",
+      "singers": [
+        {
+          "name": "Andy Foster",
+          "part": "tenor"
+        },
+        {
+          "name": "Duncan Whinyates",
+          "part": "lead"
+        },
+        {
+          "name": "Dale Kynaston",
+          "part": "bari"
+        },
+        {
+          "name": "Andy Funnell",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Don't Be A Baby, Baby",
+          "mus": "238",
+          "prs": "234",
+          "sng": "232"
+        },
+        {
+          "song": "Stormy Weather",
+          "mus": "244",
+          "prs": "242",
+          "sng": "235"
+        }
+      ]
+    },
+    {
+      "name": "The Hanfris Quartet",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "1420",
+      "pc_score": "78.9",
+      "singers": [
+        {
+          "name": "Jordi Forcadell",
+          "part": "tenor"
+        },
+        {
+          "name": "Gener Salicru",
+          "part": "lead"
+        },
+        {
+          "name": "Juan Bertrand",
+          "part": "bari"
+        },
+        {
+          "name": "Adria Sivilla",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Can't Give You Anything But Love",
+          "mus": "242",
+          "prs": "229",
+          "sng": "237"
+        },
+        {
+          "song": "Make 'Em Laugh",
+          "mus": "247",
+          "prs": "231",
+          "sng": "234"
+        }
+      ]
+    },
+    {
+      "name": "Park Street",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "1403",
+      "pc_score": "77.9",
+      "singers": [
+        {
+          "name": "Laurence Hasso",
+          "part": "tenor"
+        },
+        {
+          "name": "Alastair Hay-Plumb",
+          "part": "lead"
+        },
+        {
+          "name": "David Foot",
+          "part": "bari"
+        },
+        {
+          "name": "Simon Arnott",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Oh, Look At Me Now",
+          "mus": "239",
+          "prs": "233",
+          "sng": "230"
+        },
+        {
+          "song": "Just A Cottage Small",
+          "mus": "236",
+          "prs": "234",
+          "sng": "231"
+        }
+      ]
+    },
+    {
+      "name": "Portobello Road",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "1403",
+      "pc_score": "77.9",
+      "singers": [
+        {
+          "name": "Ian James",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Schofield",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Emery",
+          "part": "bari"
+        },
+        {
+          "name": "Stuart Owen",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Wouldn't It Be Lovely",
+          "mus": "235",
+          "prs": "233",
+          "sng": "235"
+        },
+        {
+          "song": "There, I've Said It Again",
+          "mus": "233",
+          "prs": "233",
+          "sng": "234"
+        }
+      ]
+    },
+    {
+      "name": "The Emerald Guard",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "1383",
+      "pc_score": "76.8",
+      "singers": [
+        {
+          "name": "Antoine Kaiserman",
+          "part": "tenor"
+        },
+        {
+          "name": "Tim Briggs",
+          "part": "lead"
+        },
+        {
+          "name": "Andy Allen",
+          "part": "bari"
+        },
+        {
+          "name": "Duncan Blackeby",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Their Hearts Were Full Of Spring",
+          "mus": "241",
+          "prs": "227",
+          "sng": "227"
+        },
+        {
+          "song": "Mr. Success",
+          "mus": "229",
+          "prs": "230",
+          "sng": "229"
+        }
+      ]
+    },
+    {
+      "name": "HomeSpun",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "1332",
+      "pc_score": "74.0",
+      "singers": [
+        {
+          "name": "James Williams",
+          "part": "tenor"
+        },
+        {
+          "name": "Eddie Williams",
+          "part": "lead"
+        },
+        {
+          "name": "Nick Williams",
+          "part": "bari"
+        },
+        {
+          "name": "Nigel Williams",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Honey Medley",
+          "mus": "225",
+          "prs": "223",
+          "sng": "222"
+        },
+        {
+          "song": "Where The Southern Roses Grow",
+          "mus": "221",
+          "prs": "226",
+          "sng": "215"
+        }
+      ]
+    },
+    {
+      "name": "QuarteTones",
+      "type": "quartet",
+      "place": "7",
+      "tot_score": "1313",
+      "pc_score": "72.9",
+      "singers": [
+        {
+          "name": "Graham Harper",
+          "part": "tenor"
+        },
+        {
+          "name": "Richard Gardner",
+          "part": "lead"
+        },
+        {
+          "name": "Alex du Bruin",
+          "part": "bari"
+        },
+        {
+          "name": "Iain Hallam",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Way You Look Tonight",
+          "mus": "213",
+          "prs": "218",
+          "sng": "213"
+        },
+        {
+          "song": "All Aboard For Dixie Land",
+          "mus": "228",
+          "prs": "224",
+          "sng": "217"
+        }
+      ]
+    },
+    {
+      "name": "eXceL",
+      "type": "quartet",
+      "place": "8",
+      "tot_score": "1307",
+      "pc_score": "72.6",
+      "singers": [
+        {
+          "name": "Simon Hunt",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy Salter",
+          "part": "lead"
+        },
+        {
+          "name": "Dave Whittle",
+          "part": "bari"
+        },
+        {
+          "name": "Jon Dawson",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Walkin' My Baby Back Home",
+          "mus": "216",
+          "prs": "215",
+          "sng": "215"
+        },
+        {
+          "song": "All The Way",
+          "mus": "224",
+          "prs": "220",
+          "sng": "217"
+        }
+      ]
+    },
+    {
+      "name": "Tagline",
+      "type": "quartet",
+      "place": "9",
+      "tot_score": "1305",
+      "pc_score": "72.5",
+      "singers": [
+        {
+          "name": "Ben Ferguson",
+          "part": "tenor"
+        },
+        {
+          "name": "James Gower-Smith",
+          "part": "lead"
+        },
+        {
+          "name": "Chris Langworthy",
+          "part": "bari"
+        },
+        {
+          "name": "Rob Foot",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "My Romance",
+          "mus": "228",
+          "prs": "213",
+          "sng": "221"
+        },
+        {
+          "song": "Everybody Needs A Best Friend",
+          "mus": "216",
+          "prs": "212",
+          "sng": "215"
+        }
+      ]
+    },
+    {
+      "name": "The Simpletones",
+      "type": "quartet",
+      "place": "10",
+      "tot_score": "1222",
+      "pc_score": "67.9",
+      "singers": [
+        {
+          "name": "Nick Pawley",
+          "part": "tenor"
+        },
+        {
+          "name": "Simon Lubkowski",
+          "part": "lead"
+        },
+        {
+          "name": "Nik Robinson",
+          "part": "bari"
+        },
+        {
+          "name": "Ian White",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Won't Send Roses",
+          "mus": "207",
+          "prs": "209",
+          "sng": "196"
+        },
+        {
+          "song": "Oh! Look At Me Now",
+          "mus": "208",
+          "prs": "206",
+          "sng": "196"
+        }
+      ]
+    },
+    {
+      "name": "Soundcheck",
+      "type": "quartet",
+      "place": "11",
+      "tot_score": "1204",
+      "pc_score": "66.9",
+      "singers": [
+        {
+          "name": "Alan Wright",
+          "part": "tenor"
+        },
+        {
+          "name": "Paul Gidney",
+          "part": "lead"
+        },
+        {
+          "name": "Jack Haslam",
+          "part": "bari"
+        },
+        {
+          "name": "John Clarke",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Way You Look Tonight",
+          "mus": "202",
+          "prs": "204",
+          "sng": "205"
+        },
+        {
+          "song": "It Happened In Monterey",
+          "mus": "198",
+          "prs": "200",
+          "sng": "195"
+        }
+      ]
+    },
+    {
+      "name": "QM",
+      "type": "quartet",
+      "place": "12",
+      "tot_score": "1191",
+      "pc_score": "66.2",
+      "singers": [
+        {
+          "name": "Paul Jeffrey",
+          "part": "tenor"
+        },
+        {
+          "name": "Trevor Dawson",
+          "part": "lead"
+        },
+        {
+          "name": "Adrian Armstrong",
+          "part": "bari"
+        },
+        {
+          "name": "Steve Cox",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "It's Only A Paper Moon",
+          "mus": "204",
+          "prs": "203",
+          "sng": "194"
+        },
+        {
+          "song": "The Little Boy",
+          "mus": "196",
+          "prs": "202",
+          "sng": "192"
+        }
+      ]
+    },
+    {
+      "name": "Price Tag",
+      "type": "quartet",
+      "place": "13",
+      "tot_score": "1172",
+      "pc_score": "65.1",
+      "singers": [
+        {
+          "name": "Steve Cox",
+          "part": "tenor"
+        },
+        {
+          "name": "Andy McPhee",
+          "part": "lead"
+        },
+        {
+          "name": "Dan Jones",
+          "part": "bari"
+        },
+        {
+          "name": "Graeme Crawford",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "That's Life",
+          "mus": "202",
+          "prs": "196",
+          "sng": "189"
+        },
+        {
+          "song": "Once Upon A Time",
+          "mus": "205",
+          "prs": "196",
+          "sng": "184"
+        }
+      ]
+    },
+    {
+      "name": "Figaro",
+      "type": "quartet",
+      "place": "14",
+      "tot_score": "1168",
+      "pc_score": "64.9",
+      "singers": [
+        {
+          "name": "Aidan Brand",
+          "part": "tenor"
+        },
+        {
+          "name": "Rob Langley Jones",
+          "part": "lead"
+        },
+        {
+          "name": "Andy Rzysko",
+          "part": "bari"
+        },
+        {
+          "name": "Richard Leatham",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Old St. Louis",
+          "mus": "190",
+          "prs": "200",
+          "sng": "191"
+        },
+        {
+          "song": "Beautiful Dreamer",
+          "mus": "194",
+          "prs": "204",
+          "sng": "189"
+        }
+      ]
+    },
+    {
+      "name": "The Grand Dads",
+      "type": "quartet",
+      "place": "15",
+      "tot_score": "1167",
+      "pc_score": "64.8",
+      "singers": [
+        {
+          "name": "Mick Barnacle",
+          "part": "tenor"
+        },
+        {
+          "name": "Rob Parnham",
+          "part": "lead"
+        },
+        {
+          "name": "Dave Hughes",
+          "part": "bari"
+        },
+        {
+          "name": "Rob Taylor",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "When The Gold Turns To Grey",
+          "mus": "199",
+          "prs": "204",
+          "sng": "187"
+        },
+        {
+          "song": "Bring Back Those Good Old Days",
+          "mus": "195",
+          "prs": "197",
+          "sng": "185"
+        }
+      ]
+    },
+    {
+      "name": "The Moondogs",
+      "type": "quartet",
+      "place": "17",
+      "tot_score": "1156",
+      "pc_score": "64.2",
+      "singers": [
+        {
+          "name": "Vaughan Dooley",
+          "part": "tenor"
+        },
+        {
+          "name": "Jony Coulter",
+          "part": "lead"
+        },
+        {
+          "name": "Dean Whitehouse",
+          "part": "bari"
+        },
+        {
+          "name": "Peter Blackeby",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Masquerade Is Over",
+          "mus": "194",
+          "prs": "196",
+          "sng": "187"
+        },
+        {
+          "song": "Undecided Medley",
+          "mus": "197",
+          "prs": "195",
+          "sng": "187"
+        }
+      ]
+    },
+    {
+      "name": "Graffiti",
+      "type": "quartet",
+      "place": "18",
+      "tot_score": "1125",
+      "pc_score": "62.5",
+      "singers": [
+        {
+          "name": "Nick Howell",
+          "part": "tenor"
+        },
+        {
+          "name": "Terry Mansfield",
+          "part": "lead"
+        },
+        {
+          "name": "Gary Roussak",
+          "part": "bari"
+        },
+        {
+          "name": "Peter Williams",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "You're Nobody 'Til Somebody Loves You",
+          "mus": "190",
+          "prs": "198",
+          "sng": "182"
+        },
+        {
+          "song": "Once Upon A Time",
+          "mus": "183",
+          "prs": "195",
+          "sng": "177"
+        }
+      ]
+    },
+    {
+      "name": "Sparks",
+      "type": "quartet",
+      "place": "19",
+      "tot_score": "1118",
+      "pc_score": "62.1",
+      "singers": [
+        {
+          "name": "Hayden Cole",
+          "part": "tenor"
+        },
+        {
+          "name": "John Ward",
+          "part": "lead"
+        },
+        {
+          "name": "Ian Saxby",
+          "part": "bari"
+        },
+        {
+          "name": "Steven Neck",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "They Say It's Wonderful",
+          "mus": "190",
+          "prs": "196",
+          "sng": "183"
+        },
+        {
+          "song": "Almost Like Being In Love",
+          "mus": "179",
+          "prs": "190",
+          "sng": "180"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Nickie James"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "ca",
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "ca",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    }
+  ]
+}

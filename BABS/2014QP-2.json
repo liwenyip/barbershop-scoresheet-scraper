@@ -1,0 +1,48 @@
+{
+  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET PRELIM CONTEST 2-BIRMINGHAM: 2014/2015",
+  "date": "16/11/2014",
+  "contestants": [],
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Andy Funnell"
+    },
+    {
+      "cat": "s",
+      "name": "Rhiannon Owens-Hall"
+    },
+    {
+      "cat": "s",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Yvonne Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    }
+  ]
+}

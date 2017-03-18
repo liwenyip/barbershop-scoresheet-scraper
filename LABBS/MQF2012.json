@@ -1,0 +1,326 @@
+{
+  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "MIXED QUARTET FINALS-TELFORD: 2012",
+  "date": "28/10/2012",
+  "contestants": [
+    {
+      "name": "Double Trouble",
+      "type": "quartet",
+      "place": "1",
+      "tot_score": "903",
+      "pc_score": "75.3",
+      "singers": [
+        {
+          "name": "Jacqui Foetu",
+          "part": "tenor"
+        },
+        {
+          "name": "Monica Funnell",
+          "part": "lead"
+        },
+        {
+          "name": "Andy Foster",
+          "part": "bari"
+        },
+        {
+          "name": "Andy Funnell",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "I Only Have Eyes For You",
+          "mus": "145",
+          "prs": "146",
+          "sng": "152"
+        },
+        {
+          "song": "I Didn't Wanna Fall",
+          "mus": "153",
+          "prs": "155",
+          "sng": "152"
+        }
+      ]
+    },
+    {
+      "name": "K4",
+      "type": "quartet",
+      "place": "2",
+      "tot_score": "877",
+      "pc_score": "73.1",
+      "singers": [
+        {
+          "name": "Delyth Knight",
+          "part": "tenor"
+        },
+        {
+          "name": "Dick Knight",
+          "part": "lead"
+        },
+        {
+          "name": "Joe Knight",
+          "part": "bari"
+        },
+        {
+          "name": "Tom Knight",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "The Little Boy",
+          "mus": "142",
+          "prs": "144",
+          "sng": "153"
+        },
+        {
+          "song": "The Bass Part",
+          "mus": "144",
+          "prs": "147",
+          "sng": "147"
+        }
+      ]
+    },
+    {
+      "name": "Rhythmix",
+      "type": "quartet",
+      "place": "3",
+      "tot_score": "866",
+      "pc_score": "72.2",
+      "singers": [
+        {
+          "name": "Cherie Morgan",
+          "part": "tenor"
+        },
+        {
+          "name": "Brian Shaw",
+          "part": "lead"
+        },
+        {
+          "name": "Helen Lappert",
+          "part": "bari"
+        },
+        {
+          "name": "Stuart Owen",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Letters",
+          "mus": "147",
+          "prs": "143",
+          "sng": "141"
+        },
+        {
+          "song": "Just In Time",
+          "mus": "146",
+          "prs": "144",
+          "sng": "145"
+        }
+      ]
+    },
+    {
+      "name": "Bobcatz",
+      "type": "quartet",
+      "place": "4",
+      "tot_score": "849",
+      "pc_score": "70.8",
+      "singers": [
+        {
+          "name": "Veryan Zimber",
+          "part": "tenor"
+        },
+        {
+          "name": "Gemma Netherton-Hind",
+          "part": "lead"
+        },
+        {
+          "name": "Sarah Netherton",
+          "part": "bari"
+        },
+        {
+          "name": "Rob Barber",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Come Fly With Me",
+          "mus": "138",
+          "prs": "141",
+          "sng": "143"
+        },
+        {
+          "song": "What Kind Of Fool Am I?",
+          "mus": "144",
+          "prs": "141",
+          "sng": "142"
+        }
+      ]
+    },
+    {
+      "name": "Malarkey",
+      "type": "quartet",
+      "place": "5",
+      "tot_score": "789",
+      "pc_score": "65.8",
+      "singers": [
+        {
+          "name": "Helen Stanley",
+          "part": "tenor"
+        },
+        {
+          "name": "Jo Dean",
+          "part": "lead"
+        },
+        {
+          "name": "Steve Thorn",
+          "part": "bari"
+        },
+        {
+          "name": "Stephen Derrick",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Love Me",
+          "mus": "135",
+          "prs": "132",
+          "sng": "134"
+        },
+        {
+          "song": "Come Fly With Me",
+          "mus": "130",
+          "prs": "126",
+          "sng": "132"
+        }
+      ]
+    },
+    {
+      "name": "Grand Connection",
+      "type": "quartet",
+      "place": "6",
+      "tot_score": "731",
+      "pc_score": "60.9",
+      "singers": [
+        {
+          "name": "Chris Wheatley",
+          "part": "tenor"
+        },
+        {
+          "name": "Nigel Williams",
+          "part": "lead"
+        },
+        {
+          "name": "Kevan Liebling",
+          "part": "bari"
+        },
+        {
+          "name": "James Williams",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "Among My Souvenirs",
+          "mus": "126",
+          "prs": "120",
+          "sng": "121"
+        },
+        {
+          "song": "Love Eyes Medley",
+          "mus": "118",
+          "prs": "123",
+          "sng": "123"
+        }
+      ]
+    },
+    {
+      "name": "The Mountaineers",
+      "type": "quartet",
+      "place": "7",
+      "tot_score": "713",
+      "pc_score": "59.4",
+      "singers": [
+        {
+          "name": "Angharad Owens",
+          "part": "tenor"
+        },
+        {
+          "name": "Laura Salmon",
+          "part": "lead"
+        },
+        {
+          "name": "Lyn Gibson",
+          "part": "bari"
+        },
+        {
+          "name": "Derek Hollis",
+          "part": "bass"
+        }
+      ],
+      "songs": [
+        {
+          "song": "When I Leave The World Behind",
+          "mus": "124",
+          "prs": "116",
+          "sng": "121"
+        },
+        {
+          "song": "Can't Buy Me Love",
+          "mus": "115",
+          "prs": "122",
+          "sng": "115"
+        }
+      ]
+    }
+  ],
+  "judges": [
+    {
+      "cat": "mus",
+      "name": "Debi Cox"
+    },
+    {
+      "cat": "mus",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "prs",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "prs",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "sng",
+      "name": "Claire Barnett-Jones"
+    },
+    {
+      "cat": "sng",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "ca",
+      "name": "Rachel Small"
+    },
+    {
+      "cat": "ca",
+      "name": "Pauline Spiller"
+    },
+    {
+      "cat": "ca",
+      "name": "Nancy Philbin"
+    },
+    {
+      "cat": "ca",
+      "name": "Marilyn Penketh"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    }
+  ]
+}
