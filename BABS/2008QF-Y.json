@@ -1,0 +1,113 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET FINAL (YOUTH STREAM)",
+  "location": "CHELTENHAM",
+  "year": "2007/08",
+  "date": "25/05/2008",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "type": "quartet final",
+  "contestants": [
+    {
+      "tot_score": "1393",
+      "final_tot_score": "2774",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Monkey Magic",
+      "pc_score": "77.1",
+      "songs": [
+        {
+          "title": "Undecided Medley",
+          "m": "234",
+          "s": "226",
+          "p": "241"
+        },
+        {
+          "title": "What Kind Of Fool Am I",
+          "m": "232",
+          "s": "230",
+          "p": "230"
+        },
+        {
+          "title": "Previous",
+          "m": "465",
+          "s": "462",
+          "p": "454"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2008QF-Y.pdf"
+}

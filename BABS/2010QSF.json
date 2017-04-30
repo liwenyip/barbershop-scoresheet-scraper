@@ -1,0 +1,725 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET SEMI-FINAL (NATIONAL STREAM)",
+  "location": "HARROGATE",
+  "year": "2009/10",
+  "date": "28/05/2010",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "James Northen"
+    },
+    {
+      "cat": "ca",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1383",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Steel",
+      "pc_score": "76.8",
+      "songs": [
+        {
+          "title": "Don't Break The Heart That Loves You",
+          "m": "232",
+          "s": "230",
+          "p": "229"
+        },
+        {
+          "title": "You Keep Coming Back Like A Song",
+          "m": "227",
+          "s": "230",
+          "p": "235"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Keith"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ]
+    },
+    {
+      "tot_score": "1352",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Crossfire",
+      "pc_score": "75.1",
+      "songs": [
+        {
+          "title": "You`re Nobody Till Somebody Loves You",
+          "m": "227",
+          "s": "225",
+          "p": "223"
+        },
+        {
+          "title": "You Are My Sunshine",
+          "m": "224",
+          "s": "226",
+          "p": "227"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Andrew"
+        },
+        {
+          "part": "bass",
+          "name": "Neil"
+        }
+      ]
+    },
+    {
+      "tot_score": "1204",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "4",
+      "rank": "3",
+      "name": "Qube",
+      "pc_score": "66.9",
+      "songs": [
+        {
+          "title": "Come Fly With Me",
+          "m": "200",
+          "s": "203",
+          "p": "201"
+        },
+        {
+          "title": "Till There Was You",
+          "m": "199",
+          "s": "197",
+          "p": "204"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ]
+    },
+    {
+      "tot_score": "1186",
+      "rank_m": "5",
+      "rank_s": "5",
+      "rank_p": "7",
+      "rank": "4",
+      "name": "Vox",
+      "pc_score": "65.9",
+      "songs": [
+        {
+          "title": "Come Fly With Me",
+          "m": "197",
+          "s": "196",
+          "p": "201"
+        },
+        {
+          "title": "Once Upon A Time",
+          "m": "195",
+          "s": "198",
+          "p": "199"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Graham"
+        },
+        {
+          "part": "bass",
+          "name": "Mark"
+        }
+      ]
+    },
+    {
+      "tot_score": "1182",
+      "rank_m": "4",
+      "rank_s": "6",
+      "rank_p": "5",
+      "rank": "5",
+      "name": "Cadence",
+      "pc_score": "65.7",
+      "songs": [
+        {
+          "title": "Midnight Rose",
+          "m": "199",
+          "s": "196",
+          "p": "200"
+        },
+        {
+          "title": "If I Give My Heart To You",
+          "m": "202",
+          "s": "193",
+          "p": "192"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ]
+    },
+    {
+      "tot_score": "1180",
+      "rank_m": "7",
+      "rank_s": "4",
+      "rank_p": "5",
+      "rank": "6",
+      "name": "Celebration",
+      "pc_score": "65.6",
+      "songs": [
+        {
+          "title": "That`s Life",
+          "m": "192",
+          "s": "203",
+          "p": "190"
+        },
+        {
+          "title": "What'll I Do",
+          "m": "195",
+          "s": "197",
+          "p": "203"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ]
+    },
+    {
+      "tot_score": "1177",
+      "rank_m": "6",
+      "rank_s": "11",
+      "rank_p": "3",
+      "rank": "7",
+      "name": "The Serious Chord Squad",
+      "pc_score": "65.4",
+      "songs": [
+        {
+          "title": "Friends To The End",
+          "m": "196",
+          "s": "210",
+          "p": "192"
+        },
+        {
+          "title": "You Took Advantage Of Me",
+          "m": "206",
+          "s": "186",
+          "p": "187"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Frank"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Bob"
+        }
+      ]
+    },
+    {
+      "tot_score": "1139",
+      "rank_m": "8",
+      "rank_s": "9",
+      "rank_p": "8",
+      "rank": "8",
+      "name": "Revised Edition",
+      "pc_score": "63.3",
+      "songs": [
+        {
+          "title": "When My Baby Smiles At Me",
+          "m": "185",
+          "s": "194",
+          "p": "191"
+        },
+        {
+          "title": "I Didn't Want To Fall",
+          "m": "194",
+          "s": "186",
+          "p": "189"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Chris"
+        },
+        {
+          "part": "lead",
+          "name": "Glenn"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ]
+    },
+    {
+      "tot_score": "1133",
+      "rank_m": "9",
+      "rank_s": "7",
+      "rank_p": "10",
+      "rank": "9",
+      "name": "Catch 22",
+      "pc_score": "62.9",
+      "songs": [
+        {
+          "title": "Walkin' My Baby Back Home",
+          "m": "184",
+          "s": "187",
+          "p": "189"
+        },
+        {
+          "title": "Just The Way You Look Tonight",
+          "m": "194",
+          "s": "190",
+          "p": "189"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Greg"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ]
+    },
+    {
+      "tot_score": "1128",
+      "rank_m": "11",
+      "rank_s": "7",
+      "rank_p": "9",
+      "rank": "10",
+      "name": "Unbreakable",
+      "pc_score": "62.7",
+      "songs": [
+        {
+          "title": "That's Life",
+          "m": "182",
+          "s": "192",
+          "p": "185"
+        },
+        {
+          "title": "Just In Time",
+          "m": "190",
+          "s": "188",
+          "p": "191"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Paul"
+        },
+        {
+          "part": "lead",
+          "name": "Tony"
+        },
+        {
+          "part": "bari",
+          "name": "Scott"
+        },
+        {
+          "part": "bass",
+          "name": "Ian"
+        }
+      ]
+    },
+    {
+      "tot_score": "1121",
+      "rank_m": "10",
+      "rank_s": "9",
+      "rank_p": "11",
+      "rank": "11",
+      "name": "Quadrahedron",
+      "pc_score": "62.3",
+      "songs": [
+        {
+          "title": "What'll I Do",
+          "m": "182",
+          "s": "185",
+          "p": "188"
+        },
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "191",
+          "s": "188",
+          "p": "187"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "1100",
+      "rank_m": "12",
+      "rank_s": "11",
+      "rank_p": "14",
+      "rank": "12",
+      "name": "Retro",
+      "pc_score": "61.1",
+      "songs": [
+        {
+          "title": "If You Love Me",
+          "m": "182",
+          "s": "179",
+          "p": "184"
+        },
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "182",
+          "s": "185",
+          "p": "188"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "1088",
+      "rank_m": "13",
+      "rank_s": "13",
+      "rank_p": "12",
+      "rank": "13",
+      "name": "4getmenots",
+      "pc_score": "60.4",
+      "songs": [
+        {
+          "title": "Recipe For Makin' Love",
+          "m": "175",
+          "s": "184",
+          "p": "176"
+        },
+        {
+          "title": "Lover Come Back",
+          "m": "188",
+          "s": "181",
+          "p": "184"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "James"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Colin"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ]
+    },
+    {
+      "tot_score": "1056",
+      "rank_m": "14",
+      "rank_s": "15",
+      "rank_p": "13",
+      "rank": "14",
+      "name": "The Sober Tones",
+      "pc_score": "58.7",
+      "songs": [
+        {
+          "title": "It`s True Dear Medly",
+          "m": "159",
+          "s": "173",
+          "p": "187"
+        },
+        {
+          "title": "Once Upon A Time",
+          "m": "192",
+          "s": "180",
+          "p": "165"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Phil"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Merv"
+        },
+        {
+          "part": "bass",
+          "name": "Rob"
+        }
+      ]
+    },
+    {
+      "tot_score": "1022",
+      "rank_m": "16",
+      "rank_s": "14",
+      "rank_p": "15",
+      "rank": "15",
+      "name": "Green Room",
+      "pc_score": "56.8",
+      "songs": [
+        {
+          "title": "Good Luck Charm",
+          "m": "156",
+          "s": "179",
+          "p": "159"
+        },
+        {
+          "title": "Love Me And The World Is Mine",
+          "m": "176",
+          "s": "173",
+          "p": "179"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Dan"
+        },
+        {
+          "part": "lead",
+          "name": "Guy"
+        },
+        {
+          "part": "bari",
+          "name": "Rich"
+        },
+        {
+          "part": "bass",
+          "name": "Craig"
+        }
+      ]
+    },
+    {
+      "tot_score": "1019",
+      "rank_m": "15",
+      "rank_s": "16",
+      "rank_p": "16",
+      "rank": "16",
+      "name": "The Royal Males",
+      "pc_score": "56.6",
+      "songs": [
+        {
+          "title": "Walkin' My Baby Back Home",
+          "m": "164",
+          "s": "176",
+          "p": "164"
+        },
+        {
+          "title": "You Make Me Feel So Young",
+          "m": "176",
+          "s": "170",
+          "p": "169"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michael"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "Richard"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2010QSF.pdf"
+}

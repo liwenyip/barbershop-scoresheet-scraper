@@ -1,282 +1,9 @@
 {
-  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET PRELIMS (SENIORS STREAM)  -  RNCM MANCHESTER: 2016/2017",
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS (SENIORS STREAM)",
+  "location": "RNCM MANCHESTER",
+  "year": "2016/2017",
   "date": "06/11/2016",
-  "contestants": [
-    {
-      "name": "Three 'n' Easy",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "1204",
-      "pc_score": "66.9",
-      "singers": [
-        {
-          "name": "Gary Roussak",
-          "part": "tenor"
-        },
-        {
-          "name": "Paul Gidney",
-          "part": "lead"
-        },
-        {
-          "name": "Paul Tatton",
-          "part": "bari"
-        },
-        {
-          "name": "John Clarke",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Old Cape Cod",
-          "mus": "201",
-          "prs": "203",
-          "sng": "203"
-        },
-        {
-          "song": "If I Loved You",
-          "mus": "196",
-          "prs": "202",
-          "sng": "199"
-        }
-      ]
-    },
-    {
-      "name": "QM",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "1200",
-      "pc_score": "66.7",
-      "singers": [
-        {
-          "name": "Paul Jeffrey",
-          "part": "tenor"
-        },
-        {
-          "name": "Trevor Dawson",
-          "part": "lead"
-        },
-        {
-          "name": "Adrian Armstrong",
-          "part": "bari"
-        },
-        {
-          "name": "Stephen Cox",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "All The Way",
-          "mus": "196",
-          "prs": "200",
-          "sng": "199"
-        },
-        {
-          "song": "Make 'Em Laugh",
-          "mus": "200",
-          "prs": "204",
-          "sng": "201"
-        }
-      ]
-    },
-    {
-      "name": "Cemetery Junction",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "1174",
-      "pc_score": "65.2",
-      "singers": [
-        {
-          "name": "Michael Zefferman",
-          "part": "tenor"
-        },
-        {
-          "name": "Andy Wheeler",
-          "part": "lead"
-        },
-        {
-          "name": "Andy Rzysko",
-          "part": "bari"
-        },
-        {
-          "name": "Richard Leathem",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Birth Of The Blues",
-          "mus": "193",
-          "prs": "197",
-          "sng": "195"
-        },
-        {
-          "song": "One For My Baby",
-          "mus": "194",
-          "prs": "204",
-          "sng": "191"
-        }
-      ]
-    },
-    {
-      "name": "The Amazing Greys",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "1150",
-      "pc_score": "63.9",
-      "singers": [
-        {
-          "name": "Bob Devine",
-          "part": "tenor"
-        },
-        {
-          "name": "Brian Tutt",
-          "part": "lead"
-        },
-        {
-          "name": "Colin Maskrey",
-          "part": "bari"
-        },
-        {
-          "name": "Mick Nadin",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Anything Goes",
-          "mus": "191",
-          "prs": "190",
-          "sng": "194"
-        },
-        {
-          "song": "Do You Really Love Me",
-          "mus": "192",
-          "prs": "192",
-          "sng": "191"
-        }
-      ]
-    },
-    {
-      "name": "Timeless",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "1121",
-      "pc_score": "62.3",
-      "singers": [
-        {
-          "name": "Martin Proctor",
-          "part": "tenor"
-        },
-        {
-          "name": "Gary Evans",
-          "part": "lead"
-        },
-        {
-          "name": "Peter Leverett",
-          "part": "bari"
-        },
-        {
-          "name": "Brian Callaghan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "The Chordbuster March",
-          "mus": "190",
-          "prs": "191",
-          "sng": "186"
-        },
-        {
-          "song": "Zing! Went The Strings Of My Heart",
-          "mus": "182",
-          "prs": "186",
-          "sng": "186"
-        }
-      ]
-    },
-    {
-      "name": "Waikikamukau",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "1058",
-      "pc_score": "58.8",
-      "singers": [
-        {
-          "name": "Joe Dod",
-          "part": "tenor"
-        },
-        {
-          "name": "Doug Munro",
-          "part": "lead"
-        },
-        {
-          "name": "Steve Smith",
-          "part": "bari"
-        },
-        {
-          "name": "Paul Kaiserman",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "A Wink And A Smile",
-          "mus": "172",
-          "prs": "183",
-          "sng": "178"
-        },
-        {
-          "song": "Let The Rest Of The World Go By",
-          "mus": "171",
-          "prs": "179",
-          "sng": "175"
-        }
-      ]
-    },
-    {
-      "name": "Intersection",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "1041",
-      "pc_score": "57.8",
-      "singers": [
-        {
-          "name": "Mick Hill",
-          "part": "tenor"
-        },
-        {
-          "name": "Richard Fort",
-          "part": "lead"
-        },
-        {
-          "name": "Graham Frampton",
-          "part": "bari"
-        },
-        {
-          "name": "David Poucher",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If I Loved You",
-          "mus": "173",
-          "prs": "173",
-          "sng": "175"
-        },
-        {
-          "song": "I Love To Hear That Old Barbershop Style",
-          "mus": "174",
-          "prs": "173",
-          "sng": "173"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
       "cat": "m",
@@ -324,7 +51,310 @@
     },
     {
       "cat": "ca",
-      "name": "Alastair Taylor-Pay"
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Charles Grainger"
+    },
+    {
+      "cat": "ca",
+      "name": "Gail Grainger"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1204",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Three 'n' Easy",
+      "pc_score": "66.9",
+      "songs": [
+        {
+          "title": "Old Cape Cod",
+          "m": "201",
+          "s": "203",
+          "p": "196"
+        },
+        {
+          "title": "If I Loved You",
+          "m": "202",
+          "s": "199",
+          "p": "203"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Gary Roussak"
+        },
+        {
+          "part": "lead",
+          "name": "Paul Gidney"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Tatton"
+        },
+        {
+          "part": "bass",
+          "name": "John Clarke"
+        }
+      ]
+    },
+    {
+      "tot_score": "1200",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "QM",
+      "pc_score": "66.7",
+      "songs": [
+        {
+          "title": "All The Way",
+          "m": "196",
+          "s": "200",
+          "p": "200"
+        },
+        {
+          "title": "Make 'Em Laugh",
+          "m": "204",
+          "s": "201",
+          "p": "199"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Paul Jeffrey"
+        },
+        {
+          "part": "lead",
+          "name": "Trevor Dawson"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian Armstrong"
+        },
+        {
+          "part": "bass",
+          "name": "Stephen Cox"
+        }
+      ]
+    },
+    {
+      "tot_score": "1174",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Cemetery Junction",
+      "pc_score": "65.2",
+      "songs": [
+        {
+          "title": "Birth Of The Blues",
+          "m": "193",
+          "s": "197",
+          "p": "194"
+        },
+        {
+          "title": "One For My Baby",
+          "m": "204",
+          "s": "191",
+          "p": "195"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michael Zefferman"
+        },
+        {
+          "part": "lead",
+          "name": "Andy Wheeler"
+        },
+        {
+          "part": "bari",
+          "name": "Andy Rzysko"
+        },
+        {
+          "part": "bass",
+          "name": "Richard Leathem"
+        }
+      ]
+    },
+    {
+      "tot_score": "1150",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "The Amazing Greys",
+      "pc_score": "63.9",
+      "songs": [
+        {
+          "title": "Anything Goes",
+          "m": "191",
+          "s": "190",
+          "p": "192"
+        },
+        {
+          "title": "Do You Really Love Me",
+          "m": "192",
+          "s": "191",
+          "p": "194"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Bob Devine"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Tutt"
+        },
+        {
+          "part": "bari",
+          "name": "Colin Maskrey"
+        },
+        {
+          "part": "bass",
+          "name": "Mick Nadin"
+        }
+      ]
+    },
+    {
+      "tot_score": "1121",
+      "rank_m": "5",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "5",
+      "name": "Timeless",
+      "pc_score": "62.3",
+      "songs": [
+        {
+          "title": "The Chordbuster March",
+          "m": "190",
+          "s": "191",
+          "p": "182"
+        },
+        {
+          "title": "Zing! Went The Strings Of My Heart",
+          "m": "186",
+          "s": "186",
+          "p": "186"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Martin Proctor"
+        },
+        {
+          "part": "lead",
+          "name": "Gary Evans"
+        },
+        {
+          "part": "bari",
+          "name": "Peter Leverett"
+        },
+        {
+          "part": "bass",
+          "name": "Brian Callaghan"
+        }
+      ]
+    },
+    {
+      "tot_score": "1058",
+      "rank_m": "7",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Waikikamukau",
+      "pc_score": "58.8",
+      "songs": [
+        {
+          "title": "A Wink And A Smile",
+          "m": "172",
+          "s": "183",
+          "p": "171"
+        },
+        {
+          "title": "Let The Rest Of The World Go By",
+          "m": "179",
+          "s": "175",
+          "p": "178"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joe Dod"
+        },
+        {
+          "part": "lead",
+          "name": "Doug Munro"
+        },
+        {
+          "part": "bari",
+          "name": "Steve Smith"
+        },
+        {
+          "part": "bass",
+          "name": "Paul Kaiserman"
+        }
+      ]
+    },
+    {
+      "tot_score": "1041",
+      "rank_m": "6",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "7",
+      "name": "Intersection",
+      "pc_score": "57.8",
+      "songs": [
+        {
+          "title": "If I Loved You",
+          "m": "173",
+          "s": "173",
+          "p": "174"
+        },
+        {
+          "title": "I Love To Hear That Old Barbershop Style",
+          "m": "173",
+          "s": "173",
+          "p": "175"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Mick Hill"
+        },
+        {
+          "part": "lead",
+          "name": "Richard Fort"
+        },
+        {
+          "part": "bari",
+          "name": "Graham Frampton"
+        },
+        {
+          "part": "bass",
+          "name": "David Poucher"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2016QP-S.pdf"
 }

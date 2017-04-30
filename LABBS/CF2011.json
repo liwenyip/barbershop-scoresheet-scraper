@@ -1,481 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL CHORUS FINALS-HARROGATE: 2011",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL CHORUS FINALS",
+  "location": "HARROGATE",
+  "year": "2011",
   "date": "22/10/2011",
-  "contestants": [
-    {
-      "name": "The White Rosettes",
-      "type": "chorus",
-      "place": "1",
-      "tot_score": "1477",
-      "pc_score": "82.1",
-      "director": "Sally McLean",
-      "singers": "59",
-      "songs": [
-        {
-          "song": "Once Upon A Time",
-          "mus": "246",
-          "prs": "245",
-          "sng": "251"
-        },
-        {
-          "song": "The Night Has A Thousand Eyes",
-          "mus": "245",
-          "prs": "245",
-          "sng": "245"
-        }
-      ]
-    },
-    {
-      "name": "Cheshire Chord Company",
-      "type": "chorus",
-      "place": "2",
-      "tot_score": "1397",
-      "pc_score": "77.6",
-      "director": "Jo Braham",
-      "singers": "39",
-      "songs": [
-        {
-          "song": "Are You Lonesome Tonight?",
-          "mus": "225",
-          "prs": "232",
-          "sng": "234"
-        },
-        {
-          "song": "How'dja Like To Love Me?",
-          "mus": "235",
-          "prs": "237",
-          "sng": "234"
-        }
-      ]
-    },
-    {
-      "name": "Crystal Chords",
-      "type": "chorus",
-      "place": "3",
-      "tot_score": "1322",
-      "pc_score": "73.4",
-      "director": "Monica Funnell",
-      "singers": "56",
-      "songs": [
-        {
-          "song": "On The Street Where You Live",
-          "mus": "219",
-          "prs": "218",
-          "sng": "220"
-        },
-        {
-          "song": "Gershwin Medley",
-          "mus": "222",
-          "prs": "223",
-          "sng": "220"
-        }
-      ]
-    },
-    {
-      "name": "Gem Connection",
-      "type": "chorus",
-      "place": "4",
-      "tot_score": "1287",
-      "pc_score": "71.5",
-      "director": "Rachael Murphy",
-      "singers": "48",
-      "songs": [
-        {
-          "song": "Happy Feet Medley",
-          "mus": "219",
-          "prs": "215",
-          "sng": "215"
-        },
-        {
-          "song": "You Don't Know Me",
-          "mus": "216",
-          "prs": "209",
-          "sng": "213"
-        }
-      ]
-    },
-    {
-      "name": "Belles Of Three Spires",
-      "type": "chorus",
-      "place": "5",
-      "tot_score": "1278",
-      "pc_score": "71.0",
-      "director": "Timm Barkworth",
-      "singers": "46",
-      "songs": [
-        {
-          "song": "Cheer Up Charlie",
-          "mus": "211",
-          "prs": "215",
-          "sng": "216"
-        },
-        {
-          "song": "Cruella De Ville",
-          "mus": "209",
-          "prs": "221",
-          "sng": "206"
-        }
-      ]
-    },
-    {
-      "name": "Green Street Blues",
-      "type": "chorus",
-      "place": "6",
-      "tot_score": "1268",
-      "pc_score": "70.4",
-      "director": "Michael Potts",
-      "singers": "27",
-      "songs": [
-        {
-          "song": "What Kind Of Fool Am I?",
-          "mus": "203",
-          "prs": "213",
-          "sng": "212"
-        },
-        {
-          "song": "I Love Jazz Medley",
-          "mus": "214",
-          "prs": "216",
-          "sng": "210"
-        }
-      ]
-    },
-    {
-      "name": "Fascinating Rhythm",
-      "type": "chorus",
-      "place": "7",
-      "tot_score": "1259",
-      "pc_score": "69.9",
-      "director": "Jo Dean",
-      "singers": "42",
-      "songs": [
-        {
-          "song": "Once Upon A Time",
-          "mus": "213",
-          "prs": "210",
-          "sng": "208"
-        },
-        {
-          "song": "Steppin' Out Medley",
-          "mus": "215",
-          "prs": "210",
-          "sng": "203"
-        }
-      ]
-    },
-    {
-      "name": "Second City Sound",
-      "type": "chorus",
-      "place": "8",
-      "tot_score": "1234",
-      "pc_score": "68.6",
-      "director": "Rod Butcher",
-      "singers": "58",
-      "songs": [
-        {
-          "song": "For The Sake Of Auld Lang Syne",
-          "mus": "211",
-          "prs": "196",
-          "sng": "207"
-        },
-        {
-          "song": "It's You",
-          "mus": "213",
-          "prs": "200",
-          "sng": "207"
-        }
-      ]
-    },
-    {
-      "name": "Capital Connection",
-      "type": "chorus",
-      "place": "9",
-      "tot_score": "1219",
-      "pc_score": "67.7",
-      "director": "Debi Cox",
-      "singers": "39",
-      "songs": [
-        {
-          "song": "Cuddle Up A Little Closer, Lovey Mine",
-          "mus": "204",
-          "prs": "201",
-          "sng": "203"
-        },
-        {
-          "song": "'Til There Was You",
-          "mus": "208",
-          "prs": "202",
-          "sng": "201"
-        }
-      ]
-    },
-    {
-      "name": "Bristol Fashion",
-      "type": "chorus",
-      "place": "10",
-      "tot_score": "1197",
-      "pc_score": "66.5",
-      "director": "Craig Kehoe",
-      "singers": "53",
-      "songs": [
-        {
-          "song": "The Sunshine Of Your Smile",
-          "mus": "192",
-          "prs": "200",
-          "sng": "202"
-        },
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "197",
-          "prs": "205",
-          "sng": "201"
-        }
-      ]
-    },
-    {
-      "name": "Silver Lining",
-      "type": "chorus",
-      "place": "10",
-      "tot_score": "1197",
-      "pc_score": "66.5",
-      "director": "Sara Jackson",
-      "singers": "38",
-      "songs": [
-        {
-          "song": "Lover Come Back To Me",
-          "mus": "195",
-          "prs": "194",
-          "sng": "204"
-        },
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "201",
-          "prs": "201",
-          "sng": "202"
-        }
-      ]
-    },
-    {
-      "name": "Red Rosettes",
-      "type": "chorus",
-      "place": "12",
-      "tot_score": "1155",
-      "pc_score": "64.2",
-      "director": "Katy Phillips",
-      "singers": "42",
-      "songs": [
-        {
-          "song": "Runnin' Wild",
-          "mus": "193",
-          "prs": "195",
-          "sng": "184"
-        },
-        {
-          "song": "I Never Meant To Fall In Love",
-          "mus": "198",
-          "prs": "197",
-          "sng": "188"
-        }
-      ]
-    },
-    {
-      "name": "Norwich Harmony",
-      "type": "chorus",
-      "place": "13",
-      "tot_score": "1140",
-      "pc_score": "63.3",
-      "director": "Alison Thompson",
-      "singers": "39",
-      "songs": [
-        {
-          "song": "I'd Give A Million Tomorrows",
-          "mus": "183",
-          "prs": "191",
-          "sng": "189"
-        },
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "193",
-          "prs": "197",
-          "sng": "187"
-        }
-      ]
-    },
-    {
-      "name": "The Tudor Roses",
-      "type": "chorus",
-      "place": "14",
-      "tot_score": "1106",
-      "pc_score": "61.4",
-      "director": "Di Crosfield",
-      "singers": "34",
-      "songs": [
-        {
-          "song": "How Deep Is The Ocean?",
-          "mus": "185",
-          "prs": "185",
-          "sng": "180"
-        },
-        {
-          "song": "Happy Feet Medley",
-          "mus": "184",
-          "prs": "191",
-          "sng": "181"
-        }
-      ]
-    },
-    {
-      "name": "Mountain Harmony",
-      "type": "chorus",
-      "place": "15",
-      "tot_score": "1080",
-      "pc_score": "60.0",
-      "director": "Derek Hollis",
-      "singers": "41",
-      "songs": [
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "180",
-          "prs": "179",
-          "sng": "178"
-        },
-        {
-          "song": "Love Me",
-          "mus": "186",
-          "prs": "183",
-          "sng": "174"
-        }
-      ]
-    },
-    {
-      "name": "Welwyn Harmony",
-      "type": "chorus",
-      "place": "16",
-      "tot_score": "1038",
-      "pc_score": "57.7",
-      "director": "Alan Hooke/Viv Garner",
-      "singers": "33",
-      "songs": [
-        {
-          "song": "When I Fall In Love",
-          "mus": "178",
-          "prs": "170",
-          "sng": "173"
-        },
-        {
-          "song": "My Baby Just Cares For Me",
-          "mus": "171",
-          "prs": "175",
-          "sng": "171"
-        }
-      ]
-    },
-    {
-      "name": "Guildford Harmony",
-      "type": "chorus",
-      "place": "17",
-      "tot_score": "1020",
-      "pc_score": "56.7",
-      "director": "Andrew Edgley",
-      "singers": "22",
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "173",
-          "prs": "177",
-          "sng": "169"
-        },
-        {
-          "song": "Ya Gotta Know How To Love / I Can't Give You Anything But Love",
-          "mus": "166",
-          "prs": "174",
-          "sng": "161"
-        }
-      ]
-    },
-    {
-      "name": "The Barberettes",
-      "type": "chorus",
-      "place": "18",
-      "tot_score": "1008",
-      "pc_score": "56.0",
-      "director": "Emma Lelliott",
-      "singers": "29",
-      "songs": [
-        {
-          "song": "How Deep Is The Ocean?",
-          "mus": "164",
-          "prs": "174",
-          "sng": "170"
-        },
-        {
-          "song": "The Birth Of The Blues",
-          "mus": "163",
-          "prs": "173",
-          "sng": "164"
-        }
-      ]
-    },
-    {
-      "name": "Avon Harmony",
-      "type": "chorus",
-      "place": "19",
-      "tot_score": "1004",
-      "pc_score": "55.8",
-      "director": "David Proud",
-      "singers": "25",
-      "songs": [
-        {
-          "song": "Love Me, And The World Is Mine",
-          "mus": "172",
-          "prs": "166",
-          "sng": "164"
-        },
-        {
-          "song": "Ain't Misbehavin'",
-          "mus": "168",
-          "prs": "172",
-          "sng": "162"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Liz Garnett"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Joyce Stroud"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Jenny Mills"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie Williams"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Alison Zdzylowski"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Nancy Kelsall"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Stuart Lines"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Mike Taylor"
     },
     {
@@ -502,5 +65,484 @@
       "cat": "ca",
       "name": "Rachel Small"
     }
-  ]
+  ],
+  "type": "chorus",
+  "contestants": [
+    {
+      "tot_score": "1477",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "The White Rosettes",
+      "director": "Sally McLean",
+      "size": "59",
+      "pc_score": "82.1",
+      "songs": [
+        {
+          "title": "Once Upon A Time",
+          "m": "246",
+          "s": "245",
+          "p": "245"
+        },
+        {
+          "title": "The Night Has A Thousand Eyes",
+          "m": "245",
+          "s": "245",
+          "p": "251"
+        }
+      ]
+    },
+    {
+      "tot_score": "1397",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Cheshire Chord Company",
+      "director": "Jo Braham",
+      "size": "39",
+      "pc_score": "77.6",
+      "songs": [
+        {
+          "title": "Are You Lonesome Tonight?",
+          "m": "225",
+          "s": "232",
+          "p": "235"
+        },
+        {
+          "title": "How'dja Like To Love Me?",
+          "m": "237",
+          "s": "234",
+          "p": "234"
+        }
+      ]
+    },
+    {
+      "tot_score": "1322",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Crystal Chords",
+      "director": "Monica Funnell",
+      "size": "56",
+      "pc_score": "73.4",
+      "songs": [
+        {
+          "title": "On The Street Where You Live",
+          "m": "219",
+          "s": "218",
+          "p": "222"
+        },
+        {
+          "title": "Gershwin Medley",
+          "m": "223",
+          "s": "220",
+          "p": "220"
+        }
+      ]
+    },
+    {
+      "tot_score": "1287",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "6",
+      "rank": "4",
+      "name": "Gem Connection",
+      "director": "Rachael Murphy",
+      "size": "48",
+      "pc_score": "71.5",
+      "songs": [
+        {
+          "title": "Happy Feet Medley",
+          "m": "219",
+          "s": "215",
+          "p": "216"
+        },
+        {
+          "title": "You Don't Know Me",
+          "m": "209",
+          "s": "213",
+          "p": "215"
+        }
+      ]
+    },
+    {
+      "tot_score": "1278",
+      "rank_m": "7",
+      "rank_s": "5",
+      "rank_p": "4",
+      "rank": "5",
+      "name": "Belles Of Three Spires",
+      "director": "Timm Barkworth",
+      "size": "46",
+      "pc_score": "71.0",
+      "songs": [
+        {
+          "title": "Cheer Up Charlie",
+          "m": "211",
+          "s": "215",
+          "p": "209"
+        },
+        {
+          "title": "Cruella De Ville",
+          "m": "221",
+          "s": "206",
+          "p": "216"
+        }
+      ]
+    },
+    {
+      "tot_score": "1268",
+      "rank_m": "8",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "6",
+      "name": "Green Street Blues",
+      "director": "Michael Potts",
+      "size": "27",
+      "pc_score": "70.4",
+      "songs": [
+        {
+          "title": "What Kind Of Fool Am I?",
+          "m": "203",
+          "s": "213",
+          "p": "214"
+        },
+        {
+          "title": "I Love Jazz Medley",
+          "m": "216",
+          "s": "210",
+          "p": "212"
+        }
+      ]
+    },
+    {
+      "tot_score": "1259",
+      "rank_m": "5",
+      "rank_s": "8",
+      "rank_p": "7",
+      "rank": "7",
+      "name": "Fascinating Rhythm",
+      "director": "Jo Dean",
+      "size": "42",
+      "pc_score": "69.9",
+      "songs": [
+        {
+          "title": "Once Upon A Time",
+          "m": "213",
+          "s": "210",
+          "p": "215"
+        },
+        {
+          "title": "Steppin' Out Medley",
+          "m": "210",
+          "s": "203",
+          "p": "208"
+        }
+      ]
+    },
+    {
+      "tot_score": "1234",
+      "rank_m": "6",
+      "rank_s": "7",
+      "rank_p": "10",
+      "rank": "8",
+      "name": "Second City Sound",
+      "director": "Rod Butcher",
+      "size": "58",
+      "pc_score": "68.6",
+      "songs": [
+        {
+          "title": "For The Sake Of Auld Lang Syne",
+          "m": "211",
+          "s": "196",
+          "p": "213"
+        },
+        {
+          "title": "It's You",
+          "m": "200",
+          "s": "207",
+          "p": "207"
+        }
+      ]
+    },
+    {
+      "tot_score": "1219",
+      "rank_m": "9",
+      "rank_s": "10",
+      "rank_p": "9",
+      "rank": "9",
+      "name": "Capital Connection",
+      "director": "Debi Cox",
+      "size": "39",
+      "pc_score": "67.7",
+      "songs": [
+        {
+          "title": "Cuddle Up A Little Closer, Lovey Mine",
+          "m": "204",
+          "s": "201",
+          "p": "208"
+        },
+        {
+          "title": "'Til There Was You",
+          "m": "202",
+          "s": "201",
+          "p": "203"
+        }
+      ]
+    },
+    {
+      "tot_score": "1197",
+      "rank_m": "12",
+      "rank_s": "11",
+      "rank_p": "8",
+      "rank": "10",
+      "name": "Bristol Fashion",
+      "director": "Craig Kehoe",
+      "size": "53",
+      "pc_score": "66.5",
+      "songs": [
+        {
+          "title": "The Sunshine Of Your Smile",
+          "m": "192",
+          "s": "200",
+          "p": "197"
+        },
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "205",
+          "s": "201",
+          "p": "202"
+        }
+      ]
+    },
+    {
+      "tot_score": "1197",
+      "rank_m": "10",
+      "rank_s": "9",
+      "rank_p": "11",
+      "rank": "10",
+      "name": "Silver Lining",
+      "director": "Sara Jackson",
+      "size": "38",
+      "pc_score": "66.5",
+      "songs": [
+        {
+          "title": "Lover Come Back To Me",
+          "m": "195",
+          "s": "194",
+          "p": "201"
+        },
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "201",
+          "s": "202",
+          "p": "204"
+        }
+      ]
+    },
+    {
+      "tot_score": "1155",
+      "rank_m": "11",
+      "rank_s": "13",
+      "rank_p": "12",
+      "rank": "12",
+      "name": "Red Rosettes",
+      "director": "Katy Phillips",
+      "size": "42",
+      "pc_score": "64.2",
+      "songs": [
+        {
+          "title": "Runnin' Wild",
+          "m": "193",
+          "s": "195",
+          "p": "198"
+        },
+        {
+          "title": "I Never Meant To Fall In Love",
+          "m": "197",
+          "s": "188",
+          "p": "184"
+        }
+      ]
+    },
+    {
+      "tot_score": "1140",
+      "rank_m": "13",
+      "rank_s": "12",
+      "rank_p": "13",
+      "rank": "13",
+      "name": "Norwich Harmony",
+      "director": "Alison Thompson",
+      "size": "39",
+      "pc_score": "63.3",
+      "songs": [
+        {
+          "title": "I'd Give A Million Tomorrows",
+          "m": "183",
+          "s": "191",
+          "p": "193"
+        },
+        {
+          "title": "Taking A Chance On Love",
+          "m": "197",
+          "s": "187",
+          "p": "189"
+        }
+      ]
+    },
+    {
+      "tot_score": "1106",
+      "rank_m": "14",
+      "rank_s": "14",
+      "rank_p": "14",
+      "rank": "14",
+      "name": "The Tudor Roses",
+      "director": "Di Crosfield",
+      "size": "34",
+      "pc_score": "61.4",
+      "songs": [
+        {
+          "title": "How Deep Is The Ocean?",
+          "m": "185",
+          "s": "185",
+          "p": "184"
+        },
+        {
+          "title": "Happy Feet Medley",
+          "m": "191",
+          "s": "181",
+          "p": "180"
+        }
+      ]
+    },
+    {
+      "tot_score": "1080",
+      "rank_m": "15",
+      "rank_s": "15",
+      "rank_p": "15",
+      "rank": "15",
+      "name": "Mountain Harmony",
+      "director": "Derek Hollis",
+      "size": "41",
+      "pc_score": "60.0",
+      "songs": [
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "180",
+          "s": "179",
+          "p": "186"
+        },
+        {
+          "title": "Love Me",
+          "m": "183",
+          "s": "174",
+          "p": "178"
+        }
+      ]
+    },
+    {
+      "tot_score": "1038",
+      "rank_m": "16",
+      "rank_s": "16",
+      "rank_p": "18",
+      "rank": "16",
+      "name": "Welwyn Harmony",
+      "director": "Alan Hooke/Viv Garner",
+      "size": "33",
+      "pc_score": "57.7",
+      "songs": [
+        {
+          "title": "When I Fall In Love",
+          "m": "178",
+          "s": "170",
+          "p": "171"
+        },
+        {
+          "title": "My Baby Just Cares For Me",
+          "m": "175",
+          "s": "171",
+          "p": "173"
+        }
+      ]
+    },
+    {
+      "tot_score": "1020",
+      "rank_m": "18",
+      "rank_s": "18",
+      "rank_p": "16",
+      "rank": "17",
+      "name": "Guildford Harmony",
+      "director": "Andrew Edgley",
+      "size": "22",
+      "pc_score": "56.7",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "173",
+          "s": "177",
+          "p": "166"
+        },
+        {
+          "title": "Ya Gotta Know How To Love / I Can't Give You Anything But Love",
+          "m": "174",
+          "s": "161",
+          "p": "169"
+        }
+      ]
+    },
+    {
+      "tot_score": "1008",
+      "rank_m": "19",
+      "rank_s": "17",
+      "rank_p": "17",
+      "rank": "18",
+      "name": "The Barberettes",
+      "director": "Emma Lelliott",
+      "size": "29",
+      "pc_score": "56.0",
+      "songs": [
+        {
+          "title": "How Deep Is The Ocean?",
+          "m": "164",
+          "s": "174",
+          "p": "163"
+        },
+        {
+          "title": "The Birth Of The Blues",
+          "m": "173",
+          "s": "164",
+          "p": "170"
+        }
+      ]
+    },
+    {
+      "tot_score": "1004",
+      "rank_m": "17",
+      "rank_s": "19",
+      "rank_p": "19",
+      "rank": "19",
+      "name": "Avon Harmony",
+      "director": "David Proud",
+      "size": "25",
+      "pc_score": "55.8",
+      "songs": [
+        {
+          "title": "Love Me, And The World Is Mine",
+          "m": "172",
+          "s": "166",
+          "p": "168"
+        },
+        {
+          "title": "Ain't Misbehavin'",
+          "m": "172",
+          "s": "162",
+          "p": "164"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/CF2011.pdf"
 }

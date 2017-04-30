@@ -1,165 +1,9 @@
 {
-  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET PRELIMS (SENIORS STREAM)  -  NEW: 2015/2016",
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS (SENIORS STREAM)",
+  "location": "NEW",
+  "year": "2015/2016",
   "date": "10/10/2015",
-  "contestants": [
-    {
-      "name": "South Parade",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "1243",
-      "pc_score": "69.1",
-      "singers": [
-        {
-          "name": "Andy Salter",
-          "part": "tenor"
-        },
-        {
-          "name": "Dean Whitehouse",
-          "part": "lead"
-        },
-        {
-          "name": "Paul Grier",
-          "part": "bari"
-        },
-        {
-          "name": "Peter Blackeby",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Walkin' My Baby Back Home",
-          "mus": "204",
-          "prs": "208",
-          "sng": "208"
-        },
-        {
-          "song": "May I Never Love Again",
-          "mus": "207",
-          "prs": "210",
-          "sng": "206"
-        }
-      ]
-    },
-    {
-      "name": "Three 'n' Easy",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "1237",
-      "pc_score": "68.7",
-      "singers": [
-        {
-          "name": "Gary Roussak",
-          "part": "tenor"
-        },
-        {
-          "name": "Paul Gidney",
-          "part": "lead"
-        },
-        {
-          "name": "Paul Tatton",
-          "part": "bari"
-        },
-        {
-          "name": "John Clarke",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Old Cape Cod",
-          "mus": "208",
-          "prs": "209",
-          "sng": "203"
-        },
-        {
-          "song": "There's A Brand New Gang",
-          "mus": "204",
-          "prs": "211",
-          "sng": "202"
-        }
-      ]
-    },
-    {
-      "name": "YOUTHLESS",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "1154",
-      "pc_score": "64.1",
-      "singers": [
-        {
-          "name": "Martin Procter",
-          "part": "tenor"
-        },
-        {
-          "name": "Alan Hill",
-          "part": "lead"
-        },
-        {
-          "name": "Peter Leverett",
-          "part": "bari"
-        },
-        {
-          "name": "Brian Callaghan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "My Wife The Dancer",
-          "mus": "198",
-          "prs": "197",
-          "sng": "182"
-        },
-        {
-          "song": "Jazz Came Up The River From New Orleans",
-          "mus": "196",
-          "prs": "198",
-          "sng": "183"
-        }
-      ]
-    },
-    {
-      "name": "Four Shades Of Grey",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "994",
-      "pc_score": "55.2",
-      "singers": [
-        {
-          "name": "Barclay Marshall",
-          "part": "tenor"
-        },
-        {
-          "name": "Graham Lake",
-          "part": "lead"
-        },
-        {
-          "name": "Richard Barley",
-          "part": "bari"
-        },
-        {
-          "name": "Ken Miles",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "When You Wore A Tulip",
-          "mus": "172",
-          "prs": "165",
-          "sng": "168"
-        },
-        {
-          "song": "Sweet Georgia Brown",
-          "mus": "168",
-          "prs": "162",
-          "sng": "159"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
       "cat": "m",
@@ -207,7 +51,183 @@
     },
     {
       "cat": "ca",
-      "name": "Yvonne H"
+      "name": "Yvonne Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1243",
+      "rank_m": "2",
+      "rank_s": "1",
+      "rank_p": "2",
+      "rank": "1",
+      "name": "South Parade",
+      "pc_score": "69.1",
+      "songs": [
+        {
+          "title": "Walkin' My Baby Back Home",
+          "m": "204",
+          "s": "208",
+          "p": "207"
+        },
+        {
+          "title": "May I Never Love Again",
+          "m": "210",
+          "s": "206",
+          "p": "208"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy Salter"
+        },
+        {
+          "part": "lead",
+          "name": "Dean Whitehouse"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Grier"
+        },
+        {
+          "part": "bass",
+          "name": "Peter Blackeby"
+        }
+      ]
+    },
+    {
+      "tot_score": "1237",
+      "rank_m": "1",
+      "rank_s": "2",
+      "rank_p": "1",
+      "rank": "2",
+      "name": "Three 'n' Easy",
+      "pc_score": "68.7",
+      "songs": [
+        {
+          "title": "Old Cape Cod",
+          "m": "208",
+          "s": "209",
+          "p": "204"
+        },
+        {
+          "title": "There's A Brand New Gang",
+          "m": "211",
+          "s": "202",
+          "p": "203"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Gary Roussak"
+        },
+        {
+          "part": "lead",
+          "name": "Paul Gidney"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Tatton"
+        },
+        {
+          "part": "bass",
+          "name": "John Clarke"
+        }
+      ]
+    },
+    {
+      "tot_score": "1154",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "YOUTHLESS",
+      "pc_score": "64.1",
+      "songs": [
+        {
+          "title": "My Wife The Dancer",
+          "m": "198",
+          "s": "197",
+          "p": "196"
+        },
+        {
+          "title": "Jazz Came Up The River From New Orleans",
+          "m": "198",
+          "s": "183",
+          "p": "182"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Martin Procter"
+        },
+        {
+          "part": "lead",
+          "name": "Alan Hill"
+        },
+        {
+          "part": "bari",
+          "name": "Peter Leverett"
+        },
+        {
+          "part": "bass",
+          "name": "Brian Callaghan"
+        }
+      ]
+    },
+    {
+      "tot_score": "994",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Four Shades Of Grey",
+      "pc_score": "55.2",
+      "songs": [
+        {
+          "title": "When You Wore A Tulip",
+          "m": "172",
+          "s": "165",
+          "p": "168"
+        },
+        {
+          "title": "Sweet Georgia Brown",
+          "m": "162",
+          "s": "159",
+          "p": "168"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Barclay Marshall"
+        },
+        {
+          "part": "lead",
+          "name": "Graham Lake"
+        },
+        {
+          "part": "bari",
+          "name": "Richard Barley"
+        },
+        {
+          "part": "bass",
+          "name": "Ken Miles"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2015QP-S.pdf"
 }

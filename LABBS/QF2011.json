@@ -1,314 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET FINALS-HARROGATE: 2011",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "HARROGATE",
+  "year": "2011",
   "date": "21/10/2011",
-  "contestants": [
-    {
-      "name": "Fortuity",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "2680.0",
-      "pc_score": "74.4",
-      "singers": [
-        {
-          "name": "Veryan Zimber",
-          "part": "tenor"
-        },
-        {
-          "name": "Gemma Netherton-Hind",
-          "part": "lead"
-        },
-        {
-          "name": "Sarah Netherton",
-          "part": "bari"
-        },
-        {
-          "name": "Sian Netherton-Hind",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "My Foolish Heart",
-          "mus": "220",
-          "prs": "226",
-          "sng": "224"
-        },
-        {
-          "song": "Undecided / Medley",
-          "mus": "219",
-          "prs": "224",
-          "sng": "224"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "450.0",
-          "prs": "448.0",
-          "sng": "445.0"
-        }
-      ]
-    },
-    {
-      "name": "Temptation",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "2496.0",
-      "pc_score": "69.3",
-      "singers": [
-        {
-          "name": "Lucy Edmonds",
-          "part": "tenor"
-        },
-        {
-          "name": "Jean Lord",
-          "part": "lead"
-        },
-        {
-          "name": "Marisa O'Connor",
-          "part": "bari"
-        },
-        {
-          "name": "Kat Male",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "No, No, Norman (No, No Nora)",
-          "mus": "210",
-          "prs": "203",
-          "sng": "210"
-        },
-        {
-          "song": "He Was There",
-          "mus": "204",
-          "prs": "206",
-          "sng": "205"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "418.0",
-          "prs": "411.0",
-          "sng": "429.0"
-        }
-      ]
-    },
-    {
-      "name": "Northern Vibe",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "2483.0",
-      "pc_score": "69.0",
-      "singers": [
-        {
-          "name": "Emma McManus",
-          "part": "tenor"
-        },
-        {
-          "name": "Katy Phillips",
-          "part": "lead"
-        },
-        {
-          "name": "Teresa Thackeray",
-          "part": "bari"
-        },
-        {
-          "name": "Susan Wilbraham",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "All The Way",
-          "mus": "212",
-          "prs": "205",
-          "sng": "212"
-        },
-        {
-          "song": "I Can't Give You Anything But Love / Flying Sinatra / Medley",
-          "mus": "208",
-          "prs": "203",
-          "sng": "211"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "405.0",
-          "prs": "401.0",
-          "sng": "426.0"
-        }
-      ]
-    },
-    {
-      "name": "Jiggle",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "2458.0",
-      "pc_score": "68.3",
-      "singers": [
-        {
-          "name": "Michelle Jeffries",
-          "part": "tenor"
-        },
-        {
-          "name": "Kate Sullivan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Mobsby",
-          "part": "bari"
-        },
-        {
-          "name": "Mandy Gilliland",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "After You've Gone",
-          "mus": "202",
-          "prs": "205",
-          "sng": "203"
-        },
-        {
-          "song": "At Last",
-          "mus": "207",
-          "prs": "208",
-          "sng": "206"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "411.0",
-          "prs": "407.0",
-          "sng": "409.0"
-        }
-      ]
-    },
-    {
-      "name": "The Signets",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "2410.0",
-      "pc_score": "66.9",
-      "singers": [
-        {
-          "name": "Leigh Holden",
-          "part": "tenor"
-        },
-        {
-          "name": "Sue Wheeler",
-          "part": "lead"
-        },
-        {
-          "name": "Nicky Dyer",
-          "part": "bari"
-        },
-        {
-          "name": "Liz Mountain",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "200",
-          "prs": "197",
-          "sng": "203"
-        },
-        {
-          "song": "Time After Time",
-          "mus": "202",
-          "prs": "203",
-          "sng": "204"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "403.0",
-          "prs": "404.0",
-          "sng": "394.0"
-        }
-      ]
-    },
-    {
-      "name": "JaZZmine",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "2374.0",
-      "pc_score": "65.9",
-      "singers": [
-        {
-          "name": "Becky Middleton",
-          "part": "tenor"
-        },
-        {
-          "name": "Paula Taylor-Williams",
-          "part": "lead"
-        },
-        {
-          "name": "Cathy Ball",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Palmer Penketh",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Roses Of Yesterday",
-          "mus": "189",
-          "prs": "194",
-          "sng": "193"
-        },
-        {
-          "song": "I Didn't Wanna Fall",
-          "mus": "192",
-          "prs": "199",
-          "sng": "198"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "402.0",
-          "prs": "398.0",
-          "sng": "409.0"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Heather Lane"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Jenny Mills"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Derek Davies"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Mike Warner"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Barry Clinton"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Monica Funnell"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Nancy Kelsall"
     },
     {
@@ -335,5 +65,297 @@
       "cat": "ca",
       "name": "Pauline Spiller"
     }
-  ]
+  ],
+  "type": "quartet final",
+  "contestants": [
+    {
+      "tot_score": "1337",
+      "final_tot_score": "2680",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Fortuity",
+      "pc_score": "74.4",
+      "songs": [
+        {
+          "title": "My Foolish Heart",
+          "m": "220",
+          "s": "226",
+          "p": "219"
+        },
+        {
+          "title": "Undecided / Medley",
+          "m": "224",
+          "s": "224",
+          "p": "224"
+        },
+        {
+          "title": "Previous",
+          "m": "450",
+          "s": "445",
+          "p": "448"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Veryan Zimber"
+        },
+        {
+          "part": "lead",
+          "name": "Gemma Netherton-Hind"
+        },
+        {
+          "part": "bari",
+          "name": "Sarah Netherton"
+        },
+        {
+          "part": "bass",
+          "name": "Sian Netherton-Hind"
+        }
+      ]
+    },
+    {
+      "tot_score": "1238",
+      "final_tot_score": "2496",
+      "rank_m": "2",
+      "rank_s": "3",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Temptation",
+      "pc_score": "69.3",
+      "songs": [
+        {
+          "title": "No, No, Norman (No, No Nora)",
+          "m": "210",
+          "s": "203",
+          "p": "204"
+        },
+        {
+          "title": "He Was There",
+          "m": "206",
+          "s": "205",
+          "p": "210"
+        },
+        {
+          "title": "Previous",
+          "m": "418",
+          "s": "429",
+          "p": "411"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Lucy Edmonds"
+        },
+        {
+          "part": "lead",
+          "name": "Jean Lord"
+        },
+        {
+          "part": "bari",
+          "name": "Marisa O'Connor"
+        },
+        {
+          "part": "bass",
+          "name": "Kat Male"
+        }
+      ]
+    },
+    {
+      "tot_score": "1251",
+      "final_tot_score": "2483",
+      "rank_m": "3",
+      "rank_s": "2",
+      "rank_p": "4",
+      "rank": "3",
+      "name": "Northern Vibe",
+      "pc_score": "69.0",
+      "songs": [
+        {
+          "title": "All The Way",
+          "m": "212",
+          "s": "205",
+          "p": "208"
+        },
+        {
+          "title": "I Can't Give You Anything But Love / Flying Sinatra / Medley",
+          "m": "203",
+          "s": "211",
+          "p": "212"
+        },
+        {
+          "title": "Previous",
+          "m": "405",
+          "s": "426",
+          "p": "401"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Emma McManus"
+        },
+        {
+          "part": "lead",
+          "name": "Katy Phillips"
+        },
+        {
+          "part": "bari",
+          "name": "Teresa Thackeray"
+        },
+        {
+          "part": "bass",
+          "name": "Susan Wilbraham"
+        }
+      ]
+    },
+    {
+      "tot_score": "1231",
+      "final_tot_score": "2458",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "2",
+      "rank": "4",
+      "name": "Jiggle",
+      "pc_score": "68.3",
+      "songs": [
+        {
+          "title": "After You've Gone",
+          "m": "202",
+          "s": "205",
+          "p": "207"
+        },
+        {
+          "title": "At Last",
+          "m": "208",
+          "s": "206",
+          "p": "203"
+        },
+        {
+          "title": "Previous",
+          "m": "411",
+          "s": "409",
+          "p": "407"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michelle Jeffries"
+        },
+        {
+          "part": "lead",
+          "name": "Kate Sullivan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Mobsby"
+        },
+        {
+          "part": "bass",
+          "name": "Mandy Gilliland"
+        }
+      ]
+    },
+    {
+      "tot_score": "1209",
+      "final_tot_score": "2410",
+      "rank_m": "5",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "5",
+      "name": "The Signets",
+      "pc_score": "66.9",
+      "songs": [
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "200",
+          "s": "197",
+          "p": "202"
+        },
+        {
+          "title": "Time After Time",
+          "m": "203",
+          "s": "204",
+          "p": "203"
+        },
+        {
+          "title": "Previous",
+          "m": "403",
+          "s": "394",
+          "p": "404"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Leigh Holden"
+        },
+        {
+          "part": "lead",
+          "name": "Sue Wheeler"
+        },
+        {
+          "part": "bari",
+          "name": "Nicky Dyer"
+        },
+        {
+          "part": "bass",
+          "name": "Liz Mountain"
+        }
+      ]
+    },
+    {
+      "tot_score": "1165",
+      "final_tot_score": "2374",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "JaZZmine",
+      "pc_score": "65.9",
+      "songs": [
+        {
+          "title": "Roses Of Yesterday",
+          "m": "189",
+          "s": "194",
+          "p": "192"
+        },
+        {
+          "title": "I Didn't Wanna Fall",
+          "m": "199",
+          "s": "198",
+          "p": "193"
+        },
+        {
+          "title": "Previous",
+          "m": "402",
+          "s": "409",
+          "p": "398"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Becky Middleton"
+        },
+        {
+          "part": "lead",
+          "name": "Paula Taylor-Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Cathy Ball"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Palmer Penketh"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QF2011.pdf"
 }

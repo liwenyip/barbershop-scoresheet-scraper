@@ -1,0 +1,643 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET SEMI-FINAL (NATIONAL STREAM)",
+  "location": "LLANDUDNO",
+  "year": "2010/11",
+  "date": "27/05/2011",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1376",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Crossfire",
+      "pc_score": "76.4",
+      "songs": [
+        {
+          "title": "Moonlight Becomes You",
+          "m": "228",
+          "s": "229",
+          "p": "231"
+        },
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "231",
+          "s": "228",
+          "p": "229"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Andrew"
+        },
+        {
+          "part": "bass",
+          "name": "Neil"
+        }
+      ]
+    },
+    {
+      "tot_score": "1260",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "4",
+      "rank": "2",
+      "name": "Celebration",
+      "pc_score": "70.0",
+      "songs": [
+        {
+          "title": "That's Life",
+          "m": "210",
+          "s": "204",
+          "p": "218"
+        },
+        {
+          "title": "Melancholy Baby",
+          "m": "204",
+          "s": "214",
+          "p": "210"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ]
+    },
+    {
+      "tot_score": "1228",
+      "rank_m": "3",
+      "rank_s": "6",
+      "rank_p": "5",
+      "rank": "3",
+      "name": "4getmenots",
+      "pc_score": "68.2",
+      "songs": [
+        {
+          "title": "Sentimental Gentleman From Georgia",
+          "m": "213",
+          "s": "203",
+          "p": "205"
+        },
+        {
+          "title": "Lover Come Back",
+          "m": "204",
+          "s": "199",
+          "p": "204"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "James"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Colin"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ]
+    },
+    {
+      "tot_score": "1224",
+      "rank_m": "4",
+      "rank_s": "3",
+      "rank_p": "10",
+      "rank": "4",
+      "name": "Vox",
+      "pc_score": "68.0",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "202",
+          "s": "199",
+          "p": "208"
+        },
+        {
+          "title": "Cheer Up Charlie",
+          "m": "199",
+          "s": "209",
+          "p": "207"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Graham"
+        },
+        {
+          "part": "bass",
+          "name": "Mark"
+        }
+      ]
+    },
+    {
+      "tot_score": "1214",
+      "rank_m": "5",
+      "rank_s": "7",
+      "rank_p": "2",
+      "rank": "5",
+      "name": "The Serious Chord Squad",
+      "pc_score": "67.4",
+      "songs": [
+        {
+          "title": "Friends To The End",
+          "m": "200",
+          "s": "208",
+          "p": "198"
+        },
+        {
+          "title": "From The First Hello To The Last Goodbye [parody]",
+          "m": "208",
+          "s": "199",
+          "p": "201"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Frank"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Bob"
+        }
+      ]
+    },
+    {
+      "tot_score": "1197",
+      "rank_m": "9",
+      "rank_s": "9",
+      "rank_p": "3",
+      "rank": "6",
+      "name": "Cadence",
+      "pc_score": "66.5",
+      "songs": [
+        {
+          "title": "Come Fly With Me",
+          "m": "191",
+          "s": "201",
+          "p": "198"
+        },
+        {
+          "title": "Cheer Up Charlie",
+          "m": "208",
+          "s": "201",
+          "p": "198"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ]
+    },
+    {
+      "tot_score": "1197",
+      "rank_m": "6",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "6",
+      "name": "Quadrahedron",
+      "pc_score": "66.5",
+      "songs": [
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "201",
+          "s": "199",
+          "p": "196"
+        },
+        {
+          "title": "What'll I Do",
+          "m": "201",
+          "s": "199",
+          "p": "201"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "1197",
+      "rank_m": "11",
+      "rank_s": "5",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Reunion",
+      "pc_score": "66.5",
+      "songs": [
+        {
+          "title": "Sweet Adeline",
+          "m": "191",
+          "s": "202",
+          "p": "194"
+        },
+        {
+          "title": "Dear Hearts And Gentle People",
+          "m": "201",
+          "s": "204",
+          "p": "205"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Giles"
+        },
+        {
+          "part": "bass",
+          "name": "Martin"
+        }
+      ]
+    },
+    {
+      "tot_score": "1193",
+      "rank_m": "10",
+      "rank_s": "4",
+      "rank_p": "12",
+      "rank": "9",
+      "name": "Qube",
+      "pc_score": "66.3",
+      "songs": [
+        {
+          "title": "Love Me",
+          "m": "188",
+          "s": "198",
+          "p": "199"
+        },
+        {
+          "title": "May I Never Love Again",
+          "m": "198",
+          "s": "205",
+          "p": "205"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ]
+    },
+    {
+      "tot_score": "1174",
+      "rank_m": "7",
+      "rank_s": "11",
+      "rank_p": "8",
+      "rank": "10",
+      "name": "Revised Edition",
+      "pc_score": "65.2",
+      "songs": [
+        {
+          "title": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "m": "195",
+          "s": "199",
+          "p": "198"
+        },
+        {
+          "title": "That's Life",
+          "m": "200",
+          "s": "192",
+          "p": "190"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Chris"
+        },
+        {
+          "part": "lead",
+          "name": "Glenn"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ]
+    },
+    {
+      "tot_score": "1168",
+      "rank_m": "8",
+      "rank_s": "10",
+      "rank_p": "13",
+      "rank": "11",
+      "name": "Catch 22",
+      "pc_score": "64.9",
+      "songs": [
+        {
+          "title": "I'm Beginning To See The Light",
+          "m": "197",
+          "s": "196",
+          "p": "195"
+        },
+        {
+          "title": "For All We Know",
+          "m": "194",
+          "s": "194",
+          "p": "192"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Greg"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ]
+    },
+    {
+      "tot_score": "1146",
+      "rank_m": "13",
+      "rank_s": "12",
+      "rank_p": "8",
+      "rank": "12",
+      "name": "Footlights 63.7 1140 Make 'Em Laugh Love Me And The World Is Mine 190 186 202 195 185 182 12 11 14 Category rankings: 13: Quartetones",
+      "pc_score": "63.3",
+      "songs": [
+        {
+          "title": "Zing! Went The Strings Of My Heart",
+          "m": "179",
+          "s": "198",
+          "p": "190"
+        },
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "201",
+          "s": "189",
+          "p": "189"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Guthrie"
+        },
+        {
+          "part": "lead",
+          "name": "Iain"
+        },
+        {
+          "part": "bari",
+          "name": "Graham"
+        },
+        {
+          "part": "bass",
+          "name": "Alex"
+        }
+      ]
+    },
+    {
+      "tot_score": "1111",
+      "rank_m": "14",
+      "rank_s": "13",
+      "rank_p": "14",
+      "rank": "14",
+      "name": "Retro",
+      "pc_score": "61.7",
+      "songs": [
+        {
+          "title": "Always",
+          "m": "183",
+          "s": "186",
+          "p": "182"
+        },
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "189",
+          "s": "185",
+          "p": "186"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "1085",
+      "rank_m": "15",
+      "rank_s": "15",
+      "rank_p": "15",
+      "rank": "15",
+      "name": "Forte",
+      "pc_score": "60.3",
+      "songs": [
+        {
+          "title": "I'm Beginning To See The Light",
+          "m": "175",
+          "s": "183",
+          "p": "182"
+        },
+        {
+          "title": "What'll I Do",
+          "m": "186",
+          "s": "179",
+          "p": "180"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Tim"
+        },
+        {
+          "part": "lead",
+          "name": "Graham"
+        },
+        {
+          "part": "bari",
+          "name": "Paul"
+        },
+        {
+          "part": "bass",
+          "name": "Dave"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2011QSF.pdf"
+}

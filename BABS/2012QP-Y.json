@@ -1,0 +1,221 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET PRELIM CONTEST 2 (YOUTH STREAM)",
+  "location": "BIRMINGHAM",
+  "year": "2011/12",
+  "date": "20/11/2011",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "m",
+      "name": "Delyth Knight"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Alison Zdzylowski"
+    },
+    {
+      "cat": "s",
+      "name": "Jon Conway"
+    },
+    {
+      "cat": "s",
+      "name": "Nicky Salt"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "900",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Mach 4",
+      "pc_score": "75.0",
+      "songs": [
+        {
+          "title": "Hello My Baby",
+          "m": "152",
+          "s": "151",
+          "p": "152"
+        },
+        {
+          "title": "You Are The Girl I Love",
+          "m": "149",
+          "s": "149",
+          "p": "147"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alex"
+        },
+        {
+          "part": "lead",
+          "name": "Antoine"
+        },
+        {
+          "part": "bari",
+          "name": "Tim"
+        },
+        {
+          "part": "bass",
+          "name": "Joe"
+        }
+      ]
+    },
+    {
+      "tot_score": "806",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Encore",
+      "pc_score": "67.2",
+      "songs": [
+        {
+          "title": "Make 'Em Laugh",
+          "m": "137",
+          "s": "136",
+          "p": "137"
+        },
+        {
+          "title": "The Street Where We Live",
+          "m": "133",
+          "s": "132",
+          "p": "131"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Tom"
+        },
+        {
+          "part": "lead",
+          "name": "Tommy"
+        },
+        {
+          "part": "bari",
+          "name": "Mat"
+        },
+        {
+          "part": "bass",
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "tot_score": "744",
+      "rank_m": "3",
+      "rank_s": "4",
+      "rank_p": "5",
+      "rank": "3",
+      "name": "Discovery",
+      "pc_score": "62.0",
+      "songs": [
+        {
+          "title": "The Story Of The Rose (Heart Of My Heart)",
+          "m": "123",
+          "s": "115",
+          "p": "129"
+        },
+        {
+          "title": "Alexander's Ragtime Band",
+          "m": "123",
+          "s": "129",
+          "p": "125"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Laurence"
+        },
+        {
+          "part": "lead",
+          "name": "Guthrie"
+        },
+        {
+          "part": "bari",
+          "name": "Alex"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ]
+    },
+    {
+      "tot_score": "735",
+      "rank_m": "4",
+      "rank_s": "3",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Cutting Edge 61.3 675 Ain't Misbehavin' If You Were The Only Girl In The World 108 106 122 119 113 107 5 3 5 Category rankings: 5: Quadzilla",
+      "pc_score": "56.3",
+      "songs": [
+        {
+          "title": "I'm All Alone",
+          "m": "120",
+          "s": "116",
+          "p": "120"
+        },
+        {
+          "title": "When Uncle Joe Plays A Rag On His Old Banjo",
+          "m": "123",
+          "s": "129",
+          "p": "127"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joe"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Jonathan"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2012QP-Y.pdf"
+}

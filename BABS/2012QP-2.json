@@ -1,0 +1,631 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET PRELIM CONTEST 2 (NATIONAL STREAM)",
+  "location": "BIRMINGHAM",
+  "year": "2011/12",
+  "date": "20/11/2011",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "m",
+      "name": "Delyth Knight"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Alison Zdzylowski"
+    },
+    {
+      "cat": "s",
+      "name": "Jon Conway"
+    },
+    {
+      "cat": "s",
+      "name": "Nicky Salt"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "900",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Mach 4",
+      "pc_score": "75.0",
+      "songs": [
+        {
+          "title": "Hello My Baby",
+          "m": "152",
+          "s": "151",
+          "p": "152"
+        },
+        {
+          "title": "You Are The Girl I Love",
+          "m": "149",
+          "s": "149",
+          "p": "147"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alex"
+        },
+        {
+          "part": "lead",
+          "name": "Antoine"
+        },
+        {
+          "part": "bari",
+          "name": "Tim"
+        },
+        {
+          "part": "bass",
+          "name": "Joe"
+        }
+      ]
+    },
+    {
+      "tot_score": "858",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "3",
+      "rank": "2",
+      "name": "Celebration",
+      "pc_score": "71.5",
+      "songs": [
+        {
+          "title": "That's Life",
+          "m": "146",
+          "s": "141",
+          "p": "146"
+        },
+        {
+          "title": "My Melancholy Baby",
+          "m": "146",
+          "s": "141",
+          "p": "138"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ]
+    },
+    {
+      "tot_score": "834",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "2",
+      "rank": "3",
+      "name": "IQ",
+      "pc_score": "69.5",
+      "songs": [
+        {
+          "title": "You Don't Know Me",
+          "m": "137",
+          "s": "141",
+          "p": "141"
+        },
+        {
+          "title": "Taking A Chance On Love",
+          "m": "147",
+          "s": "134",
+          "p": "134"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Brian"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Keith"
+        }
+      ]
+    },
+    {
+      "tot_score": "806",
+      "rank_m": "5",
+      "rank_s": "3",
+      "rank_p": "6",
+      "rank": "4",
+      "name": "MC Squared",
+      "pc_score": "67.2",
+      "songs": [
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "141",
+          "s": "130",
+          "p": "135"
+        },
+        {
+          "title": "When Day Is Done",
+          "m": "131",
+          "s": "133",
+          "p": "136"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Chris"
+        },
+        {
+          "part": "lead",
+          "name": "Colin"
+        },
+        {
+          "part": "bari",
+          "name": "Martin"
+        },
+        {
+          "part": "bass",
+          "name": "Martin"
+        }
+      ]
+    },
+    {
+      "tot_score": "806",
+      "rank_m": "3",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "4",
+      "name": "Reunion",
+      "pc_score": "67.2",
+      "songs": [
+        {
+          "title": "If I Had My Way",
+          "m": "144",
+          "s": "133",
+          "p": "136"
+        },
+        {
+          "title": "That Old Piano Of Mine",
+          "m": "130",
+          "s": "130",
+          "p": "133"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Giles"
+        },
+        {
+          "part": "bass",
+          "name": "Martin"
+        }
+      ]
+    },
+    {
+      "tot_score": "774",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "9",
+      "rank": "6",
+      "name": "Catch 22",
+      "pc_score": "64.5",
+      "songs": [
+        {
+          "title": "Basin Street Blues",
+          "m": "138",
+          "s": "123",
+          "p": "131"
+        },
+        {
+          "title": "Somebody Stole My Gal / Five Foot Two Eyes Of Blue Medley",
+          "m": "125",
+          "s": "125",
+          "p": "132"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Greg"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Paul"
+        }
+      ]
+    },
+    {
+      "tot_score": "773",
+      "rank_m": "13",
+      "rank_s": "7",
+      "rank_p": "4",
+      "rank": "7",
+      "name": "Qube",
+      "pc_score": "64.4",
+      "songs": [
+        {
+          "title": "I Can't Give You Anything But Love",
+          "m": "128",
+          "s": "132",
+          "p": "123"
+        },
+        {
+          "title": "From The First Hello To The Last Goodbye",
+          "m": "137",
+          "s": "127",
+          "p": "126"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "David"
+        },
+        {
+          "part": "lead",
+          "name": "Dave"
+        },
+        {
+          "part": "bari",
+          "name": "David"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ]
+    },
+    {
+      "tot_score": "768",
+      "rank_m": "10",
+      "rank_s": "8",
+      "rank_p": "6",
+      "rank": "8",
+      "name": "Unbreakable",
+      "pc_score": "64.0",
+      "songs": [
+        {
+          "title": "That's Life",
+          "m": "131",
+          "s": "129",
+          "p": "124"
+        },
+        {
+          "title": "Lover Come Back",
+          "m": "132",
+          "s": "124",
+          "p": "128"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Paul"
+        },
+        {
+          "part": "lead",
+          "name": "Dale"
+        },
+        {
+          "part": "bari",
+          "name": "Scott"
+        },
+        {
+          "part": "bass",
+          "name": "Ian"
+        }
+      ]
+    },
+    {
+      "tot_score": "754",
+      "rank_m": "8",
+      "rank_s": "8",
+      "rank_p": "10",
+      "rank": "9",
+      "name": "Forte",
+      "pc_score": "62.8",
+      "songs": [
+        {
+          "title": "From The First Hello To The Last Goodbye",
+          "m": "127",
+          "s": "123",
+          "p": "132"
+        },
+        {
+          "title": "I'm Beginning To See The Light",
+          "m": "120",
+          "s": "130",
+          "p": "122"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Tim"
+        },
+        {
+          "part": "lead",
+          "name": "Graham"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ]
+    },
+    {
+      "tot_score": "744",
+      "rank_m": "9",
+      "rank_s": "10",
+      "rank_p": "13",
+      "rank": "10",
+      "name": "Forge",
+      "pc_score": "62.0",
+      "songs": [
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "128",
+          "s": "117",
+          "p": "129"
+        },
+        {
+          "title": "What'll I Do",
+          "m": "121",
+          "s": "125",
+          "p": "124"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andrew"
+        },
+        {
+          "part": "lead",
+          "name": "Joe"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Paul"
+        }
+      ]
+    },
+    {
+      "tot_score": "736",
+      "rank_m": "7",
+      "rank_s": "14",
+      "rank_p": "8",
+      "rank": "11",
+      "name": "Doghouse",
+      "pc_score": "61.3",
+      "songs": [
+        {
+          "title": "Liar Medley",
+          "m": "129",
+          "s": "123",
+          "p": "133"
+        },
+        {
+          "title": "How Deep Is The Ocean",
+          "m": "130",
+          "s": "119",
+          "p": "102"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Mick"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "Matthew"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ]
+    },
+    {
+      "tot_score": "727",
+      "rank_m": "12",
+      "rank_s": "12",
+      "rank_p": "12",
+      "rank": "12",
+      "name": "For Cryin Out Loud",
+      "pc_score": "60.6",
+      "songs": [
+        {
+          "title": "Each Time I Fall In Love",
+          "m": "129",
+          "s": "118",
+          "p": "123"
+        },
+        {
+          "title": "Row, Row, Row",
+          "m": "121",
+          "s": "117",
+          "p": "119"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Bill"
+        },
+        {
+          "part": "bari",
+          "name": "David"
+        },
+        {
+          "part": "bass",
+          "name": "Alec"
+        }
+      ]
+    },
+    {
+      "tot_score": "724",
+      "rank_m": "11",
+      "rank_s": "11",
+      "rank_p": "15",
+      "rank": "13",
+      "name": "Revised Edition",
+      "pc_score": "60.3",
+      "songs": [
+        {
+          "title": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "m": "130",
+          "s": "115",
+          "p": "124"
+        },
+        {
+          "title": "Among My Souvenirs",
+          "m": "115",
+          "s": "116",
+          "p": "124"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Giles"
+        },
+        {
+          "part": "lead",
+          "name": "Glenn"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ]
+    },
+    {
+      "tot_score": "702",
+      "rank_m": "14",
+      "rank_s": "13",
+      "rank_p": "14",
+      "rank": "14",
+      "name": "The Whole Nine Yards 58.5 675 Ain't Misbehavin' If You Were The Only Girl In The World 108 106 122 119 113 107 16 11 15 Category rankings: 15: Quadzilla",
+      "pc_score": "56.3",
+      "songs": [
+        {
+          "title": "My Honey's Lovin' Arms",
+          "m": "120",
+          "s": "114",
+          "p": "127"
+        },
+        {
+          "title": "Girls Medley",
+          "m": "117",
+          "s": "111",
+          "p": "113"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joe"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Jonathan"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2012QP-2.pdf"
+}

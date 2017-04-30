@@ -1,282 +1,9 @@
 {
-  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET PRELIMS (YOUTH STREAM)  -  RNCM MANCHESTER: 2016/2017",
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS (YOUTH STREAM)",
+  "location": "RNCM MANCHESTER",
+  "year": "2016/2017",
   "date": "06/11/2016",
-  "contestants": [
-    {
-      "name": "4 On Demand",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "1283",
-      "pc_score": "71.3",
-      "singers": [
-        {
-          "name": "Jamie Braham",
-          "part": "tenor"
-        },
-        {
-          "name": "Peter Bryant",
-          "part": "lead"
-        },
-        {
-          "name": "Nick Bryant",
-          "part": "bari"
-        },
-        {
-          "name": "Calvin Laverick",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "The Way You Look Tonight",
-          "mus": "217",
-          "prs": "210",
-          "sng": "221"
-        },
-        {
-          "song": "Show Me Where The Good Times Are",
-          "mus": "208",
-          "prs": "211",
-          "sng": "216"
-        }
-      ]
-    },
-    {
-      "name": "Sound Hypothesis",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "1270",
-      "pc_score": "70.6",
-      "singers": [
-        {
-          "name": "Ehsaan Shivarani",
-          "part": "tenor"
-        },
-        {
-          "name": "Conrad Godfrey",
-          "part": "lead"
-        },
-        {
-          "name": "Arun O'Sullivan",
-          "part": "bari"
-        },
-        {
-          "name": "Alex Moore",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Can't Give You Anything But Love",
-          "mus": "208",
-          "prs": "204",
-          "sng": "218"
-        },
-        {
-          "song": "It's You",
-          "mus": "213",
-          "prs": "208",
-          "sng": "219"
-        }
-      ]
-    },
-    {
-      "name": "Harmonopoly",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "1258",
-      "pc_score": "69.9",
-      "singers": [
-        {
-          "name": "Joseph Spratt",
-          "part": "tenor"
-        },
-        {
-          "name": "Chris Littlewood",
-          "part": "lead"
-        },
-        {
-          "name": "Oliver Gildea",
-          "part": "bari"
-        },
-        {
-          "name": "Tim Bagley",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "That's An Irish Lullaby",
-          "mus": "209",
-          "prs": "204",
-          "sng": "212"
-        },
-        {
-          "song": "Goodbye My Coney Island Baby",
-          "mus": "210",
-          "prs": "208",
-          "sng": "215"
-        }
-      ]
-    },
-    {
-      "name": "Northern Quarter",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "1234",
-      "pc_score": "68.6",
-      "singers": [
-        {
-          "name": "Robert Gall",
-          "part": "tenor"
-        },
-        {
-          "name": "Ciaran Wilson",
-          "part": "lead"
-        },
-        {
-          "name": "Seb Marshall",
-          "part": "bari"
-        },
-        {
-          "name": "Matt Thomas",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Love Being Here With You",
-          "mus": "206",
-          "prs": "208",
-          "sng": "207"
-        },
-        {
-          "song": "I Won't Send Roses",
-          "mus": "196",
-          "prs": "211",
-          "sng": "206"
-        }
-      ]
-    },
-    {
-      "name": "Student Unison",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "1137",
-      "pc_score": "63.2",
-      "singers": [
-        {
-          "name": "Rich Platt",
-          "part": "tenor"
-        },
-        {
-          "name": "Andy Davies",
-          "part": "lead"
-        },
-        {
-          "name": "Tomos Gwyn",
-          "part": "bari"
-        },
-        {
-          "name": "Peter Shipway",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Come Fly With Me",
-          "mus": "185",
-          "prs": "194",
-          "sng": "192"
-        },
-        {
-          "song": "You Are So Beautiful",
-          "mus": "183",
-          "prs": "191",
-          "sng": "192"
-        }
-      ]
-    },
-    {
-      "name": "Wavelength",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "1126",
-      "pc_score": "62.6",
-      "singers": [
-        {
-          "name": "Jeremy Jacomet",
-          "part": "tenor"
-        },
-        {
-          "name": "Mark Smith",
-          "part": "lead"
-        },
-        {
-          "name": "Joe Berry",
-          "part": "bari"
-        },
-        {
-          "name": "Jonny Beeden",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Hello My Baby",
-          "mus": "192",
-          "prs": "183",
-          "sng": "195"
-        },
-        {
-          "song": "I Won't Send Roses",
-          "mus": "183",
-          "prs": "186",
-          "sng": "187"
-        }
-      ]
-    },
-    {
-      "name": "Diminshed Fifth",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "1101",
-      "pc_score": "61.2",
-      "singers": [
-        {
-          "name": "Abe Armitage",
-          "part": "tenor"
-        },
-        {
-          "name": "Chris Holdridge",
-          "part": "lead"
-        },
-        {
-          "name": "Jakob Painter",
-          "part": "bari"
-        },
-        {
-          "name": "Tom Hill",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Love To Hear That Old Barbershop Style",
-          "mus": "184",
-          "prs": "180",
-          "sng": "186"
-        },
-        {
-          "song": "When She Loved Me",
-          "mus": "181",
-          "prs": "184",
-          "sng": "186"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
       "cat": "m",
@@ -324,7 +51,310 @@
     },
     {
       "cat": "ca",
-      "name": "Alastair Taylor-Pay"
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Charles Grainger"
+    },
+    {
+      "cat": "ca",
+      "name": "Gail Grainger"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1283",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "4 On Demand",
+      "pc_score": "71.3",
+      "songs": [
+        {
+          "title": "The Way You Look Tonight",
+          "m": "217",
+          "s": "210",
+          "p": "208"
+        },
+        {
+          "title": "Show Me Where The Good Times Are",
+          "m": "211",
+          "s": "216",
+          "p": "221"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jamie Braham"
+        },
+        {
+          "part": "lead",
+          "name": "Peter Bryant"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Bryant"
+        },
+        {
+          "part": "bass",
+          "name": "Calvin Laverick"
+        }
+      ]
+    },
+    {
+      "tot_score": "1270",
+      "rank_m": "2",
+      "rank_s": "1",
+      "rank_p": "3",
+      "rank": "2",
+      "name": "Sound Hypothesis",
+      "pc_score": "70.6",
+      "songs": [
+        {
+          "title": "I Can't Give You Anything But Love",
+          "m": "208",
+          "s": "204",
+          "p": "213"
+        },
+        {
+          "title": "It's You",
+          "m": "208",
+          "s": "219",
+          "p": "218"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ehsaan Shivarani"
+        },
+        {
+          "part": "lead",
+          "name": "Conrad Godfrey"
+        },
+        {
+          "part": "bari",
+          "name": "Arun O'Sullivan"
+        },
+        {
+          "part": "bass",
+          "name": "Alex Moore"
+        }
+      ]
+    },
+    {
+      "tot_score": "1258",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Harmonopoly",
+      "pc_score": "69.9",
+      "songs": [
+        {
+          "title": "That's An Irish Lullaby",
+          "m": "209",
+          "s": "204",
+          "p": "210"
+        },
+        {
+          "title": "Goodbye My Coney Island Baby",
+          "m": "208",
+          "s": "215",
+          "p": "212"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joseph Spratt"
+        },
+        {
+          "part": "lead",
+          "name": "Chris Littlewood"
+        },
+        {
+          "part": "bari",
+          "name": "Oliver Gildea"
+        },
+        {
+          "part": "bass",
+          "name": "Tim Bagley"
+        }
+      ]
+    },
+    {
+      "tot_score": "1234",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "2",
+      "rank": "4",
+      "name": "Northern Quarter",
+      "pc_score": "68.6",
+      "songs": [
+        {
+          "title": "I Love Being Here With You",
+          "m": "206",
+          "s": "208",
+          "p": "196"
+        },
+        {
+          "title": "I Won't Send Roses",
+          "m": "211",
+          "s": "206",
+          "p": "207"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Robert Gall"
+        },
+        {
+          "part": "lead",
+          "name": "Ciaran Wilson"
+        },
+        {
+          "part": "bari",
+          "name": "Seb Marshall"
+        },
+        {
+          "part": "bass",
+          "name": "Matt Thomas"
+        }
+      ]
+    },
+    {
+      "tot_score": "1137",
+      "rank_m": "6",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "5",
+      "name": "Student Unison",
+      "pc_score": "63.2",
+      "songs": [
+        {
+          "title": "Come Fly With Me",
+          "m": "185",
+          "s": "194",
+          "p": "183"
+        },
+        {
+          "title": "You Are So Beautiful",
+          "m": "191",
+          "s": "192",
+          "p": "192"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Rich Platt"
+        },
+        {
+          "part": "lead",
+          "name": "Andy Davies"
+        },
+        {
+          "part": "bari",
+          "name": "Tomos Gwyn"
+        },
+        {
+          "part": "bass",
+          "name": "Peter Shipway"
+        }
+      ]
+    },
+    {
+      "tot_score": "1126",
+      "rank_m": "5",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Wavelength",
+      "pc_score": "62.6",
+      "songs": [
+        {
+          "title": "Hello My Baby",
+          "m": "192",
+          "s": "183",
+          "p": "183"
+        },
+        {
+          "title": "I Won't Send Roses",
+          "m": "186",
+          "s": "187",
+          "p": "195"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jeremy Jacomet"
+        },
+        {
+          "part": "lead",
+          "name": "Mark Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Joe Berry"
+        },
+        {
+          "part": "bass",
+          "name": "Jonny Beeden"
+        }
+      ]
+    },
+    {
+      "tot_score": "1101",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "7",
+      "name": "Diminshed Fifth",
+      "pc_score": "61.2",
+      "songs": [
+        {
+          "title": "I Love To Hear That Old Barbershop Style",
+          "m": "184",
+          "s": "180",
+          "p": "181"
+        },
+        {
+          "title": "When She Loved Me",
+          "m": "184",
+          "s": "186",
+          "p": "186"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Abe Armitage"
+        },
+        {
+          "part": "lead",
+          "name": "Chris Holdridge"
+        },
+        {
+          "part": "bari",
+          "name": "Jakob Painter"
+        },
+        {
+          "part": "bass",
+          "name": "Tom Hill"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2016QP-Y.pdf"
 }

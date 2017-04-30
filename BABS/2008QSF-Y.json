@@ -1,0 +1,188 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET SEMI-FINAL (YOUTH STREAM)",
+  "location": "CHELTENHAM",
+  "year": "2007/08",
+  "date": "23/05/2008",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1381",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Monkey Magic",
+      "pc_score": "76.7",
+      "songs": [
+        {
+          "title": "What'll I Do",
+          "m": "229",
+          "s": "228",
+          "p": "236"
+        },
+        {
+          "title": "No No Nora",
+          "m": "226",
+          "s": "230",
+          "p": "232"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ]
+    },
+    {
+      "tot_score": "1154",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Cadence",
+      "pc_score": "64.1",
+      "songs": [
+        {
+          "title": "How Deep Is The Ocean",
+          "m": "181",
+          "s": "198",
+          "p": "180"
+        },
+        {
+          "title": "Midnight Rose",
+          "m": "192",
+          "s": "201",
+          "p": "202"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ]
+    },
+    {
+      "tot_score": "1041",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Fraggle Rock",
+      "pc_score": "57.8",
+      "songs": [
+        {
+          "title": "For All We Know",
+          "m": "168",
+          "s": "178",
+          "p": "168"
+        },
+        {
+          "title": "Once Upon A Time",
+          "m": "183",
+          "s": "172",
+          "p": "172"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Carl"
+        },
+        {
+          "part": "bari",
+          "name": "Eddie"
+        },
+        {
+          "part": "bass",
+          "name": "Dale"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2008QSF-Y.pdf"
+}

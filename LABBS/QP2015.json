@@ -1,1085 +1,32 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET PRELIMS ROUND 1-WEST WALSALL E-ACT ACADEMY: 2015",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS ROUND 1",
+  "location": "WEST WALSALL E-ACT ACADEMY",
+  "year": "2015",
   "date": "20/06/2015",
-  "contestants": [
-    {
-      "name": "Pzazz",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "918",
-      "pc_score": "76.5",
-      "singers": [
-        {
-          "name": "Sarah Hicks",
-          "part": "tenor"
-        },
-        {
-          "name": "Gill Irwin",
-          "part": "lead"
-        },
-        {
-          "name": "Julie Robinson",
-          "part": "bari"
-        },
-        {
-          "name": "Monica Funnell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Yesterday I Heard The Rain",
-          "mus": "153",
-          "prs": "150",
-          "sng": "156"
-        },
-        {
-          "song": "Love And The Weather",
-          "mus": "153",
-          "prs": "153",
-          "sng": "153"
-        }
-      ]
-    },
-    {
-      "name": "Road Trip",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "866",
-      "pc_score": "72.2",
-      "singers": [
-        {
-          "name": "Becky Middleton",
-          "part": "tenor"
-        },
-        {
-          "name": "Melanie Rice",
-          "part": "lead"
-        },
-        {
-          "name": "Debs Thompson",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Penketh",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "142",
-          "prs": "147",
-          "sng": "144"
-        },
-        {
-          "song": "I Will Love You 'Til The End Of Time",
-          "mus": "143",
-          "prs": "147",
-          "sng": "143"
-        }
-      ]
-    },
-    {
-      "name": "Tone-acity",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "861",
-      "pc_score": "71.8",
-      "singers": [
-        {
-          "name": "Jennifer Carson-Fox",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Carson",
-          "part": "lead"
-        },
-        {
-          "name": "Kate Firth",
-          "part": "bari"
-        },
-        {
-          "name": "Lesley Sheridan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If Ever I Would Leave You",
-          "mus": "144",
-          "prs": "137",
-          "sng": "149"
-        },
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "143",
-          "prs": "138",
-          "sng": "150"
-        }
-      ]
-    },
-    {
-      "name": "Good Fourtune",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "844",
-      "pc_score": "70.3",
-      "singers": [
-        {
-          "name": "Heidi Walsh",
-          "part": "tenor"
-        },
-        {
-          "name": "Laura Marples",
-          "part": "lead"
-        },
-        {
-          "name": "Ruth Starling",
-          "part": "bari"
-        },
-        {
-          "name": "Emma Holden",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Flirty Eyes",
-          "mus": "138",
-          "prs": "136",
-          "sng": "143"
-        },
-        {
-          "song": "Love Me, And The World Is Mine",
-          "mus": "142",
-          "prs": "139",
-          "sng": "146"
-        }
-      ]
-    },
-    {
-      "name": "Barberlicious",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "832",
-      "pc_score": "69.3",
-      "singers": [
-        {
-          "name": "Rebecca Fish",
-          "part": "tenor"
-        },
-        {
-          "name": "Bushra Gilchrist",
-          "part": "lead"
-        },
-        {
-          "name": "Anna Stutfield",
-          "part": "bari"
-        },
-        {
-          "name": "Anne-Marie Borneuf",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "My Foolish Heart",
-          "mus": "139",
-          "prs": "136",
-          "sng": "140"
-        },
-        {
-          "song": "Love / Medley",
-          "mus": "138",
-          "prs": "139",
-          "sng": "140"
-        }
-      ]
-    },
-    {
-      "name": "Jiggle",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "825",
-      "pc_score": "68.8",
-      "singers": [
-        {
-          "name": "Michelle Jeffries",
-          "part": "tenor"
-        },
-        {
-          "name": "Katie Sullivan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Mobsby",
-          "part": "bari"
-        },
-        {
-          "name": "Mandy Gilliland",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "143",
-          "prs": "135",
-          "sng": "135"
-        },
-        {
-          "song": "Love Me, And The World Is Mine",
-          "mus": "141",
-          "prs": "137",
-          "sng": "134"
-        }
-      ]
-    },
-    {
-      "name": "Chord en Bleu",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "817",
-      "pc_score": "68.1",
-      "singers": [
-        {
-          "name": "Lara Payne",
-          "part": "tenor"
-        },
-        {
-          "name": "Jane Crook-Taylor",
-          "part": "lead"
-        },
-        {
-          "name": "Caz Caple",
-          "part": "bari"
-        },
-        {
-          "name": "Gill Orchard",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Lover Come Back To Me",
-          "mus": "137",
-          "prs": "134",
-          "sng": "136"
-        },
-        {
-          "song": "Don't Break The Heart That Loves You",
-          "mus": "138",
-          "prs": "136",
-          "sng": "136"
-        }
-      ]
-    },
-    {
-      "name": "Close Encounter",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "815",
-      "pc_score": "67.9",
-      "singers": [
-        {
-          "name": "Sue Bottom",
-          "part": "tenor"
-        },
-        {
-          "name": "Kiera Berry",
-          "part": "lead"
-        },
-        {
-          "name": "Lisa Berry",
-          "part": "bari"
-        },
-        {
-          "name": "Cath Gregory",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "134",
-          "prs": "131",
-          "sng": "143"
-        },
-        {
-          "song": "He Was There",
-          "mus": "133",
-          "prs": "130",
-          "sng": "144"
-        }
-      ]
-    },
-    {
-      "name": "Bowled Over",
-      "type": "quartet",
-      "place": "9",
-      "tot_score": "809",
-      "pc_score": "67.4",
-      "singers": [
-        {
-          "name": "Joanna Kea",
-          "part": "tenor"
-        },
-        {
-          "name": "Lindsey Marr",
-          "part": "lead"
-        },
-        {
-          "name": "Karen Lewis",
-          "part": "bari"
-        },
-        {
-          "name": "Elaine Kendall",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I've Got A Feeling I'm Falling",
-          "mus": "136",
-          "prs": "133",
-          "sng": "138"
-        },
-        {
-          "song": "Time After Time",
-          "mus": "134",
-          "prs": "134",
-          "sng": "134"
-        }
-      ]
-    },
-    {
-      "name": "Halo",
-      "type": "quartet",
-      "place": "10",
-      "tot_score": "808",
-      "pc_score": "67.3",
-      "singers": [
-        {
-          "name": "Jane Wadsworth",
-          "part": "tenor"
-        },
-        {
-          "name": "Debbie McEwan",
-          "part": "lead"
-        },
-        {
-          "name": "Nicola Meadows",
-          "part": "bari"
-        },
-        {
-          "name": "Kirsten Wheeler",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Ya Gotta Know How To Love",
-          "mus": "133",
-          "prs": "137",
-          "sng": "135"
-        },
-        {
-          "song": "I'm Gonna Love That Guy",
-          "mus": "133",
-          "prs": "133",
-          "sng": "137"
-        }
-      ]
-    },
-    {
-      "name": "Venus Effect",
-      "type": "quartet",
-      "place": "10",
-      "tot_score": "808",
-      "pc_score": "67.3",
-      "singers": [
-        {
-          "name": "Myfanwy Beynon",
-          "part": "tenor"
-        },
-        {
-          "name": "Helen Watson",
-          "part": "lead"
-        },
-        {
-          "name": "Jo Salisbury",
-          "part": "bari"
-        },
-        {
-          "name": "Suzie Moutrie",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "When I Fall In Love",
-          "mus": "139",
-          "prs": "133",
-          "sng": "131"
-        },
-        {
-          "song": "Cabaret",
-          "mus": "138",
-          "prs": "138",
-          "sng": "129"
-        }
-      ]
-    },
-    {
-      "name": "Majestik",
-      "type": "quartet",
-      "place": "12",
-      "tot_score": "790",
-      "pc_score": "65.8",
-      "singers": [
-        {
-          "name": "Jenni Slee",
-          "part": "tenor"
-        },
-        {
-          "name": "Karen Harland",
-          "part": "lead"
-        },
-        {
-          "name": "Melinda Spencer",
-          "part": "bari"
-        },
-        {
-          "name": "Colleen Potter",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "It's Only A Paper Moon",
-          "mus": "139",
-          "prs": "125",
-          "sng": "135"
-        },
-        {
-          "song": "Georgia On My Mind",
-          "mus": "136",
-          "prs": "122",
-          "sng": "133"
-        }
-      ]
-    },
-    {
-      "name": "Obsession!",
-      "type": "quartet",
-      "place": "13",
-      "tot_score": "788",
-      "pc_score": "65.7",
-      "singers": [
-        {
-          "name": "Ruth Thomas",
-          "part": "tenor"
-        },
-        {
-          "name": "Elena Patron",
-          "part": "lead"
-        },
-        {
-          "name": "Virginia Barragan",
-          "part": "bari"
-        },
-        {
-          "name": "Debbie Penfold",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "134",
-          "prs": "129",
-          "sng": "132"
-        },
-        {
-          "song": "The Sunshine Of Your Smile",
-          "mus": "134",
-          "prs": "128",
-          "sng": "131"
-        }
-      ]
-    },
-    {
-      "name": "In 7th Heaven",
-      "type": "quartet",
-      "place": "14",
-      "tot_score": "785",
-      "pc_score": "65.4",
-      "singers": [
-        {
-          "name": "Janet Micklewright",
-          "part": "tenor"
-        },
-        {
-          "name": "Chris Wheatley",
-          "part": "lead"
-        },
-        {
-          "name": "Chris Temple",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Searson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If You Love Me Really Love Me",
-          "mus": "136",
-          "prs": "130",
-          "sng": "128"
-        },
-        {
-          "song": "How Could You Believe Me / It's A Sin To Tell A Lie",
-          "mus": "133",
-          "prs": "133",
-          "sng": "125"
-        }
-      ]
-    },
-    {
-      "name": "Simply 4",
-      "type": "quartet",
-      "place": "15",
-      "tot_score": "781",
-      "pc_score": "65.1",
-      "singers": [
-        {
-          "name": "Barbara Wardle",
-          "part": "tenor"
-        },
-        {
-          "name": "Miriam Sismey",
-          "part": "lead"
-        },
-        {
-          "name": "Helen Glavina",
-          "part": "bari"
-        },
-        {
-          "name": "Sharyn Rutterford",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If I Had My Life To Live Over",
-          "mus": "129",
-          "prs": "128",
-          "sng": "128"
-        },
-        {
-          "song": "Goody Goodbye",
-          "mus": "134",
-          "prs": "132",
-          "sng": "130"
-        }
-      ]
-    },
-    {
-      "name": "Aca-Holics",
-      "type": "quartet",
-      "place": "16",
-      "tot_score": "764",
-      "pc_score": "63.7",
-      "singers": [
-        {
-          "name": "Sue Hunt",
-          "part": "tenor"
-        },
-        {
-          "name": "Laura Ogle",
-          "part": "lead"
-        },
-        {
-          "name": "Czarme Pooley",
-          "part": "bari"
-        },
-        {
-          "name": "Katy Donaghue",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Red Hot",
-          "mus": "125",
-          "prs": "128",
-          "sng": "127"
-        },
-        {
-          "song": "At Last",
-          "mus": "127",
-          "prs": "129",
-          "sng": "128"
-        }
-      ]
-    },
-    {
-      "name": "Free Range",
-      "type": "quartet",
-      "place": "17",
-      "tot_score": "759",
-      "pc_score": "63.3",
-      "singers": [
-        {
-          "name": "Dot Cook",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Beswick",
-          "part": "lead"
-        },
-        {
-          "name": "Mads Harwood",
-          "part": "bari"
-        },
-        {
-          "name": "Di Henry",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "121",
-          "prs": "133",
-          "sng": "126"
-        },
-        {
-          "song": "My Foolish Heart",
-          "mus": "117",
-          "prs": "134",
-          "sng": "128"
-        }
-      ]
-    },
-    {
-      "name": "Supernova",
-      "type": "quartet",
-      "place": "18",
-      "tot_score": "757",
-      "pc_score": "63.1",
-      "singers": [
-        {
-          "name": "Martha Tomlinson",
-          "part": "tenor"
-        },
-        {
-          "name": "Gina Hallums",
-          "part": "lead"
-        },
-        {
-          "name": "Rachel Graff",
-          "part": "bari"
-        },
-        {
-          "name": "Hannah Ford",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "My Foolish Heart",
-          "mus": "135",
-          "prs": "124",
-          "sng": "121"
-        },
-        {
-          "song": "Deed I Do / Put Your Arms Around Me Honey / Medle",
-          "mus": "134",
-          "prs": "124",
-          "sng": "119"
-        }
-      ]
-    },
-    {
-      "name": "The SongSmiths",
-      "type": "quartet",
-      "place": "18",
-      "tot_score": "757",
-      "pc_score": "63.1",
-      "singers": [
-        {
-          "name": "Nicky Sims",
-          "part": "tenor"
-        },
-        {
-          "name": "Sue Davies",
-          "part": "lead"
-        },
-        {
-          "name": "Sophie Smith",
-          "part": "bari"
-        },
-        {
-          "name": "Noey McElwee",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "After You've Gone",
-          "mus": "125",
-          "prs": "125",
-          "sng": "126"
-        },
-        {
-          "song": "You Don't Know Me",
-          "mus": "127",
-          "prs": "128",
-          "sng": "126"
-        }
-      ]
-    },
-    {
-      "name": "SK4",
-      "type": "quartet",
-      "place": "20",
-      "tot_score": "739",
-      "pc_score": "61.6",
-      "singers": [
-        {
-          "name": "Alison Tyzack",
-          "part": "tenor"
-        },
-        {
-          "name": "Kate Shipway",
-          "part": "lead"
-        },
-        {
-          "name": "Lynne Gardener",
-          "part": "bari"
-        },
-        {
-          "name": "Carolyn Broadhurst",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Just The Way You Look Tonight",
-          "mus": "127",
-          "prs": "124",
-          "sng": "117"
-        },
-        {
-          "song": "What Kind Of Fool Am I?",
-          "mus": "128",
-          "prs": "127",
-          "sng": "116"
-        }
-      ]
-    },
-    {
-      "name": "Shebang",
-      "type": "quartet",
-      "place": "21",
-      "tot_score": "735",
-      "pc_score": "61.3",
-      "singers": [
-        {
-          "name": "Katherine Lane-Seriff",
-          "part": "tenor"
-        },
-        {
-          "name": "Tania Gabbidon",
-          "part": "lead"
-        },
-        {
-          "name": "Kate Box-Peyton",
-          "part": "bari"
-        },
-        {
-          "name": "Dulcie Williams",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Ya Gotta Know How To Love",
-          "mus": "118",
-          "prs": "129",
-          "sng": "124"
-        },
-        {
-          "song": "At Last",
-          "mus": "113",
-          "prs": "128",
-          "sng": "123"
-        }
-      ]
-    },
-    {
-      "name": "Sound Escape",
-      "type": "quartet",
-      "place": "22",
-      "tot_score": "718",
-      "pc_score": "59.8",
-      "singers": [
-        {
-          "name": "Kathy Szeputi",
-          "part": "tenor"
-        },
-        {
-          "name": "Julie Lea",
-          "part": "lead"
-        },
-        {
-          "name": "Gaynor Richards",
-          "part": "bari"
-        },
-        {
-          "name": "Sue Ward",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "116",
-          "prs": "125",
-          "sng": "119"
-        },
-        {
-          "song": "On The Street Where You Live",
-          "mus": "115",
-          "prs": "125",
-          "sng": "118"
-        }
-      ]
-    },
-    {
-      "name": "Scarlet Moon",
-      "type": "quartet",
-      "place": "23",
-      "tot_score": "707",
-      "pc_score": "58.9",
-      "singers": [
-        {
-          "name": "Kate Bird",
-          "part": "tenor"
-        },
-        {
-          "name": "Victoria Smith",
-          "part": "lead"
-        },
-        {
-          "name": "Dianne Steele",
-          "part": "bari"
-        },
-        {
-          "name": "Emma Cliffe",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Can't Give You Anything But Love",
-          "mus": "115",
-          "prs": "119",
-          "sng": "124"
-        },
-        {
-          "song": "You Made Me Love You",
-          "mus": "114",
-          "prs": "118",
-          "sng": "117"
-        }
-      ]
-    },
-    {
-      "name": "Anagram",
-      "type": "quartet",
-      "place": "24",
-      "tot_score": "705",
-      "pc_score": "58.8",
-      "singers": [
-        {
-          "name": "Alison Grigson",
-          "part": "tenor"
-        },
-        {
-          "name": "Rose Palmer",
-          "part": "lead"
-        },
-        {
-          "name": "Liz Smith",
-          "part": "bari"
-        },
-        {
-          "name": "Lyn Kirkbright",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Didn't Want To Fall",
-          "mus": "114",
-          "prs": "119",
-          "sng": "117"
-        },
-        {
-          "song": "If I Give My Heart To You",
-          "mus": "117",
-          "prs": "120",
-          "sng": "118"
-        }
-      ]
-    },
-    {
-      "name": "Dreamas",
-      "type": "quartet",
-      "place": "25",
-      "tot_score": "676",
-      "pc_score": "56.3",
-      "singers": [
-        {
-          "name": "Celia Nickson",
-          "part": "tenor"
-        },
-        {
-          "name": "Kiera Bentley",
-          "part": "lead"
-        },
-        {
-          "name": "Ruth Hastings",
-          "part": "bari"
-        },
-        {
-          "name": "Christine Casson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "At Last",
-          "mus": "115",
-          "prs": "116",
-          "sng": "114"
-        },
-        {
-          "song": "When I Grow Too Old To Dream",
-          "mus": "107",
-          "prs": "114",
-          "sng": "110"
-        }
-      ]
-    },
-    {
-      "name": "Polyphony",
-      "type": "quartet",
-      "place": "26",
-      "tot_score": "660",
-      "pc_score": "55.0",
-      "singers": [
-        {
-          "name": "Dinah Trowbridge",
-          "part": "tenor"
-        },
-        {
-          "name": "Danie Woodbridge",
-          "part": "lead"
-        },
-        {
-          "name": "Jan Deakin",
-          "part": "bari"
-        },
-        {
-          "name": "Lisa Buck",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Dream A Little Dream Of Me",
-          "mus": "106",
-          "prs": "119",
-          "sng": "101"
-        },
-        {
-          "song": "When I Just Wear My Smile",
-          "mus": "110",
-          "prs": "121",
-          "sng": "103"
-        }
-      ]
-    },
-    {
-      "name": "High Tea",
-      "type": "quartet",
-      "place": "27",
-      "tot_score": "648",
-      "pc_score": "54.0",
-      "singers": [
-        {
-          "name": "Su Roberts",
-          "part": "tenor"
-        },
-        {
-          "name": "Fiona Hicks",
-          "part": "lead"
-        },
-        {
-          "name": "Mary Williams",
-          "part": "bari"
-        },
-        {
-          "name": "Hilary Power",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If I Had My Way",
-          "mus": "107",
-          "prs": "108",
-          "sng": "108"
-        },
-        {
-          "song": "Jazz Came Up The River From New Orleans",
-          "mus": "108",
-          "prs": "111",
-          "sng": "106"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Delyth Knight"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Jenny Mills"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie James"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Lucy van de Ven"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Alison Thompson"
     },
     {
@@ -1098,5 +45,1116 @@
       "cat": "ca",
       "name": "Marilyn Penketh"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "918",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Pzazz",
+      "pc_score": "76.5",
+      "songs": [
+        {
+          "title": "Yesterday I Heard The Rain",
+          "m": "153",
+          "s": "150",
+          "p": "153"
+        },
+        {
+          "title": "Love And The Weather",
+          "m": "153",
+          "s": "153",
+          "p": "156"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sarah Hicks"
+        },
+        {
+          "part": "lead",
+          "name": "Gill Irwin"
+        },
+        {
+          "part": "bari",
+          "name": "Julie Robinson"
+        },
+        {
+          "part": "bass",
+          "name": "Monica Funnell"
+        }
+      ]
+    },
+    {
+      "tot_score": "866",
+      "rank_m": "3",
+      "rank_s": "4",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Road Trip",
+      "pc_score": "72.2",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "142",
+          "s": "147",
+          "p": "143"
+        },
+        {
+          "title": "I Will Love You 'Til The End Of Time",
+          "m": "147",
+          "s": "143",
+          "p": "144"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Becky Middleton"
+        },
+        {
+          "part": "lead",
+          "name": "Melanie Rice"
+        },
+        {
+          "part": "bari",
+          "name": "Debs Thompson"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Penketh"
+        }
+      ]
+    },
+    {
+      "tot_score": "861",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Tone-acity",
+      "pc_score": "71.8",
+      "songs": [
+        {
+          "title": "If Ever I Would Leave You",
+          "m": "144",
+          "s": "137",
+          "p": "143"
+        },
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "138",
+          "s": "150",
+          "p": "149"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jennifer Carson-Fox"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Carson"
+        },
+        {
+          "part": "bari",
+          "name": "Kate Firth"
+        },
+        {
+          "part": "bass",
+          "name": "Lesley Sheridan"
+        }
+      ]
+    },
+    {
+      "tot_score": "844",
+      "rank_m": "5",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "4",
+      "name": "Good Fourtune",
+      "pc_score": "70.3",
+      "songs": [
+        {
+          "title": "Flirty Eyes",
+          "m": "138",
+          "s": "136",
+          "p": "142"
+        },
+        {
+          "title": "Love Me, And The World Is Mine",
+          "m": "139",
+          "s": "146",
+          "p": "143"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Heidi Walsh"
+        },
+        {
+          "part": "lead",
+          "name": "Laura Marples"
+        },
+        {
+          "part": "bari",
+          "name": "Ruth Starling"
+        },
+        {
+          "part": "bass",
+          "name": "Emma Holden"
+        }
+      ]
+    },
+    {
+      "tot_score": "832",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "3",
+      "rank": "5",
+      "name": "Barberlicious",
+      "pc_score": "69.3",
+      "songs": [
+        {
+          "title": "My Foolish Heart",
+          "m": "139",
+          "s": "136",
+          "p": "138"
+        },
+        {
+          "title": "Love / Medley",
+          "m": "139",
+          "s": "140",
+          "p": "140"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Rebecca Fish"
+        },
+        {
+          "part": "lead",
+          "name": "Bushra Gilchrist"
+        },
+        {
+          "part": "bari",
+          "name": "Anna Stutfield"
+        },
+        {
+          "part": "bass",
+          "name": "Anne-Marie Borneuf"
+        }
+      ]
+    },
+    {
+      "tot_score": "825",
+      "rank_m": "4",
+      "rank_s": "10",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Jiggle",
+      "pc_score": "68.8",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "143",
+          "s": "135",
+          "p": "141"
+        },
+        {
+          "title": "Love Me, And The World Is Mine",
+          "m": "137",
+          "s": "134",
+          "p": "135"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michelle Jeffries"
+        },
+        {
+          "part": "lead",
+          "name": "Katie Sullivan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Mobsby"
+        },
+        {
+          "part": "bass",
+          "name": "Mandy Gilliland"
+        }
+      ]
+    },
+    {
+      "tot_score": "817",
+      "rank_m": "8",
+      "rank_s": "7",
+      "rank_p": "8",
+      "rank": "7",
+      "name": "Chord en Bleu",
+      "pc_score": "68.1",
+      "songs": [
+        {
+          "title": "Lover Come Back To Me",
+          "m": "137",
+          "s": "134",
+          "p": "138"
+        },
+        {
+          "title": "Don't Break The Heart That Loves You",
+          "m": "136",
+          "s": "136",
+          "p": "136"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Lara Payne"
+        },
+        {
+          "part": "lead",
+          "name": "Jane Crook-Taylor"
+        },
+        {
+          "part": "bari",
+          "name": "Caz Caple"
+        },
+        {
+          "part": "bass",
+          "name": "Gill Orchard"
+        }
+      ]
+    },
+    {
+      "tot_score": "815",
+      "rank_m": "14",
+      "rank_s": "4",
+      "rank_p": "13",
+      "rank": "8",
+      "name": "Close Encounter",
+      "pc_score": "67.9",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "134",
+          "s": "131",
+          "p": "133"
+        },
+        {
+          "title": "He Was There",
+          "m": "130",
+          "s": "144",
+          "p": "143"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sue Bottom"
+        },
+        {
+          "part": "lead",
+          "name": "Kiera Berry"
+        },
+        {
+          "part": "bari",
+          "name": "Lisa Berry"
+        },
+        {
+          "part": "bass",
+          "name": "Cath Gregory"
+        }
+      ]
+    },
+    {
+      "tot_score": "809",
+      "rank_m": "10",
+      "rank_s": "7",
+      "rank_p": "10",
+      "rank": "9",
+      "name": "Bowled Over",
+      "pc_score": "67.4",
+      "songs": [
+        {
+          "title": "I've Got A Feeling I'm Falling",
+          "m": "136",
+          "s": "133",
+          "p": "134"
+        },
+        {
+          "title": "Time After Time",
+          "m": "134",
+          "s": "134",
+          "p": "138"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joanna Kea"
+        },
+        {
+          "part": "lead",
+          "name": "Lindsey Marr"
+        },
+        {
+          "part": "bari",
+          "name": "Karen Lewis"
+        },
+        {
+          "part": "bass",
+          "name": "Elaine Kendall"
+        }
+      ]
+    },
+    {
+      "tot_score": "808",
+      "rank_m": "15",
+      "rank_s": "7",
+      "rank_p": "8",
+      "rank": "10",
+      "name": "Halo",
+      "pc_score": "67.3",
+      "songs": [
+        {
+          "title": "Ya Gotta Know How To Love",
+          "m": "133",
+          "s": "137",
+          "p": "133"
+        },
+        {
+          "title": "I'm Gonna Love That Guy",
+          "m": "133",
+          "s": "137",
+          "p": "135"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jane Wadsworth"
+        },
+        {
+          "part": "lead",
+          "name": "Debbie McEwan"
+        },
+        {
+          "part": "bari",
+          "name": "Nicola Meadows"
+        },
+        {
+          "part": "bass",
+          "name": "Kirsten Wheeler"
+        }
+      ]
+    },
+    {
+      "tot_score": "808",
+      "rank_m": "6",
+      "rank_s": "13",
+      "rank_p": "7",
+      "rank": "10",
+      "name": "Venus Effect",
+      "pc_score": "67.3",
+      "songs": [
+        {
+          "title": "When I Fall In Love",
+          "m": "139",
+          "s": "133",
+          "p": "138"
+        },
+        {
+          "title": "Cabaret",
+          "m": "138",
+          "s": "129",
+          "p": "131"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Myfanwy Beynon"
+        },
+        {
+          "part": "lead",
+          "name": "Helen Watson"
+        },
+        {
+          "part": "bari",
+          "name": "Jo Salisbury"
+        },
+        {
+          "part": "bass",
+          "name": "Suzie Moutrie"
+        }
+      ]
+    },
+    {
+      "tot_score": "790",
+      "rank_m": "8",
+      "rank_s": "11",
+      "rank_p": "22",
+      "rank": "12",
+      "name": "Majestik",
+      "pc_score": "65.8",
+      "songs": [
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "139",
+          "s": "125",
+          "p": "136"
+        },
+        {
+          "title": "Georgia On My Mind",
+          "m": "122",
+          "s": "133",
+          "p": "135"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jenni Slee"
+        },
+        {
+          "part": "lead",
+          "name": "Karen Harland"
+        },
+        {
+          "part": "bari",
+          "name": "Melinda Spencer"
+        },
+        {
+          "part": "bass",
+          "name": "Colleen Potter"
+        }
+      ]
+    },
+    {
+      "tot_score": "788",
+      "rank_m": "13",
+      "rank_s": "12",
+      "rank_p": "15",
+      "rank": "13",
+      "name": "Obsession!",
+      "pc_score": "65.7",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "134",
+          "s": "129",
+          "p": "134"
+        },
+        {
+          "title": "The Sunshine Of Your Smile",
+          "m": "128",
+          "s": "131",
+          "p": "132"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ruth Thomas"
+        },
+        {
+          "part": "lead",
+          "name": "Elena Patron"
+        },
+        {
+          "part": "bari",
+          "name": "Virginia Barragan"
+        },
+        {
+          "part": "bass",
+          "name": "Debbie Penfold"
+        }
+      ]
+    },
+    {
+      "tot_score": "785",
+      "rank_m": "11",
+      "rank_s": "17",
+      "rank_p": "12",
+      "rank": "14",
+      "name": "In 7th Heaven",
+      "pc_score": "65.4",
+      "songs": [
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "136",
+          "s": "130",
+          "p": "133"
+        },
+        {
+          "title": "How Could You Believe Me / It's A Sin To Tell A Lie",
+          "m": "133",
+          "s": "125",
+          "p": "128"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Janet Micklewright"
+        },
+        {
+          "part": "lead",
+          "name": "Chris Wheatley"
+        },
+        {
+          "part": "bari",
+          "name": "Chris Temple"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Searson"
+        }
+      ]
+    },
+    {
+      "tot_score": "781",
+      "rank_m": "16",
+      "rank_s": "14",
+      "rank_p": "14",
+      "rank": "15",
+      "name": "Simply 4",
+      "pc_score": "65.1",
+      "songs": [
+        {
+          "title": "If I Had My Life To Live Over",
+          "m": "129",
+          "s": "128",
+          "p": "134"
+        },
+        {
+          "title": "Goody Goodbye",
+          "m": "132",
+          "s": "130",
+          "p": "128"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Barbara Wardle"
+        },
+        {
+          "part": "lead",
+          "name": "Miriam Sismey"
+        },
+        {
+          "part": "bari",
+          "name": "Helen Glavina"
+        },
+        {
+          "part": "bass",
+          "name": "Sharyn Rutterford"
+        }
+      ]
+    },
+    {
+      "tot_score": "764",
+      "rank_m": "18",
+      "rank_s": "15",
+      "rank_p": "15",
+      "rank": "16",
+      "name": "Aca-Holics",
+      "pc_score": "63.7",
+      "songs": [
+        {
+          "title": "Red Hot",
+          "m": "125",
+          "s": "128",
+          "p": "127"
+        },
+        {
+          "title": "At Last",
+          "m": "129",
+          "s": "128",
+          "p": "127"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sue Hunt"
+        },
+        {
+          "part": "lead",
+          "name": "Laura Ogle"
+        },
+        {
+          "part": "bari",
+          "name": "Czarme Pooley"
+        },
+        {
+          "part": "bass",
+          "name": "Katy Donaghue"
+        }
+      ]
+    },
+    {
+      "tot_score": "759",
+      "rank_m": "20",
+      "rank_s": "16",
+      "rank_p": "10",
+      "rank": "17",
+      "name": "Free Range",
+      "pc_score": "63.3",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "121",
+          "s": "133",
+          "p": "117"
+        },
+        {
+          "title": "My Foolish Heart",
+          "m": "134",
+          "s": "128",
+          "p": "126"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Dot Cook"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Beswick"
+        },
+        {
+          "part": "bari",
+          "name": "Mads Harwood"
+        },
+        {
+          "part": "bass",
+          "name": "Di Henry"
+        }
+      ]
+    },
+    {
+      "tot_score": "757",
+      "rank_m": "11",
+      "rank_s": "21",
+      "rank_p": "21",
+      "rank": "18",
+      "name": "Supernova",
+      "pc_score": "63.1",
+      "songs": [
+        {
+          "title": "My Foolish Heart",
+          "m": "135",
+          "s": "124",
+          "p": "134"
+        },
+        {
+          "title": "Deed I Do / Put Your Arms Around Me Honey / Medle",
+          "m": "124",
+          "s": "119",
+          "p": "121"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Martha Tomlinson"
+        },
+        {
+          "part": "lead",
+          "name": "Gina Hallums"
+        },
+        {
+          "part": "bari",
+          "name": "Rachel Graff"
+        },
+        {
+          "part": "bass",
+          "name": "Hannah Ford"
+        }
+      ]
+    },
+    {
+      "tot_score": "757",
+      "rank_m": "18",
+      "rank_s": "18",
+      "rank_p": "18",
+      "rank": "18",
+      "name": "The SongSmiths",
+      "pc_score": "63.1",
+      "songs": [
+        {
+          "title": "After You've Gone",
+          "m": "125",
+          "s": "125",
+          "p": "127"
+        },
+        {
+          "title": "You Don't Know Me",
+          "m": "128",
+          "s": "126",
+          "p": "126"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Nicky Sims"
+        },
+        {
+          "part": "lead",
+          "name": "Sue Davies"
+        },
+        {
+          "part": "bari",
+          "name": "Sophie Smith"
+        },
+        {
+          "part": "bass",
+          "name": "Noey McElwee"
+        }
+      ]
+    },
+    {
+      "tot_score": "739",
+      "rank_m": "17",
+      "rank_s": "24",
+      "rank_p": "19",
+      "rank": "20",
+      "name": "SK4",
+      "pc_score": "61.6",
+      "songs": [
+        {
+          "title": "Just The Way You Look Tonight",
+          "m": "127",
+          "s": "124",
+          "p": "128"
+        },
+        {
+          "title": "What Kind Of Fool Am I?",
+          "m": "127",
+          "s": "116",
+          "p": "117"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alison Tyzack"
+        },
+        {
+          "part": "lead",
+          "name": "Kate Shipway"
+        },
+        {
+          "part": "bari",
+          "name": "Lynne Gardener"
+        },
+        {
+          "part": "bass",
+          "name": "Carolyn Broadhurst"
+        }
+      ]
+    },
+    {
+      "tot_score": "735",
+      "rank_m": "21",
+      "rank_s": "19",
+      "rank_p": "15",
+      "rank": "21",
+      "name": "Shebang",
+      "pc_score": "61.3",
+      "songs": [
+        {
+          "title": "Ya Gotta Know How To Love",
+          "m": "118",
+          "s": "129",
+          "p": "113"
+        },
+        {
+          "title": "At Last",
+          "m": "128",
+          "s": "123",
+          "p": "124"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Katherine Lane-Seriff"
+        },
+        {
+          "part": "lead",
+          "name": "Tania Gabbidon"
+        },
+        {
+          "part": "bari",
+          "name": "Kate Box-Peyton"
+        },
+        {
+          "part": "bass",
+          "name": "Dulcie Williams"
+        }
+      ]
+    },
+    {
+      "tot_score": "718",
+      "rank_m": "21",
+      "rank_s": "22",
+      "rank_p": "20",
+      "rank": "22",
+      "name": "Sound Escape",
+      "pc_score": "59.8",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "116",
+          "s": "125",
+          "p": "115"
+        },
+        {
+          "title": "On The Street Where You Live",
+          "m": "125",
+          "s": "118",
+          "p": "119"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Kathy Szeputi"
+        },
+        {
+          "part": "lead",
+          "name": "Julie Lea"
+        },
+        {
+          "part": "bari",
+          "name": "Gaynor Richards"
+        },
+        {
+          "part": "bass",
+          "name": "Sue Ward"
+        }
+      ]
+    },
+    {
+      "tot_score": "707",
+      "rank_m": "24",
+      "rank_s": "20",
+      "rank_p": "25",
+      "rank": "23",
+      "name": "Scarlet Moon",
+      "pc_score": "58.9",
+      "songs": [
+        {
+          "title": "I Can't Give You Anything But Love",
+          "m": "115",
+          "s": "119",
+          "p": "114"
+        },
+        {
+          "title": "You Made Me Love You",
+          "m": "118",
+          "s": "117",
+          "p": "124"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Kate Bird"
+        },
+        {
+          "part": "lead",
+          "name": "Victoria Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Dianne Steele"
+        },
+        {
+          "part": "bass",
+          "name": "Emma Cliffe"
+        }
+      ]
+    },
+    {
+      "tot_score": "705",
+      "rank_m": "21",
+      "rank_s": "23",
+      "rank_p": "24",
+      "rank": "24",
+      "name": "Anagram",
+      "pc_score": "58.8",
+      "songs": [
+        {
+          "title": "I Didn't Want To Fall",
+          "m": "114",
+          "s": "119",
+          "p": "117"
+        },
+        {
+          "title": "If I Give My Heart To You",
+          "m": "120",
+          "s": "118",
+          "p": "117"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alison Grigson"
+        },
+        {
+          "part": "lead",
+          "name": "Rose Palmer"
+        },
+        {
+          "part": "bari",
+          "name": "Liz Smith"
+        },
+        {
+          "part": "bass",
+          "name": "Lyn Kirkbright"
+        }
+      ]
+    },
+    {
+      "tot_score": "676",
+      "rank_m": "25",
+      "rank_s": "26",
+      "rank_p": "26",
+      "rank": "25",
+      "name": "Dreamas",
+      "pc_score": "56.3",
+      "songs": [
+        {
+          "title": "At Last",
+          "m": "115",
+          "s": "116",
+          "p": "107"
+        },
+        {
+          "title": "When I Grow Too Old To Dream",
+          "m": "114",
+          "s": "110",
+          "p": "114"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Celia Nickson"
+        },
+        {
+          "part": "lead",
+          "name": "Kiera Bentley"
+        },
+        {
+          "part": "bari",
+          "name": "Ruth Hastings"
+        },
+        {
+          "part": "bass",
+          "name": "Christine Casson"
+        }
+      ]
+    },
+    {
+      "tot_score": "660",
+      "rank_m": "26",
+      "rank_s": "28",
+      "rank_p": "23",
+      "rank": "26",
+      "name": "Polyphony",
+      "pc_score": "55.0",
+      "songs": [
+        {
+          "title": "Dream A Little Dream Of Me",
+          "m": "106",
+          "s": "119",
+          "p": "110"
+        },
+        {
+          "title": "When I Just Wear My Smile",
+          "m": "121",
+          "s": "103",
+          "p": "101"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Dinah Trowbridge"
+        },
+        {
+          "part": "lead",
+          "name": "Danie Woodbridge"
+        },
+        {
+          "part": "bari",
+          "name": "Jan Deakin"
+        },
+        {
+          "part": "bass",
+          "name": "Lisa Buck"
+        }
+      ]
+    },
+    {
+      "tot_score": "648",
+      "rank_m": "27",
+      "rank_s": "27",
+      "rank_p": "27",
+      "rank": "27",
+      "name": "High Tea",
+      "pc_score": "54.0",
+      "songs": [
+        {
+          "title": "If I Had My Way",
+          "m": "107",
+          "s": "108",
+          "p": "108"
+        },
+        {
+          "title": "Jazz Came Up The River From New Orleans",
+          "m": "111",
+          "s": "106",
+          "p": "108"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Su Roberts"
+        },
+        {
+          "part": "lead",
+          "name": "Fiona Hicks"
+        },
+        {
+          "part": "bari",
+          "name": "Mary Williams"
+        },
+        {
+          "part": "bass",
+          "name": "Hilary Power"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QP2015.pdf"
 }

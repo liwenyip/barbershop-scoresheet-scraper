@@ -1,0 +1,357 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET FINAL (NATIONAL STREAM)",
+  "location": "HARROGATE",
+  "year": "2009/10",
+  "date": "30/05/2010",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "James Northen"
+    },
+    {
+      "cat": "ca",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    }
+  ],
+  "type": "quartet final",
+  "contestants": [
+    {
+      "tot_score": "1393",
+      "final_tot_score": "2776",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Steel",
+      "pc_score": "77.1",
+      "songs": [
+        {
+          "title": "If I Had My Way",
+          "m": "233",
+          "s": "228",
+          "p": "233"
+        },
+        {
+          "title": "Put Your Arms Around Me Honey",
+          "m": "237",
+          "s": "231",
+          "p": "231"
+        },
+        {
+          "title": "Previous",
+          "m": "461",
+          "s": "465",
+          "p": "457"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Keith"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ]
+    },
+    {
+      "tot_score": "1357",
+      "final_tot_score": "2709",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Crossfire",
+      "pc_score": "75.3",
+      "songs": [
+        {
+          "title": "Fit As A Fiddle",
+          "m": "228",
+          "s": "224",
+          "p": "232"
+        },
+        {
+          "title": "Moonlight Becomes You",
+          "m": "230",
+          "s": "222",
+          "p": "221"
+        },
+        {
+          "title": "Previous",
+          "m": "450",
+          "s": "453",
+          "p": "449"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Andrew"
+        },
+        {
+          "part": "bass",
+          "name": "Neil"
+        }
+      ]
+    },
+    {
+      "tot_score": "1198",
+      "final_tot_score": "2402",
+      "rank_m": "3",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "3",
+      "name": "Qube",
+      "pc_score": "66.7",
+      "songs": [
+        {
+          "title": "Isn't It A Pity",
+          "m": "197",
+          "s": "206",
+          "p": "197"
+        },
+        {
+          "title": "Auld Lang Syne",
+          "m": "209",
+          "s": "194",
+          "p": "195"
+        },
+        {
+          "title": "Previous",
+          "m": "401",
+          "s": "401",
+          "p": "402"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ]
+    },
+    {
+      "tot_score": "1211",
+      "final_tot_score": "2393",
+      "rank_m": "4",
+      "rank_s": "5",
+      "rank_p": "3",
+      "rank": "4",
+      "name": "Cadence",
+      "pc_score": "66.5",
+      "songs": [
+        {
+          "title": "How Deep Is The Ocean",
+          "m": "195",
+          "s": "208",
+          "p": "200"
+        },
+        {
+          "title": "Come Fly With Me",
+          "m": "214",
+          "s": "196",
+          "p": "198"
+        },
+        {
+          "title": "Previous",
+          "m": "399",
+          "s": "385",
+          "p": "398"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ]
+    },
+    {
+      "tot_score": "1198",
+      "final_tot_score": "2384",
+      "rank_m": "5",
+      "rank_s": "3",
+      "rank_p": "6",
+      "rank": "5",
+      "name": "Vox",
+      "pc_score": "66.2",
+      "songs": [
+        {
+          "title": "Blue Skies",
+          "m": "190",
+          "s": "205",
+          "p": "195"
+        },
+        {
+          "title": "Bright Was The Night",
+          "m": "201",
+          "s": "202",
+          "p": "205"
+        },
+        {
+          "title": "Previous",
+          "m": "398",
+          "s": "397",
+          "p": "391"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Graham"
+        },
+        {
+          "part": "bass",
+          "name": "Mark"
+        }
+      ]
+    },
+    {
+      "tot_score": "1146",
+      "final_tot_score": "2326",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "5",
+      "rank": "6",
+      "name": "Celebration",
+      "pc_score": "64.6",
+      "songs": [
+        {
+          "title": "Make 'Em Laugh",
+          "m": "188",
+          "s": "207",
+          "p": "179"
+        },
+        {
+          "title": "That Old Feeling",
+          "m": "196",
+          "s": "184",
+          "p": "192"
+        },
+        {
+          "title": "Previous",
+          "m": "382",
+          "s": "400",
+          "p": "398"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2010QF.pdf"
+}

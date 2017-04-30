@@ -1,0 +1,549 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET PRELIM CONTEST 1 (SENIORS STREAM)",
+  "location": "BIRMINGHAM",
+  "year": "2011/12",
+  "date": "20/11/2011",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Liz Joyce"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Monica Funnell"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "783",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Just In Time",
+      "pc_score": "65.3",
+      "songs": [
+        {
+          "title": "Always",
+          "m": "131",
+          "s": "131",
+          "p": "131"
+        },
+        {
+          "title": "Just In Time",
+          "m": "123",
+          "s": "134",
+          "p": "133"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Dick"
+        },
+        {
+          "part": "lead",
+          "name": "David"
+        },
+        {
+          "part": "bari",
+          "name": "Colin"
+        },
+        {
+          "part": "bass",
+          "name": "Richard"
+        }
+      ]
+    },
+    {
+      "tot_score": "751",
+      "rank_m": "5",
+      "rank_s": "2",
+      "rank_p": "4",
+      "rank": "2",
+      "name": "The Grand Dads",
+      "pc_score": "62.6",
+      "songs": [
+        {
+          "title": "Make 'Em Laugh",
+          "m": "122",
+          "s": "124",
+          "p": "119"
+        },
+        {
+          "title": "This Is All I Ask",
+          "m": "122",
+          "s": "129",
+          "p": "135"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Mick"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Rob"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ]
+    },
+    {
+      "tot_score": "744",
+      "rank_m": "2",
+      "rank_s": "4",
+      "rank_p": "2",
+      "rank": "3",
+      "name": "Star Shine",
+      "pc_score": "62.0",
+      "songs": [
+        {
+          "title": "After You've Gone",
+          "m": "122",
+          "s": "123",
+          "p": "122"
+        },
+        {
+          "title": "On A Wonderful Day Like Today/Zip-a-dee-doo-dah/it's a good da",
+          "m": "128",
+          "s": "125",
+          "p": "124"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michael"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "James"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ]
+    },
+    {
+      "tot_score": "743",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "5",
+      "rank": "4",
+      "name": "Four To The Bar",
+      "pc_score": "61.9",
+      "songs": [
+        {
+          "title": "Once Upon A Time",
+          "m": "123",
+          "s": "122",
+          "p": "119"
+        },
+        {
+          "title": "That's An Irish Lullaby",
+          "m": "120",
+          "s": "127",
+          "p": "132"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Norman"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "727",
+      "rank_m": "3",
+      "rank_s": "6",
+      "rank_p": "3",
+      "rank": "5",
+      "name": "Compass",
+      "pc_score": "60.6",
+      "songs": [
+        {
+          "title": "You're Sixteen",
+          "m": "121",
+          "s": "127",
+          "p": "121"
+        },
+        {
+          "title": "This Is All I Ask",
+          "m": "121",
+          "s": "114",
+          "p": "123"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Colin"
+        },
+        {
+          "part": "lead",
+          "name": "Ken"
+        },
+        {
+          "part": "bari",
+          "name": "Neil"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ]
+    },
+    {
+      "tot_score": "706",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "6",
+      "name": "Getting On",
+      "pc_score": "58.8",
+      "songs": [
+        {
+          "title": "From The First Hello To The Last Goodbye",
+          "m": "118",
+          "s": "117",
+          "p": "119"
+        },
+        {
+          "title": "Old St Louis",
+          "m": "120",
+          "s": "115",
+          "p": "117"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Geoff"
+        },
+        {
+          "part": "lead",
+          "name": "Frank"
+        },
+        {
+          "part": "bari",
+          "name": "Sid"
+        },
+        {
+          "part": "bass",
+          "name": "Rob"
+        }
+      ]
+    },
+    {
+      "tot_score": "703",
+      "rank_m": "5",
+      "rank_s": "11",
+      "rank_p": "6",
+      "rank": "7",
+      "name": "Graffiti",
+      "pc_score": "58.6",
+      "songs": [
+        {
+          "title": "When My Baby Smiles At Me",
+          "m": "122",
+          "s": "119",
+          "p": "119"
+        },
+        {
+          "title": "Old Cape Cod",
+          "m": "122",
+          "s": "109",
+          "p": "112"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Terry"
+        },
+        {
+          "part": "lead",
+          "name": "Nick"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Gary"
+        }
+      ]
+    },
+    {
+      "tot_score": "681",
+      "rank_m": "12",
+      "rank_s": "5",
+      "rank_p": "9",
+      "rank": "8",
+      "name": "Finest Kind",
+      "pc_score": "56.8",
+      "songs": [
+        {
+          "title": "When You And I Were Young, Maggie",
+          "m": "109",
+          "s": "112",
+          "p": "108"
+        },
+        {
+          "title": "The Gang That Sang 'Heart Of My Heart'",
+          "m": "108",
+          "s": "122",
+          "p": "122"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Neil"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Gordon"
+        }
+      ]
+    },
+    {
+      "tot_score": "671",
+      "rank_m": "8",
+      "rank_s": "10",
+      "rank_p": "10",
+      "rank": "9",
+      "name": "Classmates",
+      "pc_score": "55.9",
+      "songs": [
+        {
+          "title": "Old Cape Cod",
+          "m": "115",
+          "s": "108",
+          "p": "113"
+        },
+        {
+          "title": "Let The Rest Of The World Go By",
+          "m": "109",
+          "s": "113",
+          "p": "113"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ed"
+        },
+        {
+          "part": "lead",
+          "name": "John"
+        },
+        {
+          "part": "bari",
+          "name": "George"
+        },
+        {
+          "part": "bass",
+          "name": "Henry"
+        }
+      ]
+    },
+    {
+      "tot_score": "667",
+      "rank_m": "9",
+      "rank_s": "9",
+      "rank_p": "12",
+      "rank": "10",
+      "name": "Jigsaw",
+      "pc_score": "55.6",
+      "songs": [
+        {
+          "title": "It's A Good Day",
+          "m": "113",
+          "s": "105",
+          "p": "114"
+        },
+        {
+          "title": "Baby Face",
+          "m": "107",
+          "s": "113",
+          "p": "115"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "David"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Mike"
+        }
+      ]
+    },
+    {
+      "tot_score": "665",
+      "rank_m": "11",
+      "rank_s": "8",
+      "rank_p": "11",
+      "rank": "11",
+      "name": "Vintage Spirit",
+      "pc_score": "55.4",
+      "songs": [
+        {
+          "title": "Each Time I Fall In Love",
+          "m": "109",
+          "s": "105",
+          "p": "112"
+        },
+        {
+          "title": "Taking A Chance On Love",
+          "m": "108",
+          "s": "114",
+          "p": "117"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Terry"
+        },
+        {
+          "part": "lead",
+          "name": "Brian"
+        },
+        {
+          "part": "bari",
+          "name": "Mike"
+        },
+        {
+          "part": "bass",
+          "name": "Chris"
+        }
+      ]
+    },
+    {
+      "tot_score": "660",
+      "rank_m": "10",
+      "rank_s": "12",
+      "rank_p": "8",
+      "rank": "12",
+      "name": "Doubletake",
+      "pc_score": "55.0",
+      "songs": [
+        {
+          "title": "Bring Back Those Good Old Days",
+          "m": "113",
+          "s": "113",
+          "p": "110"
+        },
+        {
+          "title": "The Band Played On",
+          "m": "119",
+          "s": "102",
+          "p": "103"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Den"
+        },
+        {
+          "part": "lead",
+          "name": "Alf"
+        },
+        {
+          "part": "bari",
+          "name": "Bob"
+        },
+        {
+          "part": "bass",
+          "name": "Dave"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2012QP-S.pdf"
+}

@@ -1,768 +1,9 @@
 {
-  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
-  "contest": "CHORUS FINAL-HARROGATE: 2015/2016",
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "CHORUS FINAL",
+  "location": "HARROGATE",
+  "year": "2015/2016",
   "date": "28/05/2016",
-  "contestants": [
-    {
-      "name": "The Cottontown Chorus",
-      "type": "chorus",
-      "place": "1",
-      "tot_score": "1483",
-      "pc_score": "82.4",
-      "director": "Neil Firth",
-      "singers": "62",
-      "songs": [
-        {
-          "song": "If You Love Me Really Love Me",
-          "m": "252",
-          "p": "247",
-          "s": "247"
-        },
-        {
-          "song": "Come Follow The Band",
-          "m": "250",
-          "p": "244",
-          "s": "243"
-        }
-      ]
-    },
-    {
-      "name": "Hallmark Of Harmony",
-      "type": "chorus",
-      "place": "3",
-      "tot_score": "1446",
-      "pc_score": "80.3",
-      "director": "Tim Briggs",
-      "singers": "91",
-      "songs": [
-        {
-          "song": "You Are My Sunshine",
-          "m": "243",
-          "p": "237",
-          "s": "242"
-        },
-        {
-          "song": "Too Darn Hot",
-          "m": "249",
-          "p": "234",
-          "s": "241"
-        }
-      ]
-    },
-    {
-      "name": "The Royal Harmonics",
-      "type": "chorus",
-      "place": "4",
-      "tot_score": "1393",
-      "pc_score": "77.4",
-      "director": "John Palmer & Sean Bui",
-      "singers": "41",
-      "songs": [
-        {
-          "song": "After You've Gone",
-          "m": "232",
-          "p": "230",
-          "s": "223"
-        },
-        {
-          "song": "The Party's Over",
-          "m": "242",
-          "p": "234",
-          "s": "232"
-        }
-      ]
-    },
-    {
-      "name": "Cambridge Chord Company",
-      "type": "chorus",
-      "place": "5",
-      "tot_score": "1363",
-      "pc_score": "75.7",
-      "director": "Simon Hilton",
-      "singers": "33",
-      "songs": [
-        {
-          "song": "If I Loved You",
-          "m": "231",
-          "p": "225",
-          "s": "230"
-        },
-        {
-          "song": "Smile Medley",
-          "m": "224",
-          "p": "227",
-          "s": "226"
-        }
-      ]
-    },
-    {
-      "name": "Spirit Of Harmony",
-      "type": "chorus",
-      "place": "6",
-      "tot_score": "1343",
-      "pc_score": "74.6",
-      "director": "Sally McLean",
-      "singers": "59",
-      "songs": [
-        {
-          "song": "When My Sugar Walks Down The Street",
-          "m": "223",
-          "p": "216",
-          "s": "223"
-        },
-        {
-          "song": "For The Sake Of Auld Lang Syne",
-          "m": "229",
-          "p": "224",
-          "s": "228"
-        }
-      ]
-    },
-    {
-      "name": "Mantunian Way",
-      "type": "chorus",
-      "place": "7",
-      "tot_score": "1332",
-      "pc_score": "74.0",
-      "director": "Seb Marshall",
-      "singers": "21",
-      "songs": [
-        {
-          "song": "It's You",
-          "m": "226",
-          "p": "215",
-          "s": "222"
-        },
-        {
-          "song": "Save The Last Dance For Me/Sway Medley",
-          "m": "226",
-          "p": "217",
-          "s": "226"
-        }
-      ]
-    },
-    {
-      "name": "Tuxedo Junction",
-      "type": "chorus",
-      "place": "9",
-      "tot_score": "1276",
-      "pc_score": "70.9",
-      "director": "Rob Barber",
-      "singers": "22",
-      "songs": [
-        {
-          "song": "Someone To Watch Over You",
-          "m": "219",
-          "p": "209",
-          "s": "211"
-        },
-        {
-          "song": "French Foreign Legion",
-          "m": "211",
-          "p": "218",
-          "s": "208"
-        }
-      ]
-    },
-    {
-      "name": "Anvil Chorus",
-      "type": "chorus",
-      "place": "10",
-      "tot_score": "1238",
-      "pc_score": "68.8",
-      "director": "Rod Butcher",
-      "singers": "30",
-      "songs": [
-        {
-          "song": "It's You",
-          "m": "214",
-          "p": "202",
-          "s": "206"
-        },
-        {
-          "song": "You Belong To Me",
-          "m": "215",
-          "p": "200",
-          "s": "201"
-        }
-      ]
-    },
-    {
-      "name": "Knights Of Harmony",
-      "type": "chorus",
-      "place": "11",
-      "tot_score": "1229",
-      "pc_score": "68.3",
-      "director": "Mark Grindall",
-      "singers": "39",
-      "songs": [
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "m": "202",
-          "p": "208",
-          "s": "201"
-        },
-        {
-          "song": "Just A Cottage Small",
-          "m": "209",
-          "p": "207",
-          "s": "202"
-        }
-      ]
-    },
-    {
-      "name": "Shannon Express",
-      "type": "chorus",
-      "place": "12",
-      "tot_score": "1222",
-      "pc_score": "67.9",
-      "director": "Tony Bylett",
-      "singers": "39",
-      "songs": [
-        {
-          "song": "That's An Irish Lullaby",
-          "m": "212",
-          "p": "202",
-          "s": "206"
-        },
-        {
-          "song": "I Can't Give You Anything But Love",
-          "m": "199",
-          "p": "202",
-          "s": "201"
-        }
-      ]
-    },
-    {
-      "name": "The Kentones",
-      "type": "chorus",
-      "place": "13",
-      "tot_score": "1207",
-      "pc_score": "67.1",
-      "director": "Peter Kennedy",
-      "singers": "42",
-      "songs": [
-        {
-          "song": "It's Impossible",
-          "m": "207",
-          "p": "201",
-          "s": "200"
-        },
-        {
-          "song": "Can't Buy Me Love",
-          "m": "204",
-          "p": "198",
-          "s": "197"
-        }
-      ]
-    },
-    {
-      "name": "The Telfordaires",
-      "type": "chorus",
-      "place": "14",
-      "tot_score": "1179",
-      "pc_score": "65.5",
-      "director": "Andy Funnell",
-      "singers": "22",
-      "songs": [
-        {
-          "song": "Don't Blame Me",
-          "m": "191",
-          "p": "197",
-          "s": "203"
-        },
-        {
-          "song": "When My Baby Smiles At Me",
-          "m": "194",
-          "p": "194",
-          "s": "200"
-        }
-      ]
-    },
-    {
-      "name": "Capital Chorus",
-      "type": "chorus",
-      "place": "15",
-      "tot_score": "1162",
-      "pc_score": "64.6",
-      "director": "Pippa Goodall",
-      "singers": "26",
-      "songs": [
-        {
-          "song": "Jeepers Creeepers/Eyes Medley",
-          "m": "197",
-          "p": "194",
-          "s": "199"
-        },
-        {
-          "song": "That's All",
-          "m": "188",
-          "p": "189",
-          "s": "195"
-        }
-      ]
-    },
-    {
-      "name": "Granite City Chorus",
-      "type": "chorus",
-      "place": "16",
-      "tot_score": "1122",
-      "pc_score": "62.3",
-      "director": "Colin Reid",
-      "singers": "25",
-      "songs": [
-        {
-          "song": "May I Never Love Again",
-          "m": "191",
-          "p": "193",
-          "s": "179"
-        },
-        {
-          "song": "Drivin' Me Crazy",
-          "m": "189",
-          "p": "194",
-          "s": "176"
-        }
-      ]
-    },
-    {
-      "name": "5ways",
-      "type": "chorus",
-      "place": "17",
-      "tot_score": "1111",
-      "pc_score": "61.7",
-      "director": "Shanna Wells",
-      "singers": "21",
-      "songs": [
-        {
-          "song": "Love Me",
-          "m": "182",
-          "p": "189",
-          "s": "181"
-        },
-        {
-          "song": "From The First Hello To The Last Goodbye",
-          "m": "192",
-          "p": "189",
-          "s": "178"
-        }
-      ]
-    },
-    {
-      "name": "The Rolling Hills Chorus",
-      "type": "chorus",
-      "place": "18",
-      "tot_score": "1106",
-      "pc_score": "61.4",
-      "director": "Nick Hayes",
-      "singers": "31",
-      "songs": [
-        {
-          "song": "After You've Gone",
-          "m": "183",
-          "p": "184",
-          "s": "188"
-        },
-        {
-          "song": "Lover Come Back",
-          "m": "186",
-          "p": "181",
-          "s": "184"
-        }
-      ]
-    },
-    {
-      "name": "Harmony Lincs",
-      "type": "chorus",
-      "place": "19",
-      "tot_score": "1068",
-      "pc_score": "59.3",
-      "director": "Jeremy Curtis",
-      "singers": "35",
-      "songs": [
-        {
-          "song": "You Make Me Feel So Young",
-          "m": "180",
-          "p": "179",
-          "s": "178"
-        },
-        {
-          "song": "I'll Be Seeing You",
-          "m": "180",
-          "p": "174",
-          "s": "177"
-        }
-      ]
-    },
-    {
-      "name": "Fine City Chorus",
-      "type": "chorus",
-      "place": "20",
-      "tot_score": "1053",
-      "pc_score": "58.5",
-      "director": "Carol Logan",
-      "singers": "26",
-      "songs": [
-        {
-          "song": "Love Me And The World Is Mine",
-          "m": "171",
-          "p": "182",
-          "s": "168"
-        },
-        {
-          "song": "All Of Me",
-          "m": "180",
-          "p": "183",
-          "s": "169"
-        }
-      ]
-    },
-    {
-      "name": "Wight Harmony",
-      "type": "chorus",
-      "place": "20",
-      "tot_score": "1053",
-      "pc_score": "58.5",
-      "director": "Dave Bryant",
-      "singers": "28",
-      "songs": [
-        {
-          "song": "Feelin' Good",
-          "m": "176",
-          "p": "177",
-          "s": "175"
-        },
-        {
-          "song": "If You Love Me Really Love Me",
-          "m": "171",
-          "p": "183",
-          "s": "171"
-        }
-      ]
-    },
-    {
-      "name": "Essex Chordsmen",
-      "type": "chorus",
-      "place": "22",
-      "tot_score": "1049",
-      "pc_score": "58.3",
-      "director": "Martin Bunting",
-      "singers": "17",
-      "songs": [
-        {
-          "song": "I'm Sitting On Top Of The World",
-          "m": "176",
-          "p": "184",
-          "s": "169"
-        },
-        {
-          "song": "You Don't Know Me",
-          "m": "178",
-          "p": "178",
-          "s": "164"
-        }
-      ]
-    },
-    {
-      "name": "Vocal Fusion",
-      "type": "chorus",
-      "place": "23",
-      "tot_score": "1039",
-      "pc_score": "57.7",
-      "director": "Zoe Peate",
-      "singers": "14",
-      "songs": [
-        {
-          "song": "Over The Rainbow",
-          "m": "179",
-          "p": "172",
-          "s": "177"
-        },
-        {
-          "song": "Stepping Out",
-          "m": "177",
-          "p": "166",
-          "s": "168"
-        }
-      ]
-    },
-    {
-      "name": "Solent City Chorus",
-      "type": "chorus",
-      "place": "24",
-      "tot_score": "1037",
-      "pc_score": "57.6",
-      "director": "Vincent Iyengar",
-      "singers": "13",
-      "songs": [
-        {
-          "song": "A Nightingale Sang In Berkeley Square",
-          "m": "187",
-          "p": "164",
-          "s": "174"
-        },
-        {
-          "song": "It's A Lovely Day Today",
-          "m": "186",
-          "p": "159",
-          "s": "167"
-        }
-      ]
-    },
-    {
-      "name": "The White Rose Chorus",
-      "type": "chorus",
-      "place": "25",
-      "tot_score": "1026",
-      "pc_score": "57.0",
-      "director": "Hazel  Jiggins",
-      "singers": "23",
-      "songs": [
-        {
-          "song": "Let The Rest Of The World Go By",
-          "m": "178",
-          "p": "168",
-          "s": "169"
-        },
-        {
-          "song": "A Wink And A Smile",
-          "m": "176",
-          "p": "168",
-          "s": "167"
-        }
-      ]
-    },
-    {
-      "name": "Three Spires Harmony",
-      "type": "chorus",
-      "place": "25",
-      "tot_score": "1026",
-      "pc_score": "57.0",
-      "director": "Andrew Kneeshaw",
-      "singers": "27",
-      "songs": [
-        {
-          "song": "Dream A Little Dream Of Me",
-          "m": "174",
-          "p": "176",
-          "s": "165"
-        },
-        {
-          "song": "What A Day For A Daydream",
-          "m": "169",
-          "p": "178",
-          "s": "164"
-        }
-      ]
-    },
-    {
-      "name": "Oxford Harmony",
-      "type": "chorus",
-      "place": "27",
-      "tot_score": "1003",
-      "pc_score": "55.7",
-      "director": "Anna Shackelton",
-      "singers": "22",
-      "songs": [
-        {
-          "song": "Zing! Went The Strings Of My Heart",
-          "m": "170",
-          "p": "161",
-          "s": "166"
-        },
-        {
-          "song": "If I Give My Heart To You",
-          "m": "174",
-          "p": "164",
-          "s": "168"
-        }
-      ]
-    },
-    {
-      "name": "Ouse Valley Chorus",
-      "type": "chorus",
-      "place": "28",
-      "tot_score": "1002",
-      "pc_score": "55.7",
-      "director": "Paul Clay",
-      "singers": "11",
-      "songs": [
-        {
-          "song": "It's Only A Paper Moon",
-          "m": "172",
-          "p": "173",
-          "s": "162"
-        },
-        {
-          "song": "If I Didn't Have You",
-          "m": "169",
-          "p": "167",
-          "s": "159"
-        }
-      ]
-    },
-    {
-      "name": "Mk Acapella",
-      "type": "chorus",
-      "place": "29",
-      "tot_score": "1001",
-      "pc_score": "55.6",
-      "director": "Lyn Kidby",
-      "singers": "23",
-      "songs": [
-        {
-          "song": "Good Day/Wonderful Day Medley",
-          "m": "173",
-          "p": "164",
-          "s": "161"
-        },
-        {
-          "song": "The Song Is Ended",
-          "m": "175",
-          "p": "163",
-          "s": "165"
-        }
-      ]
-    },
-    {
-      "name": "Western Approach",
-      "type": "chorus",
-      "place": "30",
-      "tot_score": "991",
-      "pc_score": "55.1",
-      "director": "Tom Knight",
-      "singers": "7",
-      "songs": [
-        {
-          "song": "My Old Dutch",
-          "m": "166",
-          "p": "166",
-          "s": "159"
-        },
-        {
-          "song": "I Don't Mind Being All Alone",
-          "m": "171",
-          "p": "167",
-          "s": "162"
-        }
-      ]
-    },
-    {
-      "name": "Harmony Revival",
-      "type": "chorus",
-      "place": "31",
-      "tot_score": "988",
-      "pc_score": "54.9",
-      "director": "Jack Haslam",
-      "singers": "22",
-      "songs": [
-        {
-          "song": "After You've Gone",
-          "m": "166",
-          "p": "163",
-          "s": "163"
-        },
-        {
-          "song": "You Belong To Me",
-          "m": "170",
-          "p": "164",
-          "s": "162"
-        }
-      ]
-    },
-    {
-      "name": "Ocean Harmony",
-      "type": "chorus",
-      "place": "32",
-      "tot_score": "977",
-      "pc_score": "54.3",
-      "director": "Graham Frampton",
-      "singers": "17",
-      "songs": [
-        {
-          "song": "You Don't Know Me",
-          "m": "169",
-          "p": "160",
-          "s": "161"
-        },
-        {
-          "song": "Firefly",
-          "m": "168",
-          "p": "159",
-          "s": "160"
-        }
-      ]
-    },
-    {
-      "name": "The Pilgrimaires",
-      "type": "chorus",
-      "place": "33",
-      "tot_score": "920",
-      "pc_score": "51.1",
-      "director": "Delyth Knight",
-      "singers": "19",
-      "songs": [
-        {
-          "song": "Who'll Dry Your Tears",
-          "m": "157",
-          "p": "157",
-          "s": "160"
-        },
-        {
-          "song": "Crazy 'Bout You Baby",
-          "m": "143",
-          "p": "155",
-          "s": "148"
-        }
-      ]
-    },
-    {
-      "name": "Hereward Harmony",
-      "type": "chorus",
-      "place": "34",
-      "tot_score": "908",
-      "pc_score": "50.4",
-      "director": "Mike Sampson",
-      "singers": "15",
-      "songs": [
-        {
-          "song": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
-          "m": "161",
-          "p": "155",
-          "s": "153"
-        },
-        {
-          "song": "For All We Know",
-          "m": "146",
-          "p": "145",
-          "s": "148"
-        }
-      ]
-    },
-    {
-      "name": "Northern Acchord",
-      "type": "chorus",
-      "place": "35",
-      "tot_score": "899",
-      "pc_score": "49.9",
-      "director": "Les McGhee",
-      "singers": "28",
-      "songs": [
-        {
-          "song": "From The First Hello To The Last Goodbye",
-          "m": "154",
-          "p": "150",
-          "s": "152"
-        },
-        {
-          "song": "Almost Like Being In Love",
-          "m": "147",
-          "p": "148",
-          "s": "148"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
       "cat": "m",
@@ -816,5 +57,884 @@
       "cat": "ca",
       "name": "Phil Mobsby"
     }
-  ]
+  ],
+  "type": "chorus",
+  "contestants": [
+    {
+      "tot_score": "1483",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "The Cottontown Chorus",
+      "director": "Neil Firth",
+      "size": "62",
+      "pc_score": "82.4",
+      "songs": [
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "252",
+          "s": "247",
+          "p": "250"
+        },
+        {
+          "title": "Come Follow The Band",
+          "m": "244",
+          "s": "243",
+          "p": "247"
+        }
+      ]
+    },
+    {
+      "tot_score": "1454",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "1",
+      "rank": "2",
+      "name": "Grand Central Chorus",
+      "director": "Zac Booles",
+      "size": "61",
+      "pc_score": "80.8",
+      "songs": [
+        {
+          "title": "If I Only Had A Brain",
+          "m": "246",
+          "s": "243",
+          "p": "245"
+        },
+        {
+          "title": "Over The Rainbow/Goodbye Yellow Brick Road (Medley)",
+          "m": "248",
+          "s": "235",
+          "p": "237"
+        }
+      ]
+    },
+    {
+      "tot_score": "1446",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Hallmark Of Harmony",
+      "director": "Tim Briggs",
+      "size": "91",
+      "pc_score": "80.3",
+      "songs": [
+        {
+          "title": "You Are My Sunshine",
+          "m": "243",
+          "s": "237",
+          "p": "249"
+        },
+        {
+          "title": "Too Darn Hot",
+          "m": "234",
+          "s": "241",
+          "p": "242"
+        }
+      ]
+    },
+    {
+      "tot_score": "1393",
+      "rank_m": "4",
+      "rank_s": "5",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "The Royal Harmonics",
+      "director": "John Palmer & Sean Bui",
+      "size": "41",
+      "pc_score": "77.4",
+      "songs": [
+        {
+          "title": "After You've Gone",
+          "m": "232",
+          "s": "230",
+          "p": "242"
+        },
+        {
+          "title": "The Party's Over",
+          "m": "234",
+          "s": "232",
+          "p": "223"
+        }
+      ]
+    },
+    {
+      "tot_score": "1363",
+      "rank_m": "5",
+      "rank_s": "4",
+      "rank_p": "5",
+      "rank": "5",
+      "name": "Cambridge Chord Company",
+      "director": "Simon Hilton",
+      "size": "33",
+      "pc_score": "75.7",
+      "songs": [
+        {
+          "title": "If I Loved You",
+          "m": "231",
+          "s": "225",
+          "p": "224"
+        },
+        {
+          "title": "Smile Medley",
+          "m": "227",
+          "s": "226",
+          "p": "230"
+        }
+      ]
+    },
+    {
+      "tot_score": "1343",
+      "rank_m": "7",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Spirit Of Harmony",
+      "director": "Sally McLean",
+      "size": "59",
+      "pc_score": "74.6",
+      "songs": [
+        {
+          "title": "When My Sugar Walks Down The Street",
+          "m": "223",
+          "s": "216",
+          "p": "229"
+        },
+        {
+          "title": "For The Sake Of Auld Lang Syne",
+          "m": "224",
+          "s": "228",
+          "p": "223"
+        }
+      ]
+    },
+    {
+      "tot_score": "1332",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "8",
+      "rank": "7",
+      "name": "Mantunian Way",
+      "director": "Seb Marshall",
+      "size": "21",
+      "pc_score": "74.0",
+      "songs": [
+        {
+          "title": "It's You",
+          "m": "226",
+          "s": "215",
+          "p": "226"
+        },
+        {
+          "title": "Save The Last Dance For Me/Sway Medley",
+          "m": "217",
+          "s": "226",
+          "p": "222"
+        }
+      ]
+    },
+    {
+      "tot_score": "1328",
+      "rank_m": "5",
+      "rank_s": "8",
+      "rank_p": "7",
+      "rank": "8",
+      "name": "Thames Valley Chorus",
+      "director": "Liz Croft",
+      "size": "35",
+      "pc_score": "73.8",
+      "songs": [
+        {
+          "title": "I'm On My Way",
+          "m": "226",
+          "s": "218",
+          "p": "229"
+        },
+        {
+          "title": "Brother, Can You Spare A Dime?",
+          "m": "220",
+          "s": "215",
+          "p": "220"
+        }
+      ]
+    },
+    {
+      "tot_score": "1276",
+      "rank_m": "9",
+      "rank_s": "9",
+      "rank_p": "9",
+      "rank": "9",
+      "name": "Tuxedo Junction",
+      "director": "Rob Barber",
+      "size": "22",
+      "pc_score": "70.9",
+      "songs": [
+        {
+          "title": "Someone To Watch Over You",
+          "m": "219",
+          "s": "209",
+          "p": "211"
+        },
+        {
+          "title": "French Foreign Legion",
+          "m": "218",
+          "s": "208",
+          "p": "211"
+        }
+      ]
+    },
+    {
+      "tot_score": "1238",
+      "rank_m": "10",
+      "rank_s": "10",
+      "rank_p": "12",
+      "rank": "10",
+      "name": "Anvil Chorus",
+      "director": "Rod Butcher",
+      "size": "30",
+      "pc_score": "68.8",
+      "songs": [
+        {
+          "title": "It's You",
+          "m": "214",
+          "s": "202",
+          "p": "215"
+        },
+        {
+          "title": "You Belong To Me",
+          "m": "200",
+          "s": "201",
+          "p": "206"
+        }
+      ]
+    },
+    {
+      "tot_score": "1229",
+      "rank_m": "11",
+      "rank_s": "12",
+      "rank_p": "10",
+      "rank": "11",
+      "name": "Knights Of Harmony",
+      "director": "Mark Grindall",
+      "size": "39",
+      "pc_score": "68.3",
+      "songs": [
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "202",
+          "s": "208",
+          "p": "209"
+        },
+        {
+          "title": "Just A Cottage Small",
+          "m": "207",
+          "s": "202",
+          "p": "201"
+        }
+      ]
+    },
+    {
+      "tot_score": "1222",
+      "rank_m": "11",
+      "rank_s": "10",
+      "rank_p": "11",
+      "rank": "12",
+      "name": "Shannon Express",
+      "director": "Tony Bylett",
+      "size": "39",
+      "pc_score": "67.9",
+      "songs": [
+        {
+          "title": "That's An Irish Lullaby",
+          "m": "212",
+          "s": "202",
+          "p": "199"
+        },
+        {
+          "title": "I Can't Give You Anything But Love",
+          "m": "202",
+          "s": "201",
+          "p": "206"
+        }
+      ]
+    },
+    {
+      "tot_score": "1207",
+      "rank_m": "11",
+      "rank_s": "14",
+      "rank_p": "13",
+      "rank": "13",
+      "name": "The Kentones",
+      "director": "Peter Kennedy",
+      "size": "42",
+      "pc_score": "67.1",
+      "songs": [
+        {
+          "title": "It's Impossible",
+          "m": "207",
+          "s": "201",
+          "p": "204"
+        },
+        {
+          "title": "Can't Buy Me Love",
+          "m": "198",
+          "s": "197",
+          "p": "200"
+        }
+      ]
+    },
+    {
+      "tot_score": "1179",
+      "rank_m": "14",
+      "rank_s": "12",
+      "rank_p": "14",
+      "rank": "14",
+      "name": "The Telfordaires",
+      "director": "Andy Funnell",
+      "size": "22",
+      "pc_score": "65.5",
+      "songs": [
+        {
+          "title": "Don't Blame Me",
+          "m": "191",
+          "s": "197",
+          "p": "194"
+        },
+        {
+          "title": "When My Baby Smiles At Me",
+          "m": "194",
+          "s": "200",
+          "p": "203"
+        }
+      ]
+    },
+    {
+      "tot_score": "1162",
+      "rank_m": "14",
+      "rank_s": "15",
+      "rank_p": "16",
+      "rank": "15",
+      "name": "Capital Chorus",
+      "director": "Pippa Goodall",
+      "size": "26",
+      "pc_score": "64.6",
+      "songs": [
+        {
+          "title": "Jeepers Creeepers/Eyes Medley",
+          "m": "197",
+          "s": "194",
+          "p": "188"
+        },
+        {
+          "title": "That's All",
+          "m": "189",
+          "s": "195",
+          "p": "199"
+        }
+      ]
+    },
+    {
+      "tot_score": "1122",
+      "rank_m": "16",
+      "rank_s": "18",
+      "rank_p": "15",
+      "rank": "16",
+      "name": "Granite City Chorus",
+      "director": "Colin Reid",
+      "size": "25",
+      "pc_score": "62.3",
+      "songs": [
+        {
+          "title": "May I Never Love Again",
+          "m": "191",
+          "s": "193",
+          "p": "189"
+        },
+        {
+          "title": "Drivin' Me Crazy",
+          "m": "194",
+          "s": "176",
+          "p": "179"
+        }
+      ]
+    },
+    {
+      "tot_score": "1111",
+      "rank_m": "17",
+      "rank_s": "17",
+      "rank_p": "17",
+      "rank": "17",
+      "name": "5ways",
+      "director": "Shanna Wells",
+      "size": "21",
+      "pc_score": "61.7",
+      "songs": [
+        {
+          "title": "Love Me",
+          "m": "182",
+          "s": "189",
+          "p": "192"
+        },
+        {
+          "title": "From The First Hello To The Last Goodbye",
+          "m": "189",
+          "s": "178",
+          "p": "181"
+        }
+      ]
+    },
+    {
+      "tot_score": "1106",
+      "rank_m": "19",
+      "rank_s": "16",
+      "rank_p": "18",
+      "rank": "18",
+      "name": "The Rolling Hills Chorus",
+      "director": "Nick Hayes",
+      "size": "31",
+      "pc_score": "61.4",
+      "songs": [
+        {
+          "title": "After You've Gone",
+          "m": "183",
+          "s": "184",
+          "p": "186"
+        },
+        {
+          "title": "Lover Come Back",
+          "m": "181",
+          "s": "184",
+          "p": "188"
+        }
+      ]
+    },
+    {
+      "tot_score": "1068",
+      "rank_m": "20",
+      "rank_s": "18",
+      "rank_p": "23",
+      "rank": "19",
+      "name": "Harmony Lincs",
+      "director": "Jeremy Curtis",
+      "size": "35",
+      "pc_score": "59.3",
+      "songs": [
+        {
+          "title": "You Make Me Feel So Young",
+          "m": "180",
+          "s": "179",
+          "p": "180"
+        },
+        {
+          "title": "I'll Be Seeing You",
+          "m": "174",
+          "s": "177",
+          "p": "178"
+        }
+      ]
+    },
+    {
+      "tot_score": "1053",
+      "rank_m": "24",
+      "rank_s": "23",
+      "rank_p": "18",
+      "rank": "20",
+      "name": "Fine City Chorus",
+      "director": "Carol Logan",
+      "size": "26",
+      "pc_score": "58.5",
+      "songs": [
+        {
+          "title": "Love Me And The World Is Mine",
+          "m": "171",
+          "s": "182",
+          "p": "180"
+        },
+        {
+          "title": "All Of Me",
+          "m": "183",
+          "s": "169",
+          "p": "168"
+        }
+      ]
+    },
+    {
+      "tot_score": "1053",
+      "rank_m": "26",
+      "rank_s": "20",
+      "rank_p": "21",
+      "rank": "20",
+      "name": "Wight Harmony",
+      "director": "Dave Bryant",
+      "size": "28",
+      "pc_score": "58.5",
+      "songs": [
+        {
+          "title": "Feelin' Good",
+          "m": "176",
+          "s": "177",
+          "p": "171"
+        },
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "183",
+          "s": "171",
+          "p": "175"
+        }
+      ]
+    },
+    {
+      "tot_score": "1049",
+      "rank_m": "22",
+      "rank_s": "26",
+      "rank_p": "20",
+      "rank": "22",
+      "name": "Essex Chordsmen",
+      "director": "Martin Bunting",
+      "size": "17",
+      "pc_score": "58.3",
+      "songs": [
+        {
+          "title": "I'm Sitting On Top Of The World",
+          "m": "176",
+          "s": "184",
+          "p": "178"
+        },
+        {
+          "title": "You Don't Know Me",
+          "m": "178",
+          "s": "164",
+          "p": "169"
+        }
+      ]
+    },
+    {
+      "tot_score": "1039",
+      "rank_m": "21",
+      "rank_s": "21",
+      "rank_p": "25",
+      "rank": "23",
+      "name": "Vocal Fusion",
+      "director": "Zoe Peate",
+      "size": "14",
+      "pc_score": "57.7",
+      "songs": [
+        {
+          "title": "Over The Rainbow",
+          "m": "179",
+          "s": "172",
+          "p": "177"
+        },
+        {
+          "title": "Stepping Out",
+          "m": "166",
+          "s": "168",
+          "p": "177"
+        }
+      ]
+    },
+    {
+      "tot_score": "1037",
+      "rank_m": "18",
+      "rank_s": "22",
+      "rank_p": "31",
+      "rank": "24",
+      "name": "Solent City Chorus",
+      "director": "Vincent Iyengar",
+      "size": "13",
+      "pc_score": "57.6",
+      "songs": [
+        {
+          "title": "A Nightingale Sang In Berkeley Square",
+          "m": "187",
+          "s": "164",
+          "p": "186"
+        },
+        {
+          "title": "It's A Lovely Day Today",
+          "m": "159",
+          "s": "167",
+          "p": "174"
+        }
+      ]
+    },
+    {
+      "tot_score": "1026",
+      "rank_m": "22",
+      "rank_s": "24",
+      "rank_p": "26",
+      "rank": "25",
+      "name": "The White Rose Chorus",
+      "director": "Hazel Jiggins",
+      "size": "23",
+      "pc_score": "57.0",
+      "songs": [
+        {
+          "title": "Let The Rest Of The World Go By",
+          "m": "178",
+          "s": "168",
+          "p": "176"
+        },
+        {
+          "title": "A Wink And A Smile",
+          "m": "168",
+          "s": "167",
+          "p": "169"
+        }
+      ]
+    },
+    {
+      "tot_score": "1026",
+      "rank_m": "28",
+      "rank_s": "27",
+      "rank_p": "22",
+      "rank": "25",
+      "name": "Three Spires Harmony",
+      "director": "Andrew Kneeshaw",
+      "size": "27",
+      "pc_score": "57.0",
+      "songs": [
+        {
+          "title": "Dream A Little Dream Of Me",
+          "m": "174",
+          "s": "176",
+          "p": "169"
+        },
+        {
+          "title": "What A Day For A Daydream",
+          "m": "178",
+          "s": "164",
+          "p": "165"
+        }
+      ]
+    },
+    {
+      "tot_score": "1003",
+      "rank_m": "27",
+      "rank_s": "25",
+      "rank_p": "30",
+      "rank": "27",
+      "name": "Oxford Harmony",
+      "director": "Anna Shackelton",
+      "size": "22",
+      "pc_score": "55.7",
+      "songs": [
+        {
+          "title": "Zing! Went The Strings Of My Heart",
+          "m": "170",
+          "s": "161",
+          "p": "174"
+        },
+        {
+          "title": "If I Give My Heart To You",
+          "m": "164",
+          "s": "168",
+          "p": "166"
+        }
+      ]
+    },
+    {
+      "tot_score": "1002",
+      "rank_m": "29",
+      "rank_s": "30",
+      "rank_p": "24",
+      "rank": "28",
+      "name": "Ouse Valley Chorus",
+      "director": "Paul Clay",
+      "size": "11",
+      "pc_score": "55.7",
+      "songs": [
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "172",
+          "s": "173",
+          "p": "169"
+        },
+        {
+          "title": "If I Didn't Have You",
+          "m": "167",
+          "s": "159",
+          "p": "162"
+        }
+      ]
+    },
+    {
+      "tot_score": "1001",
+      "rank_m": "25",
+      "rank_s": "28",
+      "rank_p": "28",
+      "rank": "29",
+      "name": "Mk Acapella",
+      "director": "Lyn Kidby",
+      "size": "23",
+      "pc_score": "55.6",
+      "songs": [
+        {
+          "title": "Good Day/Wonderful Day Medley",
+          "m": "173",
+          "s": "164",
+          "p": "175"
+        },
+        {
+          "title": "The Song Is Ended",
+          "m": "163",
+          "s": "165",
+          "p": "161"
+        }
+      ]
+    },
+    {
+      "tot_score": "991",
+      "rank_m": "30",
+      "rank_s": "30",
+      "rank_p": "27",
+      "rank": "30",
+      "name": "Western Approach",
+      "director": "Tom Knight",
+      "size": "7",
+      "pc_score": "55.1",
+      "songs": [
+        {
+          "title": "My Old Dutch",
+          "m": "166",
+          "s": "166",
+          "p": "171"
+        },
+        {
+          "title": "I Don't Mind Being All Alone",
+          "m": "167",
+          "s": "162",
+          "p": "159"
+        }
+      ]
+    },
+    {
+      "tot_score": "988",
+      "rank_m": "32",
+      "rank_s": "29",
+      "rank_p": "28",
+      "rank": "31",
+      "name": "Harmony Revival",
+      "director": "Jack Haslam",
+      "size": "22",
+      "pc_score": "54.9",
+      "songs": [
+        {
+          "title": "After You've Gone",
+          "m": "166",
+          "s": "163",
+          "p": "170"
+        },
+        {
+          "title": "You Belong To Me",
+          "m": "164",
+          "s": "162",
+          "p": "163"
+        }
+      ]
+    },
+    {
+      "tot_score": "977",
+      "rank_m": "30",
+      "rank_s": "30",
+      "rank_p": "32",
+      "rank": "32",
+      "name": "Ocean Harmony",
+      "director": "Graham Frampton",
+      "size": "17",
+      "pc_score": "54.3",
+      "songs": [
+        {
+          "title": "You Don't Know Me",
+          "m": "169",
+          "s": "160",
+          "p": "168"
+        },
+        {
+          "title": "Firefly",
+          "m": "159",
+          "s": "160",
+          "p": "161"
+        }
+      ]
+    },
+    {
+      "tot_score": "920",
+      "rank_m": "35",
+      "rank_s": "33",
+      "rank_p": "33",
+      "rank": "33",
+      "name": "The Pilgrimaires",
+      "director": "Delyth Knight",
+      "size": "19",
+      "pc_score": "51.1",
+      "songs": [
+        {
+          "title": "Who'll Dry Your Tears",
+          "m": "157",
+          "s": "157",
+          "p": "143"
+        },
+        {
+          "title": "Crazy 'Bout You Baby",
+          "m": "155",
+          "s": "148",
+          "p": "160"
+        }
+      ]
+    },
+    {
+      "tot_score": "908",
+      "rank_m": "33",
+      "rank_s": "34",
+      "rank_p": "34",
+      "rank": "34",
+      "name": "Hereward Harmony",
+      "director": "Mike Sampson",
+      "size": "15",
+      "pc_score": "50.4",
+      "songs": [
+        {
+          "title": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": "161",
+          "s": "155",
+          "p": "146"
+        },
+        {
+          "title": "For All We Know",
+          "m": "145",
+          "s": "148",
+          "p": "153"
+        }
+      ]
+    },
+    {
+      "tot_score": "899",
+      "rank_m": "34",
+      "rank_s": "35",
+      "rank_p": "35",
+      "rank": "35",
+      "name": "Northern Acchord",
+      "director": "Les McGhee",
+      "size": "28",
+      "pc_score": "49.9",
+      "songs": [
+        {
+          "title": "From The First Hello To The Last Goodbye",
+          "m": "154",
+          "s": "150",
+          "p": "147"
+        },
+        {
+          "title": "Almost Like Being In Love",
+          "m": "148",
+          "s": "148",
+          "p": "152"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2016CF.pdf"
 }

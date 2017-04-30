@@ -1,0 +1,110 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS (YOUTH STREAM)",
+  "location": "BIRMINGHAM",
+  "year": "2010/11",
+  "date": "21/11/2010",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Liz Garnett"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Paula T-Williams"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "ca",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1226",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Mach 4",
+      "pc_score": "68.1",
+      "songs": [
+        {
+          "title": "You're The Girl I Love",
+          "m": "203",
+          "s": "198",
+          "p": "206"
+        },
+        {
+          "title": "I Can't Give You Anything But Love",
+          "m": "204",
+          "s": "210",
+          "p": "205"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alex"
+        },
+        {
+          "part": "lead",
+          "name": "Antoine"
+        },
+        {
+          "part": "bari",
+          "name": "Tim"
+        },
+        {
+          "part": "bass",
+          "name": "Joe"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2011QP-Y.pdf"
+}

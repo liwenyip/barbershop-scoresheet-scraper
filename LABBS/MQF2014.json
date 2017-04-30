@@ -1,305 +1,32 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "MIXED QUARTET FINALS-HARROGATE: 2014",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "MIXED QUARTET FINALS",
+  "location": "HARROGATE",
+  "year": "2014",
   "date": "02/11/2014",
-  "contestants": [
-    {
-      "name": "Hannah and the Hurricanes",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "883",
-      "pc_score": "73.6",
-      "singers": [
-        {
-          "name": "Andrea Day",
-          "part": "tenor"
-        },
-        {
-          "name": "Hannah Braham",
-          "part": "lead"
-        },
-        {
-          "name": "Tim Briggs",
-          "part": "bari"
-        },
-        {
-          "name": "Duncan Whinyates",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Took Advantage Of Me",
-          "mus": "153",
-          "prs": "147",
-          "sng": "148"
-        },
-        {
-          "song": "I Want You, I Need You, I Love You",
-          "mus": "140",
-          "prs": "147",
-          "sng": "148"
-        }
-      ]
-    },
-    {
-      "name": "Jigsaw",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "878",
-      "pc_score": "73.2",
-      "singers": [
-        {
-          "name": "Ali Jack",
-          "part": "tenor"
-        },
-        {
-          "name": "Keith Rees",
-          "part": "lead"
-        },
-        {
-          "name": "Donna Rees",
-          "part": "bari"
-        },
-        {
-          "name": "Pete Nugent",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Undecided Medley",
-          "mus": "144",
-          "prs": "148",
-          "sng": "146"
-        },
-        {
-          "song": "If I Had My Way",
-          "mus": "148",
-          "prs": "146",
-          "sng": "146"
-        }
-      ]
-    },
-    {
-      "name": "Patchwork",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "870",
-      "pc_score": "72.5",
-      "singers": [
-        {
-          "name": "Helen Warner",
-          "part": "tenor"
-        },
-        {
-          "name": "Alastair Hay-Plumb",
-          "part": "lead"
-        },
-        {
-          "name": "James Whittick",
-          "part": "bari"
-        },
-        {
-          "name": "Sean Egan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Yesterday I Heard The Rain",
-          "mus": "144",
-          "prs": "142",
-          "sng": "147"
-        },
-        {
-          "song": "Little Patch Of Heaven",
-          "mus": "149",
-          "prs": "142",
-          "sng": "146"
-        }
-      ]
-    },
-    {
-      "name": "The Entire Population of China",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "856",
-      "pc_score": "71.3",
-      "singers": [
-        {
-          "name": "Emily Atherton",
-          "part": "tenor"
-        },
-        {
-          "name": "Simon Lubowski",
-          "part": "lead"
-        },
-        {
-          "name": "Joe Knight",
-          "part": "bari"
-        },
-        {
-          "name": "Alan Hughes",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Bring Back Those Good Old Days",
-          "mus": "147",
-          "prs": "147",
-          "sng": "146"
-        },
-        {
-          "song": "How To Build A Quartet",
-          "mus": "124",
-          "prs": "150",
-          "sng": "142"
-        }
-      ]
-    },
-    {
-      "name": "Delekate",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "854",
-      "pc_score": "71.2",
-      "singers": [
-        {
-          "name": "Karen Whitworth",
-          "part": "tenor"
-        },
-        {
-          "name": "Terry Adamson",
-          "part": "lead"
-        },
-        {
-          "name": "Dean Whitehouse",
-          "part": "bari"
-        },
-        {
-          "name": "Les Whitworth",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Let The Rest Of The World Go By",
-          "mus": "146",
-          "prs": "137",
-          "sng": "142"
-        },
-        {
-          "song": "Wait Till The Sun Shines, Nellie",
-          "mus": "146",
-          "prs": "140",
-          "sng": "143"
-        }
-      ]
-    },
-    {
-      "name": "Man Overboard!",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "756",
-      "pc_score": "63.0",
-      "singers": [
-        {
-          "name": "Alison Thompson",
-          "part": "tenor"
-        },
-        {
-          "name": "Carol Logan",
-          "part": "lead"
-        },
-        {
-          "name": "Kate Goddard",
-          "part": "bari"
-        },
-        {
-          "name": "David Moore",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Why Should I Cry Over You?",
-          "mus": "123",
-          "prs": "124",
-          "sng": "129"
-        },
-        {
-          "song": "So Long Dearie",
-          "mus": "122",
-          "prs": "128",
-          "sng": "130"
-        }
-      ]
-    },
-    {
-      "name": "BS4",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "702",
-      "pc_score": "58.5",
-      "singers": [
-        {
-          "name": "Mary Williams",
-          "part": "tenor"
-        },
-        {
-          "name": "Sue Davis",
-          "part": "lead"
-        },
-        {
-          "name": "Noey McElwee",
-          "part": "bari"
-        },
-        {
-          "name": "David Proud",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Once Upon A Time",
-          "mus": "117",
-          "prs": "121",
-          "sng": "117"
-        },
-        {
-          "song": "It's Only A Paper Moon",
-          "mus": "114",
-          "prs": "119",
-          "sng": "114"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Heather Lane"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie James"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Mike Warner"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Monica Funnell"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Mark Grindall"
     },
     {
@@ -334,5 +61,296 @@
       "cat": "ca",
       "name": "Rachel Small"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "883",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "2",
+      "rank": "1",
+      "name": "Hannah and the Hurricanes",
+      "pc_score": "73.6",
+      "songs": [
+        {
+          "title": "You Took Advantage Of Me",
+          "m": "153",
+          "s": "147",
+          "p": "140"
+        },
+        {
+          "title": "I Want You, I Need You, I Love You",
+          "m": "147",
+          "s": "148",
+          "p": "148"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andrea Day"
+        },
+        {
+          "part": "lead",
+          "name": "Hannah Braham"
+        },
+        {
+          "part": "bari",
+          "name": "Tim Briggs"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan Whinyates"
+        }
+      ]
+    },
+    {
+      "tot_score": "878",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Jigsaw",
+      "pc_score": "73.2",
+      "songs": [
+        {
+          "title": "Undecided Medley",
+          "m": "144",
+          "s": "148",
+          "p": "148"
+        },
+        {
+          "title": "If I Had My Way",
+          "m": "146",
+          "s": "146",
+          "p": "146"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ali Jack"
+        },
+        {
+          "part": "lead",
+          "name": "Keith Rees"
+        },
+        {
+          "part": "bari",
+          "name": "Donna Rees"
+        },
+        {
+          "part": "bass",
+          "name": "Pete Nugent"
+        }
+      ]
+    },
+    {
+      "tot_score": "870",
+      "rank_m": "1",
+      "rank_s": "2",
+      "rank_p": "4",
+      "rank": "3",
+      "name": "Patchwork",
+      "pc_score": "72.5",
+      "songs": [
+        {
+          "title": "Yesterday I Heard The Rain",
+          "m": "144",
+          "s": "142",
+          "p": "149"
+        },
+        {
+          "title": "Little Patch Of Heaven",
+          "m": "142",
+          "s": "146",
+          "p": "147"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Helen Warner"
+        },
+        {
+          "part": "lead",
+          "name": "Alastair Hay-Plumb"
+        },
+        {
+          "part": "bari",
+          "name": "James Whittick"
+        },
+        {
+          "part": "bass",
+          "name": "Sean Egan"
+        }
+      ]
+    },
+    {
+      "tot_score": "856",
+      "rank_m": "5",
+      "rank_s": "4",
+      "rank_p": "1",
+      "rank": "4",
+      "name": "The Entire Population of China",
+      "pc_score": "71.3",
+      "songs": [
+        {
+          "title": "Bring Back Those Good Old Days",
+          "m": "147",
+          "s": "147",
+          "p": "124"
+        },
+        {
+          "title": "How To Build A Quartet",
+          "m": "150",
+          "s": "142",
+          "p": "146"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Emily Atherton"
+        },
+        {
+          "part": "lead",
+          "name": "Simon Lubowski"
+        },
+        {
+          "part": "bari",
+          "name": "Joe Knight"
+        },
+        {
+          "part": "bass",
+          "name": "Alan Hughes"
+        }
+      ]
+    },
+    {
+      "tot_score": "854",
+      "rank_m": "3",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "5",
+      "name": "Delekate",
+      "pc_score": "71.2",
+      "songs": [
+        {
+          "title": "Let The Rest Of The World Go By",
+          "m": "146",
+          "s": "137",
+          "p": "146"
+        },
+        {
+          "title": "Wait Till The Sun Shines, Nellie",
+          "m": "140",
+          "s": "143",
+          "p": "142"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Karen Whitworth"
+        },
+        {
+          "part": "lead",
+          "name": "Terry Adamson"
+        },
+        {
+          "part": "bari",
+          "name": "Dean Whitehouse"
+        },
+        {
+          "part": "bass",
+          "name": "Les Whitworth"
+        }
+      ]
+    },
+    {
+      "tot_score": "756",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Man Overboard!",
+      "pc_score": "63.0",
+      "songs": [
+        {
+          "title": "Why Should I Cry Over You?",
+          "m": "123",
+          "s": "124",
+          "p": "122"
+        },
+        {
+          "title": "So Long Dearie",
+          "m": "128",
+          "s": "130",
+          "p": "129"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alison Thompson"
+        },
+        {
+          "part": "lead",
+          "name": "Carol Logan"
+        },
+        {
+          "part": "bari",
+          "name": "Kate Goddard"
+        },
+        {
+          "part": "bass",
+          "name": "David Moore"
+        }
+      ]
+    },
+    {
+      "tot_score": "702",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "7",
+      "name": "BS4",
+      "pc_score": "58.5",
+      "songs": [
+        {
+          "title": "Once Upon A Time",
+          "m": "117",
+          "s": "121",
+          "p": "114"
+        },
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "119",
+          "s": "114",
+          "p": "117"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Mary Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Sue Davis"
+        },
+        {
+          "part": "bari",
+          "name": "Noey McElwee"
+        },
+        {
+          "part": "bass",
+          "name": "David Proud"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/MQF2014.pdf"
 }

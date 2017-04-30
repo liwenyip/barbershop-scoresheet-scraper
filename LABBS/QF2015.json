@@ -1,314 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET FINALS-BOURNEMOUTH: 2015",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "BOURNEMOUTH",
+  "year": "2015",
   "date": "30/10/2015",
-  "contestants": [
-    {
-      "name": "Pzazz",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "2741.0",
-      "pc_score": "76.1",
-      "singers": [
-        {
-          "name": "Sarah Hicks",
-          "part": "tenor"
-        },
-        {
-          "name": "Gill Irwin",
-          "part": "lead"
-        },
-        {
-          "name": "Julie Robinson",
-          "part": "bari"
-        },
-        {
-          "name": "Monica Funnell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Stars Fell On Alabama",
-          "mus": "228",
-          "prs": "229",
-          "sng": "231"
-        },
-        {
-          "song": "Fly Me To The Moon",
-          "mus": "223",
-          "prs": "225",
-          "sng": "227"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "459.0",
-          "prs": "458.0",
-          "sng": "461.0"
-        }
-      ]
-    },
-    {
-      "name": "Tone-acity",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "2648.0",
-      "pc_score": "73.6",
-      "singers": [
-        {
-          "name": "Jennifer Carson-Fox",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Carson",
-          "part": "lead"
-        },
-        {
-          "name": "Kate Firth",
-          "part": "bari"
-        },
-        {
-          "name": "Lesley Sheridan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "All The Way",
-          "mus": "217",
-          "prs": "217",
-          "sng": "224"
-        },
-        {
-          "song": "Put Your Arms Around Me Honey",
-          "mus": "213",
-          "prs": "216",
-          "sng": "225"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "440.0",
-          "prs": "441.0",
-          "sng": "455.0"
-        }
-      ]
-    },
-    {
-      "name": "Road Trip",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "2514.0",
-      "pc_score": "69.8",
-      "singers": [
-        {
-          "name": "Becky Middleton",
-          "part": "tenor"
-        },
-        {
-          "name": "Melanie Rice",
-          "part": "lead"
-        },
-        {
-          "name": "Debs Thompson",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Penketh",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "All The Way",
-          "mus": "205",
-          "prs": "200",
-          "sng": "201"
-        },
-        {
-          "song": "Sentimental Gentleman From Georgia",
-          "mus": "203",
-          "prs": "204",
-          "sng": "202"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "432.0",
-          "prs": "429.0",
-          "sng": "438.0"
-        }
-      ]
-    },
-    {
-      "name": "Jiggle",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "2479.0",
-      "pc_score": "68.9",
-      "singers": [
-        {
-          "name": "Michelle Jeffries",
-          "part": "tenor"
-        },
-        {
-          "name": "Katie Sullivan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Mobsby",
-          "part": "bari"
-        },
-        {
-          "name": "Mandy Gilliland",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Love Me And The World Is Mine",
-          "mus": "205",
-          "prs": "205",
-          "sng": "209"
-        },
-        {
-          "song": "Fit As A Fiddle",
-          "mus": "208",
-          "prs": "202",
-          "sng": "207"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "421.0",
-          "prs": "415.0",
-          "sng": "407.0"
-        }
-      ]
-    },
-    {
-      "name": "Good Fourtune",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "2472.0",
-      "pc_score": "68.7",
-      "singers": [
-        {
-          "name": "Heidi Walsh",
-          "part": "tenor"
-        },
-        {
-          "name": "Laura Marples",
-          "part": "lead"
-        },
-        {
-          "name": "Ruth Starling",
-          "part": "bari"
-        },
-        {
-          "name": "Emma Holden",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Good Luck Charm",
-          "mus": "198",
-          "prs": "202",
-          "sng": "202"
-        },
-        {
-          "song": "May I Never Love Again",
-          "mus": "204",
-          "prs": "206",
-          "sng": "205"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "410.0",
-          "prs": "417.0",
-          "sng": "428.0"
-        }
-      ]
-    },
-    {
-      "name": "Venus Effect",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "2418.0",
-      "pc_score": "67.2",
-      "singers": [
-        {
-          "name": "Myfanwy Beynon",
-          "part": "tenor"
-        },
-        {
-          "name": "Helen Watson",
-          "part": "lead"
-        },
-        {
-          "name": "Jo Salisbury",
-          "part": "bari"
-        },
-        {
-          "name": "Suzie Moutrie",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Diamonds Are A Girl's Best Friend",
-          "mus": "202",
-          "prs": "204",
-          "sng": "201"
-        },
-        {
-          "song": "Dream A Little Dream Of Me",
-          "mus": "200",
-          "prs": "199",
-          "sng": "198"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "406.0",
-          "prs": "411.0",
-          "sng": "397.0"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Heather Lane"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Jenny Mills"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie James"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Alison Zdzylowski"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Mike Taylor"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Alison Thompson"
     },
     {
@@ -335,5 +65,297 @@
       "cat": "ca",
       "name": "Charles Grainger"
     }
-  ]
+  ],
+  "type": "quartet final",
+  "contestants": [
+    {
+      "tot_score": "1363",
+      "final_tot_score": "2741",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Pzazz",
+      "pc_score": "76.1",
+      "songs": [
+        {
+          "title": "Stars Fell On Alabama",
+          "m": "228",
+          "s": "229",
+          "p": "223"
+        },
+        {
+          "title": "Fly Me To The Moon",
+          "m": "225",
+          "s": "227",
+          "p": "231"
+        },
+        {
+          "title": "Previous",
+          "m": "459",
+          "s": "461",
+          "p": "458"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sarah Hicks"
+        },
+        {
+          "part": "lead",
+          "name": "Gill Irwin"
+        },
+        {
+          "part": "bari",
+          "name": "Julie Robinson"
+        },
+        {
+          "part": "bass",
+          "name": "Monica Funnell"
+        }
+      ]
+    },
+    {
+      "tot_score": "1312",
+      "final_tot_score": "2648",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Tone-acity",
+      "pc_score": "73.6",
+      "songs": [
+        {
+          "title": "All The Way",
+          "m": "217",
+          "s": "217",
+          "p": "213"
+        },
+        {
+          "title": "Put Your Arms Around Me Honey",
+          "m": "216",
+          "s": "225",
+          "p": "224"
+        },
+        {
+          "title": "Previous",
+          "m": "440",
+          "s": "455",
+          "p": "441"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jennifer Carson-Fox"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Carson"
+        },
+        {
+          "part": "bari",
+          "name": "Kate Firth"
+        },
+        {
+          "part": "bass",
+          "name": "Lesley Sheridan"
+        }
+      ]
+    },
+    {
+      "tot_score": "1215",
+      "final_tot_score": "2514",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Road Trip",
+      "pc_score": "69.8",
+      "songs": [
+        {
+          "title": "All The Way",
+          "m": "205",
+          "s": "200",
+          "p": "203"
+        },
+        {
+          "title": "Sentimental Gentleman From Georgia",
+          "m": "204",
+          "s": "202",
+          "p": "201"
+        },
+        {
+          "title": "Previous",
+          "m": "432",
+          "s": "438",
+          "p": "429"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Becky Middleton"
+        },
+        {
+          "part": "lead",
+          "name": "Melanie Rice"
+        },
+        {
+          "part": "bari",
+          "name": "Debs Thompson"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Penketh"
+        }
+      ]
+    },
+    {
+      "tot_score": "1236",
+      "final_tot_score": "2479",
+      "rank_m": "4",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "4",
+      "name": "Jiggle",
+      "pc_score": "68.9",
+      "songs": [
+        {
+          "title": "Love Me And The World Is Mine",
+          "m": "205",
+          "s": "205",
+          "p": "208"
+        },
+        {
+          "title": "Fit As A Fiddle",
+          "m": "202",
+          "s": "207",
+          "p": "209"
+        },
+        {
+          "title": "Previous",
+          "m": "421",
+          "s": "407",
+          "p": "415"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michelle Jeffries"
+        },
+        {
+          "part": "lead",
+          "name": "Katie Sullivan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Mobsby"
+        },
+        {
+          "part": "bass",
+          "name": "Mandy Gilliland"
+        }
+      ]
+    },
+    {
+      "tot_score": "1217",
+      "final_tot_score": "2472",
+      "rank_m": "5",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "5",
+      "name": "Good Fourtune",
+      "pc_score": "68.7",
+      "songs": [
+        {
+          "title": "Good Luck Charm",
+          "m": "198",
+          "s": "202",
+          "p": "204"
+        },
+        {
+          "title": "May I Never Love Again",
+          "m": "206",
+          "s": "205",
+          "p": "202"
+        },
+        {
+          "title": "Previous",
+          "m": "410",
+          "s": "428",
+          "p": "417"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Heidi Walsh"
+        },
+        {
+          "part": "lead",
+          "name": "Laura Marples"
+        },
+        {
+          "part": "bari",
+          "name": "Ruth Starling"
+        },
+        {
+          "part": "bass",
+          "name": "Emma Holden"
+        }
+      ]
+    },
+    {
+      "tot_score": "1204",
+      "final_tot_score": "2418",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Venus Effect",
+      "pc_score": "67.2",
+      "songs": [
+        {
+          "title": "Diamonds Are A Girl's Best Friend",
+          "m": "202",
+          "s": "204",
+          "p": "200"
+        },
+        {
+          "title": "Dream A Little Dream Of Me",
+          "m": "199",
+          "s": "198",
+          "p": "201"
+        },
+        {
+          "title": "Previous",
+          "m": "406",
+          "s": "397",
+          "p": "411"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Myfanwy Beynon"
+        },
+        {
+          "part": "lead",
+          "name": "Helen Watson"
+        },
+        {
+          "part": "bari",
+          "name": "Jo Salisbury"
+        },
+        {
+          "part": "bass",
+          "name": "Suzie Moutrie"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QF2015.pdf"
 }

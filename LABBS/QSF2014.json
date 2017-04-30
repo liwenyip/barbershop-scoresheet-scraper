@@ -1,629 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET SEMI-FINALS-HARROGATE: 2014",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET SEMI-FINALS",
+  "location": "HARROGATE",
+  "year": "2014",
   "date": "31/10/2014",
-  "contestants": [
-    {
-      "name": "Pzazz",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "1378",
-      "pc_score": "76.6",
-      "singers": [
-        {
-          "name": "Sarah Hicks",
-          "part": "tenor"
-        },
-        {
-          "name": "Gill Irwin",
-          "part": "lead"
-        },
-        {
-          "name": "Julie Robinson",
-          "part": "bari"
-        },
-        {
-          "name": "Monica Funnell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Yesterday I Heard The Rain",
-          "mus": "221",
-          "prs": "228",
-          "sng": "234"
-        },
-        {
-          "song": "Love And The Weather",
-          "mus": "230",
-          "prs": "230",
-          "sng": "235"
-        }
-      ]
-    },
-    {
-      "name": "Hot Note",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "1361",
-      "pc_score": "75.6",
-      "singers": [
-        {
-          "name": "Gaynor Schofield",
-          "part": "tenor"
-        },
-        {
-          "name": "Rowena Phillips",
-          "part": "lead"
-        },
-        {
-          "name": "Christine Avis",
-          "part": "bari"
-        },
-        {
-          "name": "Colette Coull",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "What'll I Do",
-          "mus": "225",
-          "prs": "228",
-          "sng": "230"
-        },
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "221",
-          "prs": "230",
-          "sng": "227"
-        }
-      ]
-    },
-    {
-      "name": "Tone-acity",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "1323",
-      "pc_score": "73.5",
-      "singers": [
-        {
-          "name": "Jennifer Carson-Fox",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Carson",
-          "part": "lead"
-        },
-        {
-          "name": "Lorna Walker",
-          "part": "bari"
-        },
-        {
-          "name": "Lesley Sheridan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "219",
-          "prs": "218",
-          "sng": "220"
-        },
-        {
-          "song": "If You Love Me Really Love Me",
-          "mus": "223",
-          "prs": "225",
-          "sng": "218"
-        }
-      ]
-    },
-    {
-      "name": "Jiggle",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "1294",
-      "pc_score": "71.9",
-      "singers": [
-        {
-          "name": "Michelle Jeffries",
-          "part": "tenor"
-        },
-        {
-          "name": "Katie Sullivan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Mobsby",
-          "part": "bari"
-        },
-        {
-          "name": "Amanda Gilliland",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "217",
-          "prs": "211",
-          "sng": "210"
-        },
-        {
-          "song": "It's You",
-          "mus": "222",
-          "prs": "219",
-          "sng": "215"
-        }
-      ]
-    },
-    {
-      "name": "Backbeat",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "1244",
-      "pc_score": "69.1",
-      "singers": [
-        {
-          "name": "Kim Handel",
-          "part": "tenor"
-        },
-        {
-          "name": "Alison Banks",
-          "part": "lead"
-        },
-        {
-          "name": "Emma Court",
-          "part": "bari"
-        },
-        {
-          "name": "Rae Miller",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "So Long Dearie",
-          "mus": "206",
-          "prs": "200",
-          "sng": "211"
-        },
-        {
-          "song": "If You Love Me Really Love Me",
-          "mus": "213",
-          "prs": "205",
-          "sng": "209"
-        }
-      ]
-    },
-    {
-      "name": "Bowled Over",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "1229",
-      "pc_score": "68.3",
-      "singers": [
-        {
-          "name": "Joanna Lea",
-          "part": "tenor"
-        },
-        {
-          "name": "Lindsey Marr",
-          "part": "lead"
-        },
-        {
-          "name": "Karen Lewis",
-          "part": "bari"
-        },
-        {
-          "name": "Elaine Kendall",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I've Got A Feeling I'm Falling",
-          "mus": "203",
-          "prs": "202",
-          "sng": "208"
-        },
-        {
-          "song": "Time After Time",
-          "mus": "208",
-          "prs": "205",
-          "sng": "203"
-        }
-      ]
-    },
-    {
-      "name": "Close Encounter",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "1228",
-      "pc_score": "68.2",
-      "singers": [
-        {
-          "name": "Sue Bottom",
-          "part": "tenor"
-        },
-        {
-          "name": "Kiera Berry",
-          "part": "lead"
-        },
-        {
-          "name": "Lisa Berry",
-          "part": "bari"
-        },
-        {
-          "name": "Catherine Gregory",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Ya Gotta Know How To Love",
-          "mus": "200",
-          "prs": "206",
-          "sng": "202"
-        },
-        {
-          "song": "At Last",
-          "mus": "204",
-          "prs": "211",
-          "sng": "205"
-        }
-      ]
-    },
-    {
-      "name": "Barberlicious",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "1215",
-      "pc_score": "67.5",
-      "singers": [
-        {
-          "name": "Rebecca Fish",
-          "part": "tenor"
-        },
-        {
-          "name": "Bushra Gilchrist",
-          "part": "lead"
-        },
-        {
-          "name": "Anna Stutfield",
-          "part": "bari"
-        },
-        {
-          "name": "Anne-Marie Borneuf",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Love Medley",
-          "mus": "199",
-          "prs": "204",
-          "sng": "204"
-        },
-        {
-          "song": "At Last",
-          "mus": "197",
-          "prs": "209",
-          "sng": "202"
-        }
-      ]
-    },
-    {
-      "name": "In 7th Heaven",
-      "type": "quartet",
-      "place": "9",
-      "tot_score": "1182",
-      "pc_score": "65.7",
-      "singers": [
-        {
-          "name": "Janet Micklewright",
-          "part": "tenor"
-        },
-        {
-          "name": "Chris Wheatley",
-          "part": "lead"
-        },
-        {
-          "name": "Chris Temple",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Searson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "194",
-          "prs": "194",
-          "sng": "196"
-        },
-        {
-          "song": "If You Love Me Really Love Me",
-          "mus": "199",
-          "prs": "202",
-          "sng": "197"
-        }
-      ]
-    },
-    {
-      "name": "Simply 4",
-      "type": "quartet",
-      "place": "10",
-      "tot_score": "1158",
-      "pc_score": "64.3",
-      "singers": [
-        {
-          "name": "Barbara Wardle",
-          "part": "tenor"
-        },
-        {
-          "name": "Miriam Sismey",
-          "part": "lead"
-        },
-        {
-          "name": "Helen Glavina",
-          "part": "bari"
-        },
-        {
-          "name": "Sharyn Rutterford",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Ain't He Sweet",
-          "mus": "193",
-          "prs": "193",
-          "sng": "197"
-        },
-        {
-          "song": "When I Leave The World Behind",
-          "mus": "194",
-          "prs": "192",
-          "sng": "189"
-        }
-      ]
-    },
-    {
-      "name": "ms.behavin'",
-      "type": "quartet",
-      "place": "11",
-      "tot_score": "1145",
-      "pc_score": "63.6",
-      "singers": [
-        {
-          "name": "Jane Kuipers",
-          "part": "tenor"
-        },
-        {
-          "name": "Alison Soutar",
-          "part": "lead"
-        },
-        {
-          "name": "Faybianne Warner",
-          "part": "bari"
-        },
-        {
-          "name": "Christina Newcombe",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Red Hot",
-          "mus": "192",
-          "prs": "186",
-          "sng": "194"
-        },
-        {
-          "song": "If You Love Me Really Love Me",
-          "mus": "192",
-          "prs": "192",
-          "sng": "189"
-        }
-      ]
-    },
-    {
-      "name": "The Vocalites",
-      "type": "quartet",
-      "place": "12",
-      "tot_score": "1119",
-      "pc_score": "62.2",
-      "singers": [
-        {
-          "name": "Juliet Erskine",
-          "part": "tenor"
-        },
-        {
-          "name": "Alicia Tindal",
-          "part": "lead"
-        },
-        {
-          "name": "Kate McGeoch",
-          "part": "bari"
-        },
-        {
-          "name": "Jacqui King",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Flirty Eyes",
-          "mus": "185",
-          "prs": "191",
-          "sng": "184"
-        },
-        {
-          "song": "Ain't Misbehavin'",
-          "mus": "188",
-          "prs": "188",
-          "sng": "183"
-        }
-      ]
-    },
-    {
-      "name": "Halo",
-      "type": "quartet",
-      "place": "13",
-      "tot_score": "1118",
-      "pc_score": "62.1",
-      "singers": [
-        {
-          "name": "Jane Wadsworth",
-          "part": "tenor"
-        },
-        {
-          "name": "Debbie McEwan",
-          "part": "lead"
-        },
-        {
-          "name": "Nicola Meadows",
-          "part": "bari"
-        },
-        {
-          "name": "Kirsten Wheeler",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Come Fly With Me",
-          "mus": "177",
-          "prs": "185",
-          "sng": "184"
-        },
-        {
-          "song": "Once Upon A Time",
-          "mus": "188",
-          "prs": "196",
-          "sng": "188"
-        }
-      ]
-    },
-    {
-      "name": "Under Pressure",
-      "type": "quartet",
-      "place": "14",
-      "tot_score": "1000",
-      "pc_score": "55.6",
-      "singers": [
-        {
-          "name": "Kirsty Griffiths",
-          "part": "tenor"
-        },
-        {
-          "name": "Jane Fielding",
-          "part": "lead"
-        },
-        {
-          "name": "Deborah Lamble",
-          "part": "bari"
-        },
-        {
-          "name": "Alison Brewster",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "For All We Know",
-          "mus": "172",
-          "prs": "169",
-          "sng": "162"
-        },
-        {
-          "song": "Ten Feet Off The Ground",
-          "mus": "168",
-          "prs": "166",
-          "sng": "163"
-        }
-      ]
-    },
-    {
-      "name": "High Tea",
-      "type": "quartet",
-      "place": "15",
-      "tot_score": "934",
-      "pc_score": "51.9",
-      "singers": [
-        {
-          "name": "Rosie Helyer",
-          "part": "tenor"
-        },
-        {
-          "name": "Fiona Hicks",
-          "part": "lead"
-        },
-        {
-          "name": "Mary Williams",
-          "part": "bari"
-        },
-        {
-          "name": "Hilary Power",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I've Been Waiting For Your Phone Call",
-          "mus": "166",
-          "prs": "161",
-          "sng": "156"
-        },
-        {
-          "song": "Fit As A Fiddle",
-          "mus": "157",
-          "prs": "152",
-          "sng": "142"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Joyce Stroud"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Jean Sutton"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie James"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Alison Zdzylowski"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Claire Barnett-Jones"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Nicky Salt"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Alison Thompson"
     },
     {
@@ -658,5 +73,624 @@
       "cat": "ca",
       "name": "Pauline Spiller"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1378",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Pzazz",
+      "pc_score": "76.6",
+      "songs": [
+        {
+          "title": "Yesterday I Heard The Rain",
+          "m": "221",
+          "s": "228",
+          "p": "230"
+        },
+        {
+          "title": "Love And The Weather",
+          "m": "230",
+          "s": "235",
+          "p": "234"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sarah Hicks"
+        },
+        {
+          "part": "lead",
+          "name": "Gill Irwin"
+        },
+        {
+          "part": "bari",
+          "name": "Julie Robinson"
+        },
+        {
+          "part": "bass",
+          "name": "Monica Funnell"
+        }
+      ]
+    },
+    {
+      "tot_score": "1361",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "1",
+      "rank": "2",
+      "name": "Hot Note",
+      "pc_score": "75.6",
+      "songs": [
+        {
+          "title": "What'll I Do",
+          "m": "225",
+          "s": "228",
+          "p": "221"
+        },
+        {
+          "title": "Taking A Chance On Love",
+          "m": "230",
+          "s": "227",
+          "p": "230"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Gaynor Schofield"
+        },
+        {
+          "part": "lead",
+          "name": "Rowena Phillips"
+        },
+        {
+          "part": "bari",
+          "name": "Christine Avis"
+        },
+        {
+          "part": "bass",
+          "name": "Colette Coull"
+        }
+      ]
+    },
+    {
+      "tot_score": "1323",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Tone-acity",
+      "pc_score": "73.5",
+      "songs": [
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "219",
+          "s": "218",
+          "p": "223"
+        },
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "225",
+          "s": "218",
+          "p": "220"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jennifer Carson-Fox"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Carson"
+        },
+        {
+          "part": "bari",
+          "name": "Lorna Walker"
+        },
+        {
+          "part": "bass",
+          "name": "Lesley Sheridan"
+        }
+      ]
+    },
+    {
+      "tot_score": "1294",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Jiggle",
+      "pc_score": "71.9",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "217",
+          "s": "211",
+          "p": "222"
+        },
+        {
+          "title": "It's You",
+          "m": "219",
+          "s": "215",
+          "p": "210"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michelle Jeffries"
+        },
+        {
+          "part": "lead",
+          "name": "Katie Sullivan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Mobsby"
+        },
+        {
+          "part": "bass",
+          "name": "Amanda Gilliland"
+        }
+      ]
+    },
+    {
+      "tot_score": "1244",
+      "rank_m": "5",
+      "rank_s": "5",
+      "rank_p": "8",
+      "rank": "5",
+      "name": "Backbeat",
+      "pc_score": "69.1",
+      "songs": [
+        {
+          "title": "So Long Dearie",
+          "m": "206",
+          "s": "200",
+          "p": "213"
+        },
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "205",
+          "s": "209",
+          "p": "211"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Kim Handel"
+        },
+        {
+          "part": "lead",
+          "name": "Alison Banks"
+        },
+        {
+          "part": "bari",
+          "name": "Emma Court"
+        },
+        {
+          "part": "bass",
+          "name": "Rae Miller"
+        }
+      ]
+    },
+    {
+      "tot_score": "1229",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "7",
+      "rank": "6",
+      "name": "Bowled Over",
+      "pc_score": "68.3",
+      "songs": [
+        {
+          "title": "I've Got A Feeling I'm Falling",
+          "m": "203",
+          "s": "202",
+          "p": "208"
+        },
+        {
+          "title": "Time After Time",
+          "m": "205",
+          "s": "203",
+          "p": "208"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joanna Lea"
+        },
+        {
+          "part": "lead",
+          "name": "Lindsey Marr"
+        },
+        {
+          "part": "bari",
+          "name": "Karen Lewis"
+        },
+        {
+          "part": "bass",
+          "name": "Elaine Kendall"
+        }
+      ]
+    },
+    {
+      "tot_score": "1228",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "5",
+      "rank": "7",
+      "name": "Close Encounter",
+      "pc_score": "68.2",
+      "songs": [
+        {
+          "title": "Ya Gotta Know How To Love",
+          "m": "200",
+          "s": "206",
+          "p": "204"
+        },
+        {
+          "title": "At Last",
+          "m": "211",
+          "s": "205",
+          "p": "202"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sue Bottom"
+        },
+        {
+          "part": "lead",
+          "name": "Kiera Berry"
+        },
+        {
+          "part": "bari",
+          "name": "Lisa Berry"
+        },
+        {
+          "part": "bass",
+          "name": "Catherine Gregory"
+        }
+      ]
+    },
+    {
+      "tot_score": "1215",
+      "rank_m": "8",
+      "rank_s": "8",
+      "rank_p": "6",
+      "rank": "8",
+      "name": "Barberlicious",
+      "pc_score": "67.5",
+      "songs": [
+        {
+          "title": "Love Medley",
+          "m": "199",
+          "s": "204",
+          "p": "197"
+        },
+        {
+          "title": "At Last",
+          "m": "209",
+          "s": "202",
+          "p": "204"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Rebecca Fish"
+        },
+        {
+          "part": "lead",
+          "name": "Bushra Gilchrist"
+        },
+        {
+          "part": "bari",
+          "name": "Anna Stutfield"
+        },
+        {
+          "part": "bass",
+          "name": "Anne-Marie Borneuf"
+        }
+      ]
+    },
+    {
+      "tot_score": "1182",
+      "rank_m": "9",
+      "rank_s": "9",
+      "rank_p": "9",
+      "rank": "9",
+      "name": "In 7th Heaven",
+      "pc_score": "65.7",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "194",
+          "s": "194",
+          "p": "199"
+        },
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "202",
+          "s": "197",
+          "p": "196"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Janet Micklewright"
+        },
+        {
+          "part": "lead",
+          "name": "Chris Wheatley"
+        },
+        {
+          "part": "bari",
+          "name": "Chris Temple"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Searson"
+        }
+      ]
+    },
+    {
+      "tot_score": "1158",
+      "rank_m": "10",
+      "rank_s": "10",
+      "rank_p": "10",
+      "rank": "10",
+      "name": "Simply 4",
+      "pc_score": "64.3",
+      "songs": [
+        {
+          "title": "Ain't He Sweet",
+          "m": "193",
+          "s": "193",
+          "p": "194"
+        },
+        {
+          "title": "When I Leave The World Behind",
+          "m": "192",
+          "s": "189",
+          "p": "197"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Barbara Wardle"
+        },
+        {
+          "part": "lead",
+          "name": "Miriam Sismey"
+        },
+        {
+          "part": "bari",
+          "name": "Helen Glavina"
+        },
+        {
+          "part": "bass",
+          "name": "Sharyn Rutterford"
+        }
+      ]
+    },
+    {
+      "tot_score": "1145",
+      "rank_m": "11",
+      "rank_s": "11",
+      "rank_p": "13",
+      "rank": "11",
+      "name": "ms.behavin'",
+      "pc_score": "63.6",
+      "songs": [
+        {
+          "title": "Red Hot",
+          "m": "192",
+          "s": "186",
+          "p": "192"
+        },
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "192",
+          "s": "189",
+          "p": "194"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jane Kuipers"
+        },
+        {
+          "part": "lead",
+          "name": "Alison Soutar"
+        },
+        {
+          "part": "bari",
+          "name": "Faybianne Warner"
+        },
+        {
+          "part": "bass",
+          "name": "Christina Newcombe"
+        }
+      ]
+    },
+    {
+      "tot_score": "1119",
+      "rank_m": "12",
+      "rank_s": "13",
+      "rank_p": "12",
+      "rank": "12",
+      "name": "The Vocalites",
+      "pc_score": "62.2",
+      "songs": [
+        {
+          "title": "Flirty Eyes",
+          "m": "185",
+          "s": "191",
+          "p": "188"
+        },
+        {
+          "title": "Ain't Misbehavin'",
+          "m": "188",
+          "s": "183",
+          "p": "184"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Juliet Erskine"
+        },
+        {
+          "part": "lead",
+          "name": "Alicia Tindal"
+        },
+        {
+          "part": "bari",
+          "name": "Kate McGeoch"
+        },
+        {
+          "part": "bass",
+          "name": "Jacqui King"
+        }
+      ]
+    },
+    {
+      "tot_score": "1118",
+      "rank_m": "13",
+      "rank_s": "12",
+      "rank_p": "11",
+      "rank": "13",
+      "name": "Halo",
+      "pc_score": "62.1",
+      "songs": [
+        {
+          "title": "Come Fly With Me",
+          "m": "177",
+          "s": "185",
+          "p": "188"
+        },
+        {
+          "title": "Once Upon A Time",
+          "m": "196",
+          "s": "188",
+          "p": "184"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jane Wadsworth"
+        },
+        {
+          "part": "lead",
+          "name": "Debbie McEwan"
+        },
+        {
+          "part": "bari",
+          "name": "Nicola Meadows"
+        },
+        {
+          "part": "bass",
+          "name": "Kirsten Wheeler"
+        }
+      ]
+    },
+    {
+      "tot_score": "1000",
+      "rank_m": "14",
+      "rank_s": "14",
+      "rank_p": "14",
+      "rank": "14",
+      "name": "Under Pressure",
+      "pc_score": "55.6",
+      "songs": [
+        {
+          "title": "For All We Know",
+          "m": "172",
+          "s": "169",
+          "p": "168"
+        },
+        {
+          "title": "Ten Feet Off The Ground",
+          "m": "166",
+          "s": "163",
+          "p": "162"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Kirsty Griffiths"
+        },
+        {
+          "part": "lead",
+          "name": "Jane Fielding"
+        },
+        {
+          "part": "bari",
+          "name": "Deborah Lamble"
+        },
+        {
+          "part": "bass",
+          "name": "Alison Brewster"
+        }
+      ]
+    },
+    {
+      "tot_score": "934",
+      "rank_m": "15",
+      "rank_s": "15",
+      "rank_p": "15",
+      "rank": "15",
+      "name": "High Tea",
+      "pc_score": "51.9",
+      "songs": [
+        {
+          "title": "I've Been Waiting For Your Phone Call",
+          "m": "166",
+          "s": "161",
+          "p": "157"
+        },
+        {
+          "title": "Fit As A Fiddle",
+          "m": "152",
+          "s": "142",
+          "p": "156"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Rosie Helyer"
+        },
+        {
+          "part": "lead",
+          "name": "Fiona Hicks"
+        },
+        {
+          "part": "bari",
+          "name": "Mary Williams"
+        },
+        {
+          "part": "bass",
+          "name": "Hilary Power"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QSF2014.pdf"
 }

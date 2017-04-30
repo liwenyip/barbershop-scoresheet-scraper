@@ -1,161 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL GOLD MEDALLISTS-LLANDUDNO: 2013",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL GOLD MEDALLISTS",
+  "location": "LLANDUDNO",
+  "year": "2013",
   "date": "25/10/2013",
-  "contestants": [
-    {
-      "name": "Finesse",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "1471",
-      "pc_score": "81.7",
-      "singers": [
-        {
-          "name": "Helen Owen",
-          "part": "tenor"
-        },
-        {
-          "name": "Beth Brimmicombe",
-          "part": "lead"
-        },
-        {
-          "name": "Tanya Jenkins",
-          "part": "bari"
-        },
-        {
-          "name": "Nicky Salt",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me (3)",
-          "mus": "246",
-          "prs": "238",
-          "sng": "257"
-        },
-        {
-          "song": "Package",
-          "mus": "247",
-          "prs": "242",
-          "sng": "241"
-        }
-      ]
-    },
-    {
-      "name": "The Mix",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "1465",
-      "pc_score": "81.4",
-      "singers": [
-        {
-          "name": "Andrea Day",
-          "part": "tenor"
-        },
-        {
-          "name": "Jo Braham",
-          "part": "lead"
-        },
-        {
-          "name": "Nancy Kelsall",
-          "part": "bari"
-        },
-        {
-          "name": "Sandra Lea-Riley",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Razzle Dazzle (1)",
-          "mus": "238",
-          "prs": "247",
-          "sng": "241"
-        },
-        {
-          "song": "Package",
-          "mus": "245",
-          "prs": "253",
-          "sng": "241"
-        }
-      ]
-    },
-    {
-      "name": "NoteOrious",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "1406",
-      "pc_score": "78.1",
-      "singers": [
-        {
-          "name": "Astrid Shepherd",
-          "part": "tenor"
-        },
-        {
-          "name": "Alison Moore",
-          "part": "lead"
-        },
-        {
-          "name": "Rose Hopkinson",
-          "part": "bari"
-        },
-        {
-          "name": "Helen Lappert",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Love Jazz Medley (1)",
-          "mus": "231",
-          "prs": "233",
-          "sng": "239"
-        },
-        {
-          "song": "Package",
-          "mus": "236",
-          "prs": "233",
-          "sng": "234"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Liz Garnett"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Heather Lane"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie Williams"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Alison Zdzylowski"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Claire Barnett-Jones"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Barry Clinton"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Sng Avg 1"
     },
     {
@@ -186,5 +69,132 @@
       "cat": "ca",
       "name": "Marilyn Penketh"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1471",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "2",
+      "rank": "1",
+      "name": "Finesse",
+      "pc_score": "81.7",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me (3)",
+          "m": "246",
+          "s": "238",
+          "p": "247"
+        },
+        {
+          "title": "Package",
+          "m": "242",
+          "s": "241",
+          "p": "257"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Helen Owen"
+        },
+        {
+          "part": "lead",
+          "name": "Beth Brimmicombe"
+        },
+        {
+          "part": "bari",
+          "name": "Tanya Jenkins"
+        },
+        {
+          "part": "bass",
+          "name": "Nicky Salt"
+        }
+      ]
+    },
+    {
+      "tot_score": "1465",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "1",
+      "rank": "2",
+      "name": "The Mix",
+      "pc_score": "81.4",
+      "songs": [
+        {
+          "title": "Razzle Dazzle (1)",
+          "m": "238",
+          "s": "247",
+          "p": "245"
+        },
+        {
+          "title": "Package",
+          "m": "253",
+          "s": "241",
+          "p": "241"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andrea Day"
+        },
+        {
+          "part": "lead",
+          "name": "Jo Braham"
+        },
+        {
+          "part": "bari",
+          "name": "Nancy Kelsall"
+        },
+        {
+          "part": "bass",
+          "name": "Sandra Lea-Riley"
+        }
+      ]
+    },
+    {
+      "tot_score": "1406",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "NoteOrious",
+      "pc_score": "78.1",
+      "songs": [
+        {
+          "title": "I Love Jazz Medley (1)",
+          "m": "231",
+          "s": "233",
+          "p": "236"
+        },
+        {
+          "title": "Package",
+          "m": "233",
+          "s": "234",
+          "p": "239"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Astrid Shepherd"
+        },
+        {
+          "part": "lead",
+          "name": "Alison Moore"
+        },
+        {
+          "part": "bari",
+          "name": "Rose Hopkinson"
+        },
+        {
+          "part": "bass",
+          "name": "Helen Lappert"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/GM2013.pdf"
 }

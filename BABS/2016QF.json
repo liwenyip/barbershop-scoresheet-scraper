@@ -1,504 +1,9 @@
 {
-  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
-  "contest": "QUARTET FINAL-HARROGATE: 2015/2016",
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET FINAL",
+  "location": "HARROGATE",
+  "year": "2015/2016",
   "date": "29/05/2016",
-  "contestants": [
-    {
-      "name": "Finest Hour",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "2986.0",
-      "pc_score": "82.9",
-      "singers": [
-        {
-          "name": "James Williams",
-          "part": "tenor"
-        },
-        {
-          "name": "Eddie Williams",
-          "part": "lead"
-        },
-        {
-          "name": "Nick Williams",
-          "part": "bari"
-        },
-        {
-          "name": "Phil Cuthbert",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You're The Girl I Love",
-          "mus": "251",
-          "prs": "243",
-          "sng": "251"
-        },
-        {
-          "song": "Five Foot Two",
-          "mus": "252",
-          "prs": "249",
-          "sng": "248"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "500.0",
-          "prs": "497.0",
-          "sng": "495.0"
-        }
-      ]
-    },
-    {
-      "name": "RECKLESS",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "2973.0",
-      "pc_score": "82.6",
-      "singers": [
-        {
-          "name": "Andy Foster",
-          "part": "tenor"
-        },
-        {
-          "name": "Duncan Whinyates",
-          "part": "lead"
-        },
-        {
-          "name": "Dale Kynaston",
-          "part": "bari"
-        },
-        {
-          "name": "Andy Funnell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "A Sunday Kind Of Love",
-          "mus": "247",
-          "prs": "250",
-          "sng": "244"
-        },
-        {
-          "song": "PS I Love You",
-          "mus": "250",
-          "prs": "251",
-          "sng": "246"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "498.0",
-          "prs": "500.0",
-          "sng": "487.0"
-        }
-      ]
-    },
-    {
-      "name": "The Emerald Guard",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "2871.0",
-      "pc_score": "79.8",
-      "singers": [
-        {
-          "name": "Antoine Kaiserman",
-          "part": "tenor"
-        },
-        {
-          "name": "Tim Briggs",
-          "part": "lead"
-        },
-        {
-          "name": "Andy Allen",
-          "part": "bari"
-        },
-        {
-          "name": "Duncan Blackeby",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Me And Mrs Jones",
-          "mus": "240",
-          "prs": "237",
-          "sng": "238"
-        },
-        {
-          "song": "Lover Come Back",
-          "mus": "237",
-          "prs": "238",
-          "sng": "243"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "475.0",
-          "prs": "488.0",
-          "sng": "475.0"
-        }
-      ]
-    },
-    {
-      "name": "Portobello Road",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "2870.0",
-      "pc_score": "79.7",
-      "singers": [
-        {
-          "name": "Ian James",
-          "part": "tenor"
-        },
-        {
-          "name": "Brian Schofield",
-          "part": "lead"
-        },
-        {
-          "name": "Steve Emery",
-          "part": "bari"
-        },
-        {
-          "name": "Stuart Owen",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Wouldn't It Be Lovely",
-          "mus": "247",
-          "prs": "241",
-          "sng": "241"
-        },
-        {
-          "song": "You Took Advantage Of Me",
-          "mus": "235",
-          "prs": "242",
-          "sng": "237"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "474.0",
-          "prs": "476.0",
-          "sng": "477.0"
-        }
-      ]
-    },
-    {
-      "name": "Tagline",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "2853.0",
-      "pc_score": "79.3",
-      "singers": [
-        {
-          "name": "Ben Ferguson",
-          "part": "tenor"
-        },
-        {
-          "name": "James Gower-Smith",
-          "part": "lead"
-        },
-        {
-          "name": "Chris Langworthy",
-          "part": "bari"
-        },
-        {
-          "name": "Rob Foot",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "The Nearness Of You",
-          "mus": "246",
-          "prs": "243",
-          "sng": "239"
-        },
-        {
-          "song": "Recipe For Makin' Love",
-          "mus": "230",
-          "prs": "245",
-          "sng": "234"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "466.0",
-          "prs": "477.0",
-          "sng": "473.0"
-        }
-      ]
-    },
-    {
-      "name": "The Locksmiths",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "2796.0",
-      "pc_score": "77.7",
-      "singers": [
-        {
-          "name": "Richard Fisher",
-          "part": "tenor"
-        },
-        {
-          "name": "Simon Lubkowski",
-          "part": "lead"
-        },
-        {
-          "name": "Zac Booles",
-          "part": "bari"
-        },
-        {
-          "name": "Andrew Walker",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Once Upon A Time",
-          "mus": "239",
-          "prs": "231",
-          "sng": "237"
-        },
-        {
-          "song": "I Have Dreamed",
-          "mus": "238",
-          "prs": "229",
-          "sng": "239"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "465.0",
-          "prs": "458.0",
-          "sng": "460.0"
-        }
-      ]
-    },
-    {
-      "name": "4 In A Bar",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "2730.0",
-      "pc_score": "75.8",
-      "singers": [
-        {
-          "name": "Eoin Conway",
-          "part": "tenor"
-        },
-        {
-          "name": "Shane Barriscale",
-          "part": "lead"
-        },
-        {
-          "name": "Paul McGough",
-          "part": "bari"
-        },
-        {
-          "name": "Tristan Caldwell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Something Tells Me I'm Into Something Good",
-          "mus": "225",
-          "prs": "230",
-          "sng": "224"
-        },
-        {
-          "song": "Over The Rainbow",
-          "mus": "228",
-          "prs": "230",
-          "sng": "221"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "459.0",
-          "prs": "451.0",
-          "sng": "462.0"
-        }
-      ]
-    },
-    {
-      "name": "The Autotunes",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "2710.0",
-      "pc_score": "75.3",
-      "singers": [
-        {
-          "name": "Ruaidhri O'Dalaigh",
-          "part": "tenor"
-        },
-        {
-          "name": "Michael Dawson",
-          "part": "lead"
-        },
-        {
-          "name": "Kevin Sheedy",
-          "part": "bari"
-        },
-        {
-          "name": "Louis Mahon",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I'm Looking Over A Four Leaf Clover",
-          "mus": "233",
-          "prs": "223",
-          "sng": "226"
-        },
-        {
-          "song": "That's An Irish Lullaby",
-          "mus": "228",
-          "prs": "223",
-          "sng": "225"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "458.0",
-          "prs": "448.0",
-          "sng": "446.0"
-        }
-      ]
-    },
-    {
-      "name": "The Brit Pack",
-      "type": "quartet",
-      "place": "9",
-      "tot_score": "2638.0",
-      "pc_score": "73.3",
-      "singers": [
-        {
-          "name": "Alex Sanctuary",
-          "part": "tenor"
-        },
-        {
-          "name": "Keith Rees",
-          "part": "lead"
-        },
-        {
-          "name": "Peter Nugent",
-          "part": "bari"
-        },
-        {
-          "name": "Jon Dawson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "223",
-          "prs": "225",
-          "sng": "223"
-        },
-        {
-          "song": "Let A Baritone Lead The Way",
-          "mus": "218",
-          "prs": "227",
-          "sng": "204"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "440.0",
-          "prs": "435.0",
-          "sng": "443.0"
-        }
-      ]
-    },
-    {
-      "name": "4 On Demand",
-      "type": "quartet",
-      "place": "10",
-      "tot_score": "2550.0",
-      "pc_score": "70.8",
-      "singers": [
-        {
-          "name": "Jamie Braham",
-          "part": "tenor"
-        },
-        {
-          "name": "Peter Bryant",
-          "part": "lead"
-        },
-        {
-          "name": "Nick Bryant",
-          "part": "bari"
-        },
-        {
-          "name": "Calvin Laverick",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Cinderella",
-          "mus": "213",
-          "prs": "207",
-          "sng": "214"
-        },
-        {
-          "song": "I'll Forget You",
-          "mus": "219",
-          "prs": "216",
-          "sng": "216"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "432.0",
-          "prs": "416.0",
-          "sng": "417.0"
-        }
-      ]
-    },
-    {
-      "name": "The Perfect Pitchers",
-      "type": "quartet",
-      "place": "11",
-      "tot_score": "2532.0",
-      "pc_score": "70.3",
-      "singers": [
-        {
-          "name": "Luke Freeney",
-          "part": "tenor"
-        },
-        {
-          "name": "Danny Gortler",
-          "part": "lead"
-        },
-        {
-          "name": "Josh Betley",
-          "part": "bari"
-        },
-        {
-          "name": "Joe O'Leary",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "When She Loved Me",
-          "mus": "207",
-          "prs": "219",
-          "sng": "210"
-        },
-        {
-          "song": "I Love Being Here With You",
-          "mus": "222",
-          "prs": "226",
-          "sng": "218"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "403.0",
-          "prs": "410.0",
-          "sng": "417.0"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
       "cat": "m",
@@ -552,5 +57,537 @@
       "cat": "ca",
       "name": "Yvonne Hughes"
     }
-  ]
+  ],
+  "type": "quartet final",
+  "contestants": [
+    {
+      "tot_score": "1494",
+      "final_tot_score": "2986",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "2",
+      "rank": "1",
+      "name": "Finest Hour",
+      "pc_score": "82.9",
+      "songs": [
+        {
+          "title": "You're The Girl I Love",
+          "m": "251",
+          "s": "243",
+          "p": "252"
+        },
+        {
+          "title": "Five Foot Two",
+          "m": "249",
+          "s": "248",
+          "p": "251"
+        },
+        {
+          "title": "Previous",
+          "m": "500",
+          "s": "495",
+          "p": "497"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "James Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Eddie Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Williams"
+        },
+        {
+          "part": "bass",
+          "name": "Phil Cuthbert"
+        }
+      ]
+    },
+    {
+      "tot_score": "1488",
+      "final_tot_score": "2973",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "1",
+      "rank": "2",
+      "name": "RECKLESS",
+      "pc_score": "82.6",
+      "songs": [
+        {
+          "title": "A Sunday Kind Of Love",
+          "m": "247",
+          "s": "250",
+          "p": "250"
+        },
+        {
+          "title": "PS I Love You",
+          "m": "251",
+          "s": "246",
+          "p": "244"
+        },
+        {
+          "title": "Previous",
+          "m": "498",
+          "s": "487",
+          "p": "500"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy Foster"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan Whinyates"
+        },
+        {
+          "part": "bari",
+          "name": "Dale Kynaston"
+        },
+        {
+          "part": "bass",
+          "name": "Andy Funnell"
+        }
+      ]
+    },
+    {
+      "tot_score": "1433",
+      "final_tot_score": "2871",
+      "rank_m": "4",
+      "rank_s": "3",
+      "rank_p": "4",
+      "rank": "3",
+      "name": "The Emerald Guard",
+      "pc_score": "79.8",
+      "songs": [
+        {
+          "title": "Me And Mrs Jones",
+          "m": "240",
+          "s": "237",
+          "p": "237"
+        },
+        {
+          "title": "Lover Come Back",
+          "m": "238",
+          "s": "243",
+          "p": "238"
+        },
+        {
+          "title": "Previous",
+          "m": "475",
+          "s": "475",
+          "p": "488"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Antoine Kaiserman"
+        },
+        {
+          "part": "lead",
+          "name": "Tim Briggs"
+        },
+        {
+          "part": "bari",
+          "name": "Andy Allen"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan Blackeby"
+        }
+      ]
+    },
+    {
+      "tot_score": "1443",
+      "final_tot_score": "2870",
+      "rank_m": "3",
+      "rank_s": "4",
+      "rank_p": "5",
+      "rank": "4",
+      "name": "Portobello Road",
+      "pc_score": "79.7",
+      "songs": [
+        {
+          "title": "Wouldn't It Be Lovely",
+          "m": "247",
+          "s": "241",
+          "p": "235"
+        },
+        {
+          "title": "You Took Advantage Of Me",
+          "m": "242",
+          "s": "237",
+          "p": "241"
+        },
+        {
+          "title": "Previous",
+          "m": "474",
+          "s": "477",
+          "p": "476"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ian James"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Schofield"
+        },
+        {
+          "part": "bari",
+          "name": "Steve Emery"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart Owen"
+        }
+      ]
+    },
+    {
+      "tot_score": "1437",
+      "final_tot_score": "2853",
+      "rank_m": "5",
+      "rank_s": "5",
+      "rank_p": "3",
+      "rank": "5",
+      "name": "Tagline",
+      "pc_score": "79.3",
+      "songs": [
+        {
+          "title": "The Nearness Of You",
+          "m": "246",
+          "s": "243",
+          "p": "230"
+        },
+        {
+          "title": "Recipe For Makin' Love",
+          "m": "245",
+          "s": "234",
+          "p": "239"
+        },
+        {
+          "title": "Previous",
+          "m": "466",
+          "s": "473",
+          "p": "477"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ben Ferguson"
+        },
+        {
+          "part": "lead",
+          "name": "James Gower-Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Chris Langworthy"
+        },
+        {
+          "part": "bass",
+          "name": "Rob Foot"
+        }
+      ]
+    },
+    {
+      "tot_score": "1413",
+      "final_tot_score": "2796",
+      "rank_m": "5",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "The Locksmiths",
+      "pc_score": "77.7",
+      "songs": [
+        {
+          "title": "Once Upon A Time",
+          "m": "239",
+          "s": "231",
+          "p": "238"
+        },
+        {
+          "title": "I Have Dreamed",
+          "m": "229",
+          "s": "239",
+          "p": "237"
+        },
+        {
+          "title": "Previous",
+          "m": "465",
+          "s": "460",
+          "p": "458"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard Fisher"
+        },
+        {
+          "part": "lead",
+          "name": "Simon Lubkowski"
+        },
+        {
+          "part": "bari",
+          "name": "Zac Booles"
+        },
+        {
+          "part": "bass",
+          "name": "Andrew Walker"
+        }
+      ]
+    },
+    {
+      "tot_score": "1358",
+      "final_tot_score": "2730",
+      "rank_m": "8",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "7",
+      "name": "4 In A Bar",
+      "pc_score": "75.8",
+      "songs": [
+        {
+          "title": "Something Tells Me I'm Into Something Good",
+          "m": "225",
+          "s": "230",
+          "p": "228"
+        },
+        {
+          "title": "Over The Rainbow",
+          "m": "230",
+          "s": "221",
+          "p": "224"
+        },
+        {
+          "title": "Previous",
+          "m": "459",
+          "s": "462",
+          "p": "451"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Eoin Conway"
+        },
+        {
+          "part": "lead",
+          "name": "Shane Barriscale"
+        },
+        {
+          "part": "bari",
+          "name": "Paul McGough"
+        },
+        {
+          "part": "bass",
+          "name": "Tristan Caldwell"
+        }
+      ]
+    },
+    {
+      "tot_score": "1358",
+      "final_tot_score": "2710",
+      "rank_m": "7",
+      "rank_s": "8",
+      "rank_p": "8",
+      "rank": "8",
+      "name": "The Autotunes",
+      "pc_score": "75.3",
+      "songs": [
+        {
+          "title": "I'm Looking Over A Four Leaf Clover",
+          "m": "233",
+          "s": "223",
+          "p": "228"
+        },
+        {
+          "title": "That's An Irish Lullaby",
+          "m": "223",
+          "s": "225",
+          "p": "226"
+        },
+        {
+          "title": "Previous",
+          "m": "458",
+          "s": "446",
+          "p": "448"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ruaidhri O'Dalaigh"
+        },
+        {
+          "part": "lead",
+          "name": "Michael Dawson"
+        },
+        {
+          "part": "bari",
+          "name": "Kevin Sheedy"
+        },
+        {
+          "part": "bass",
+          "name": "Louis Mahon"
+        }
+      ]
+    },
+    {
+      "tot_score": "1320",
+      "final_tot_score": "2638",
+      "rank_m": "9",
+      "rank_s": "9",
+      "rank_p": "9",
+      "rank": "9",
+      "name": "The Brit Pack",
+      "pc_score": "73.3",
+      "songs": [
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "223",
+          "s": "225",
+          "p": "218"
+        },
+        {
+          "title": "Let A Baritone Lead The Way",
+          "m": "227",
+          "s": "204",
+          "p": "223"
+        },
+        {
+          "title": "Previous",
+          "m": "440",
+          "s": "443",
+          "p": "435"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alex Sanctuary"
+        },
+        {
+          "part": "lead",
+          "name": "Keith Rees"
+        },
+        {
+          "part": "bari",
+          "name": "Peter Nugent"
+        },
+        {
+          "part": "bass",
+          "name": "Jon Dawson"
+        }
+      ]
+    },
+    {
+      "tot_score": "1285",
+      "final_tot_score": "2550",
+      "rank_m": "10",
+      "rank_s": "10",
+      "rank_p": "11",
+      "rank": "10",
+      "name": "4 On Demand",
+      "pc_score": "70.8",
+      "songs": [
+        {
+          "title": "Cinderella",
+          "m": "213",
+          "s": "207",
+          "p": "219"
+        },
+        {
+          "title": "I'll Forget You",
+          "m": "216",
+          "s": "216",
+          "p": "214"
+        },
+        {
+          "title": "Previous",
+          "m": "432",
+          "s": "417",
+          "p": "416"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jamie Braham"
+        },
+        {
+          "part": "lead",
+          "name": "Peter Bryant"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Bryant"
+        },
+        {
+          "part": "bass",
+          "name": "Calvin Laverick"
+        }
+      ]
+    },
+    {
+      "tot_score": "1302",
+      "final_tot_score": "2532",
+      "rank_m": "11",
+      "rank_s": "11",
+      "rank_p": "10",
+      "rank": "11",
+      "name": "The Perfect Pitchers",
+      "pc_score": "70.3",
+      "songs": [
+        {
+          "title": "When She Loved Me",
+          "m": "207",
+          "s": "219",
+          "p": "222"
+        },
+        {
+          "title": "I Love Being Here With You",
+          "m": "226",
+          "s": "218",
+          "p": "210"
+        },
+        {
+          "title": "Previous",
+          "m": "403",
+          "s": "417",
+          "p": "410"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Luke Freeney"
+        },
+        {
+          "part": "lead",
+          "name": "Danny Gortler"
+        },
+        {
+          "part": "bari",
+          "name": "Josh Betley"
+        },
+        {
+          "part": "bass",
+          "name": "Joe O'Leary"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2016QF.pdf"
 }

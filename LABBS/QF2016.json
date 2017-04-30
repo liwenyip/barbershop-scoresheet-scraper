@@ -1,359 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET FINALS-HARROGATE: 2016",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "HARROGATE",
+  "year": "2016",
   "date": "28/10/2016",
-  "contestants": [
-    {
-      "name": "Tone-Acity",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "2748.0",
-      "pc_score": "76.3",
-      "singers": [
-        {
-          "name": "Jennifer Carson-Fox",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Carson",
-          "part": "lead"
-        },
-        {
-          "name": "Kate Firth",
-          "part": "bari"
-        },
-        {
-          "name": "Sheri Warbrick",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "All The Way",
-          "mus": "233",
-          "prs": "227",
-          "sng": "226"
-        },
-        {
-          "song": "Put Your Arms Around Me Honey",
-          "mus": "232",
-          "prs": "222",
-          "sng": "227"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "462.0",
-          "prs": "462.0",
-          "sng": "457.0"
-        }
-      ]
-    },
-    {
-      "name": "Royal Effect",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "2735.0",
-      "pc_score": "76.0",
-      "singers": [
-        {
-          "name": "Kim Potter",
-          "part": "tenor"
-        },
-        {
-          "name": "Theresa McDonnell",
-          "part": "lead"
-        },
-        {
-          "name": "Emily Atherton",
-          "part": "bari"
-        },
-        {
-          "name": "Sarah Cole",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Ya Gotta Know How To Love / I Can't Give You Anything But Lov",
-          "mus": "237",
-          "prs": "230",
-          "sng": "228"
-        },
-        {
-          "song": "Once Upon A Time",
-          "mus": "231",
-          "prs": "229",
-          "sng": "228"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "455.0",
-          "prs": "449.0",
-          "sng": "448.0"
-        }
-      ]
-    },
-    {
-      "name": "Road Trip",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "2611.0",
-      "pc_score": "72.5",
-      "singers": [
-        {
-          "name": "Becky Middleton",
-          "part": "tenor"
-        },
-        {
-          "name": "Melanie Rice",
-          "part": "lead"
-        },
-        {
-          "name": "Debs Thompson",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Penketh",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Don't Kinow Me",
-          "mus": "218",
-          "prs": "221",
-          "sng": "217"
-        },
-        {
-          "song": "Sentimental Gentleman From Georgia",
-          "mus": "214",
-          "prs": "217",
-          "sng": "214"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "440.0",
-          "prs": "436.0",
-          "sng": "434.0"
-        }
-      ]
-    },
-    {
-      "name": "Cosmopolitan",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "2560.0",
-      "pc_score": "71.1",
-      "singers": [
-        {
-          "name": "Hannah Braham",
-          "part": "tenor"
-        },
-        {
-          "name": "Kiera Berry",
-          "part": "lead"
-        },
-        {
-          "name": "Rachel Sheldon",
-          "part": "bari"
-        },
-        {
-          "name": "Erika Bridge",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Goody Goodbye",
-          "mus": "206",
-          "prs": "212",
-          "sng": "215"
-        },
-        {
-          "song": "From The First Hello To The Last Goodbye",
-          "mus": "208",
-          "prs": "206",
-          "sng": "214"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "442.0",
-          "prs": "426.0",
-          "sng": "431.0"
-        }
-      ]
-    },
-    {
-      "name": "Barberlicious",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "2550.0",
-      "pc_score": "70.8",
-      "singers": [
-        {
-          "name": "Rebecca Fish",
-          "part": "tenor"
-        },
-        {
-          "name": "Bushra Gilchrist",
-          "part": "lead"
-        },
-        {
-          "name": "Anna Stutfield",
-          "part": "bari"
-        },
-        {
-          "name": "Anne-Marie Borneuf",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "My Foolish Heart",
-          "mus": "215",
-          "prs": "208",
-          "sng": "217"
-        },
-        {
-          "song": "The Lady Is A Tramp Medley",
-          "mus": "220",
-          "prs": "211",
-          "sng": "217"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "424.0",
-          "prs": "416.0",
-          "sng": "422.0"
-        }
-      ]
-    },
-    {
-      "name": "Revival!",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "2539.0",
-      "pc_score": "70.5",
-      "singers": [
-        {
-          "name": "Astrid Shepherd",
-          "part": "tenor"
-        },
-        {
-          "name": "Sue Wheeler",
-          "part": "lead"
-        },
-        {
-          "name": "Caroline Donovan",
-          "part": "bari"
-        },
-        {
-          "name": "Steph Ramsay",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Love Being Here With You",
-          "mus": "207",
-          "prs": "206",
-          "sng": "217"
-        },
-        {
-          "song": "When You Wish Upon A Star",
-          "mus": "210",
-          "prs": "214",
-          "sng": "218"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "425.0",
-          "prs": "420.0",
-          "sng": "422.0"
-        }
-      ]
-    },
-    {
-      "name": "Venus Effect",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "2511.0",
-      "pc_score": "69.8",
-      "singers": [
-        {
-          "name": "Myfanwy Beynon",
-          "part": "tenor"
-        },
-        {
-          "name": "Helen Watson",
-          "part": "lead"
-        },
-        {
-          "name": "Jo Salsbury",
-          "part": "bari"
-        },
-        {
-          "name": "Suzie Moutrie",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "When I Fall In Love",
-          "mus": "205",
-          "prs": "205",
-          "sng": "211"
-        },
-        {
-          "song": "Diamonds Are A Girl's Best Friend",
-          "mus": "205",
-          "prs": "209",
-          "sng": "214"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "417.0",
-          "prs": "425.0",
-          "sng": "420.0"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Delyth Knight"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Heather Lane"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Joyce Stroud"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie James"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Alison Zdzylowski"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Rhiannon Owens-Hall"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Alison Thompson"
     },
     {
@@ -372,5 +57,345 @@
       "cat": "ca",
       "name": "Pauline Spiller"
     }
-  ]
+  ],
+  "type": "quartet final",
+  "contestants": [
+    {
+      "tot_score": "1367",
+      "final_tot_score": "2748",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Tone-Acity",
+      "pc_score": "76.3",
+      "songs": [
+        {
+          "title": "All The Way",
+          "m": "233",
+          "s": "227",
+          "p": "232"
+        },
+        {
+          "title": "Put Your Arms Around Me Honey",
+          "m": "222",
+          "s": "227",
+          "p": "226"
+        },
+        {
+          "title": "Previous",
+          "m": "462",
+          "s": "457",
+          "p": "462"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jennifer Carson-Fox"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Carson"
+        },
+        {
+          "part": "bari",
+          "name": "Kate Firth"
+        },
+        {
+          "part": "bass",
+          "name": "Sheri Warbrick"
+        }
+      ]
+    },
+    {
+      "tot_score": "1383",
+      "final_tot_score": "2735",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Royal Effect",
+      "pc_score": "76.0",
+      "songs": [
+        {
+          "title": "Ya Gotta Know How To Love / I Can't Give You Anything But Lov",
+          "m": "237",
+          "s": "230",
+          "p": "231"
+        },
+        {
+          "title": "Once Upon A Time",
+          "m": "229",
+          "s": "228",
+          "p": "228"
+        },
+        {
+          "title": "Previous",
+          "m": "455",
+          "s": "448",
+          "p": "449"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Kim Potter"
+        },
+        {
+          "part": "lead",
+          "name": "Theresa McDonnell"
+        },
+        {
+          "part": "bari",
+          "name": "Emily Atherton"
+        },
+        {
+          "part": "bass",
+          "name": "Sarah Cole"
+        }
+      ]
+    },
+    {
+      "tot_score": "1301",
+      "final_tot_score": "2611",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Road Trip",
+      "pc_score": "72.5",
+      "songs": [
+        {
+          "title": "You Don't Kinow Me",
+          "m": "218",
+          "s": "221",
+          "p": "214"
+        },
+        {
+          "title": "Sentimental Gentleman From Georgia",
+          "m": "217",
+          "s": "214",
+          "p": "217"
+        },
+        {
+          "title": "Previous",
+          "m": "440",
+          "s": "434",
+          "p": "436"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Becky Middleton"
+        },
+        {
+          "part": "lead",
+          "name": "Melanie Rice"
+        },
+        {
+          "part": "bari",
+          "name": "Debs Thompson"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Penketh"
+        }
+      ]
+    },
+    {
+      "tot_score": "1261",
+      "final_tot_score": "2560",
+      "rank_m": "5",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Cosmopolitan",
+      "pc_score": "71.1",
+      "songs": [
+        {
+          "title": "Goody Goodbye",
+          "m": "206",
+          "s": "212",
+          "p": "208"
+        },
+        {
+          "title": "From The First Hello To The Last Goodbye",
+          "m": "206",
+          "s": "214",
+          "p": "215"
+        },
+        {
+          "title": "Previous",
+          "m": "442",
+          "s": "431",
+          "p": "426"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Hannah Braham"
+        },
+        {
+          "part": "lead",
+          "name": "Kiera Berry"
+        },
+        {
+          "part": "bari",
+          "name": "Rachel Sheldon"
+        },
+        {
+          "part": "bass",
+          "name": "Erika Bridge"
+        }
+      ]
+    },
+    {
+      "tot_score": "1288",
+      "final_tot_score": "2550",
+      "rank_m": "4",
+      "rank_s": "6",
+      "rank_p": "7",
+      "rank": "5",
+      "name": "Barberlicious",
+      "pc_score": "70.8",
+      "songs": [
+        {
+          "title": "My Foolish Heart",
+          "m": "215",
+          "s": "208",
+          "p": "220"
+        },
+        {
+          "title": "The Lady Is A Tramp Medley",
+          "m": "211",
+          "s": "217",
+          "p": "217"
+        },
+        {
+          "title": "Previous",
+          "m": "424",
+          "s": "422",
+          "p": "416"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Rebecca Fish"
+        },
+        {
+          "part": "lead",
+          "name": "Bushra Gilchrist"
+        },
+        {
+          "part": "bari",
+          "name": "Anna Stutfield"
+        },
+        {
+          "part": "bass",
+          "name": "Anne-Marie Borneuf"
+        }
+      ]
+    },
+    {
+      "tot_score": "1272",
+      "final_tot_score": "2539",
+      "rank_m": "6",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "6",
+      "name": "Revival!",
+      "pc_score": "70.5",
+      "songs": [
+        {
+          "title": "I Love Being Here With You",
+          "m": "207",
+          "s": "206",
+          "p": "210"
+        },
+        {
+          "title": "When You Wish Upon A Star",
+          "m": "214",
+          "s": "218",
+          "p": "217"
+        },
+        {
+          "title": "Previous",
+          "m": "425",
+          "s": "422",
+          "p": "420"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Astrid Shepherd"
+        },
+        {
+          "part": "lead",
+          "name": "Sue Wheeler"
+        },
+        {
+          "part": "bari",
+          "name": "Caroline Donovan"
+        },
+        {
+          "part": "bass",
+          "name": "Steph Ramsay"
+        }
+      ]
+    },
+    {
+      "tot_score": "1249",
+      "final_tot_score": "2511",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "6",
+      "rank": "7",
+      "name": "Venus Effect",
+      "pc_score": "69.8",
+      "songs": [
+        {
+          "title": "When I Fall In Love",
+          "m": "205",
+          "s": "205",
+          "p": "205"
+        },
+        {
+          "title": "Diamonds Are A Girl's Best Friend",
+          "m": "209",
+          "s": "214",
+          "p": "211"
+        },
+        {
+          "title": "Previous",
+          "m": "417",
+          "s": "420",
+          "p": "425"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Myfanwy Beynon"
+        },
+        {
+          "part": "lead",
+          "name": "Helen Watson"
+        },
+        {
+          "part": "bari",
+          "name": "Jo Salsbury"
+        },
+        {
+          "part": "bass",
+          "name": "Suzie Moutrie"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QF2016.pdf"
 }

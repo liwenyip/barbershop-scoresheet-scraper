@@ -1,383 +1,32 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "MIXED QUARTET FINALS-LLANDUDNO: 2013",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "MIXED QUARTET FINALS",
+  "location": "LLANDUDNO",
+  "year": "2013",
   "date": "27/10/2013",
-  "contestants": [
-    {
-      "name": "Patchwork",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "861",
-      "pc_score": "71.8",
-      "singers": [
-        {
-          "name": "Helen Warner",
-          "part": "tenor"
-        },
-        {
-          "name": "Alastair Hay-Plumb",
-          "part": "lead"
-        },
-        {
-          "name": "James Whittick",
-          "part": "bari"
-        },
-        {
-          "name": "Sean Egan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Belong To Me",
-          "mus": "151",
-          "prs": "143",
-          "sng": "142"
-        },
-        {
-          "song": "Georgia May",
-          "mus": "142",
-          "prs": "144",
-          "sng": "139"
-        }
-      ]
-    },
-    {
-      "name": "Jigsaw",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "845",
-      "pc_score": "70.4",
-      "singers": [
-        {
-          "name": "Ali Jack",
-          "part": "tenor"
-        },
-        {
-          "name": "Keith Rees",
-          "part": "lead"
-        },
-        {
-          "name": "Donna Rees",
-          "part": "bari"
-        },
-        {
-          "name": "Pete Nugent",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "My Foolish Heart",
-          "mus": "145",
-          "prs": "140",
-          "sng": "137"
-        },
-        {
-          "song": "The Way You Look Tonight",
-          "mus": "145",
-          "prs": "143",
-          "sng": "135"
-        }
-      ]
-    },
-    {
-      "name": "K4",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "807",
-      "pc_score": "67.3",
-      "singers": [
-        {
-          "name": "Delyth Knight",
-          "part": "tenor"
-        },
-        {
-          "name": "Dick Knight",
-          "part": "lead"
-        },
-        {
-          "name": "Joe Knight",
-          "part": "bari"
-        },
-        {
-          "name": "Tom Knight",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Love Me",
-          "mus": "145",
-          "prs": "132",
-          "sng": "132"
-        },
-        {
-          "song": "Where The Southern Roses Grow",
-          "mus": "139",
-          "prs": "131",
-          "sng": "128"
-        }
-      ]
-    },
-    {
-      "name": "Rhythmix",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "796",
-      "pc_score": "66.3",
-      "singers": [
-        {
-          "name": "Cherie Morgan",
-          "part": "tenor"
-        },
-        {
-          "name": "Brian Shaw",
-          "part": "lead"
-        },
-        {
-          "name": "Helen Lappert",
-          "part": "bari"
-        },
-        {
-          "name": "Keith Hirst",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "The Party's Over",
-          "mus": "132",
-          "prs": "133",
-          "sng": "132"
-        },
-        {
-          "song": "Bare Necessities",
-          "mus": "138",
-          "prs": "135",
-          "sng": "126"
-        }
-      ]
-    },
-    {
-      "name": "Post IT Notes",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "779",
-      "pc_score": "64.9",
-      "singers": [
-        {
-          "name": "Alison Soutar",
-          "part": "tenor"
-        },
-        {
-          "name": "Jeanette Yuile",
-          "part": "lead"
-        },
-        {
-          "name": "Brian Leel",
-          "part": "bari"
-        },
-        {
-          "name": "Colin Reid",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Young And Foolish",
-          "mus": "128",
-          "prs": "126",
-          "sng": "137"
-        },
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "124",
-          "prs": "130",
-          "sng": "134"
-        }
-      ]
-    },
-    {
-      "name": "Blarney Tones",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "773",
-      "pc_score": "64.4",
-      "singers": [
-        {
-          "name": "Emma McManus",
-          "part": "tenor"
-        },
-        {
-          "name": "Katy Phillips",
-          "part": "lead"
-        },
-        {
-          "name": "Teresa Phillips",
-          "part": "bari"
-        },
-        {
-          "name": "Eamon Phillips",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "That's An Irish Lullaby",
-          "mus": "124",
-          "prs": "127",
-          "sng": "128"
-        },
-        {
-          "song": "You Make Me Feel So Young",
-          "mus": "133",
-          "prs": "133",
-          "sng": "128"
-        }
-      ]
-    },
-    {
-      "name": "4 Kandles",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "764",
-      "pc_score": "63.7",
-      "singers": [
-        {
-          "name": "Sarah Hooker",
-          "part": "tenor"
-        },
-        {
-          "name": "Justine Nye",
-          "part": "lead"
-        },
-        {
-          "name": "Rose Hopkinson",
-          "part": "bari"
-        },
-        {
-          "name": "Jerry Cadge",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Since I Don't Have You",
-          "mus": "130",
-          "prs": "128",
-          "sng": "130"
-        },
-        {
-          "song": "Good Luck Charm",
-          "mus": "121",
-          "prs": "128",
-          "sng": "127"
-        }
-      ]
-    },
-    {
-      "name": "Fusion",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "752",
-      "pc_score": "62.7",
-      "singers": [
-        {
-          "name": "Louise Jourdan",
-          "part": "tenor"
-        },
-        {
-          "name": "Caroline Clarke",
-          "part": "lead"
-        },
-        {
-          "name": "Cly Wallace",
-          "part": "bari"
-        },
-        {
-          "name": "Andrew Edgley",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Bare Necessities",
-          "mus": "122",
-          "prs": "122",
-          "sng": "124"
-        },
-        {
-          "song": "Ain't Misbehavin'",
-          "mus": "127",
-          "prs": "128",
-          "sng": "129"
-        }
-      ]
-    },
-    {
-      "name": "Chill",
-      "type": "quartet",
-      "place": "9",
-      "tot_score": "721",
-      "pc_score": "60.1",
-      "singers": [
-        {
-          "name": "Una Woodhead",
-          "part": "tenor"
-        },
-        {
-          "name": "Janette Smith",
-          "part": "lead"
-        },
-        {
-          "name": "Mike Coumans",
-          "part": "bari"
-        },
-        {
-          "name": "Bill Cheyne",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Nevertheless",
-          "mus": "119",
-          "prs": "121",
-          "sng": "120"
-        },
-        {
-          "song": "It's Only A Paper Moon",
-          "mus": "122",
-          "prs": "121",
-          "sng": "118"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Rod Butcher"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Liz Garnett"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Mike Warner"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie Williams"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Barry Clinton"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Alison Thompson"
     },
     {
@@ -408,5 +57,378 @@
       "cat": "ca",
       "name": "Nancy Philbin"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "861",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Patchwork",
+      "pc_score": "71.8",
+      "songs": [
+        {
+          "title": "You Belong To Me",
+          "m": "151",
+          "s": "143",
+          "p": "142"
+        },
+        {
+          "title": "Georgia May",
+          "m": "144",
+          "s": "139",
+          "p": "142"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Helen Warner"
+        },
+        {
+          "part": "lead",
+          "name": "Alastair Hay-Plumb"
+        },
+        {
+          "part": "bari",
+          "name": "James Whittick"
+        },
+        {
+          "part": "bass",
+          "name": "Sean Egan"
+        }
+      ]
+    },
+    {
+      "tot_score": "845",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Jigsaw",
+      "pc_score": "70.4",
+      "songs": [
+        {
+          "title": "My Foolish Heart",
+          "m": "145",
+          "s": "140",
+          "p": "145"
+        },
+        {
+          "title": "The Way You Look Tonight",
+          "m": "143",
+          "s": "135",
+          "p": "137"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ali Jack"
+        },
+        {
+          "part": "lead",
+          "name": "Keith Rees"
+        },
+        {
+          "part": "bari",
+          "name": "Donna Rees"
+        },
+        {
+          "part": "bass",
+          "name": "Pete Nugent"
+        }
+      ]
+    },
+    {
+      "tot_score": "807",
+      "rank_m": "3",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "3",
+      "name": "K4",
+      "pc_score": "67.3",
+      "songs": [
+        {
+          "title": "Love Me",
+          "m": "145",
+          "s": "132",
+          "p": "139"
+        },
+        {
+          "title": "Where The Southern Roses Grow",
+          "m": "131",
+          "s": "128",
+          "p": "132"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Delyth Knight"
+        },
+        {
+          "part": "lead",
+          "name": "Dick Knight"
+        },
+        {
+          "part": "bari",
+          "name": "Joe Knight"
+        },
+        {
+          "part": "bass",
+          "name": "Tom Knight"
+        }
+      ]
+    },
+    {
+      "tot_score": "796",
+      "rank_m": "4",
+      "rank_s": "5",
+      "rank_p": "3",
+      "rank": "4",
+      "name": "Rhythmix",
+      "pc_score": "66.3",
+      "songs": [
+        {
+          "title": "The Party's Over",
+          "m": "132",
+          "s": "133",
+          "p": "138"
+        },
+        {
+          "title": "Bare Necessities",
+          "m": "135",
+          "s": "126",
+          "p": "132"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Cherie Morgan"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Shaw"
+        },
+        {
+          "part": "bari",
+          "name": "Helen Lappert"
+        },
+        {
+          "part": "bass",
+          "name": "Keith Hirst"
+        }
+      ]
+    },
+    {
+      "tot_score": "779",
+      "rank_m": "6",
+      "rank_s": "3",
+      "rank_p": "6",
+      "rank": "5",
+      "name": "Post IT Notes",
+      "pc_score": "64.9",
+      "songs": [
+        {
+          "title": "Young And Foolish",
+          "m": "128",
+          "s": "126",
+          "p": "124"
+        },
+        {
+          "title": "Taking A Chance On Love",
+          "m": "130",
+          "s": "134",
+          "p": "137"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alison Soutar"
+        },
+        {
+          "part": "lead",
+          "name": "Jeanette Yuile"
+        },
+        {
+          "part": "bari",
+          "name": "Brian Leel"
+        },
+        {
+          "part": "bass",
+          "name": "Colin Reid"
+        }
+      ]
+    },
+    {
+      "tot_score": "773",
+      "rank_m": "5",
+      "rank_s": "7",
+      "rank_p": "5",
+      "rank": "6",
+      "name": "Blarney Tones",
+      "pc_score": "64.4",
+      "songs": [
+        {
+          "title": "That's An Irish Lullaby",
+          "m": "124",
+          "s": "127",
+          "p": "133"
+        },
+        {
+          "title": "You Make Me Feel So Young",
+          "m": "133",
+          "s": "128",
+          "p": "128"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Emma McManus"
+        },
+        {
+          "part": "lead",
+          "name": "Katy Phillips"
+        },
+        {
+          "part": "bari",
+          "name": "Teresa Phillips"
+        },
+        {
+          "part": "bass",
+          "name": "Eamon Phillips"
+        }
+      ]
+    },
+    {
+      "tot_score": "764",
+      "rank_m": "7",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "7",
+      "name": "4 Kandles",
+      "pc_score": "63.7",
+      "songs": [
+        {
+          "title": "Since I Don't Have You",
+          "m": "130",
+          "s": "128",
+          "p": "121"
+        },
+        {
+          "title": "Good Luck Charm",
+          "m": "128",
+          "s": "127",
+          "p": "130"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sarah Hooker"
+        },
+        {
+          "part": "lead",
+          "name": "Justine Nye"
+        },
+        {
+          "part": "bari",
+          "name": "Rose Hopkinson"
+        },
+        {
+          "part": "bass",
+          "name": "Jerry Cadge"
+        }
+      ]
+    },
+    {
+      "tot_score": "752",
+      "rank_m": "8",
+      "rank_s": "8",
+      "rank_p": "8",
+      "rank": "8",
+      "name": "Fusion",
+      "pc_score": "62.7",
+      "songs": [
+        {
+          "title": "Bare Necessities",
+          "m": "122",
+          "s": "122",
+          "p": "127"
+        },
+        {
+          "title": "Ain't Misbehavin'",
+          "m": "128",
+          "s": "129",
+          "p": "124"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Louise Jourdan"
+        },
+        {
+          "part": "lead",
+          "name": "Caroline Clarke"
+        },
+        {
+          "part": "bari",
+          "name": "Cly Wallace"
+        },
+        {
+          "part": "bass",
+          "name": "Andrew Edgley"
+        }
+      ]
+    },
+    {
+      "tot_score": "721",
+      "rank_m": "9",
+      "rank_s": "9",
+      "rank_p": "9",
+      "rank": "9",
+      "name": "Chill",
+      "pc_score": "60.1",
+      "songs": [
+        {
+          "title": "Nevertheless",
+          "m": "119",
+          "s": "121",
+          "p": "122"
+        },
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "121",
+          "s": "118",
+          "p": "120"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Una Woodhead"
+        },
+        {
+          "part": "lead",
+          "name": "Janette Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Mike Coumans"
+        },
+        {
+          "part": "bass",
+          "name": "Bill Cheyne"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/MQF2013.pdf"
 }

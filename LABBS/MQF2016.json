@@ -1,434 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "MIXED QUARTET FINALS-HARROGATE: 2016",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "MIXED QUARTET FINALS",
+  "location": "HARROGATE",
+  "year": "2016",
   "date": "30/10/2016",
-  "contestants": [
-    {
-      "name": "Myxd Up!",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "1280",
-      "pc_score": "71.1",
-      "singers": [
-        {
-          "name": "Kirstie Spencer",
-          "part": "tenor"
-        },
-        {
-          "name": "Becky Saxton",
-          "part": "lead"
-        },
-        {
-          "name": "Hayden Cole",
-          "part": "bari"
-        },
-        {
-          "name": "Steve Iveck",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If I Love Again",
-          "mus": "216",
-          "prs": "212",
-          "sng": "217"
-        },
-        {
-          "song": "Somebody Loves Me",
-          "mus": "215",
-          "prs": "209",
-          "sng": "211"
-        }
-      ]
-    },
-    {
-      "name": "Post IT Notes",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "1252",
-      "pc_score": "69.6",
-      "singers": [
-        {
-          "name": "Alison Soutar",
-          "part": "tenor"
-        },
-        {
-          "name": "Jeanette Yuille",
-          "part": "lead"
-        },
-        {
-          "name": "Colin Reid",
-          "part": "bari"
-        },
-        {
-          "name": "Peter Williams",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "208",
-          "prs": "213",
-          "sng": "207"
-        },
-        {
-          "song": "Young And Foolish",
-          "mus": "207",
-          "prs": "209",
-          "sng": "208"
-        }
-      ]
-    },
-    {
-      "name": "Mojo",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "1248",
-      "pc_score": "69.3",
-      "singers": [
-        {
-          "name": "Rose Hopkinson",
-          "part": "tenor"
-        },
-        {
-          "name": "Helen Lappert",
-          "part": "lead"
-        },
-        {
-          "name": "David Tanner",
-          "part": "bari"
-        },
-        {
-          "name": "Richard Curtis",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If I Ruled The World",
-          "mus": "204",
-          "prs": "202",
-          "sng": "215"
-        },
-        {
-          "song": "Cheek To Cheek / My Blue Heaven Medley",
-          "mus": "209",
-          "prs": "206",
-          "sng": "212"
-        }
-      ]
-    },
-    {
-      "name": "Hi-JAKD!",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "1144",
-      "pc_score": "63.6",
-      "singers": [
-        {
-          "name": "Alison Tyzack",
-          "part": "tenor"
-        },
-        {
-          "name": "Kate Shipway",
-          "part": "lead"
-        },
-        {
-          "name": "John Ward",
-          "part": "bari"
-        },
-        {
-          "name": "Dave Whittle",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Who'll Be The Next One",
-          "mus": "185",
-          "prs": "186",
-          "sng": "197"
-        },
-        {
-          "song": "The Bare Necessities",
-          "mus": "191",
-          "prs": "190",
-          "sng": "195"
-        }
-      ]
-    },
-    {
-      "name": "Delekate",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "1110",
-      "pc_score": "61.7",
-      "singers": [
-        {
-          "name": "Karen Whitworth",
-          "part": "tenor"
-        },
-        {
-          "name": "Terry Adamson",
-          "part": "lead"
-        },
-        {
-          "name": "Dean Whitehouse",
-          "part": "bari"
-        },
-        {
-          "name": "Les Whitworth",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Only Have Eyes For You",
-          "mus": "197",
-          "prs": "182",
-          "sng": "186"
-        },
-        {
-          "song": "Wrap Your Troubles In Dreams",
-          "mus": "188",
-          "prs": "178",
-          "sng": "179"
-        }
-      ]
-    },
-    {
-      "name": "Three Men And A Little Lady",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "1092",
-      "pc_score": "60.7",
-      "singers": [
-        {
-          "name": "Richard Fisher",
-          "part": "tenor"
-        },
-        {
-          "name": "Ellena Lubkowski",
-          "part": "lead"
-        },
-        {
-          "name": "Steve Emery",
-          "part": "bari"
-        },
-        {
-          "name": "Simon Lubkowski",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Love That Barbershop Style",
-          "mus": "181",
-          "prs": "183",
-          "sng": "177"
-        },
-        {
-          "song": "When She Loved Me",
-          "mus": "181",
-          "prs": "189",
-          "sng": "181"
-        }
-      ]
-    },
-    {
-      "name": "BS4",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "1036",
-      "pc_score": "57.6",
-      "singers": [
-        {
-          "name": "Mary Williams",
-          "part": "tenor"
-        },
-        {
-          "name": "Sue Davis",
-          "part": "lead"
-        },
-        {
-          "name": "Noey McElwee",
-          "part": "bari"
-        },
-        {
-          "name": "David Proud",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Let's Do It",
-          "mus": "176",
-          "prs": "170",
-          "sng": "175"
-        },
-        {
-          "song": "Love Letters",
-          "mus": "174",
-          "prs": "174",
-          "sng": "167"
-        }
-      ]
-    },
-    {
-      "name": "Sonic Boom",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "1017",
-      "pc_score": "56.5",
-      "singers": [
-        {
-          "name": "Fi Trench",
-          "part": "tenor"
-        },
-        {
-          "name": "Jez Knowles",
-          "part": "lead"
-        },
-        {
-          "name": "Liam Buswell",
-          "part": "bari"
-        },
-        {
-          "name": "Benn Boehme",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Meet Me In St. Louis, Louis",
-          "mus": "169",
-          "prs": "170",
-          "sng": "170"
-        },
-        {
-          "song": "Row, Row, Row",
-          "mus": "165",
-          "prs": "174",
-          "sng": "169"
-        }
-      ]
-    },
-    {
-      "name": "Bobby and the Dreamas",
-      "type": "quartet",
-      "place": "9",
-      "tot_score": "981",
-      "pc_score": "54.5",
-      "singers": [
-        {
-          "name": "Celia Nickson",
-          "part": "tenor"
-        },
-        {
-          "name": "Kiera Bently",
-          "part": "lead"
-        },
-        {
-          "name": "Rob Bridgeman",
-          "part": "bari"
-        },
-        {
-          "name": "Christine Casson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "When I Grow Too Old To Dream",
-          "mus": "162",
-          "prs": "168",
-          "sng": "156"
-        },
-        {
-          "song": "At Last",
-          "mus": "168",
-          "prs": "168",
-          "sng": "159"
-        }
-      ]
-    },
-    {
-      "name": "Noteability",
-      "type": "quartet",
-      "place": "10",
-      "tot_score": "935",
-      "pc_score": "51.9",
-      "singers": [
-        {
-          "name": "Jill Barnes",
-          "part": "tenor"
-        },
-        {
-          "name": "Stewart Boucher",
-          "part": "lead"
-        },
-        {
-          "name": "Kevin Barnes",
-          "part": "bari"
-        },
-        {
-          "name": "John Green",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Zing! Went The Strings Of My Heart",
-          "mus": "156",
-          "prs": "155",
-          "sng": "153"
-        },
-        {
-          "song": "What'll I Do",
-          "mus": "161",
-          "prs": "155",
-          "sng": "155"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Paul Davies"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Joyce Stroud"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Andy Funnell"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie James"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Lucy van de Ven"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Barry Clinton"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Monica Funnell"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Craig Kehoe"
     },
     {
@@ -447,5 +57,419 @@
       "cat": "ca",
       "name": "Alistair Taylor-Payne"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1280",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "2",
+      "rank": "1",
+      "name": "Myxd Up!",
+      "pc_score": "71.1",
+      "songs": [
+        {
+          "title": "If I Love Again",
+          "m": "216",
+          "s": "212",
+          "p": "215"
+        },
+        {
+          "title": "Somebody Loves Me",
+          "m": "209",
+          "s": "211",
+          "p": "217"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Kirstie Spencer"
+        },
+        {
+          "part": "lead",
+          "name": "Becky Saxton"
+        },
+        {
+          "part": "bari",
+          "name": "Hayden Cole"
+        },
+        {
+          "part": "bass",
+          "name": "Steve Iveck"
+        }
+      ]
+    },
+    {
+      "tot_score": "1252",
+      "rank_m": "2",
+      "rank_s": "3",
+      "rank_p": "1",
+      "rank": "2",
+      "name": "Post IT Notes",
+      "pc_score": "69.6",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "208",
+          "s": "213",
+          "p": "207"
+        },
+        {
+          "title": "Young And Foolish",
+          "m": "209",
+          "s": "208",
+          "p": "207"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alison Soutar"
+        },
+        {
+          "part": "lead",
+          "name": "Jeanette Yuille"
+        },
+        {
+          "part": "bari",
+          "name": "Colin Reid"
+        },
+        {
+          "part": "bass",
+          "name": "Peter Williams"
+        }
+      ]
+    },
+    {
+      "tot_score": "1248",
+      "rank_m": "3",
+      "rank_s": "2",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Mojo",
+      "pc_score": "69.3",
+      "songs": [
+        {
+          "title": "If I Ruled The World",
+          "m": "204",
+          "s": "202",
+          "p": "209"
+        },
+        {
+          "title": "Cheek To Cheek / My Blue Heaven Medley",
+          "m": "206",
+          "s": "212",
+          "p": "215"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Rose Hopkinson"
+        },
+        {
+          "part": "lead",
+          "name": "Helen Lappert"
+        },
+        {
+          "part": "bari",
+          "name": "David Tanner"
+        },
+        {
+          "part": "bass",
+          "name": "Richard Curtis"
+        }
+      ]
+    },
+    {
+      "tot_score": "1144",
+      "rank_m": "5",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Hi-JAKD!",
+      "pc_score": "63.6",
+      "songs": [
+        {
+          "title": "Who'll Be The Next One",
+          "m": "185",
+          "s": "186",
+          "p": "191"
+        },
+        {
+          "title": "The Bare Necessities",
+          "m": "190",
+          "s": "195",
+          "p": "197"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alison Tyzack"
+        },
+        {
+          "part": "lead",
+          "name": "Kate Shipway"
+        },
+        {
+          "part": "bari",
+          "name": "John Ward"
+        },
+        {
+          "part": "bass",
+          "name": "Dave Whittle"
+        }
+      ]
+    },
+    {
+      "tot_score": "1110",
+      "rank_m": "4",
+      "rank_s": "5",
+      "rank_p": "6",
+      "rank": "5",
+      "name": "Delekate",
+      "pc_score": "61.7",
+      "songs": [
+        {
+          "title": "I Only Have Eyes For You",
+          "m": "197",
+          "s": "182",
+          "p": "188"
+        },
+        {
+          "title": "Wrap Your Troubles In Dreams",
+          "m": "178",
+          "s": "179",
+          "p": "186"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Karen Whitworth"
+        },
+        {
+          "part": "lead",
+          "name": "Terry Adamson"
+        },
+        {
+          "part": "bari",
+          "name": "Dean Whitehouse"
+        },
+        {
+          "part": "bass",
+          "name": "Les Whitworth"
+        }
+      ]
+    },
+    {
+      "tot_score": "1092",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "5",
+      "rank": "6",
+      "name": "Three Men And A Little Lady",
+      "pc_score": "60.7",
+      "songs": [
+        {
+          "title": "I Love That Barbershop Style",
+          "m": "181",
+          "s": "183",
+          "p": "181"
+        },
+        {
+          "title": "When She Loved Me",
+          "m": "189",
+          "s": "181",
+          "p": "177"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard Fisher"
+        },
+        {
+          "part": "lead",
+          "name": "Ellena Lubkowski"
+        },
+        {
+          "part": "bari",
+          "name": "Steve Emery"
+        },
+        {
+          "part": "bass",
+          "name": "Simon Lubkowski"
+        }
+      ]
+    },
+    {
+      "tot_score": "1036",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "7",
+      "name": "BS4",
+      "pc_score": "57.6",
+      "songs": [
+        {
+          "title": "Let's Do It",
+          "m": "176",
+          "s": "170",
+          "p": "174"
+        },
+        {
+          "title": "Love Letters",
+          "m": "174",
+          "s": "167",
+          "p": "175"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Mary Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Sue Davis"
+        },
+        {
+          "part": "bari",
+          "name": "Noey McElwee"
+        },
+        {
+          "part": "bass",
+          "name": "David Proud"
+        }
+      ]
+    },
+    {
+      "tot_score": "1017",
+      "rank_m": "8",
+      "rank_s": "8",
+      "rank_p": "7",
+      "rank": "8",
+      "name": "Sonic Boom",
+      "pc_score": "56.5",
+      "songs": [
+        {
+          "title": "Meet Me In St. Louis, Louis",
+          "m": "169",
+          "s": "170",
+          "p": "165"
+        },
+        {
+          "title": "Row, Row, Row",
+          "m": "174",
+          "s": "169",
+          "p": "170"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Fi Trench"
+        },
+        {
+          "part": "lead",
+          "name": "Jez Knowles"
+        },
+        {
+          "part": "bari",
+          "name": "Liam Buswell"
+        },
+        {
+          "part": "bass",
+          "name": "Benn Boehme"
+        }
+      ]
+    },
+    {
+      "tot_score": "981",
+      "rank_m": "9",
+      "rank_s": "9",
+      "rank_p": "9",
+      "rank": "9",
+      "name": "Bobby and the Dreamas",
+      "pc_score": "54.5",
+      "songs": [
+        {
+          "title": "When I Grow Too Old To Dream",
+          "m": "162",
+          "s": "168",
+          "p": "168"
+        },
+        {
+          "title": "At Last",
+          "m": "168",
+          "s": "159",
+          "p": "156"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Celia Nickson"
+        },
+        {
+          "part": "lead",
+          "name": "Kiera Bently"
+        },
+        {
+          "part": "bari",
+          "name": "Rob Bridgeman"
+        },
+        {
+          "part": "bass",
+          "name": "Christine Casson"
+        }
+      ]
+    },
+    {
+      "tot_score": "935",
+      "rank_m": "10",
+      "rank_s": "10",
+      "rank_p": "10",
+      "rank": "10",
+      "name": "Noteability",
+      "pc_score": "51.9",
+      "songs": [
+        {
+          "title": "Zing! Went The Strings Of My Heart",
+          "m": "156",
+          "s": "155",
+          "p": "161"
+        },
+        {
+          "title": "What'll I Do",
+          "m": "155",
+          "s": "155",
+          "p": "153"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jill Barnes"
+        },
+        {
+          "part": "lead",
+          "name": "Stewart Boucher"
+        },
+        {
+          "part": "bari",
+          "name": "Kevin Barnes"
+        },
+        {
+          "part": "bass",
+          "name": "John Green"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/MQF2016.pdf"
 }

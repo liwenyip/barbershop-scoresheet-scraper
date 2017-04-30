@@ -1,929 +1,32 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET PRELIMS ROUND 1-STREETLY ACADEMY: 2013",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET PRELIMS ROUND 1",
+  "location": "STREETLY ACADEMY",
+  "year": "2013",
   "date": "22/06/2013",
-  "contestants": [
-    {
-      "name": "Echo",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "938",
-      "pc_score": "78.2",
-      "singers": [
-        {
-          "name": "Karen Riley",
-          "part": "tenor"
-        },
-        {
-          "name": "Emma Shanks",
-          "part": "lead"
-        },
-        {
-          "name": "Beckie Puncher",
-          "part": "bari"
-        },
-        {
-          "name": "Claire Heighway",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If I Give My Heart To You",
-          "mus": "151",
-          "prs": "157",
-          "sng": "156"
-        },
-        {
-          "song": "Don't Break The Heart That Loves You",
-          "mus": "155",
-          "prs": "158",
-          "sng": "161"
-        }
-      ]
-    },
-    {
-      "name": "Tone-acity",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "936",
-      "pc_score": "78.0",
-      "singers": [
-        {
-          "name": "Jennifer Carson-Fox",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Carson",
-          "part": "lead"
-        },
-        {
-          "name": "Lorna Williamson",
-          "part": "bari"
-        },
-        {
-          "name": "Lesley Sheridan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "156",
-          "prs": "154",
-          "sng": "160"
-        },
-        {
-          "song": "All The Way",
-          "mus": "155",
-          "prs": "155",
-          "sng": "156"
-        }
-      ]
-    },
-    {
-      "name": "Northern Vibe",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "893",
-      "pc_score": "74.4",
-      "singers": [
-        {
-          "name": "Emma McManus",
-          "part": "tenor"
-        },
-        {
-          "name": "Katy Phillips",
-          "part": "lead"
-        },
-        {
-          "name": "Laura Phillips",
-          "part": "bari"
-        },
-        {
-          "name": "Susan Wilbraham",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "All The Way",
-          "mus": "147",
-          "prs": "151",
-          "sng": "151"
-        },
-        {
-          "song": "Lover Come Back To Me",
-          "mus": "147",
-          "prs": "149",
-          "sng": "148"
-        }
-      ]
-    },
-    {
-      "name": "Pzazz",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "881",
-      "pc_score": "73.4",
-      "singers": [
-        {
-          "name": "Sarah Hicks",
-          "part": "tenor"
-        },
-        {
-          "name": "Gill Irwin",
-          "part": "lead"
-        },
-        {
-          "name": "Julie Robinson",
-          "part": "bari"
-        },
-        {
-          "name": "Monica Funnell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Time After Time",
-          "mus": "143",
-          "prs": "148",
-          "sng": "147"
-        },
-        {
-          "song": "The Glory Of Love",
-          "mus": "146",
-          "prs": "150",
-          "sng": "147"
-        }
-      ]
-    },
-    {
-      "name": "BOMB Squad",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "876",
-      "pc_score": "73.0",
-      "singers": [
-        {
-          "name": "Beth Rothwell",
-          "part": "tenor"
-        },
-        {
-          "name": "Meg Dickson",
-          "part": "lead"
-        },
-        {
-          "name": "Boo Lewis",
-          "part": "bari"
-        },
-        {
-          "name": "Olivia Clarke",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "147",
-          "prs": "144",
-          "sng": "147"
-        },
-        {
-          "song": "How Deep Is The Ocean?",
-          "mus": "147",
-          "prs": "141",
-          "sng": "150"
-        }
-      ]
-    },
-    {
-      "name": "Jiggle",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "871",
-      "pc_score": "72.6",
-      "singers": [
-        {
-          "name": "Michelle Jeffries",
-          "part": "tenor"
-        },
-        {
-          "name": "Katie Sullivan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Mobsby",
-          "part": "bari"
-        },
-        {
-          "name": "Amanda Gilliland",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "148",
-          "prs": "142",
-          "sng": "148"
-        },
-        {
-          "song": "All The Way",
-          "mus": "148",
-          "prs": "141",
-          "sng": "144"
-        }
-      ]
-    },
-    {
-      "name": "Good FourTune",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "851",
-      "pc_score": "70.9",
-      "singers": [
-        {
-          "name": "Heidi Walsh",
-          "part": "tenor"
-        },
-        {
-          "name": "Laura Maples",
-          "part": "lead"
-        },
-        {
-          "name": "Ruth Starling",
-          "part": "bari"
-        },
-        {
-          "name": "Emma Holden",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Flirty Eyes",
-          "mus": "140",
-          "prs": "141",
-          "sng": "147"
-        },
-        {
-          "song": "If You Love Me Really Love Me",
-          "mus": "138",
-          "prs": "142",
-          "sng": "143"
-        }
-      ]
-    },
-    {
-      "name": "Bowled Over",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "812",
-      "pc_score": "67.7",
-      "singers": [
-        {
-          "name": "Joanna Lea",
-          "part": "tenor"
-        },
-        {
-          "name": "Lindsey Marr",
-          "part": "lead"
-        },
-        {
-          "name": "Karen Lewis",
-          "part": "bari"
-        },
-        {
-          "name": "Elaine Kendall",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Love Medley",
-          "mus": "136",
-          "prs": "140",
-          "sng": "139"
-        },
-        {
-          "song": "It Had To Be You",
-          "mus": "133",
-          "prs": "133",
-          "sng": "131"
-        }
-      ]
-    },
-    {
-      "name": "Flame",
-      "type": "quartet",
-      "place": "9",
-      "tot_score": "811",
-      "pc_score": "67.6",
-      "singers": [
-        {
-          "name": "Nickie Williams",
-          "part": "tenor"
-        },
-        {
-          "name": "Lucy Edmonds",
-          "part": "lead"
-        },
-        {
-          "name": "Caroline Donovan",
-          "part": "bari"
-        },
-        {
-          "name": "Harriet Adamson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Shanghai (Why Did I Tell You I Was Going To)",
-          "mus": "133",
-          "prs": "132",
-          "sng": "142"
-        },
-        {
-          "song": "My Foolish Heart",
-          "mus": "136",
-          "prs": "128",
-          "sng": "140"
-        }
-      ]
-    },
-    {
-      "name": "Overboard",
-      "type": "quartet",
-      "place": "10",
-      "tot_score": "793",
-      "pc_score": "66.1",
-      "singers": [
-        {
-          "name": "Vickie China",
-          "part": "tenor"
-        },
-        {
-          "name": "Alison Thompson",
-          "part": "lead"
-        },
-        {
-          "name": "Kate Goddard",
-          "part": "bari"
-        },
-        {
-          "name": "Carol Logan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If I Give My Heart To You",
-          "mus": "129",
-          "prs": "134",
-          "sng": "134"
-        },
-        {
-          "song": "As Long As You're Not In Love With Anyone Else / Undecided Med",
-          "mus": "129",
-          "prs": "132",
-          "sng": "135"
-        }
-      ]
-    },
-    {
-      "name": "Measure 4 Measure",
-      "type": "quartet",
-      "place": "11",
-      "tot_score": "785",
-      "pc_score": "65.4",
-      "singers": [
-        {
-          "name": "Caroline Bamford",
-          "part": "tenor"
-        },
-        {
-          "name": "Janis Smith",
-          "part": "lead"
-        },
-        {
-          "name": "Jane Crook-Taylor",
-          "part": "bari"
-        },
-        {
-          "name": "Gill Orchard",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "At Last",
-          "mus": "125",
-          "prs": "133",
-          "sng": "133"
-        },
-        {
-          "song": "It's Only A Paper Moon",
-          "mus": "128",
-          "prs": "131",
-          "sng": "135"
-        }
-      ]
-    },
-    {
-      "name": "ms.behavin'",
-      "type": "quartet",
-      "place": "11",
-      "tot_score": "785",
-      "pc_score": "65.4",
-      "singers": [
-        {
-          "name": "Jane Kuipers",
-          "part": "tenor"
-        },
-        {
-          "name": "Alison Soutar",
-          "part": "lead"
-        },
-        {
-          "name": "Faybianne Warner",
-          "part": "bari"
-        },
-        {
-          "name": "Christina Newcombe",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Fit As A Fiddle",
-          "mus": "130",
-          "prs": "127",
-          "sng": "137"
-        },
-        {
-          "song": "You Make Me Feel So Young",
-          "mus": "131",
-          "prs": "126",
-          "sng": "134"
-        }
-      ]
-    },
-    {
-      "name": "In 7th Heaven",
-      "type": "quartet",
-      "place": "13",
-      "tot_score": "780",
-      "pc_score": "65.0",
-      "singers": [
-        {
-          "name": "Jane Wright",
-          "part": "tenor"
-        },
-        {
-          "name": "Chris Wheatley",
-          "part": "lead"
-        },
-        {
-          "name": "Chris Temple",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Searson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Heart Of My Heart",
-          "mus": "129",
-          "prs": "129",
-          "sng": "131"
-        },
-        {
-          "song": "Cheek To Cheek",
-          "mus": "128",
-          "prs": "131",
-          "sng": "132"
-        }
-      ]
-    },
-    {
-      "name": "Harmarni",
-      "type": "quartet",
-      "place": "14",
-      "tot_score": "777",
-      "pc_score": "64.8",
-      "singers": [
-        {
-          "name": "Joanna Birtles",
-          "part": "tenor"
-        },
-        {
-          "name": "Hari Birtles",
-          "part": "lead"
-        },
-        {
-          "name": "Stephanie Reddington",
-          "part": "bari"
-        },
-        {
-          "name": "Clare McKenna",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "What'll I Do",
-          "mus": "127",
-          "prs": "126",
-          "sng": "130"
-        },
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "134",
-          "prs": "127",
-          "sng": "133"
-        }
-      ]
-    },
-    {
-      "name": "Close Encounter",
-      "type": "quartet",
-      "place": "15",
-      "tot_score": "763",
-      "pc_score": "63.6",
-      "singers": [
-        {
-          "name": "Sue Bottom",
-          "part": "tenor"
-        },
-        {
-          "name": "Lisa Berry",
-          "part": "lead"
-        },
-        {
-          "name": "Brenda Rothwell",
-          "part": "bari"
-        },
-        {
-          "name": "Catherine Gregory",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "130",
-          "prs": "129",
-          "sng": "128"
-        },
-        {
-          "song": "I Never Meant To Fall In Love",
-          "mus": "128",
-          "prs": "124",
-          "sng": "124"
-        }
-      ]
-    },
-    {
-      "name": "Halo",
-      "type": "quartet",
-      "place": "15",
-      "tot_score": "763",
-      "pc_score": "63.6",
-      "singers": [
-        {
-          "name": "Amanda Torkington",
-          "part": "tenor"
-        },
-        {
-          "name": "Debbie McEwan",
-          "part": "lead"
-        },
-        {
-          "name": "Nicola Meadows",
-          "part": "bari"
-        },
-        {
-          "name": "Kirsten Wheeler",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Ya Gotta Know How To Love",
-          "mus": "129",
-          "prs": "127",
-          "sng": "129"
-        },
-        {
-          "song": "At Last",
-          "mus": "131",
-          "prs": "122",
-          "sng": "125"
-        }
-      ]
-    },
-    {
-      "name": "Strictly Harmony",
-      "type": "quartet",
-      "place": "17",
-      "tot_score": "741",
-      "pc_score": "61.8",
-      "singers": [
-        {
-          "name": "Tina Ruggles",
-          "part": "tenor"
-        },
-        {
-          "name": "Hannah Grindall",
-          "part": "lead"
-        },
-        {
-          "name": "Gitta Irmer",
-          "part": "bari"
-        },
-        {
-          "name": "Chris Aistrop",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Goody Goodbye",
-          "mus": "125",
-          "prs": "123",
-          "sng": "123"
-        },
-        {
-          "song": "You Don't Know Me",
-          "mus": "129",
-          "prs": "120",
-          "sng": "121"
-        }
-      ]
-    },
-    {
-      "name": "The Vocalites",
-      "type": "quartet",
-      "place": "18",
-      "tot_score": "732",
-      "pc_score": "61.0",
-      "singers": [
-        {
-          "name": "Juliet Erskine",
-          "part": "tenor"
-        },
-        {
-          "name": "Alicia Tindal",
-          "part": "lead"
-        },
-        {
-          "name": "Kate McGeoch",
-          "part": "bari"
-        },
-        {
-          "name": "Jacqui King",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "All The Way",
-          "mus": "116",
-          "prs": "115",
-          "sng": "133"
-        },
-        {
-          "song": "Flying Sinatra Medley",
-          "mus": "119",
-          "prs": "119",
-          "sng": "130"
-        }
-      ]
-    },
-    {
-      "name": "Under Pressure",
-      "type": "quartet",
-      "place": "19",
-      "tot_score": "701",
-      "pc_score": "58.4",
-      "singers": [
-        {
-          "name": "Jane Fielding",
-          "part": "tenor"
-        },
-        {
-          "name": "Sue Bryant",
-          "part": "lead"
-        },
-        {
-          "name": "Deborah Lamble",
-          "part": "bari"
-        },
-        {
-          "name": "Alison Brewster",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Fit As A Fiddle",
-          "mus": "113",
-          "prs": "112",
-          "sng": "124"
-        },
-        {
-          "song": "For All We Know",
-          "mus": "113",
-          "prs": "114",
-          "sng": "125"
-        }
-      ]
-    },
-    {
-      "name": "Te-Ba-Le-Bar",
-      "type": "quartet",
-      "place": "20",
-      "tot_score": "675",
-      "pc_score": "56.3",
-      "singers": [
-        {
-          "name": "Helen Griffiths",
-          "part": "tenor"
-        },
-        {
-          "name": "Paula Hume",
-          "part": "lead"
-        },
-        {
-          "name": "Maureen Huskisson",
-          "part": "bari"
-        },
-        {
-          "name": "Maureen Rushton",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "There Goes My Heart",
-          "mus": "110",
-          "prs": "111",
-          "sng": "114"
-        },
-        {
-          "song": "Jeepers Creepers",
-          "mus": "110",
-          "prs": "109",
-          "sng": "121"
-        }
-      ]
-    },
-    {
-      "name": "Horizon",
-      "type": "quartet",
-      "place": "21",
-      "tot_score": "658",
-      "pc_score": "54.8",
-      "singers": [
-        {
-          "name": "Jill Zimber",
-          "part": "tenor"
-        },
-        {
-          "name": "Yvonne Bray",
-          "part": "lead"
-        },
-        {
-          "name": "Angela Cherrington",
-          "part": "bari"
-        },
-        {
-          "name": "Kate Tivney",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "There Goes My Heart",
-          "mus": "113",
-          "prs": "110",
-          "sng": "107"
-        },
-        {
-          "song": "Take Me To The Land Of Jazz",
-          "mus": "115",
-          "prs": "109",
-          "sng": "104"
-        }
-      ]
-    },
-    {
-      "name": "Spiral",
-      "type": "quartet",
-      "place": "22",
-      "tot_score": "630",
-      "pc_score": "52.5",
-      "singers": [
-        {
-          "name": "Celia Nickson",
-          "part": "tenor"
-        },
-        {
-          "name": "Sandie Helm",
-          "part": "lead"
-        },
-        {
-          "name": "Chris Evans",
-          "part": "bari"
-        },
-        {
-          "name": "Christine Casson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "In The Wee Small Hours Of The Morning",
-          "mus": "102",
-          "prs": "103",
-          "sng": "107"
-        },
-        {
-          "song": "The Trolley Song",
-          "mus": "105",
-          "prs": "106",
-          "sng": "107"
-        }
-      ]
-    },
-    {
-      "name": "ExeStream",
-      "type": "quartet",
-      "place": "23",
-      "tot_score": "615",
-      "pc_score": "51.3",
-      "singers": [
-        {
-          "name": "Maggie Heal",
-          "part": "tenor"
-        },
-        {
-          "name": "Jo Edwards",
-          "part": "lead"
-        },
-        {
-          "name": "Gill Cripps",
-          "part": "bari"
-        },
-        {
-          "name": "Jill Ley",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Baby Face",
-          "mus": "104",
-          "prs": "100",
-          "sng": "104"
-        },
-        {
-          "song": "If You Love Me Really Love Me",
-          "mus": "104",
-          "prs": "100",
-          "sng": "103"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Delyth Knight"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Alison Zdzylowski"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Claire Barnett-Jones"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Nicky Salt"
     },
     {
@@ -938,5 +41,952 @@
       "cat": "ca",
       "name": "Pauline Spiller"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "938",
+      "rank_m": "2",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Echo",
+      "pc_score": "78.2",
+      "songs": [
+        {
+          "title": "If I Give My Heart To You",
+          "m": "151",
+          "s": "157",
+          "p": "155"
+        },
+        {
+          "title": "Don't Break The Heart That Loves You",
+          "m": "158",
+          "s": "161",
+          "p": "156"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Karen Riley"
+        },
+        {
+          "part": "lead",
+          "name": "Emma Shanks"
+        },
+        {
+          "part": "bari",
+          "name": "Beckie Puncher"
+        },
+        {
+          "part": "bass",
+          "name": "Claire Heighway"
+        }
+      ]
+    },
+    {
+      "tot_score": "936",
+      "rank_m": "1",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Tone-acity",
+      "pc_score": "78.0",
+      "songs": [
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "156",
+          "s": "154",
+          "p": "155"
+        },
+        {
+          "title": "All The Way",
+          "m": "155",
+          "s": "156",
+          "p": "160"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jennifer Carson-Fox"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Carson"
+        },
+        {
+          "part": "bari",
+          "name": "Lorna Williamson"
+        },
+        {
+          "part": "bass",
+          "name": "Lesley Sheridan"
+        }
+      ]
+    },
+    {
+      "tot_score": "893",
+      "rank_m": "4",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Northern Vibe",
+      "pc_score": "74.4",
+      "songs": [
+        {
+          "title": "All The Way",
+          "m": "147",
+          "s": "151",
+          "p": "147"
+        },
+        {
+          "title": "Lover Come Back To Me",
+          "m": "149",
+          "s": "148",
+          "p": "151"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Emma McManus"
+        },
+        {
+          "part": "lead",
+          "name": "Katy Phillips"
+        },
+        {
+          "part": "bari",
+          "name": "Laura Phillips"
+        },
+        {
+          "part": "bass",
+          "name": "Susan Wilbraham"
+        }
+      ]
+    },
+    {
+      "tot_score": "881",
+      "rank_m": "6",
+      "rank_s": "5",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Pzazz",
+      "pc_score": "73.4",
+      "songs": [
+        {
+          "title": "Time After Time",
+          "m": "143",
+          "s": "148",
+          "p": "146"
+        },
+        {
+          "title": "The Glory Of Love",
+          "m": "150",
+          "s": "147",
+          "p": "147"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sarah Hicks"
+        },
+        {
+          "part": "lead",
+          "name": "Gill Irwin"
+        },
+        {
+          "part": "bari",
+          "name": "Julie Robinson"
+        },
+        {
+          "part": "bass",
+          "name": "Monica Funnell"
+        }
+      ]
+    },
+    {
+      "tot_score": "876",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "5",
+      "rank": "5",
+      "name": "BOMB Squad",
+      "pc_score": "73.0",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "147",
+          "s": "144",
+          "p": "147"
+        },
+        {
+          "title": "How Deep Is The Ocean?",
+          "m": "141",
+          "s": "150",
+          "p": "147"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Beth Rothwell"
+        },
+        {
+          "part": "lead",
+          "name": "Meg Dickson"
+        },
+        {
+          "part": "bari",
+          "name": "Boo Lewis"
+        },
+        {
+          "part": "bass",
+          "name": "Olivia Clarke"
+        }
+      ]
+    },
+    {
+      "tot_score": "871",
+      "rank_m": "3",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Jiggle",
+      "pc_score": "72.6",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "148",
+          "s": "142",
+          "p": "148"
+        },
+        {
+          "title": "All The Way",
+          "m": "141",
+          "s": "144",
+          "p": "148"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michelle Jeffries"
+        },
+        {
+          "part": "lead",
+          "name": "Katie Sullivan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Mobsby"
+        },
+        {
+          "part": "bass",
+          "name": "Amanda Gilliland"
+        }
+      ]
+    },
+    {
+      "tot_score": "851",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "6",
+      "rank": "7",
+      "name": "Good FourTune",
+      "pc_score": "70.9",
+      "songs": [
+        {
+          "title": "Flirty Eyes",
+          "m": "140",
+          "s": "141",
+          "p": "138"
+        },
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "142",
+          "s": "143",
+          "p": "147"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Heidi Walsh"
+        },
+        {
+          "part": "lead",
+          "name": "Laura Maples"
+        },
+        {
+          "part": "bari",
+          "name": "Ruth Starling"
+        },
+        {
+          "part": "bass",
+          "name": "Emma Holden"
+        }
+      ]
+    },
+    {
+      "tot_score": "812",
+      "rank_m": "8",
+      "rank_s": "10",
+      "rank_p": "8",
+      "rank": "8",
+      "name": "Bowled Over",
+      "pc_score": "67.7",
+      "songs": [
+        {
+          "title": "Love Medley",
+          "m": "136",
+          "s": "140",
+          "p": "133"
+        },
+        {
+          "title": "It Had To Be You",
+          "m": "133",
+          "s": "131",
+          "p": "139"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joanna Lea"
+        },
+        {
+          "part": "lead",
+          "name": "Lindsey Marr"
+        },
+        {
+          "part": "bari",
+          "name": "Karen Lewis"
+        },
+        {
+          "part": "bass",
+          "name": "Elaine Kendall"
+        }
+      ]
+    },
+    {
+      "tot_score": "811",
+      "rank_m": "8",
+      "rank_s": "8",
+      "rank_p": "11",
+      "rank": "9",
+      "name": "Flame",
+      "pc_score": "67.6",
+      "songs": [
+        {
+          "title": "Shanghai (Why Did I Tell You I Was Going To)",
+          "m": "133",
+          "s": "132",
+          "p": "136"
+        },
+        {
+          "title": "My Foolish Heart",
+          "m": "128",
+          "s": "140",
+          "p": "142"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Nickie Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Lucy Edmonds"
+        },
+        {
+          "part": "bari",
+          "name": "Caroline Donovan"
+        },
+        {
+          "part": "bass",
+          "name": "Harriet Adamson"
+        }
+      ]
+    },
+    {
+      "tot_score": "793",
+      "rank_m": "13",
+      "rank_s": "11",
+      "rank_p": "9",
+      "rank": "10",
+      "name": "Overboard",
+      "pc_score": "66.1",
+      "songs": [
+        {
+          "title": "If I Give My Heart To You",
+          "m": "129",
+          "s": "134",
+          "p": "129"
+        },
+        {
+          "title": "As Long As You're Not In Love With Anyone Else / Undecided Med",
+          "m": "132",
+          "s": "135",
+          "p": "134"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Vickie China"
+        },
+        {
+          "part": "lead",
+          "name": "Alison Thompson"
+        },
+        {
+          "part": "bari",
+          "name": "Kate Goddard"
+        },
+        {
+          "part": "bass",
+          "name": "Carol Logan"
+        }
+      ]
+    },
+    {
+      "tot_score": "785",
+      "rank_m": "17",
+      "rank_s": "12",
+      "rank_p": "10",
+      "rank": "11",
+      "name": "Measure 4 Measure",
+      "pc_score": "65.4",
+      "songs": [
+        {
+          "title": "At Last",
+          "m": "125",
+          "s": "133",
+          "p": "128"
+        },
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "131",
+          "s": "135",
+          "p": "133"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Caroline Bamford"
+        },
+        {
+          "part": "lead",
+          "name": "Janis Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Jane Crook-Taylor"
+        },
+        {
+          "part": "bass",
+          "name": "Gill Orchard"
+        }
+      ]
+    },
+    {
+      "tot_score": "785",
+      "rank_m": "10",
+      "rank_s": "9",
+      "rank_p": "13",
+      "rank": "11",
+      "name": "ms.behavin'",
+      "pc_score": "65.4",
+      "songs": [
+        {
+          "title": "Fit As A Fiddle",
+          "m": "130",
+          "s": "127",
+          "p": "131"
+        },
+        {
+          "title": "You Make Me Feel So Young",
+          "m": "126",
+          "s": "134",
+          "p": "137"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jane Kuipers"
+        },
+        {
+          "part": "lead",
+          "name": "Alison Soutar"
+        },
+        {
+          "part": "bari",
+          "name": "Faybianne Warner"
+        },
+        {
+          "part": "bass",
+          "name": "Christina Newcombe"
+        }
+      ]
+    },
+    {
+      "tot_score": "780",
+      "rank_m": "15",
+      "rank_s": "13",
+      "rank_p": "11",
+      "rank": "13",
+      "name": "In 7th Heaven",
+      "pc_score": "65.0",
+      "songs": [
+        {
+          "title": "Heart Of My Heart",
+          "m": "129",
+          "s": "129",
+          "p": "128"
+        },
+        {
+          "title": "Cheek To Cheek",
+          "m": "131",
+          "s": "132",
+          "p": "131"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jane Wright"
+        },
+        {
+          "part": "lead",
+          "name": "Chris Wheatley"
+        },
+        {
+          "part": "bari",
+          "name": "Chris Temple"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Searson"
+        }
+      ]
+    },
+    {
+      "tot_score": "777",
+      "rank_m": "10",
+      "rank_s": "13",
+      "rank_p": "13",
+      "rank": "14",
+      "name": "Harmarni",
+      "pc_score": "64.8",
+      "songs": [
+        {
+          "title": "What'll I Do",
+          "m": "127",
+          "s": "126",
+          "p": "134"
+        },
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "127",
+          "s": "133",
+          "p": "130"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joanna Birtles"
+        },
+        {
+          "part": "lead",
+          "name": "Hari Birtles"
+        },
+        {
+          "part": "bari",
+          "name": "Stephanie Reddington"
+        },
+        {
+          "part": "bass",
+          "name": "Clare McKenna"
+        }
+      ]
+    },
+    {
+      "tot_score": "763",
+      "rank_m": "13",
+      "rank_s": "17",
+      "rank_p": "13",
+      "rank": "15",
+      "name": "Close Encounter",
+      "pc_score": "63.6",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "130",
+          "s": "129",
+          "p": "128"
+        },
+        {
+          "title": "I Never Meant To Fall In Love",
+          "m": "124",
+          "s": "124",
+          "p": "128"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sue Bottom"
+        },
+        {
+          "part": "lead",
+          "name": "Lisa Berry"
+        },
+        {
+          "part": "bari",
+          "name": "Brenda Rothwell"
+        },
+        {
+          "part": "bass",
+          "name": "Catherine Gregory"
+        }
+      ]
+    },
+    {
+      "tot_score": "763",
+      "rank_m": "12",
+      "rank_s": "16",
+      "rank_p": "16",
+      "rank": "15",
+      "name": "Halo",
+      "pc_score": "63.6",
+      "songs": [
+        {
+          "title": "Ya Gotta Know How To Love",
+          "m": "129",
+          "s": "127",
+          "p": "131"
+        },
+        {
+          "title": "At Last",
+          "m": "122",
+          "s": "125",
+          "p": "129"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Amanda Torkington"
+        },
+        {
+          "part": "lead",
+          "name": "Debbie McEwan"
+        },
+        {
+          "part": "bari",
+          "name": "Nicola Meadows"
+        },
+        {
+          "part": "bass",
+          "name": "Kirsten Wheeler"
+        }
+      ]
+    },
+    {
+      "tot_score": "741",
+      "rank_m": "16",
+      "rank_s": "19",
+      "rank_p": "17",
+      "rank": "17",
+      "name": "Strictly Harmony",
+      "pc_score": "61.8",
+      "songs": [
+        {
+          "title": "Goody Goodbye",
+          "m": "125",
+          "s": "123",
+          "p": "129"
+        },
+        {
+          "title": "You Don't Know Me",
+          "m": "120",
+          "s": "121",
+          "p": "123"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Tina Ruggles"
+        },
+        {
+          "part": "lead",
+          "name": "Hannah Grindall"
+        },
+        {
+          "part": "bari",
+          "name": "Gitta Irmer"
+        },
+        {
+          "part": "bass",
+          "name": "Chris Aistrop"
+        }
+      ]
+    },
+    {
+      "tot_score": "732",
+      "rank_m": "18",
+      "rank_s": "13",
+      "rank_p": "18",
+      "rank": "18",
+      "name": "The Vocalites",
+      "pc_score": "61.0",
+      "songs": [
+        {
+          "title": "All The Way",
+          "m": "116",
+          "s": "115",
+          "p": "119"
+        },
+        {
+          "title": "Flying Sinatra Medley",
+          "m": "119",
+          "s": "130",
+          "p": "133"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Juliet Erskine"
+        },
+        {
+          "part": "lead",
+          "name": "Alicia Tindal"
+        },
+        {
+          "part": "bari",
+          "name": "Kate McGeoch"
+        },
+        {
+          "part": "bass",
+          "name": "Jacqui King"
+        }
+      ]
+    },
+    {
+      "tot_score": "701",
+      "rank_m": "20",
+      "rank_s": "18",
+      "rank_p": "19",
+      "rank": "19",
+      "name": "Under Pressure",
+      "pc_score": "58.4",
+      "songs": [
+        {
+          "title": "Fit As A Fiddle",
+          "m": "113",
+          "s": "112",
+          "p": "113"
+        },
+        {
+          "title": "For All We Know",
+          "m": "114",
+          "s": "125",
+          "p": "124"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jane Fielding"
+        },
+        {
+          "part": "lead",
+          "name": "Sue Bryant"
+        },
+        {
+          "part": "bari",
+          "name": "Deborah Lamble"
+        },
+        {
+          "part": "bass",
+          "name": "Alison Brewster"
+        }
+      ]
+    },
+    {
+      "tot_score": "675",
+      "rank_m": "21",
+      "rank_s": "20",
+      "rank_p": "20",
+      "rank": "20",
+      "name": "Te-Ba-Le-Bar",
+      "pc_score": "56.3",
+      "songs": [
+        {
+          "title": "There Goes My Heart",
+          "m": "110",
+          "s": "111",
+          "p": "110"
+        },
+        {
+          "title": "Jeepers Creepers",
+          "m": "109",
+          "s": "121",
+          "p": "114"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Helen Griffiths"
+        },
+        {
+          "part": "lead",
+          "name": "Paula Hume"
+        },
+        {
+          "part": "bari",
+          "name": "Maureen Huskisson"
+        },
+        {
+          "part": "bass",
+          "name": "Maureen Rushton"
+        }
+      ]
+    },
+    {
+      "tot_score": "658",
+      "rank_m": "19",
+      "rank_s": "22",
+      "rank_p": "21",
+      "rank": "21",
+      "name": "Horizon",
+      "pc_score": "54.8",
+      "songs": [
+        {
+          "title": "There Goes My Heart",
+          "m": "113",
+          "s": "110",
+          "p": "115"
+        },
+        {
+          "title": "Take Me To The Land Of Jazz",
+          "m": "109",
+          "s": "104",
+          "p": "107"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jill Zimber"
+        },
+        {
+          "part": "lead",
+          "name": "Yvonne Bray"
+        },
+        {
+          "part": "bari",
+          "name": "Angela Cherrington"
+        },
+        {
+          "part": "bass",
+          "name": "Kate Tivney"
+        }
+      ]
+    },
+    {
+      "tot_score": "630",
+      "rank_m": "24",
+      "rank_s": "21",
+      "rank_p": "22",
+      "rank": "22",
+      "name": "Spiral",
+      "pc_score": "52.5",
+      "songs": [
+        {
+          "title": "In The Wee Small Hours Of The Morning",
+          "m": "102",
+          "s": "103",
+          "p": "105"
+        },
+        {
+          "title": "The Trolley Song",
+          "m": "106",
+          "s": "107",
+          "p": "107"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Celia Nickson"
+        },
+        {
+          "part": "lead",
+          "name": "Sandie Helm"
+        },
+        {
+          "part": "bari",
+          "name": "Chris Evans"
+        },
+        {
+          "part": "bass",
+          "name": "Christine Casson"
+        }
+      ]
+    },
+    {
+      "tot_score": "615",
+      "rank_m": "23",
+      "rank_s": "23",
+      "rank_p": "24",
+      "rank": "23",
+      "name": "ExeStream",
+      "pc_score": "51.3",
+      "songs": [
+        {
+          "title": "Baby Face",
+          "m": "104",
+          "s": "100",
+          "p": "104"
+        },
+        {
+          "title": "If You Love Me Really Love Me",
+          "m": "100",
+          "s": "103",
+          "p": "104"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Maggie Heal"
+        },
+        {
+          "part": "lead",
+          "name": "Jo Edwards"
+        },
+        {
+          "part": "bari",
+          "name": "Gill Cripps"
+        },
+        {
+          "part": "bass",
+          "name": "Jill Ley"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QP2013.pdf"
 }

@@ -1,314 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET FINALS-HARROGATE: 2014",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "HARROGATE",
+  "year": "2014",
   "date": "31/10/2014",
-  "contestants": [
-    {
-      "name": "Hot Note",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "2747.0",
-      "pc_score": "76.3",
-      "singers": [
-        {
-          "name": "Gaynor Schofield",
-          "part": "tenor"
-        },
-        {
-          "name": "Rowena Phillips",
-          "part": "lead"
-        },
-        {
-          "name": "Christine Avis",
-          "part": "bari"
-        },
-        {
-          "name": "Colette Coull",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Don't Know Me",
-          "mus": "229",
-          "prs": "230",
-          "sng": "231"
-        },
-        {
-          "song": "Shanghai (Why Did I Tell You I Was Going To)",
-          "mus": "230",
-          "prs": "235",
-          "sng": "231"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "446.0",
-          "prs": "458.0",
-          "sng": "457.0"
-        }
-      ]
-    },
-    {
-      "name": "Pzazz",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "2739.0",
-      "pc_score": "76.1",
-      "singers": [
-        {
-          "name": "Sarah Hicks",
-          "part": "tenor"
-        },
-        {
-          "name": "Gill Irwin",
-          "part": "lead"
-        },
-        {
-          "name": "Julie Robinson",
-          "part": "bari"
-        },
-        {
-          "name": "Monica Funnell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "How Deep Is The Ocean?",
-          "mus": "225",
-          "prs": "228",
-          "sng": "223"
-        },
-        {
-          "song": "Rock It For Me",
-          "mus": "224",
-          "prs": "231",
-          "sng": "230"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "451.0",
-          "prs": "458.0",
-          "sng": "469.0"
-        }
-      ]
-    },
-    {
-      "name": "Tone-acity",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "2676.0",
-      "pc_score": "74.3",
-      "singers": [
-        {
-          "name": "Jennifer Carson-Fox",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Carson",
-          "part": "lead"
-        },
-        {
-          "name": "Lorna Walker",
-          "part": "bari"
-        },
-        {
-          "name": "Lesley Sheridan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I've Got A Feeling I'm Falling",
-          "mus": "227",
-          "prs": "224",
-          "sng": "222"
-        },
-        {
-          "song": "All The Way",
-          "mus": "230",
-          "prs": "228",
-          "sng": "222"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "442.0",
-          "prs": "443.0",
-          "sng": "438.0"
-        }
-      ]
-    },
-    {
-      "name": "Jiggle",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "2505.0",
-      "pc_score": "69.6",
-      "singers": [
-        {
-          "name": "Michelle Jeffries",
-          "part": "tenor"
-        },
-        {
-          "name": "Katie Sullivan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Mobsby",
-          "part": "bari"
-        },
-        {
-          "name": "Amanda Gilliland",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "For The Sake Of Auld Lang Syne",
-          "mus": "215",
-          "prs": "199",
-          "sng": "206"
-        },
-        {
-          "song": "I Want You, I Need You, I Love You",
-          "mus": "198",
-          "prs": "195",
-          "sng": "198"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "439.0",
-          "prs": "430.0",
-          "sng": "425.0"
-        }
-      ]
-    },
-    {
-      "name": "Backbeat",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "2495.0",
-      "pc_score": "69.3",
-      "singers": [
-        {
-          "name": "Kim Handel",
-          "part": "tenor"
-        },
-        {
-          "name": "Alison Banks",
-          "part": "lead"
-        },
-        {
-          "name": "Emma Court",
-          "part": "bari"
-        },
-        {
-          "name": "Rae Miller",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Rock-A - Bye Your Baby With A Dixie Melody",
-          "mus": "216",
-          "prs": "201",
-          "sng": "211"
-        },
-        {
-          "song": "White Cliffs Of Dover",
-          "mus": "212",
-          "prs": "203",
-          "sng": "208"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "419.0",
-          "prs": "405.0",
-          "sng": "420.0"
-        }
-      ]
-    },
-    {
-      "name": "Bowled Over",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "2470.0",
-      "pc_score": "68.6",
-      "singers": [
-        {
-          "name": "Joanna Lea",
-          "part": "tenor"
-        },
-        {
-          "name": "Lindsey Marr",
-          "part": "lead"
-        },
-        {
-          "name": "Karen Lewis",
-          "part": "bari"
-        },
-        {
-          "name": "Elaine Kendall",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "211",
-          "prs": "208",
-          "sng": "208"
-        },
-        {
-          "song": "It Had To Be You",
-          "mus": "203",
-          "prs": "205",
-          "sng": "206"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "411.0",
-          "prs": "407.0",
-          "sng": "411.0"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Joyce Stroud"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Jean Sutton"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie James"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Alison Zdzylowski"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Claire Barnett-Jones"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Nicky Salt"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Alison Thompson"
     },
     {
@@ -343,5 +73,297 @@
       "cat": "ca",
       "name": "Jackie Mumford"
     }
-  ]
+  ],
+  "type": "quartet final",
+  "contestants": [
+    {
+      "tot_score": "1386",
+      "final_tot_score": "2747",
+      "rank_m": "1",
+      "rank_s": "2",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Hot Note",
+      "pc_score": "76.3",
+      "songs": [
+        {
+          "title": "You Don't Know Me",
+          "m": "229",
+          "s": "230",
+          "p": "230"
+        },
+        {
+          "title": "Shanghai (Why Did I Tell You I Was Going To)",
+          "m": "235",
+          "s": "231",
+          "p": "231"
+        },
+        {
+          "title": "Previous",
+          "m": "446",
+          "s": "457",
+          "p": "458"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Gaynor Schofield"
+        },
+        {
+          "part": "lead",
+          "name": "Rowena Phillips"
+        },
+        {
+          "part": "bari",
+          "name": "Christine Avis"
+        },
+        {
+          "part": "bass",
+          "name": "Colette Coull"
+        }
+      ]
+    },
+    {
+      "tot_score": "1361",
+      "final_tot_score": "2739",
+      "rank_m": "2",
+      "rank_s": "1",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Pzazz",
+      "pc_score": "76.1",
+      "songs": [
+        {
+          "title": "How Deep Is The Ocean?",
+          "m": "225",
+          "s": "228",
+          "p": "224"
+        },
+        {
+          "title": "Rock It For Me",
+          "m": "231",
+          "s": "230",
+          "p": "223"
+        },
+        {
+          "title": "Previous",
+          "m": "451",
+          "s": "469",
+          "p": "458"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sarah Hicks"
+        },
+        {
+          "part": "lead",
+          "name": "Gill Irwin"
+        },
+        {
+          "part": "bari",
+          "name": "Julie Robinson"
+        },
+        {
+          "part": "bass",
+          "name": "Monica Funnell"
+        }
+      ]
+    },
+    {
+      "tot_score": "1353",
+      "final_tot_score": "2676",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Tone-acity",
+      "pc_score": "74.3",
+      "songs": [
+        {
+          "title": "I've Got A Feeling I'm Falling",
+          "m": "227",
+          "s": "224",
+          "p": "230"
+        },
+        {
+          "title": "All The Way",
+          "m": "228",
+          "s": "222",
+          "p": "222"
+        },
+        {
+          "title": "Previous",
+          "m": "442",
+          "s": "438",
+          "p": "443"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jennifer Carson-Fox"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Carson"
+        },
+        {
+          "part": "bari",
+          "name": "Lorna Walker"
+        },
+        {
+          "part": "bass",
+          "name": "Lesley Sheridan"
+        }
+      ]
+    },
+    {
+      "tot_score": "1211",
+      "final_tot_score": "2505",
+      "rank_m": "4",
+      "rank_s": "5",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Jiggle",
+      "pc_score": "69.6",
+      "songs": [
+        {
+          "title": "For The Sake Of Auld Lang Syne",
+          "m": "215",
+          "s": "199",
+          "p": "198"
+        },
+        {
+          "title": "I Want You, I Need You, I Love You",
+          "m": "195",
+          "s": "198",
+          "p": "206"
+        },
+        {
+          "title": "Previous",
+          "m": "439",
+          "s": "425",
+          "p": "430"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michelle Jeffries"
+        },
+        {
+          "part": "lead",
+          "name": "Katie Sullivan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Mobsby"
+        },
+        {
+          "part": "bass",
+          "name": "Amanda Gilliland"
+        }
+      ]
+    },
+    {
+      "tot_score": "1251",
+      "final_tot_score": "2495",
+      "rank_m": "5",
+      "rank_s": "4",
+      "rank_p": "6",
+      "rank": "5",
+      "name": "Backbeat",
+      "pc_score": "69.3",
+      "songs": [
+        {
+          "title": "Rock-A - Bye Your Baby With A Dixie Melody",
+          "m": "216",
+          "s": "201",
+          "p": "212"
+        },
+        {
+          "title": "White Cliffs Of Dover",
+          "m": "203",
+          "s": "208",
+          "p": "211"
+        },
+        {
+          "title": "Previous",
+          "m": "419",
+          "s": "420",
+          "p": "405"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Kim Handel"
+        },
+        {
+          "part": "lead",
+          "name": "Alison Banks"
+        },
+        {
+          "part": "bari",
+          "name": "Emma Court"
+        },
+        {
+          "part": "bass",
+          "name": "Rae Miller"
+        }
+      ]
+    },
+    {
+      "tot_score": "1241",
+      "final_tot_score": "2470",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "5",
+      "rank": "6",
+      "name": "Bowled Over",
+      "pc_score": "68.6",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "211",
+          "s": "208",
+          "p": "203"
+        },
+        {
+          "title": "It Had To Be You",
+          "m": "205",
+          "s": "206",
+          "p": "208"
+        },
+        {
+          "title": "Previous",
+          "m": "411",
+          "s": "411",
+          "p": "407"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Joanna Lea"
+        },
+        {
+          "part": "lead",
+          "name": "Lindsey Marr"
+        },
+        {
+          "part": "bari",
+          "name": "Karen Lewis"
+        },
+        {
+          "part": "bass",
+          "name": "Elaine Kendall"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QF2014.pdf"
 }

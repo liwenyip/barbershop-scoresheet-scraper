@@ -1,314 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET FINALS-TELFORD: 2012",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "TELFORD",
+  "year": "2012",
   "date": "26/10/2012",
-  "contestants": [
-    {
-      "name": "The Mix",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "2857.0",
-      "pc_score": "79.4",
-      "singers": [
-        {
-          "name": "Andrea Day",
-          "part": "tenor"
-        },
-        {
-          "name": "Jo Braham",
-          "part": "lead"
-        },
-        {
-          "name": "Nancy Kelsall",
-          "part": "bari"
-        },
-        {
-          "name": "Sandra Lea-Riley",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Razzle Dazzle",
-          "mus": "244",
-          "prs": "245",
-          "sng": "237"
-        },
-        {
-          "song": "When You Wish Upon A Star",
-          "mus": "240",
-          "prs": "241",
-          "sng": "239"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "468.0",
-          "prs": "474.0",
-          "sng": "469.0"
-        }
-      ]
-    },
-    {
-      "name": "Jiggle",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "2491.0",
-      "pc_score": "69.2",
-      "singers": [
-        {
-          "name": "Michelle Jeffries",
-          "part": "tenor"
-        },
-        {
-          "name": "Katie Sullivan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Mobsby",
-          "part": "bari"
-        },
-        {
-          "name": "Amanda Gilliland",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Taking A Chance On Love",
-          "mus": "212",
-          "prs": "211",
-          "sng": "203"
-        },
-        {
-          "song": "All The Way",
-          "mus": "207",
-          "prs": "209",
-          "sng": "205"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "419.0",
-          "prs": "419.0",
-          "sng": "406.0"
-        }
-      ]
-    },
-    {
-      "name": "JaZZmine",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "2454.0",
-      "pc_score": "68.2",
-      "singers": [
-        {
-          "name": "Becky Middleton",
-          "part": "tenor"
-        },
-        {
-          "name": "Paula Taylor-Williams",
-          "part": "lead"
-        },
-        {
-          "name": "Cathy Ball",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Penketh",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Will Love You 'Til The End Of Time",
-          "mus": "197",
-          "prs": "196",
-          "sng": "207"
-        },
-        {
-          "song": "The Way You Look Tonight",
-          "mus": "201",
-          "prs": "194",
-          "sng": "208"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "415.0",
-          "prs": "420.0",
-          "sng": "416.0"
-        }
-      ]
-    },
-    {
-      "name": "TECHnique",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "2395.0",
-      "pc_score": "66.5",
-      "singers": [
-        {
-          "name": "Helen Jones",
-          "part": "tenor"
-        },
-        {
-          "name": "Chris Ryan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Lowe",
-          "part": "bari"
-        },
-        {
-          "name": "Teresa Phillips",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "198",
-          "prs": "197",
-          "sng": "205"
-        },
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "200",
-          "prs": "201",
-          "sng": "207"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "389.0",
-          "prs": "386.0",
-          "sng": "412.0"
-        }
-      ]
-    },
-    {
-      "name": "Sugarbeat",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "2384.0",
-      "pc_score": "66.2",
-      "singers": [
-        {
-          "name": "Josephine Wilson",
-          "part": "tenor"
-        },
-        {
-          "name": "Liz Thompson",
-          "part": "lead"
-        },
-        {
-          "name": "Helen Brown",
-          "part": "bari"
-        },
-        {
-          "name": "Pam Doherty",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Stars Fell On Alabama",
-          "mus": "197",
-          "prs": "195",
-          "sng": "196"
-        },
-        {
-          "song": "Please Don't Talk About Me When I'm Gone",
-          "mus": "198",
-          "prs": "198",
-          "sng": "200"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "397.0",
-          "prs": "398.0",
-          "sng": "405.0"
-        }
-      ]
-    },
-    {
-      "name": "Tone-acity",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "2363.0",
-      "pc_score": "65.6",
-      "singers": [
-        {
-          "name": "Jennifer Carson-Fox",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Carson",
-          "part": "lead"
-        },
-        {
-          "name": "Lorna Williamson",
-          "part": "bari"
-        },
-        {
-          "name": "Lesley Sheridan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "202",
-          "prs": "132",
-          "sng": "217"
-        },
-        {
-          "song": "My Foolish Heart",
-          "mus": "177",
-          "prs": "122",
-          "sng": "195"
-        },
-        {
-          "song": "Previous (balanced)",
-          "mus": "422.0",
-          "prs": "451.0",
-          "sng": "445.0"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Delyth Knight"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Heather Lane"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Joyce Stroud"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Andy Funnell"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie Williams"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Monica Funnell"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Nicky Salt"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Alison Thompson"
     },
     {
@@ -331,5 +61,297 @@
       "cat": "ca",
       "name": "Phil Mobsby"
     }
-  ]
+  ],
+  "type": "quartet final",
+  "contestants": [
+    {
+      "tot_score": "1446",
+      "final_tot_score": "2857",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "The Mix",
+      "pc_score": "79.4",
+      "songs": [
+        {
+          "title": "Razzle Dazzle",
+          "m": "244",
+          "s": "245",
+          "p": "240"
+        },
+        {
+          "title": "When You Wish Upon A Star",
+          "m": "241",
+          "s": "239",
+          "p": "237"
+        },
+        {
+          "title": "Previous",
+          "m": "468",
+          "s": "469",
+          "p": "474"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andrea Day"
+        },
+        {
+          "part": "lead",
+          "name": "Jo Braham"
+        },
+        {
+          "part": "bari",
+          "name": "Nancy Kelsall"
+        },
+        {
+          "part": "bass",
+          "name": "Sandra Lea-Riley"
+        }
+      ]
+    },
+    {
+      "tot_score": "1247",
+      "final_tot_score": "2491",
+      "rank_m": "2",
+      "rank_s": "5",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Jiggle",
+      "pc_score": "69.2",
+      "songs": [
+        {
+          "title": "Taking A Chance On Love",
+          "m": "212",
+          "s": "211",
+          "p": "207"
+        },
+        {
+          "title": "All The Way",
+          "m": "209",
+          "s": "205",
+          "p": "203"
+        },
+        {
+          "title": "Previous",
+          "m": "419",
+          "s": "406",
+          "p": "419"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michelle Jeffries"
+        },
+        {
+          "part": "lead",
+          "name": "Katie Sullivan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Mobsby"
+        },
+        {
+          "part": "bass",
+          "name": "Amanda Gilliland"
+        }
+      ]
+    },
+    {
+      "tot_score": "1203",
+      "final_tot_score": "2454",
+      "rank_m": "3",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "JaZZmine",
+      "pc_score": "68.2",
+      "songs": [
+        {
+          "title": "I Will Love You 'Til The End Of Time",
+          "m": "197",
+          "s": "196",
+          "p": "201"
+        },
+        {
+          "title": "The Way You Look Tonight",
+          "m": "194",
+          "s": "208",
+          "p": "207"
+        },
+        {
+          "title": "Previous",
+          "m": "415",
+          "s": "416",
+          "p": "420"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Becky Middleton"
+        },
+        {
+          "part": "lead",
+          "name": "Paula Taylor-Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Cathy Ball"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Penketh"
+        }
+      ]
+    },
+    {
+      "tot_score": "1208",
+      "final_tot_score": "2395",
+      "rank_m": "6",
+      "rank_s": "4",
+      "rank_p": "5",
+      "rank": "4",
+      "name": "TECHnique",
+      "pc_score": "66.5",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "198",
+          "s": "197",
+          "p": "200"
+        },
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "201",
+          "s": "207",
+          "p": "205"
+        },
+        {
+          "title": "Previous",
+          "m": "389",
+          "s": "412",
+          "p": "386"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Helen Jones"
+        },
+        {
+          "part": "lead",
+          "name": "Chris Ryan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Lowe"
+        },
+        {
+          "part": "bass",
+          "name": "Teresa Phillips"
+        }
+      ]
+    },
+    {
+      "tot_score": "1184",
+      "final_tot_score": "2384",
+      "rank_m": "5",
+      "rank_s": "6",
+      "rank_p": "4",
+      "rank": "5",
+      "name": "Sugarbeat",
+      "pc_score": "66.2",
+      "songs": [
+        {
+          "title": "Stars Fell On Alabama",
+          "m": "197",
+          "s": "195",
+          "p": "198"
+        },
+        {
+          "title": "Please Don't Talk About Me When I'm Gone",
+          "m": "198",
+          "s": "200",
+          "p": "196"
+        },
+        {
+          "title": "Previous",
+          "m": "397",
+          "s": "405",
+          "p": "398"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Josephine Wilson"
+        },
+        {
+          "part": "lead",
+          "name": "Liz Thompson"
+        },
+        {
+          "part": "bari",
+          "name": "Helen Brown"
+        },
+        {
+          "part": "bass",
+          "name": "Pam Doherty"
+        }
+      ]
+    },
+    {
+      "tot_score": "1045",
+      "final_tot_score": "2363",
+      "rank_m": "4",
+      "rank_s": "2",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Tone-acity",
+      "pc_score": "65.6",
+      "songs": [
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "202",
+          "s": "132",
+          "p": "177"
+        },
+        {
+          "title": "My Foolish Heart",
+          "m": "122",
+          "s": "195",
+          "p": "217"
+        },
+        {
+          "title": "Previous",
+          "m": "422",
+          "s": "445",
+          "p": "451"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jennifer Carson-Fox"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Carson"
+        },
+        {
+          "part": "bari",
+          "name": "Lorna Williamson"
+        },
+        {
+          "part": "bass",
+          "name": "Lesley Sheridan"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QF2012.pdf"
 }

@@ -1,0 +1,60 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "NAT QUARTET PRELIM - SU (YOUTH STREAM)",
+  "location": "BIRMINGHAM",
+  "year": "2009/10",
+  "date": "15/09/2009",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Liz Garnett"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "p",
+      "name": "Nickie Williams"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "James Northen"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "ca",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "ca",
+      "name": "Peter Hughes"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [],
+  "filename": "BABS/2010QP-Y.pdf"
+}

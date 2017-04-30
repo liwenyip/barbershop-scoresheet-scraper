@@ -1,516 +1,9 @@
 {
-  "district": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
-  "contest": "QUARTET SEMI-FINAL (NATIONAL STREAM)  -  LLANDUDNO: 2014/2015",
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET SEMI-FINAL (NATIONAL STREAM)",
+  "location": "LLANDUDNO",
+  "year": "2014/2015",
   "date": "22/05/2015",
-  "contestants": [
-    {
-      "name": "Portobello Road",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "1423",
-      "pc_score": "79.1",
-      "singers": [
-        {
-          "name": "Ian James",
-          "part": "tenor"
-        },
-        {
-          "name": "Brian Schofield",
-          "part": "lead"
-        },
-        {
-          "name": "Steve Emery",
-          "part": "bari"
-        },
-        {
-          "name": "Stuart Owen",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "If I Loved You",
-          "mus": "243",
-          "prs": "240",
-          "sng": "233"
-        },
-        {
-          "song": "I Never Knew / I'm Getting Married In The Morning",
-          "mus": "240",
-          "prs": "239",
-          "sng": "228"
-        }
-      ]
-    },
-    {
-      "name": "Finest Hour",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "1413",
-      "pc_score": "78.5",
-      "singers": [
-        {
-          "name": "James Williams",
-          "part": "tenor"
-        },
-        {
-          "name": "Eddie Williams",
-          "part": "lead"
-        },
-        {
-          "name": "Nick Williams",
-          "part": "bari"
-        },
-        {
-          "name": "Phil Cuthbert",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Over The Rainbow",
-          "mus": "234",
-          "prs": "234",
-          "sng": "234"
-        },
-        {
-          "song": "South Rampart Street Parade",
-          "mus": "238",
-          "prs": "238",
-          "sng": "235"
-        }
-      ]
-    },
-    {
-      "name": "Blueprint",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "1343",
-      "pc_score": "74.6",
-      "singers": [
-        {
-          "name": "Alex Edwards",
-          "part": "tenor"
-        },
-        {
-          "name": "Dave Brown",
-          "part": "lead"
-        },
-        {
-          "name": "Paul Grier",
-          "part": "bari"
-        },
-        {
-          "name": "Timm Barkworth",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "That's An Irish Lullaby",
-          "mus": "231",
-          "prs": "218",
-          "sng": "227"
-        },
-        {
-          "song": "There's A Brand New Gang",
-          "mus": "230",
-          "prs": "214",
-          "sng": "223"
-        }
-      ]
-    },
-    {
-      "name": "Hustle",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "1328",
-      "pc_score": "73.8",
-      "singers": [
-        {
-          "name": "Neil Firth",
-          "part": "tenor"
-        },
-        {
-          "name": "Giovanni Arsciwals",
-          "part": "lead"
-        },
-        {
-          "name": "Scott Tatton",
-          "part": "bari"
-        },
-        {
-          "name": "Dale Thompson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Ain't That A Kick In The Head",
-          "mus": "220",
-          "prs": "226",
-          "sng": "218"
-        },
-        {
-          "song": "Love Me And The World Is Mine",
-          "mus": "220",
-          "prs": "228",
-          "sng": "216"
-        }
-      ]
-    },
-    {
-      "name": "Quantum",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "1266",
-      "pc_score": "70.3",
-      "singers": [
-        {
-          "name": "Simon Hunt",
-          "part": "tenor"
-        },
-        {
-          "name": "Guy Dowling",
-          "part": "lead"
-        },
-        {
-          "name": "Peter Nugent",
-          "part": "bari"
-        },
-        {
-          "name": "Jon Dawson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Old Fashioned Girl Medley",
-          "mus": "213",
-          "prs": "203",
-          "sng": "213"
-        },
-        {
-          "song": "Love Me And The World Is Mine",
-          "mus": "214",
-          "prs": "209",
-          "sng": "214"
-        }
-      ]
-    },
-    {
-      "name": "Identity",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "1209",
-      "pc_score": "67.2",
-      "singers": [
-        {
-          "name": "Sam Hubbard",
-          "part": "tenor"
-        },
-        {
-          "name": "Peter Bryant",
-          "part": "lead"
-        },
-        {
-          "name": "Ash Baker",
-          "part": "bari"
-        },
-        {
-          "name": "George Turner",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Razzle Dazzle",
-          "mus": "197",
-          "prs": "204",
-          "sng": "196"
-        },
-        {
-          "song": "I Dream Of Jeannie With The Light Brown Hair",
-          "mus": "208",
-          "prs": "204",
-          "sng": "200"
-        }
-      ]
-    },
-    {
-      "name": "South Parade",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "1209",
-      "pc_score": "67.2",
-      "singers": [
-        {
-          "name": "Andy Salter",
-          "part": "tenor"
-        },
-        {
-          "name": "Dean Whitehouse",
-          "part": "lead"
-        },
-        {
-          "name": "Paul Grier",
-          "part": "bari"
-        },
-        {
-          "name": "Peter Blackeby",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Sweet Adeline",
-          "mus": "198",
-          "prs": "201",
-          "sng": "206"
-        },
-        {
-          "song": "You Make Me Feel So Young",
-          "mus": "199",
-          "prs": "201",
-          "sng": "204"
-        }
-      ]
-    },
-    {
-      "name": "The Grand Dads",
-      "type": "quartet",
-      "place": "10",
-      "tot_score": "1196",
-      "pc_score": "66.4",
-      "singers": [
-        {
-          "name": "Mick Barnacle",
-          "part": "tenor"
-        },
-        {
-          "name": "Rob Parnham",
-          "part": "lead"
-        },
-        {
-          "name": "Dave Hughes",
-          "part": "bari"
-        },
-        {
-          "name": "Bob Taylor",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Dream Of Jeannie With The Light Brown Hair",
-          "mus": "203",
-          "prs": "203",
-          "sng": "205"
-        },
-        {
-          "song": "We Kinda Miss Those Good Old Songs",
-          "mus": "191",
-          "prs": "198",
-          "sng": "196"
-        }
-      ]
-    },
-    {
-      "name": "QM",
-      "type": "quartet",
-      "place": "11",
-      "tot_score": "1187",
-      "pc_score": "65.9",
-      "singers": [
-        {
-          "name": "Paul Jeffrey",
-          "part": "tenor"
-        },
-        {
-          "name": "Trevor Dawson",
-          "part": "lead"
-        },
-        {
-          "name": "Adrian Armstrong",
-          "part": "bari"
-        },
-        {
-          "name": "Steve Cox",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "It's Only A Paper Moon",
-          "mus": "202",
-          "prs": "202",
-          "sng": "198"
-        },
-        {
-          "song": "When My Baby Smiles At Me",
-          "mus": "193",
-          "prs": "199",
-          "sng": "193"
-        }
-      ]
-    },
-    {
-      "name": "Blue Ray",
-      "type": "quartet",
-      "place": "12",
-      "tot_score": "1174",
-      "pc_score": "65.2",
-      "singers": [
-        {
-          "name": "Stephen Green",
-          "part": "tenor"
-        },
-        {
-          "name": "Erik Kerr",
-          "part": "lead"
-        },
-        {
-          "name": "Giles Ratcliffe",
-          "part": "bari"
-        },
-        {
-          "name": "Alan Lamprell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Time After Time",
-          "mus": "197",
-          "prs": "194",
-          "sng": "193"
-        },
-        {
-          "song": "You're Nobody 'Til Somebody Loves You",
-          "mus": "196",
-          "prs": "200",
-          "sng": "194"
-        }
-      ]
-    },
-    {
-      "name": "Frank'nSense'nMirth",
-      "type": "quartet",
-      "place": "13",
-      "tot_score": "1173",
-      "pc_score": "65.2",
-      "singers": [
-        {
-          "name": "Chris Blatchford",
-          "part": "tenor"
-        },
-        {
-          "name": "Peter Walters",
-          "part": "lead"
-        },
-        {
-          "name": "Dave Hughes",
-          "part": "bari"
-        },
-        {
-          "name": "Frank Salter",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Where The Southern Roses Grow",
-          "mus": "200",
-          "prs": "192",
-          "sng": "196"
-        },
-        {
-          "song": "Last Night On The Back Porch",
-          "mus": "198",
-          "prs": "192",
-          "sng": "195"
-        }
-      ]
-    },
-    {
-      "name": "The Geysers",
-      "type": "quartet",
-      "place": "13",
-      "tot_score": "1173",
-      "pc_score": "65.2",
-      "singers": [
-        {
-          "name": "Mark Constable",
-          "part": "tenor"
-        },
-        {
-          "name": "Peter Chapman",
-          "part": "lead"
-        },
-        {
-          "name": "Simon Hilton",
-          "part": "bari"
-        },
-        {
-          "name": "Mick Thurman",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Bye Bye Blackbird",
-          "mus": "200",
-          "prs": "198",
-          "sng": "194"
-        },
-        {
-          "song": "April Showers",
-          "mus": "198",
-          "prs": "194",
-          "sng": "189"
-        }
-      ]
-    },
-    {
-      "name": "The Amazing Greys",
-      "type": "quartet",
-      "place": "15",
-      "tot_score": "1171",
-      "pc_score": "65.1",
-      "singers": [
-        {
-          "name": "Bob Devine",
-          "part": "tenor"
-        },
-        {
-          "name": "Brian Tutt",
-          "part": "lead"
-        },
-        {
-          "name": "Colin Maskrey",
-          "part": "bari"
-        },
-        {
-          "name": "Mick Nadin",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Here Am I Broken Hearted",
-          "mus": "200",
-          "prs": "195",
-          "sng": "198"
-        },
-        {
-          "song": "Somebody Loves Me",
-          "mus": "193",
-          "prs": "191",
-          "sng": "194"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
       "cat": "m",
@@ -542,7 +35,7 @@
     },
     {
       "cat": "s",
-      "name": "J on Conway"
+      "name": "Jon Conway"
     },
     {
       "cat": "s",
@@ -564,5 +57,665 @@
       "cat": "ca",
       "name": "Phil Mobsby"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1443",
+      "rank_m": "2",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Tagline",
+      "pc_score": "80.2",
+      "songs": [
+        {
+          "title": "For Once In My Life",
+          "m": "235",
+          "s": "243",
+          "p": "244"
+        },
+        {
+          "title": "L-O - V-E",
+          "m": "245",
+          "s": "240",
+          "p": "236"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ben Ferguson"
+        },
+        {
+          "part": "lead",
+          "name": "James Gower-Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Chris Langworthy"
+        },
+        {
+          "part": "bass",
+          "name": "Rob Foot"
+        }
+      ]
+    },
+    {
+      "tot_score": "1423",
+      "rank_m": "1",
+      "rank_s": "4",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Portobello Road",
+      "pc_score": "79.1",
+      "songs": [
+        {
+          "title": "If I Loved You",
+          "m": "243",
+          "s": "240",
+          "p": "240"
+        },
+        {
+          "title": "I Never Knew / I'm Getting Married In The Morning",
+          "m": "239",
+          "s": "228",
+          "p": "233"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ian James"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Schofield"
+        },
+        {
+          "part": "bari",
+          "name": "Steve Emery"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart Owen"
+        }
+      ]
+    },
+    {
+      "tot_score": "1413",
+      "rank_m": "3",
+      "rank_s": "2",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Finest Hour",
+      "pc_score": "78.5",
+      "songs": [
+        {
+          "title": "Over The Rainbow",
+          "m": "234",
+          "s": "234",
+          "p": "238"
+        },
+        {
+          "title": "South Rampart Street Parade",
+          "m": "238",
+          "s": "235",
+          "p": "234"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "James Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Eddie Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Williams"
+        },
+        {
+          "part": "bass",
+          "name": "Phil Cuthbert"
+        }
+      ]
+    },
+    {
+      "tot_score": "1367",
+      "rank_m": "4",
+      "rank_s": "3",
+      "rank_p": "5",
+      "rank": "4",
+      "name": "The Locksmiths",
+      "pc_score": "75.9",
+      "songs": [
+        {
+          "title": "A Fool Such As I",
+          "m": "231",
+          "s": "220",
+          "p": "230"
+        },
+        {
+          "title": "Once Upon A Time",
+          "m": "223",
+          "s": "231",
+          "p": "232"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard Fisher"
+        },
+        {
+          "part": "lead",
+          "name": "Simon Lubkowski"
+        },
+        {
+          "part": "bari",
+          "name": "Zac Booles"
+        },
+        {
+          "part": "bass",
+          "name": "Andrew Walker"
+        }
+      ]
+    },
+    {
+      "tot_score": "1343",
+      "rank_m": "4",
+      "rank_s": "5",
+      "rank_p": "6",
+      "rank": "5",
+      "name": "Blueprint",
+      "pc_score": "74.6",
+      "songs": [
+        {
+          "title": "That's An Irish Lullaby",
+          "m": "231",
+          "s": "218",
+          "p": "230"
+        },
+        {
+          "title": "There's A Brand New Gang",
+          "m": "214",
+          "s": "223",
+          "p": "227"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alex Edwards"
+        },
+        {
+          "part": "lead",
+          "name": "Dave Brown"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Grier"
+        },
+        {
+          "part": "bass",
+          "name": "Timm Barkworth"
+        }
+      ]
+    },
+    {
+      "tot_score": "1328",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "4",
+      "rank": "6",
+      "name": "Hustle",
+      "pc_score": "73.8",
+      "songs": [
+        {
+          "title": "Ain't That A Kick In The Head",
+          "m": "220",
+          "s": "226",
+          "p": "220"
+        },
+        {
+          "title": "Love Me And The World Is Mine",
+          "m": "228",
+          "s": "216",
+          "p": "218"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Neil Firth"
+        },
+        {
+          "part": "lead",
+          "name": "Giovanni Arsciwals"
+        },
+        {
+          "part": "bari",
+          "name": "Scott Tatton"
+        },
+        {
+          "part": "bass",
+          "name": "Dale Thompson"
+        }
+      ]
+    },
+    {
+      "tot_score": "1266",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "7",
+      "name": "Quantum",
+      "pc_score": "70.3",
+      "songs": [
+        {
+          "title": "Old Fashioned Girl Medley",
+          "m": "213",
+          "s": "203",
+          "p": "214"
+        },
+        {
+          "title": "Love Me And The World Is Mine",
+          "m": "209",
+          "s": "214",
+          "p": "213"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Simon Hunt"
+        },
+        {
+          "part": "lead",
+          "name": "Guy Dowling"
+        },
+        {
+          "part": "bari",
+          "name": "Peter Nugent"
+        },
+        {
+          "part": "bass",
+          "name": "Jon Dawson"
+        }
+      ]
+    },
+    {
+      "tot_score": "1209",
+      "rank_m": "8",
+      "rank_s": "10",
+      "rank_p": "8",
+      "rank": "8",
+      "name": "Identity",
+      "pc_score": "67.2",
+      "songs": [
+        {
+          "title": "Razzle Dazzle",
+          "m": "197",
+          "s": "204",
+          "p": "208"
+        },
+        {
+          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "m": "204",
+          "s": "200",
+          "p": "196"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sam Hubbard"
+        },
+        {
+          "part": "lead",
+          "name": "Peter Bryant"
+        },
+        {
+          "part": "bari",
+          "name": "Ash Baker"
+        },
+        {
+          "part": "bass",
+          "name": "George Turner"
+        }
+      ]
+    },
+    {
+      "tot_score": "1209",
+      "rank_m": "11",
+      "rank_s": "8",
+      "rank_p": "9",
+      "rank": "8",
+      "name": "South Parade",
+      "pc_score": "67.2",
+      "songs": [
+        {
+          "title": "Sweet Adeline",
+          "m": "198",
+          "s": "201",
+          "p": "199"
+        },
+        {
+          "title": "You Make Me Feel So Young",
+          "m": "201",
+          "s": "204",
+          "p": "206"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy Salter"
+        },
+        {
+          "part": "lead",
+          "name": "Dean Whitehouse"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Grier"
+        },
+        {
+          "part": "bass",
+          "name": "Peter Blackeby"
+        }
+      ]
+    },
+    {
+      "tot_score": "1196",
+      "rank_m": "13",
+      "rank_s": "9",
+      "rank_p": "10",
+      "rank": "10",
+      "name": "The Grand Dads",
+      "pc_score": "66.4",
+      "songs": [
+        {
+          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "m": "203",
+          "s": "203",
+          "p": "191"
+        },
+        {
+          "title": "We Kinda Miss Those Good Old Songs",
+          "m": "198",
+          "s": "196",
+          "p": "205"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Mick Barnacle"
+        },
+        {
+          "part": "lead",
+          "name": "Rob Parnham"
+        },
+        {
+          "part": "bari",
+          "name": "Dave Hughes"
+        },
+        {
+          "part": "bass",
+          "name": "Bob Taylor"
+        }
+      ]
+    },
+    {
+      "tot_score": "1187",
+      "rank_m": "12",
+      "rank_s": "12",
+      "rank_p": "10",
+      "rank": "11",
+      "name": "QM",
+      "pc_score": "65.9",
+      "songs": [
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "202",
+          "s": "202",
+          "p": "193"
+        },
+        {
+          "title": "When My Baby Smiles At Me",
+          "m": "199",
+          "s": "193",
+          "p": "198"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Paul Jeffrey"
+        },
+        {
+          "part": "lead",
+          "name": "Trevor Dawson"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian Armstrong"
+        },
+        {
+          "part": "bass",
+          "name": "Steve Cox"
+        }
+      ]
+    },
+    {
+      "tot_score": "1174",
+      "rank_m": "14",
+      "rank_s": "15",
+      "rank_p": "12",
+      "rank": "12",
+      "name": "Blue Ray",
+      "pc_score": "65.2",
+      "songs": [
+        {
+          "title": "Time After Time",
+          "m": "197",
+          "s": "194",
+          "p": "196"
+        },
+        {
+          "title": "You're Nobody 'Til Somebody Loves You",
+          "m": "200",
+          "s": "194",
+          "p": "193"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Stephen Green"
+        },
+        {
+          "part": "lead",
+          "name": "Erik Kerr"
+        },
+        {
+          "part": "bari",
+          "name": "Giles Ratcliffe"
+        },
+        {
+          "part": "bass",
+          "name": "Alan Lamprell"
+        }
+      ]
+    },
+    {
+      "tot_score": "1173",
+      "rank_m": "9",
+      "rank_s": "12",
+      "rank_p": "16",
+      "rank": "13",
+      "name": "Frank'nSense'nMirth",
+      "pc_score": "65.2",
+      "songs": [
+        {
+          "title": "Where The Southern Roses Grow",
+          "m": "200",
+          "s": "192",
+          "p": "198"
+        },
+        {
+          "title": "Last Night On The Back Porch",
+          "m": "192",
+          "s": "195",
+          "p": "196"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Chris Blatchford"
+        },
+        {
+          "part": "lead",
+          "name": "Peter Walters"
+        },
+        {
+          "part": "bari",
+          "name": "Dave Hughes"
+        },
+        {
+          "part": "bass",
+          "name": "Frank Salter"
+        }
+      ]
+    },
+    {
+      "tot_score": "1173",
+      "rank_m": "9",
+      "rank_s": "16",
+      "rank_p": "13",
+      "rank": "13",
+      "name": "The Geysers",
+      "pc_score": "65.2",
+      "songs": [
+        {
+          "title": "Bye Bye Blackbird",
+          "m": "200",
+          "s": "198",
+          "p": "198"
+        },
+        {
+          "title": "April Showers",
+          "m": "194",
+          "s": "189",
+          "p": "194"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Mark Constable"
+        },
+        {
+          "part": "lead",
+          "name": "Peter Chapman"
+        },
+        {
+          "part": "bari",
+          "name": "Simon Hilton"
+        },
+        {
+          "part": "bass",
+          "name": "Mick Thurman"
+        }
+      ]
+    },
+    {
+      "tot_score": "1171",
+      "rank_m": "14",
+      "rank_s": "11",
+      "rank_p": "15",
+      "rank": "15",
+      "name": "The Amazing Greys",
+      "pc_score": "65.1",
+      "songs": [
+        {
+          "title": "Here Am I Broken Hearted",
+          "m": "200",
+          "s": "195",
+          "p": "193"
+        },
+        {
+          "title": "Somebody Loves Me",
+          "m": "191",
+          "s": "194",
+          "p": "198"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Bob Devine"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Tutt"
+        },
+        {
+          "part": "bari",
+          "name": "Colin Maskrey"
+        },
+        {
+          "part": "bass",
+          "name": "Mick Nadin"
+        }
+      ]
+    },
+    {
+      "tot_score": "1154",
+      "rank_m": "16",
+      "rank_s": "14",
+      "rank_p": "14",
+      "rank": "16",
+      "name": "The Simpletones",
+      "pc_score": "64.1",
+      "songs": [
+        {
+          "title": "I Won't Send Roses",
+          "m": "196",
+          "s": "204",
+          "p": "178"
+        },
+        {
+          "title": "Sweet And Lovely (Parody)",
+          "m": "187",
+          "s": "192",
+          "p": "197"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Nick Pawley"
+        },
+        {
+          "part": "lead",
+          "name": "Simon Lubkowski"
+        },
+        {
+          "part": "bari",
+          "name": "Nik Robinson"
+        },
+        {
+          "part": "bass",
+          "name": "Ian White"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2015QSF.pdf"
 }

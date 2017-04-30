@@ -1,305 +1,32 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "MIXED QUARTET FINALS-TELFORD: 2012",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "MIXED QUARTET FINALS",
+  "location": "TELFORD",
+  "year": "2012",
   "date": "28/10/2012",
-  "contestants": [
-    {
-      "name": "Double Trouble",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "903",
-      "pc_score": "75.3",
-      "singers": [
-        {
-          "name": "Jacqui Foetu",
-          "part": "tenor"
-        },
-        {
-          "name": "Monica Funnell",
-          "part": "lead"
-        },
-        {
-          "name": "Andy Foster",
-          "part": "bari"
-        },
-        {
-          "name": "Andy Funnell",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Only Have Eyes For You",
-          "mus": "145",
-          "prs": "146",
-          "sng": "152"
-        },
-        {
-          "song": "I Didn't Wanna Fall",
-          "mus": "153",
-          "prs": "155",
-          "sng": "152"
-        }
-      ]
-    },
-    {
-      "name": "K4",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "877",
-      "pc_score": "73.1",
-      "singers": [
-        {
-          "name": "Delyth Knight",
-          "part": "tenor"
-        },
-        {
-          "name": "Dick Knight",
-          "part": "lead"
-        },
-        {
-          "name": "Joe Knight",
-          "part": "bari"
-        },
-        {
-          "name": "Tom Knight",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "The Little Boy",
-          "mus": "142",
-          "prs": "144",
-          "sng": "153"
-        },
-        {
-          "song": "The Bass Part",
-          "mus": "144",
-          "prs": "147",
-          "sng": "147"
-        }
-      ]
-    },
-    {
-      "name": "Rhythmix",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "866",
-      "pc_score": "72.2",
-      "singers": [
-        {
-          "name": "Cherie Morgan",
-          "part": "tenor"
-        },
-        {
-          "name": "Brian Shaw",
-          "part": "lead"
-        },
-        {
-          "name": "Helen Lappert",
-          "part": "bari"
-        },
-        {
-          "name": "Stuart Owen",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Love Letters",
-          "mus": "147",
-          "prs": "143",
-          "sng": "141"
-        },
-        {
-          "song": "Just In Time",
-          "mus": "146",
-          "prs": "144",
-          "sng": "145"
-        }
-      ]
-    },
-    {
-      "name": "Bobcatz",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "849",
-      "pc_score": "70.8",
-      "singers": [
-        {
-          "name": "Veryan Zimber",
-          "part": "tenor"
-        },
-        {
-          "name": "Gemma Netherton-Hind",
-          "part": "lead"
-        },
-        {
-          "name": "Sarah Netherton",
-          "part": "bari"
-        },
-        {
-          "name": "Rob Barber",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Come Fly With Me",
-          "mus": "138",
-          "prs": "141",
-          "sng": "143"
-        },
-        {
-          "song": "What Kind Of Fool Am I?",
-          "mus": "144",
-          "prs": "141",
-          "sng": "142"
-        }
-      ]
-    },
-    {
-      "name": "Malarkey",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "789",
-      "pc_score": "65.8",
-      "singers": [
-        {
-          "name": "Helen Stanley",
-          "part": "tenor"
-        },
-        {
-          "name": "Jo Dean",
-          "part": "lead"
-        },
-        {
-          "name": "Steve Thorn",
-          "part": "bari"
-        },
-        {
-          "name": "Stephen Derrick",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Love Me",
-          "mus": "135",
-          "prs": "132",
-          "sng": "134"
-        },
-        {
-          "song": "Come Fly With Me",
-          "mus": "130",
-          "prs": "126",
-          "sng": "132"
-        }
-      ]
-    },
-    {
-      "name": "Grand Connection",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "731",
-      "pc_score": "60.9",
-      "singers": [
-        {
-          "name": "Chris Wheatley",
-          "part": "tenor"
-        },
-        {
-          "name": "Nigel Williams",
-          "part": "lead"
-        },
-        {
-          "name": "Kevan Liebling",
-          "part": "bari"
-        },
-        {
-          "name": "James Williams",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Among My Souvenirs",
-          "mus": "126",
-          "prs": "120",
-          "sng": "121"
-        },
-        {
-          "song": "Love Eyes Medley",
-          "mus": "118",
-          "prs": "123",
-          "sng": "123"
-        }
-      ]
-    },
-    {
-      "name": "The Mountaineers",
-      "type": "quartet",
-      "place": "7",
-      "tot_score": "713",
-      "pc_score": "59.4",
-      "singers": [
-        {
-          "name": "Angharad Owens",
-          "part": "tenor"
-        },
-        {
-          "name": "Laura Salmon",
-          "part": "lead"
-        },
-        {
-          "name": "Lyn Gibson",
-          "part": "bari"
-        },
-        {
-          "name": "Derek Hollis",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "When I Leave The World Behind",
-          "mus": "124",
-          "prs": "116",
-          "sng": "121"
-        },
-        {
-          "song": "Can't Buy Me Love",
-          "mus": "115",
-          "prs": "122",
-          "sng": "115"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Debi Cox"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Heather Lane"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Mike Warner"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie Williams"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Claire Barnett-Jones"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Mike Taylor"
     },
     {
@@ -322,5 +49,296 @@
       "cat": "ca",
       "name": "Phil Mobsby"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "903",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Double Trouble",
+      "pc_score": "75.3",
+      "songs": [
+        {
+          "title": "I Only Have Eyes For You",
+          "m": "145",
+          "s": "146",
+          "p": "153"
+        },
+        {
+          "title": "I Didn't Wanna Fall",
+          "m": "155",
+          "s": "152",
+          "p": "152"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jacqui Foetu"
+        },
+        {
+          "part": "lead",
+          "name": "Monica Funnell"
+        },
+        {
+          "part": "bari",
+          "name": "Andy Foster"
+        },
+        {
+          "part": "bass",
+          "name": "Andy Funnell"
+        }
+      ]
+    },
+    {
+      "tot_score": "877",
+      "rank_m": "3",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "K4",
+      "pc_score": "73.1",
+      "songs": [
+        {
+          "title": "The Little Boy",
+          "m": "142",
+          "s": "144",
+          "p": "144"
+        },
+        {
+          "title": "The Bass Part",
+          "m": "147",
+          "s": "147",
+          "p": "153"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Delyth Knight"
+        },
+        {
+          "part": "lead",
+          "name": "Dick Knight"
+        },
+        {
+          "part": "bari",
+          "name": "Joe Knight"
+        },
+        {
+          "part": "bass",
+          "name": "Tom Knight"
+        }
+      ]
+    },
+    {
+      "tot_score": "866",
+      "rank_m": "2",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Rhythmix",
+      "pc_score": "72.2",
+      "songs": [
+        {
+          "title": "Love Letters",
+          "m": "147",
+          "s": "143",
+          "p": "146"
+        },
+        {
+          "title": "Just In Time",
+          "m": "144",
+          "s": "145",
+          "p": "141"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Cherie Morgan"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Shaw"
+        },
+        {
+          "part": "bari",
+          "name": "Helen Lappert"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart Owen"
+        }
+      ]
+    },
+    {
+      "tot_score": "849",
+      "rank_m": "4",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Bobcatz",
+      "pc_score": "70.8",
+      "songs": [
+        {
+          "title": "Come Fly With Me",
+          "m": "138",
+          "s": "141",
+          "p": "144"
+        },
+        {
+          "title": "What Kind Of Fool Am I?",
+          "m": "141",
+          "s": "142",
+          "p": "143"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Veryan Zimber"
+        },
+        {
+          "part": "lead",
+          "name": "Gemma Netherton-Hind"
+        },
+        {
+          "part": "bari",
+          "name": "Sarah Netherton"
+        },
+        {
+          "part": "bass",
+          "name": "Rob Barber"
+        }
+      ]
+    },
+    {
+      "tot_score": "789",
+      "rank_m": "5",
+      "rank_s": "5",
+      "rank_p": "5",
+      "rank": "5",
+      "name": "Malarkey",
+      "pc_score": "65.8",
+      "songs": [
+        {
+          "title": "Love Me",
+          "m": "135",
+          "s": "132",
+          "p": "130"
+        },
+        {
+          "title": "Come Fly With Me",
+          "m": "126",
+          "s": "132",
+          "p": "134"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Helen Stanley"
+        },
+        {
+          "part": "lead",
+          "name": "Jo Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Steve Thorn"
+        },
+        {
+          "part": "bass",
+          "name": "Stephen Derrick"
+        }
+      ]
+    },
+    {
+      "tot_score": "731",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "6",
+      "rank": "6",
+      "name": "Grand Connection",
+      "pc_score": "60.9",
+      "songs": [
+        {
+          "title": "Among My Souvenirs",
+          "m": "126",
+          "s": "120",
+          "p": "118"
+        },
+        {
+          "title": "Love Eyes Medley",
+          "m": "123",
+          "s": "123",
+          "p": "121"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Chris Wheatley"
+        },
+        {
+          "part": "lead",
+          "name": "Nigel Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Kevan Liebling"
+        },
+        {
+          "part": "bass",
+          "name": "James Williams"
+        }
+      ]
+    },
+    {
+      "tot_score": "713",
+      "rank_m": "7",
+      "rank_s": "7",
+      "rank_p": "7",
+      "rank": "7",
+      "name": "The Mountaineers",
+      "pc_score": "59.4",
+      "songs": [
+        {
+          "title": "When I Leave The World Behind",
+          "m": "124",
+          "s": "116",
+          "p": "115"
+        },
+        {
+          "title": "Can't Buy Me Love",
+          "m": "122",
+          "s": "115",
+          "p": "121"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Angharad Owens"
+        },
+        {
+          "part": "lead",
+          "name": "Laura Salmon"
+        },
+        {
+          "part": "bari",
+          "name": "Lyn Gibson"
+        },
+        {
+          "part": "bass",
+          "name": "Derek Hollis"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/MQF2012.pdf"
 }

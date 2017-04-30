@@ -1,629 +1,44 @@
 {
-  "district": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
-  "contest": "NATIONAL QUARTET SEMI-FINALS-HARROGATE: 2016",
+  "assoc": "LADIES ASSOCIATION OF BRITISH BARBERSHOP SINGERS",
+  "contest": "NATIONAL QUARTET SEMI-FINALS",
+  "location": "HARROGATE",
+  "year": "2016",
   "date": "28/10/2016",
-  "contestants": [
-    {
-      "name": "Tone-Acity",
-      "type": "quartet",
-      "place": "1",
-      "tot_score": "1381",
-      "pc_score": "76.7",
-      "singers": [
-        {
-          "name": "Jennifer Carson-Fox",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Carson",
-          "part": "lead"
-        },
-        {
-          "name": "Kate Firth",
-          "part": "bari"
-        },
-        {
-          "name": "Lesley Sheridan",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Love Me",
-          "mus": "232",
-          "prs": "232",
-          "sng": "228"
-        },
-        {
-          "song": "If Ever I Would Leave You",
-          "mus": "230",
-          "prs": "230",
-          "sng": "229"
-        }
-      ]
-    },
-    {
-      "name": "Royal Effect",
-      "type": "quartet",
-      "place": "2",
-      "tot_score": "1352",
-      "pc_score": "75.1",
-      "singers": [
-        {
-          "name": "Kim Potter",
-          "part": "tenor"
-        },
-        {
-          "name": "Theresa McDonnell",
-          "part": "lead"
-        },
-        {
-          "name": "Emily Atherton",
-          "part": "bari"
-        },
-        {
-          "name": "Sarah Cole",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Used To Call Him Baby Medley",
-          "mus": "231",
-          "prs": "227",
-          "sng": "225"
-        },
-        {
-          "song": "All The Way",
-          "mus": "224",
-          "prs": "222",
-          "sng": "223"
-        }
-      ]
-    },
-    {
-      "name": "Road Trip",
-      "type": "quartet",
-      "place": "3",
-      "tot_score": "1310",
-      "pc_score": "72.8",
-      "singers": [
-        {
-          "name": "Becky Middleton",
-          "part": "tenor"
-        },
-        {
-          "name": "Melanie Rice",
-          "part": "lead"
-        },
-        {
-          "name": "Debs Thompson",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Penketh",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Turned The Tables On Me",
-          "mus": "218",
-          "prs": "215",
-          "sng": "217"
-        },
-        {
-          "song": "I Will Love You 'Til The End Of Time",
-          "mus": "222",
-          "prs": "221",
-          "sng": "217"
-        }
-      ]
-    },
-    {
-      "name": "Cosmopolitan",
-      "type": "quartet",
-      "place": "4",
-      "tot_score": "1299",
-      "pc_score": "72.2",
-      "singers": [
-        {
-          "name": "Hannah Braham",
-          "part": "tenor"
-        },
-        {
-          "name": "Kiera Berry",
-          "part": "lead"
-        },
-        {
-          "name": "Rachel Sheldon",
-          "part": "bari"
-        },
-        {
-          "name": "Erika Bridge",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "My Foolish Heart",
-          "mus": "219",
-          "prs": "212",
-          "sng": "215"
-        },
-        {
-          "song": "Yes Sir, That's My Baby",
-          "mus": "223",
-          "prs": "214",
-          "sng": "216"
-        }
-      ]
-    },
-    {
-      "name": "Revival!",
-      "type": "quartet",
-      "place": "5",
-      "tot_score": "1267",
-      "pc_score": "70.4",
-      "singers": [
-        {
-          "name": "Astrid Shepherd",
-          "part": "tenor"
-        },
-        {
-          "name": "Sue Wheeler",
-          "part": "lead"
-        },
-        {
-          "name": "Caroline Donovan",
-          "part": "bari"
-        },
-        {
-          "name": "Steph Ramsay",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "It's A Pity To Say Goodnight",
-          "mus": "210",
-          "prs": "205",
-          "sng": "210"
-        },
-        {
-          "song": "Yesterday I Heard The Rain",
-          "mus": "215",
-          "prs": "215",
-          "sng": "212"
-        }
-      ]
-    },
-    {
-      "name": "Barberlicious",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "1262",
-      "pc_score": "70.1",
-      "singers": [
-        {
-          "name": "Rebecca Fish",
-          "part": "tenor"
-        },
-        {
-          "name": "Bushra Gilchrist",
-          "part": "lead"
-        },
-        {
-          "name": "Anna Stutfield",
-          "part": "bari"
-        },
-        {
-          "name": "Anne-Marie Borneuf",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "I Can't Give You Anything But Love / L-O - V-E Medley",
-          "mus": "210",
-          "prs": "205",
-          "sng": "206"
-        },
-        {
-          "song": "When I Fall In Love",
-          "mus": "214",
-          "prs": "211",
-          "sng": "216"
-        }
-      ]
-    },
-    {
-      "name": "Venus Effect",
-      "type": "quartet",
-      "place": "6",
-      "tot_score": "1262",
-      "pc_score": "70.1",
-      "singers": [
-        {
-          "name": "Myfanwy Beynon",
-          "part": "tenor"
-        },
-        {
-          "name": "Helen Watson",
-          "part": "lead"
-        },
-        {
-          "name": "Jo Salsbury",
-          "part": "bari"
-        },
-        {
-          "name": "Suzie Moutrie",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Next Time I Love",
-          "mus": "202",
-          "prs": "210",
-          "sng": "211"
-        },
-        {
-          "song": "Deed I Do",
-          "mus": "215",
-          "prs": "215",
-          "sng": "209"
-        }
-      ]
-    },
-    {
-      "name": "The Chaos Theory",
-      "type": "quartet",
-      "place": "8",
-      "tot_score": "1246",
-      "pc_score": "69.2",
-      "singers": [
-        {
-          "name": "Leigh Holden",
-          "part": "tenor"
-        },
-        {
-          "name": "Kat Lawrence",
-          "part": "lead"
-        },
-        {
-          "name": "Nicky Dyer",
-          "part": "bari"
-        },
-        {
-          "name": "Sue Burgis",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Are You The One?",
-          "mus": "208",
-          "prs": "204",
-          "sng": "210"
-        },
-        {
-          "song": "It's You",
-          "mus": "212",
-          "prs": "205",
-          "sng": "207"
-        }
-      ]
-    },
-    {
-      "name": "Blonde Ambition",
-      "type": "quartet",
-      "place": "9",
-      "tot_score": "1238",
-      "pc_score": "68.8",
-      "singers": [
-        {
-          "name": "Sue Hughes",
-          "part": "tenor"
-        },
-        {
-          "name": "Wendy Conboy",
-          "part": "lead"
-        },
-        {
-          "name": "Helen Waine",
-          "part": "bari"
-        },
-        {
-          "name": "Lynne Blackledge",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "At Last",
-          "mus": "200",
-          "prs": "205",
-          "sng": "211"
-        },
-        {
-          "song": "Oh Look At Me Now",
-          "mus": "206",
-          "prs": "207",
-          "sng": "209"
-        }
-      ]
-    },
-    {
-      "name": "Jiggle",
-      "type": "quartet",
-      "place": "10",
-      "tot_score": "1237",
-      "pc_score": "68.7",
-      "singers": [
-        {
-          "name": "Michelle Jeffries",
-          "part": "tenor"
-        },
-        {
-          "name": "Katie Sullivan",
-          "part": "lead"
-        },
-        {
-          "name": "Elaine Mobsby",
-          "part": "bari"
-        },
-        {
-          "name": "Mandy Gilliland",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Oh Look At Me Now",
-          "mus": "203",
-          "prs": "202",
-          "sng": "205"
-        },
-        {
-          "song": "It's You",
-          "mus": "213",
-          "prs": "205",
-          "sng": "209"
-        }
-      ]
-    },
-    {
-      "name": "Free Range",
-      "type": "quartet",
-      "place": "11",
-      "tot_score": "1200",
-      "pc_score": "66.7",
-      "singers": [
-        {
-          "name": "Dot Cook",
-          "part": "tenor"
-        },
-        {
-          "name": "Lesley Beswick",
-          "part": "lead"
-        },
-        {
-          "name": "Mads Harwood",
-          "part": "bari"
-        },
-        {
-          "name": "Di Henry",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Fit As A Fiddle",
-          "mus": "197",
-          "prs": "199",
-          "sng": "198"
-        },
-        {
-          "song": "All The Way",
-          "mus": "206",
-          "prs": "200",
-          "sng": "200"
-        }
-      ]
-    },
-    {
-      "name": "Decibelles",
-      "type": "quartet",
-      "place": "12",
-      "tot_score": "1197",
-      "pc_score": "66.5",
-      "singers": [
-        {
-          "name": "Helen Warner",
-          "part": "tenor"
-        },
-        {
-          "name": "Alice Mills",
-          "part": "lead"
-        },
-        {
-          "name": "Carly Au",
-          "part": "bari"
-        },
-        {
-          "name": "Sophie Hasson",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "A Dream Is A Wish Your Heart Makes",
-          "mus": "200",
-          "prs": "196",
-          "sng": "199"
-        },
-        {
-          "song": "I Can't Give You Anything But Love",
-          "mus": "207",
-          "prs": "199",
-          "sng": "196"
-        }
-      ]
-    },
-    {
-      "name": "Sound KAFE",
-      "type": "quartet",
-      "place": "13",
-      "tot_score": "1190",
-      "pc_score": "66.1",
-      "singers": [
-        {
-          "name": "Angela Sanchez-Rosemurgey",
-          "part": "tenor"
-        },
-        {
-          "name": "Emma Court",
-          "part": "lead"
-        },
-        {
-          "name": "Kate Ellis",
-          "part": "bari"
-        },
-        {
-          "name": "Fiona Owen",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "You Don't Kinow Me",
-          "mus": "192",
-          "prs": "202",
-          "sng": "200"
-        },
-        {
-          "song": "It's A Sin To Tell A Lie",
-          "mus": "195",
-          "prs": "203",
-          "sng": "198"
-        }
-      ]
-    },
-    {
-      "name": "Unique",
-      "type": "quartet",
-      "place": "14",
-      "tot_score": "1174",
-      "pc_score": "65.2",
-      "singers": [
-        {
-          "name": "Lynne Paterson",
-          "part": "tenor"
-        },
-        {
-          "name": "Grace Baird",
-          "part": "lead"
-        },
-        {
-          "name": "Karen Whitworth",
-          "part": "bari"
-        },
-        {
-          "name": "Karen Frodsham",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "Last Night Was The End Of The World",
-          "mus": "196",
-          "prs": "188",
-          "sng": "198"
-        },
-        {
-          "song": "I Can't Give You Anything But Love / Love  Medley",
-          "mus": "200",
-          "prs": "193",
-          "sng": "199"
-        }
-      ]
-    },
-    {
-      "name": "Aca-Holics",
-      "type": "quartet",
-      "place": "15",
-      "tot_score": "1159",
-      "pc_score": "64.4",
-      "singers": [
-        {
-          "name": "Sue Hunt",
-          "part": "tenor"
-        },
-        {
-          "name": "Laura Ogle",
-          "part": "lead"
-        },
-        {
-          "name": "Czarme Pooley",
-          "part": "bari"
-        },
-        {
-          "name": "Katy Donaghue",
-          "part": "bass"
-        }
-      ],
-      "songs": [
-        {
-          "song": "When You Wish Upon A Star",
-          "mus": "192",
-          "prs": "188",
-          "sng": "196"
-        },
-        {
-          "song": "Red Hot",
-          "mus": "195",
-          "prs": "191",
-          "sng": "197"
-        }
-      ]
-    }
-  ],
   "judges": [
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Delyth Knight"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Heather Lane"
     },
     {
-      "cat": "mus",
+      "cat": "m",
       "name": "Joyce Stroud"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Nickie James"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Linda van Buerink"
     },
     {
-      "cat": "prs",
+      "cat": "p",
       "name": "Alison Zdzylowski"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Rhiannon Owens-Hall"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "sng",
+      "cat": "s",
       "name": "Alison Thompson"
     },
     {
@@ -642,5 +57,624 @@
       "cat": "ca",
       "name": "Pauline Spiller"
     }
-  ]
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "1381",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Tone-Acity",
+      "pc_score": "76.7",
+      "songs": [
+        {
+          "title": "Love Me",
+          "m": "232",
+          "s": "232",
+          "p": "230"
+        },
+        {
+          "title": "If Ever I Would Leave You",
+          "m": "230",
+          "s": "229",
+          "p": "228"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Jennifer Carson-Fox"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Carson"
+        },
+        {
+          "part": "bari",
+          "name": "Kate Firth"
+        },
+        {
+          "part": "bass",
+          "name": "Lesley Sheridan"
+        }
+      ]
+    },
+    {
+      "tot_score": "1352",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Royal Effect",
+      "pc_score": "75.1",
+      "songs": [
+        {
+          "title": "I Used To Call Him Baby Medley",
+          "m": "231",
+          "s": "227",
+          "p": "224"
+        },
+        {
+          "title": "All The Way",
+          "m": "222",
+          "s": "223",
+          "p": "225"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Kim Potter"
+        },
+        {
+          "part": "lead",
+          "name": "Theresa McDonnell"
+        },
+        {
+          "part": "bari",
+          "name": "Emily Atherton"
+        },
+        {
+          "part": "bass",
+          "name": "Sarah Cole"
+        }
+      ]
+    },
+    {
+      "tot_score": "1310",
+      "rank_m": "4",
+      "rank_s": "3",
+      "rank_p": "3",
+      "rank": "3",
+      "name": "Road Trip",
+      "pc_score": "72.8",
+      "songs": [
+        {
+          "title": "You Turned The Tables On Me",
+          "m": "218",
+          "s": "215",
+          "p": "222"
+        },
+        {
+          "title": "I Will Love You 'Til The End Of Time",
+          "m": "221",
+          "s": "217",
+          "p": "217"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Becky Middleton"
+        },
+        {
+          "part": "lead",
+          "name": "Melanie Rice"
+        },
+        {
+          "part": "bari",
+          "name": "Debs Thompson"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Penketh"
+        }
+      ]
+    },
+    {
+      "tot_score": "1299",
+      "rank_m": "3",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "4",
+      "name": "Cosmopolitan",
+      "pc_score": "72.2",
+      "songs": [
+        {
+          "title": "My Foolish Heart",
+          "m": "219",
+          "s": "212",
+          "p": "223"
+        },
+        {
+          "title": "Yes Sir, That's My Baby",
+          "m": "214",
+          "s": "216",
+          "p": "215"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Hannah Braham"
+        },
+        {
+          "part": "lead",
+          "name": "Kiera Berry"
+        },
+        {
+          "part": "bari",
+          "name": "Rachel Sheldon"
+        },
+        {
+          "part": "bass",
+          "name": "Erika Bridge"
+        }
+      ]
+    },
+    {
+      "tot_score": "1267",
+      "rank_m": "5",
+      "rank_s": "5",
+      "rank_p": "6",
+      "rank": "5",
+      "name": "Revival!",
+      "pc_score": "70.4",
+      "songs": [
+        {
+          "title": "It's A Pity To Say Goodnight",
+          "m": "210",
+          "s": "205",
+          "p": "215"
+        },
+        {
+          "title": "Yesterday I Heard The Rain",
+          "m": "215",
+          "s": "212",
+          "p": "210"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Astrid Shepherd"
+        },
+        {
+          "part": "lead",
+          "name": "Sue Wheeler"
+        },
+        {
+          "part": "bari",
+          "name": "Caroline Donovan"
+        },
+        {
+          "part": "bass",
+          "name": "Steph Ramsay"
+        }
+      ]
+    },
+    {
+      "tot_score": "1262",
+      "rank_m": "6",
+      "rank_s": "5",
+      "rank_p": "7",
+      "rank": "6",
+      "name": "Barberlicious",
+      "pc_score": "70.1",
+      "songs": [
+        {
+          "title": "I Can't Give You Anything But Love / L-O - V-E Medley",
+          "m": "210",
+          "s": "205",
+          "p": "214"
+        },
+        {
+          "title": "When I Fall In Love",
+          "m": "211",
+          "s": "216",
+          "p": "206"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Rebecca Fish"
+        },
+        {
+          "part": "lead",
+          "name": "Bushra Gilchrist"
+        },
+        {
+          "part": "bari",
+          "name": "Anna Stutfield"
+        },
+        {
+          "part": "bass",
+          "name": "Anne-Marie Borneuf"
+        }
+      ]
+    },
+    {
+      "tot_score": "1262",
+      "rank_m": "8",
+      "rank_s": "7",
+      "rank_p": "5",
+      "rank": "6",
+      "name": "Venus Effect",
+      "pc_score": "70.1",
+      "songs": [
+        {
+          "title": "Next Time I Love",
+          "m": "202",
+          "s": "210",
+          "p": "215"
+        },
+        {
+          "title": "Deed I Do",
+          "m": "215",
+          "s": "209",
+          "p": "211"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Myfanwy Beynon"
+        },
+        {
+          "part": "lead",
+          "name": "Helen Watson"
+        },
+        {
+          "part": "bari",
+          "name": "Jo Salsbury"
+        },
+        {
+          "part": "bass",
+          "name": "Suzie Moutrie"
+        }
+      ]
+    },
+    {
+      "tot_score": "1246",
+      "rank_m": "7",
+      "rank_s": "9",
+      "rank_p": "9",
+      "rank": "8",
+      "name": "The Chaos Theory",
+      "pc_score": "69.2",
+      "songs": [
+        {
+          "title": "Are You The One?",
+          "m": "208",
+          "s": "204",
+          "p": "212"
+        },
+        {
+          "title": "It's You",
+          "m": "205",
+          "s": "207",
+          "p": "210"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Leigh Holden"
+        },
+        {
+          "part": "lead",
+          "name": "Kat Lawrence"
+        },
+        {
+          "part": "bari",
+          "name": "Nicky Dyer"
+        },
+        {
+          "part": "bass",
+          "name": "Sue Burgis"
+        }
+      ]
+    },
+    {
+      "tot_score": "1238",
+      "rank_m": "11",
+      "rank_s": "7",
+      "rank_p": "8",
+      "rank": "9",
+      "name": "Blonde Ambition",
+      "pc_score": "68.8",
+      "songs": [
+        {
+          "title": "At Last",
+          "m": "200",
+          "s": "205",
+          "p": "206"
+        },
+        {
+          "title": "Oh Look At Me Now",
+          "m": "207",
+          "s": "209",
+          "p": "211"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sue Hughes"
+        },
+        {
+          "part": "lead",
+          "name": "Wendy Conboy"
+        },
+        {
+          "part": "bari",
+          "name": "Helen Waine"
+        },
+        {
+          "part": "bass",
+          "name": "Lynne Blackledge"
+        }
+      ]
+    },
+    {
+      "tot_score": "1237",
+      "rank_m": "9",
+      "rank_s": "10",
+      "rank_p": "10",
+      "rank": "10",
+      "name": "Jiggle",
+      "pc_score": "68.7",
+      "songs": [
+        {
+          "title": "Oh Look At Me Now",
+          "m": "203",
+          "s": "202",
+          "p": "213"
+        },
+        {
+          "title": "It's You",
+          "m": "205",
+          "s": "209",
+          "p": "205"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michelle Jeffries"
+        },
+        {
+          "part": "lead",
+          "name": "Katie Sullivan"
+        },
+        {
+          "part": "bari",
+          "name": "Elaine Mobsby"
+        },
+        {
+          "part": "bass",
+          "name": "Mandy Gilliland"
+        }
+      ]
+    },
+    {
+      "tot_score": "1200",
+      "rank_m": "12",
+      "rank_s": "11",
+      "rank_p": "12",
+      "rank": "11",
+      "name": "Free Range",
+      "pc_score": "66.7",
+      "songs": [
+        {
+          "title": "Fit As A Fiddle",
+          "m": "197",
+          "s": "199",
+          "p": "206"
+        },
+        {
+          "title": "All The Way",
+          "m": "200",
+          "s": "200",
+          "p": "198"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Dot Cook"
+        },
+        {
+          "part": "lead",
+          "name": "Lesley Beswick"
+        },
+        {
+          "part": "bari",
+          "name": "Mads Harwood"
+        },
+        {
+          "part": "bass",
+          "name": "Di Henry"
+        }
+      ]
+    },
+    {
+      "tot_score": "1197",
+      "rank_m": "10",
+      "rank_s": "14",
+      "rank_p": "13",
+      "rank": "12",
+      "name": "Decibelles",
+      "pc_score": "66.5",
+      "songs": [
+        {
+          "title": "A Dream Is A Wish Your Heart Makes",
+          "m": "200",
+          "s": "196",
+          "p": "207"
+        },
+        {
+          "title": "I Can't Give You Anything But Love",
+          "m": "199",
+          "s": "196",
+          "p": "199"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Helen Warner"
+        },
+        {
+          "part": "lead",
+          "name": "Alice Mills"
+        },
+        {
+          "part": "bari",
+          "name": "Carly Au"
+        },
+        {
+          "part": "bass",
+          "name": "Sophie Hasson"
+        }
+      ]
+    },
+    {
+      "tot_score": "1190",
+      "rank_m": "14",
+      "rank_s": "11",
+      "rank_p": "11",
+      "rank": "13",
+      "name": "Sound KAF\u00c9",
+      "pc_score": "66.1",
+      "songs": [
+        {
+          "title": "You Don't Kinow Me",
+          "m": "192",
+          "s": "202",
+          "p": "195"
+        },
+        {
+          "title": "It's A Sin To Tell A Lie",
+          "m": "203",
+          "s": "198",
+          "p": "200"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Angela Sanchez-Rosemurgey"
+        },
+        {
+          "part": "lead",
+          "name": "Emma Court"
+        },
+        {
+          "part": "bari",
+          "name": "Kate Ellis"
+        },
+        {
+          "part": "bass",
+          "name": "Fiona Owen"
+        }
+      ]
+    },
+    {
+      "tot_score": "1174",
+      "rank_m": "13",
+      "rank_s": "13",
+      "rank_p": "14",
+      "rank": "14",
+      "name": "Unique",
+      "pc_score": "65.2",
+      "songs": [
+        {
+          "title": "Last Night Was The End Of The World",
+          "m": "196",
+          "s": "188",
+          "p": "200"
+        },
+        {
+          "title": "I Can't Give You Anything But Love / Love Medley",
+          "m": "193",
+          "s": "199",
+          "p": "198"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Lynne Paterson"
+        },
+        {
+          "part": "lead",
+          "name": "Grace Baird"
+        },
+        {
+          "part": "bari",
+          "name": "Karen Whitworth"
+        },
+        {
+          "part": "bass",
+          "name": "Karen Frodsham"
+        }
+      ]
+    },
+    {
+      "tot_score": "1159",
+      "rank_m": "14",
+      "rank_s": "15",
+      "rank_p": "15",
+      "rank": "15",
+      "name": "Aca-Holics",
+      "pc_score": "64.4",
+      "songs": [
+        {
+          "title": "When You Wish Upon A Star",
+          "m": "192",
+          "s": "188",
+          "p": "195"
+        },
+        {
+          "title": "Red Hot",
+          "m": "191",
+          "s": "197",
+          "p": "196"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Sue Hunt"
+        },
+        {
+          "part": "lead",
+          "name": "Laura Ogle"
+        },
+        {
+          "part": "bari",
+          "name": "Czarme Pooley"
+        },
+        {
+          "part": "bass",
+          "name": "Katy Donaghue"
+        }
+      ]
+    }
+  ],
+  "filename": "LABBS/QSF2016.pdf"
 }

@@ -1,0 +1,1164 @@
+{
+  "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+  "contest": "QUARTET PRELIM CONTEST 1 (NATIONAL STREAM)",
+  "location": "BIRMINGHAM",
+  "year": "2011/12",
+  "date": "20/11/2011",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Liz Joyce"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Monica Funnell"
+    },
+    {
+      "cat": "ca",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "ca",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "ca",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "ca",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "ca",
+      "name": "Ken Hulme"
+    }
+  ],
+  "type": "quartet",
+  "contestants": [
+    {
+      "tot_score": "843",
+      "rank_m": "1",
+      "rank_s": "1",
+      "rank_p": "1",
+      "rank": "1",
+      "name": "Fish & Chaps",
+      "pc_score": "70.3",
+      "songs": [
+        {
+          "title": "Drivin' Me Crazy",
+          "m": "141",
+          "s": "141",
+          "p": "140"
+        },
+        {
+          "title": "The Story Of The Rose (Heart Of My Heart)",
+          "m": "135",
+          "s": "141",
+          "p": "145"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Phil"
+        }
+      ]
+    },
+    {
+      "tot_score": "799",
+      "rank_m": "2",
+      "rank_s": "8",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "QuarteTones",
+      "pc_score": "66.6",
+      "songs": [
+        {
+          "title": "The Way You Look Tonight",
+          "m": "135",
+          "s": "131",
+          "p": "139"
+        },
+        {
+          "title": "Oh You Beautiful Doll",
+          "m": "133",
+          "s": "130",
+          "p": "131"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Graham"
+        },
+        {
+          "part": "lead",
+          "name": "Guthrie"
+        },
+        {
+          "part": "bari",
+          "name": "Alex"
+        },
+        {
+          "part": "bass",
+          "name": "Iain"
+        }
+      ]
+    },
+    {
+      "tot_score": "796",
+      "rank_m": "5",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "3",
+      "name": "Footlights",
+      "pc_score": "66.3",
+      "songs": [
+        {
+          "title": "If I Love Again",
+          "m": "132",
+          "s": "128",
+          "p": "132"
+        },
+        {
+          "title": "It's Only A Paper Moon",
+          "m": "133",
+          "s": "136",
+          "p": "135"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Erik"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff"
+        },
+        {
+          "part": "bass",
+          "name": "Geoff"
+        }
+      ]
+    },
+    {
+      "tot_score": "795",
+      "rank_m": "3",
+      "rank_s": "5",
+      "rank_p": "6",
+      "rank": "4",
+      "name": "Park Street",
+      "pc_score": "66.3",
+      "songs": [
+        {
+          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "m": "134",
+          "s": "129",
+          "p": "135"
+        },
+        {
+          "title": "You're Sixteen",
+          "m": "128",
+          "s": "134",
+          "p": "135"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Laurence"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "David"
+        },
+        {
+          "part": "bass",
+          "name": "Alastair"
+        }
+      ]
+    },
+    {
+      "tot_score": "794",
+      "rank_m": "4",
+      "rank_s": "3",
+      "rank_p": "6",
+      "rank": "5",
+      "name": "The Back Room Boys",
+      "pc_score": "66.2",
+      "songs": [
+        {
+          "title": "Sing Me That Song Again",
+          "m": "134",
+          "s": "129",
+          "p": "131"
+        },
+        {
+          "title": "You're Sixteen",
+          "m": "128",
+          "s": "137",
+          "p": "135"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Geoff"
+        },
+        {
+          "part": "lead",
+          "name": "Frank"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Zac"
+        }
+      ]
+    },
+    {
+      "tot_score": "793",
+      "rank_m": "8",
+      "rank_s": "2",
+      "rank_p": "3",
+      "rank": "6",
+      "name": "4getmenots",
+      "pc_score": "66.1",
+      "songs": [
+        {
+          "title": "Hello My Baby",
+          "m": "124",
+          "s": "130",
+          "p": "130"
+        },
+        {
+          "title": "There's A New Gang On The Corner",
+          "m": "132",
+          "s": "138",
+          "p": "139"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Colin"
+        },
+        {
+          "part": "lead",
+          "name": "James"
+        },
+        {
+          "part": "bari",
+          "name": "Stephen"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ]
+    },
+    {
+      "tot_score": "783",
+      "rank_m": "6",
+      "rank_s": "6",
+      "rank_p": "8",
+      "rank": "7",
+      "name": "Just In Time",
+      "pc_score": "65.3",
+      "songs": [
+        {
+          "title": "Always",
+          "m": "131",
+          "s": "131",
+          "p": "131"
+        },
+        {
+          "title": "Just In Time",
+          "m": "123",
+          "s": "134",
+          "p": "133"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Dick"
+        },
+        {
+          "part": "lead",
+          "name": "David"
+        },
+        {
+          "part": "bari",
+          "name": "Colin"
+        },
+        {
+          "part": "bass",
+          "name": "Richard"
+        }
+      ]
+    },
+    {
+      "tot_score": "768",
+      "rank_m": "9",
+      "rank_s": "10",
+      "rank_p": "5",
+      "rank": "8",
+      "name": "Quadrahedron",
+      "pc_score": "64.0",
+      "songs": [
+        {
+          "title": "Just In Time",
+          "m": "125",
+          "s": "130",
+          "p": "126"
+        },
+        {
+          "title": "My Melancholy Baby",
+          "m": "129",
+          "s": "128",
+          "p": "130"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "766",
+      "rank_m": "7",
+      "rank_s": "10",
+      "rank_p": "11",
+      "rank": "9",
+      "name": "Lads 'n' Dads",
+      "pc_score": "63.8",
+      "songs": [
+        {
+          "title": "Good Enough For Now",
+          "m": "130",
+          "s": "125",
+          "p": "128"
+        },
+        {
+          "title": "How Can I Miss You If You Won't Go Away?",
+          "m": "125",
+          "s": "128",
+          "p": "130"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Duncan"
+        },
+        {
+          "part": "lead",
+          "name": "Alan"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "751",
+      "rank_m": "15",
+      "rank_s": "7",
+      "rank_p": "14",
+      "rank": "10",
+      "name": "The Grand Dads",
+      "pc_score": "62.6",
+      "songs": [
+        {
+          "title": "Make 'Em Laugh",
+          "m": "122",
+          "s": "124",
+          "p": "119"
+        },
+        {
+          "title": "This Is All I Ask",
+          "m": "122",
+          "s": "129",
+          "p": "135"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Mick"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Rob"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ]
+    },
+    {
+      "tot_score": "749",
+      "rank_m": "10",
+      "rank_s": "12",
+      "rank_p": "9",
+      "rank": "11",
+      "name": "One Shot",
+      "pc_score": "62.4",
+      "songs": [
+        {
+          "title": "Georgia On My Mind",
+          "m": "123",
+          "s": "126",
+          "p": "124"
+        },
+        {
+          "title": "For All We Know",
+          "m": "126",
+          "s": "124",
+          "p": "126"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Alex"
+        },
+        {
+          "part": "lead",
+          "name": "Giovanni"
+        },
+        {
+          "part": "bari",
+          "name": "Ray"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "744",
+      "rank_m": "11",
+      "rank_s": "13",
+      "rank_p": "10",
+      "rank": "12",
+      "name": "Star Shine",
+      "pc_score": "62.0",
+      "songs": [
+        {
+          "title": "After You've Gone",
+          "m": "122",
+          "s": "123",
+          "p": "122"
+        },
+        {
+          "title": "On A Wonderful Day Like Today/Zip-a-dee-doo-dah/it's a good da",
+          "m": "128",
+          "s": "125",
+          "p": "124"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Michael"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "James"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ]
+    },
+    {
+      "tot_score": "743",
+      "rank_m": "13",
+      "rank_s": "9",
+      "rank_p": "15",
+      "rank": "13",
+      "name": "Four To The Bar",
+      "pc_score": "61.9",
+      "songs": [
+        {
+          "title": "Once Upon A Time",
+          "m": "123",
+          "s": "122",
+          "p": "119"
+        },
+        {
+          "title": "That's An Irish Lullaby",
+          "m": "120",
+          "s": "127",
+          "p": "132"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Norman"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ]
+    },
+    {
+      "tot_score": "727",
+      "rank_m": "13",
+      "rank_s": "15",
+      "rank_p": "12",
+      "rank": "14",
+      "name": "Compass",
+      "pc_score": "60.6",
+      "songs": [
+        {
+          "title": "You're Sixteen",
+          "m": "121",
+          "s": "127",
+          "p": "121"
+        },
+        {
+          "title": "This Is All I Ask",
+          "m": "121",
+          "s": "114",
+          "p": "123"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Colin"
+        },
+        {
+          "part": "lead",
+          "name": "Ken"
+        },
+        {
+          "part": "bari",
+          "name": "Neil"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ]
+    },
+    {
+      "tot_score": "726",
+      "rank_m": "12",
+      "rank_s": "16",
+      "rank_p": "13",
+      "rank": "15",
+      "name": "Buzz Cut",
+      "pc_score": "60.5",
+      "songs": [
+        {
+          "title": "When The Midnight Choo-Choo Leaves For Alabam'",
+          "m": "121",
+          "s": "125",
+          "p": "122"
+        },
+        {
+          "title": "The Masquerade Is Over",
+          "m": "122",
+          "s": "117",
+          "p": "119"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Nick"
+        },
+        {
+          "part": "lead",
+          "name": "Alistair"
+        },
+        {
+          "part": "bari",
+          "name": "David"
+        },
+        {
+          "part": "bass",
+          "name": "John"
+        }
+      ]
+    },
+    {
+      "tot_score": "706",
+      "rank_m": "18",
+      "rank_s": "17",
+      "rank_p": "17",
+      "rank": "16",
+      "name": "Getting On",
+      "pc_score": "58.8",
+      "songs": [
+        {
+          "title": "From The First Hello To The Last Goodbye",
+          "m": "118",
+          "s": "117",
+          "p": "119"
+        },
+        {
+          "title": "Old St Louis",
+          "m": "120",
+          "s": "115",
+          "p": "117"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Geoff"
+        },
+        {
+          "part": "lead",
+          "name": "Frank"
+        },
+        {
+          "part": "bari",
+          "name": "Sid"
+        },
+        {
+          "part": "bass",
+          "name": "Rob"
+        }
+      ]
+    },
+    {
+      "tot_score": "703",
+      "rank_m": "15",
+      "rank_s": "22",
+      "rank_p": "16",
+      "rank": "17",
+      "name": "Graffiti",
+      "pc_score": "58.6",
+      "songs": [
+        {
+          "title": "When My Baby Smiles At Me",
+          "m": "122",
+          "s": "119",
+          "p": "119"
+        },
+        {
+          "title": "Old Cape Cod",
+          "m": "122",
+          "s": "109",
+          "p": "112"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Terry"
+        },
+        {
+          "part": "lead",
+          "name": "Nick"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Gary"
+        }
+      ]
+    },
+    {
+      "tot_score": "683",
+      "rank_m": "19",
+      "rank_s": "20",
+      "rank_p": "22",
+      "rank": "18",
+      "name": "Bandwagon",
+      "pc_score": "56.9",
+      "songs": [
+        {
+          "title": "After You've Gone",
+          "m": "116",
+          "s": "112",
+          "p": "117"
+        },
+        {
+          "title": "What'll I Do",
+          "m": "111",
+          "s": "113",
+          "p": "114"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Glenn"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "Paul"
+        },
+        {
+          "part": "bass",
+          "name": "Andrew"
+        }
+      ]
+    },
+    {
+      "tot_score": "681",
+      "rank_m": "26",
+      "rank_s": "14",
+      "rank_p": "23",
+      "rank": "19",
+      "name": "Finest Kind",
+      "pc_score": "56.8",
+      "songs": [
+        {
+          "title": "When You And I Were Young, Maggie",
+          "m": "109",
+          "s": "112",
+          "p": "108"
+        },
+        {
+          "title": "The Gang That Sang 'Heart Of My Heart'",
+          "m": "108",
+          "s": "122",
+          "p": "122"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Neil"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Gordon"
+        }
+      ]
+    },
+    {
+      "tot_score": "677",
+      "rank_m": "17",
+      "rank_s": "23",
+      "rank_p": "19",
+      "rank": "20",
+      "name": "Black Velvet",
+      "pc_score": "56.4",
+      "songs": [
+        {
+          "title": "Basin Street Blues",
+          "m": "119",
+          "s": "116",
+          "p": "119"
+        },
+        {
+          "title": "My Sunny Day",
+          "m": "113",
+          "s": "104",
+          "p": "106"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Clive"
+        },
+        {
+          "part": "lead",
+          "name": "Mark"
+        },
+        {
+          "part": "bari",
+          "name": "Eddie"
+        },
+        {
+          "part": "bass",
+          "name": "Jim"
+        }
+      ]
+    },
+    {
+      "tot_score": "671",
+      "rank_m": "20",
+      "rank_s": "21",
+      "rank_p": "24",
+      "rank": "21",
+      "name": "Classmates",
+      "pc_score": "55.9",
+      "songs": [
+        {
+          "title": "Old Cape Cod",
+          "m": "115",
+          "s": "108",
+          "p": "113"
+        },
+        {
+          "title": "Let The Rest Of The World Go By",
+          "m": "109",
+          "s": "113",
+          "p": "113"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Ed"
+        },
+        {
+          "part": "lead",
+          "name": "John"
+        },
+        {
+          "part": "bari",
+          "name": "George"
+        },
+        {
+          "part": "bass",
+          "name": "Henry"
+        }
+      ]
+    },
+    {
+      "tot_score": "667",
+      "rank_m": "22",
+      "rank_s": "19",
+      "rank_p": "26",
+      "rank": "22",
+      "name": "Jigsaw",
+      "pc_score": "55.6",
+      "songs": [
+        {
+          "title": "It's A Good Day",
+          "m": "113",
+          "s": "105",
+          "p": "114"
+        },
+        {
+          "title": "Baby Face",
+          "m": "107",
+          "s": "113",
+          "p": "115"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "David"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Mike"
+        }
+      ]
+    },
+    {
+      "tot_score": "667",
+      "rank_m": "20",
+      "rank_s": "23",
+      "rank_p": "19",
+      "rank": "22",
+      "name": "Quaynote Vectis",
+      "pc_score": "55.6",
+      "songs": [
+        {
+          "title": "Nevertheless",
+          "m": "114",
+          "s": "115",
+          "p": "114"
+        },
+        {
+          "title": "Lover Come Back",
+          "m": "114",
+          "s": "103",
+          "p": "107"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Stephen"
+        },
+        {
+          "part": "lead",
+          "name": "David"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Dave"
+        }
+      ]
+    },
+    {
+      "tot_score": "665",
+      "rank_m": "25",
+      "rank_s": "18",
+      "rank_p": "25",
+      "rank": "24",
+      "name": "Vintage Spirit",
+      "pc_score": "55.4",
+      "songs": [
+        {
+          "title": "Each Time I Fall In Love",
+          "m": "109",
+          "s": "105",
+          "p": "112"
+        },
+        {
+          "title": "Taking A Chance On Love",
+          "m": "108",
+          "s": "114",
+          "p": "117"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Terry"
+        },
+        {
+          "part": "lead",
+          "name": "Brian"
+        },
+        {
+          "part": "bari",
+          "name": "Mike"
+        },
+        {
+          "part": "bass",
+          "name": "Chris"
+        }
+      ]
+    },
+    {
+      "tot_score": "660",
+      "rank_m": "24",
+      "rank_s": "26",
+      "rank_p": "18",
+      "rank": "25",
+      "name": "Doubletake",
+      "pc_score": "55.0",
+      "songs": [
+        {
+          "title": "Bring Back Those Good Old Days",
+          "m": "113",
+          "s": "113",
+          "p": "110"
+        },
+        {
+          "title": "The Band Played On",
+          "m": "119",
+          "s": "102",
+          "p": "103"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Den"
+        },
+        {
+          "part": "lead",
+          "name": "Alf"
+        },
+        {
+          "part": "bari",
+          "name": "Bob"
+        },
+        {
+          "part": "bass",
+          "name": "Dave"
+        }
+      ]
+    },
+    {
+      "tot_score": "660",
+      "rank_m": "23",
+      "rank_s": "23",
+      "rank_p": "21",
+      "rank": "25",
+      "name": "The Pantones",
+      "pc_score": "55.0",
+      "songs": [
+        {
+          "title": "Sentimental Journey",
+          "m": "113",
+          "s": "115",
+          "p": "112"
+        },
+        {
+          "title": "Their Hearts Were Full Of Spring",
+          "m": "110",
+          "s": "104",
+          "p": "106"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "Andrew"
+        },
+        {
+          "part": "lead",
+          "name": "Phil"
+        },
+        {
+          "part": "bari",
+          "name": "Julian"
+        },
+        {
+          "part": "bass",
+          "name": "Aidan"
+        }
+      ]
+    },
+    {
+      "tot_score": "632",
+      "rank_m": "27",
+      "rank_s": "27",
+      "rank_p": "26",
+      "rank": "27",
+      "name": "The Business",
+      "pc_score": "52.7",
+      "songs": [
+        {
+          "title": "There Goes My Heart",
+          "m": "106",
+          "s": "104",
+          "p": "110"
+        },
+        {
+          "title": "Dream A Little Dream Of Me",
+          "m": "108",
+          "s": "102",
+          "p": "102"
+        }
+      ],
+      "singers": [
+        {
+          "part": "tenor",
+          "name": "James"
+        },
+        {
+          "part": "lead",
+          "name": "Chris"
+        },
+        {
+          "part": "bari",
+          "name": "Gary"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ]
+    }
+  ],
+  "filename": "BABS/2012QP-1.pdf"
+}
