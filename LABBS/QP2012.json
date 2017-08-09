@@ -30,19 +30,19 @@
       "name": "Nicky Salt"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
@@ -58,19 +58,19 @@
       "pc_score": "74.1",
       "songs": [
         {
-          "title": "If Ever I Would Leave You",
+          "name": "If Ever I Would Leave You",
           "m": "149",
           "s": "154",
           "p": "146"
         },
         {
-          "title": "Look At Me Now",
+          "name": "Look At Me Now",
           "m": "153",
           "s": "144",
           "p": "143"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrea Day"
@@ -99,19 +99,19 @@
       "pc_score": "71.1",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "139",
           "s": "144",
           "p": "139"
         },
         {
-          "title": "Angry / / Bill Bailey Medley",
+          "name": "Angry / / Bill Bailey Medley",
           "m": "145",
           "s": "145",
           "p": "141"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -140,19 +140,19 @@
       "pc_score": "67.3",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "131",
           "s": "134",
           "p": "135"
         },
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "137",
           "s": "136",
           "p": "135"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Leigh Holden"
@@ -181,19 +181,19 @@
       "pc_score": "67.3",
       "songs": [
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "133",
           "s": "135",
           "p": "133"
         },
         {
-          "title": "Please Don't Talk About Me When I'm Gone",
+          "name": "Please Don't Talk About Me When I'm Gone",
           "m": "136",
           "s": "136",
           "p": "134"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jo Wilson"
@@ -222,19 +222,19 @@
       "pc_score": "66.9",
       "songs": [
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "132",
           "s": "137",
           "p": "134"
         },
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "135",
           "s": "134",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -263,19 +263,19 @@
       "pc_score": "66.8",
       "songs": [
         {
-          "title": "I Will Love You 'Til The End Of Time",
+          "name": "I Will Love You 'Til The End Of Time",
           "m": "133",
           "s": "133",
           "p": "135"
         },
         {
-          "title": "I Didn't Wanna Fall",
+          "name": "I Didn't Wanna Fall",
           "m": "137",
           "s": "131",
           "p": "133"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -304,19 +304,19 @@
       "pc_score": "65.6",
       "songs": [
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "131",
           "s": "136",
           "p": "130"
         },
         {
-          "title": "Are You Lonesome Tonight?",
+          "name": "Are You Lonesome Tonight?",
           "m": "132",
           "s": "129",
           "p": "129"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hooker"
@@ -345,19 +345,19 @@
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "Red Hot",
+          "name": "Red Hot",
           "m": "132",
           "s": "130",
           "p": "132"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "131",
           "s": "128",
           "p": "130"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Anne Kearney"
@@ -386,19 +386,19 @@
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "132",
           "s": "130",
           "p": "127"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "132",
           "s": "133",
           "p": "129"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Beth Daley"
@@ -427,19 +427,19 @@
       "pc_score": "62.6",
       "songs": [
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "123",
           "s": "126",
           "p": "127"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "125",
           "s": "124",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tina Ruggles"
@@ -468,19 +468,19 @@
       "pc_score": "62.1",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "130",
           "s": "122",
           "p": "126"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "124",
           "s": "122",
           "p": "121"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Katie Phillips"
@@ -509,19 +509,19 @@
       "pc_score": "61.1",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "120",
           "s": "123",
           "p": "123"
         },
         {
-          "title": "Heart Of My Heart",
+          "name": "Heart Of My Heart",
           "m": "124",
           "s": "122",
           "p": "121"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jane Wright"
@@ -550,19 +550,19 @@
       "pc_score": "59.8",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "119",
           "s": "120",
           "p": "121"
         },
         {
-          "title": "Flirty Eyes",
+          "name": "Flirty Eyes",
           "m": "124",
           "s": "116",
           "p": "117"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Irene Knight"
@@ -591,19 +591,19 @@
       "pc_score": "55.9",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "111",
           "s": "113",
           "p": "112"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "113",
           "s": "110",
           "p": "112"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Juliet Erskine"
@@ -632,19 +632,19 @@
       "pc_score": "55.2",
       "songs": [
         {
-          "title": "Each Time I Fall In Love",
+          "name": "Each Time I Fall In Love",
           "m": "112",
           "s": "113",
           "p": "111"
         },
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "116",
           "s": "103",
           "p": "107"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Urja Patel"
@@ -673,19 +673,19 @@
       "pc_score": "54.3",
       "songs": [
         {
-          "title": "The Moment I Saw Your Eyes",
+          "name": "The Moment I Saw Your Eyes",
           "m": "105",
           "s": "115",
           "p": "105"
         },
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "114",
           "s": "106",
           "p": "106"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Griffiths"

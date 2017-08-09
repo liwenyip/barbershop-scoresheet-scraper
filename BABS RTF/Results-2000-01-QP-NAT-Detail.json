@@ -1,0 +1,1223 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2000-01-QP-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET PRELIM",
+  "location": "DARTMOUTH HIGH SCHOOL",
+  "year": "2000/01",
+  "type": "q",
+  "date": "14/10/2000",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "A Music"
+    },
+    {
+      "cat": "m",
+      "name": "B Music"
+    },
+    {
+      "cat": "p",
+      "name": "A Presentatio"
+    },
+    {
+      "cat": "p",
+      "name": "B Presentatio"
+    },
+    {
+      "cat": "s",
+      "name": "A Singing"
+    },
+    {
+      "cat": "s",
+      "name": "B Singing"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Arthur Scott"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wedding Bells Are Breaking Up That Old Gang Of Mine, Parody",
+          "m": 147,
+          "p": 149,
+          "s": 133,
+          "tot_score": 429,
+          "pc_score": 71.5,
+          "m_pc": 73.5,
+          "p_pc": 74.5,
+          "s_pc": 66.5
+        },
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over, Parody",
+          "m": 143,
+          "p": 159,
+          "s": 129,
+          "tot_score": 431,
+          "pc_score": 71.8,
+          "m_pc": 71.5,
+          "p_pc": 79.5,
+          "s_pc": 64.5
+        }
+      ],
+      "n": 2,
+      "m": 290,
+      "m_pc": 72.5,
+      "p": 308,
+      "p_pc": 77.0,
+      "s": 262,
+      "s_pc": 65.5,
+      "tot_score": 860,
+      "pc_score": 71.7
+    },
+    {
+      "rank": 2,
+      "name": "The Light Industrial Choral Society",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Beautiful Dreamer",
+          "m": 135,
+          "p": 139,
+          "s": 147,
+          "tot_score": 421,
+          "pc_score": 70.2,
+          "m_pc": 67.5,
+          "p_pc": 69.5,
+          "s_pc": 73.5
+        },
+        {
+          "n": 1,
+          "name": "There's A New Gang On The Corner",
+          "m": 140,
+          "p": 140,
+          "s": 150,
+          "tot_score": 430,
+          "pc_score": 71.7,
+          "m_pc": 70.0,
+          "p_pc": 70.0,
+          "s_pc": 75.0
+        }
+      ],
+      "n": 2,
+      "m": 275,
+      "m_pc": 68.8,
+      "p": 279,
+      "p_pc": 69.8,
+      "s": 297,
+      "s_pc": 74.3,
+      "tot_score": 851,
+      "pc_score": 70.9
+    },
+    {
+      "rank": 3,
+      "name": "Matrix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 165,
+          "p": 135,
+          "s": 125,
+          "tot_score": 425,
+          "pc_score": 70.8,
+          "m_pc": 82.5,
+          "p_pc": 67.5,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "When My Baby Smiles At Me",
+          "m": 161,
+          "p": 138,
+          "s": 126,
+          "tot_score": 425,
+          "pc_score": 70.8,
+          "m_pc": 80.5,
+          "p_pc": 69.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 326,
+      "m_pc": 81.5,
+      "p": 273,
+      "p_pc": 68.3,
+      "s": 251,
+      "s_pc": 62.8,
+      "tot_score": 850,
+      "pc_score": 70.8
+    },
+    {
+      "rank": 4,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 155,
+          "p": 135,
+          "s": 143,
+          "tot_score": 433,
+          "pc_score": 72.2,
+          "m_pc": 77.5,
+          "p_pc": 67.5,
+          "s_pc": 71.5
+        },
+        {
+          "n": 1,
+          "name": "Peg O' My Heart",
+          "m": 143,
+          "p": 134,
+          "s": 136,
+          "tot_score": 413,
+          "pc_score": 68.8,
+          "m_pc": 71.5,
+          "p_pc": 67.0,
+          "s_pc": 68.0
+        }
+      ],
+      "n": 2,
+      "m": 298,
+      "m_pc": 74.5,
+      "p": 269,
+      "p_pc": 67.3,
+      "s": 279,
+      "s_pc": 69.8,
+      "tot_score": 846,
+      "pc_score": 70.5
+    },
+    {
+      "rank": 5,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 131,
+          "p": 135,
+          "s": 135,
+          "tot_score": 401,
+          "pc_score": 66.8,
+          "m_pc": 65.5,
+          "p_pc": 67.5,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 134,
+          "p": 139,
+          "s": 144,
+          "tot_score": 417,
+          "pc_score": 69.5,
+          "m_pc": 67.0,
+          "p_pc": 69.5,
+          "s_pc": 72.0
+        }
+      ],
+      "n": 2,
+      "m": 265,
+      "m_pc": 66.3,
+      "p": 274,
+      "p_pc": 68.5,
+      "s": 279,
+      "s_pc": 69.8,
+      "tot_score": 818,
+      "pc_score": 68.2
+    },
+    {
+      "rank": 6,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "A Song Like Daddy Used To Play",
+          "m": 136,
+          "p": 138,
+          "s": 134,
+          "tot_score": 408,
+          "pc_score": 68.0,
+          "m_pc": 68.0,
+          "p_pc": 69.0,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "April Showers",
+          "m": 144,
+          "p": 134,
+          "s": 126,
+          "tot_score": 404,
+          "pc_score": 67.3,
+          "m_pc": 72.0,
+          "p_pc": 67.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 280,
+      "m_pc": 70.0,
+      "p": 272,
+      "p_pc": 68.0,
+      "s": 260,
+      "s_pc": 65.0,
+      "tot_score": 812,
+      "pc_score": 67.7
+    },
+    {
+      "rank": 7,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "unknown",
+          "m": 123,
+          "p": 137,
+          "s": 128,
+          "tot_score": 388,
+          "pc_score": 64.7,
+          "m_pc": 61.5,
+          "p_pc": 68.5,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "unknown",
+          "m": 123,
+          "p": 141,
+          "s": 133,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 61.5,
+          "p_pc": 70.5,
+          "s_pc": 66.5
+        }
+      ],
+      "n": 2,
+      "m": 246,
+      "m_pc": 61.5,
+      "p": 278,
+      "p_pc": 69.5,
+      "s": 261,
+      "s_pc": 65.3,
+      "tot_score": 785,
+      "pc_score": 65.4
+    },
+    {
+      "rank": 8,
+      "name": "Savannah",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 120,
+          "p": 139,
+          "s": 120,
+          "tot_score": 379,
+          "pc_score": 63.2,
+          "m_pc": 60.0,
+          "p_pc": 69.5,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 124,
+          "p": 144,
+          "s": 121,
+          "tot_score": 389,
+          "pc_score": 64.8,
+          "m_pc": 62.0,
+          "p_pc": 72.0,
+          "s_pc": 60.5
+        }
+      ],
+      "n": 2,
+      "m": 244,
+      "m_pc": 61.0,
+      "p": 283,
+      "p_pc": 70.8,
+      "s": 241,
+      "s_pc": 60.3,
+      "tot_score": 768,
+      "pc_score": 64.0
+    },
+    {
+      "rank": 9,
+      "name": "Close Encounters",
+      "songs": [
+        {
+          "n": 1,
+          "name": "unknown",
+          "m": 130,
+          "p": 134,
+          "s": 124,
+          "tot_score": 388,
+          "pc_score": 64.7,
+          "m_pc": 65.0,
+          "p_pc": 67.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "unknown",
+          "m": 122,
+          "p": 129,
+          "s": 122,
+          "tot_score": 373,
+          "pc_score": 62.2,
+          "m_pc": 61.0,
+          "p_pc": 64.5,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 252,
+      "m_pc": 63.0,
+      "p": 263,
+      "p_pc": 65.8,
+      "s": 246,
+      "s_pc": 61.5,
+      "tot_score": 761,
+      "pc_score": 63.4
+    },
+    {
+      "rank": 9,
+      "name": "Rhapsody",
+      "songs": [
+        {
+          "n": 1,
+          "name": "unknown",
+          "m": 126,
+          "p": 134,
+          "s": 122,
+          "tot_score": 382,
+          "pc_score": 63.7,
+          "m_pc": 63.0,
+          "p_pc": 67.0,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "unknown",
+          "m": 124,
+          "p": 132,
+          "s": 123,
+          "tot_score": 379,
+          "pc_score": 63.2,
+          "m_pc": 62.0,
+          "p_pc": 66.0,
+          "s_pc": 61.5
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 266,
+      "p_pc": 66.5,
+      "s": 245,
+      "s_pc": 61.3,
+      "tot_score": 761,
+      "pc_score": 63.4
+    },
+    {
+      "rank": 11,
+      "name": "Legacy",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 132,
+          "p": 120,
+          "s": 118,
+          "tot_score": 370,
+          "pc_score": 61.7,
+          "m_pc": 66.0,
+          "p_pc": 60.0,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 135,
+          "p": 128,
+          "s": 126,
+          "tot_score": 389,
+          "pc_score": 64.8,
+          "m_pc": 67.5,
+          "p_pc": 64.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 267,
+      "m_pc": 66.8,
+      "p": 248,
+      "p_pc": 62.0,
+      "s": 244,
+      "s_pc": 61.0,
+      "tot_score": 759,
+      "pc_score": 63.3
+    },
+    {
+      "rank": 12,
+      "name": "Good Fortune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Gal Sal",
+          "m": 116,
+          "p": 119,
+          "s": 125,
+          "tot_score": 360,
+          "pc_score": 60.0,
+          "m_pc": 58.0,
+          "p_pc": 59.5,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "For Me And My Gal",
+          "m": 125,
+          "p": 120,
+          "s": 127,
+          "tot_score": 372,
+          "pc_score": 62.0,
+          "m_pc": 62.5,
+          "p_pc": 60.0,
+          "s_pc": 63.5
+        }
+      ],
+      "n": 2,
+      "m": 241,
+      "m_pc": 60.3,
+      "p": 239,
+      "p_pc": 59.8,
+      "s": 252,
+      "s_pc": 63.0,
+      "tot_score": 732,
+      "pc_score": 61.0
+    },
+    {
+      "rank": 13,
+      "name": "Afterglow",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 118,
+          "p": 117,
+          "s": 116,
+          "tot_score": 351,
+          "pc_score": 58.5,
+          "m_pc": 59.0,
+          "p_pc": 58.5,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 120,
+          "p": 120,
+          "s": 124,
+          "tot_score": 364,
+          "pc_score": 60.7,
+          "m_pc": 60.0,
+          "p_pc": 60.0,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 238,
+      "m_pc": 59.5,
+      "p": 237,
+      "p_pc": 59.3,
+      "s": 240,
+      "s_pc": 60.0,
+      "tot_score": 715,
+      "pc_score": 59.6
+    },
+    {
+      "rank": 14,
+      "name": "Bagatelle",
+      "songs": [
+        {
+          "n": 1,
+          "name": "unknown",
+          "m": 115,
+          "p": 117,
+          "s": 117,
+          "tot_score": 349,
+          "pc_score": 58.2,
+          "m_pc": 57.5,
+          "p_pc": 58.5,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "unknown",
+          "m": 119,
+          "p": 118,
+          "s": 118,
+          "tot_score": 355,
+          "pc_score": 59.2,
+          "m_pc": 59.5,
+          "p_pc": 59.0,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 234,
+      "m_pc": 58.5,
+      "p": 235,
+      "p_pc": 58.8,
+      "s": 235,
+      "s_pc": 58.8,
+      "tot_score": 704,
+      "pc_score": 58.7
+    },
+    {
+      "rank": 15,
+      "name": "Vocal Instinct",
+      "songs": [
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 129,
+          "p": 121,
+          "s": 117,
+          "tot_score": 367,
+          "pc_score": 61.2,
+          "m_pc": 64.5,
+          "p_pc": 60.5,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 121,
+          "p": 109,
+          "s": 99,
+          "tot_score": 329,
+          "pc_score": 54.8,
+          "m_pc": 60.5,
+          "p_pc": 54.5,
+          "s_pc": 49.5
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 230,
+      "p_pc": 57.5,
+      "s": 216,
+      "s_pc": 54.0,
+      "tot_score": 696,
+      "pc_score": 58.0
+    },
+    {
+      "rank": 16,
+      "name": "Something For The Weekend",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 112,
+          "p": 117,
+          "s": 116,
+          "tot_score": 345,
+          "pc_score": 57.5,
+          "m_pc": 56.0,
+          "p_pc": 58.5,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "Yes Sir That's My Baby /  Ain't She Sweet Medley",
+          "m": 112,
+          "p": 118,
+          "s": 117,
+          "tot_score": 347,
+          "pc_score": 57.8,
+          "m_pc": 56.0,
+          "p_pc": 59.0,
+          "s_pc": 58.5
+        }
+      ],
+      "n": 2,
+      "m": 224,
+      "m_pc": 56.0,
+      "p": 235,
+      "p_pc": 58.8,
+      "s": 233,
+      "s_pc": 58.3,
+      "tot_score": 692,
+      "pc_score": 57.7
+    },
+    {
+      "rank": 17,
+      "name": "Chordite",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There'll Be No New Tunes On This Old Piano",
+          "m": 109,
+          "p": 104,
+          "s": 107,
+          "tot_score": 320,
+          "pc_score": 53.3,
+          "m_pc": 54.5,
+          "p_pc": 52.0,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 116,
+          "p": 103,
+          "s": 108,
+          "tot_score": 327,
+          "pc_score": 54.5,
+          "m_pc": 58.0,
+          "p_pc": 51.5,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 225,
+      "m_pc": 56.3,
+      "p": 207,
+      "p_pc": 51.8,
+      "s": 215,
+      "s_pc": 53.8,
+      "tot_score": 647,
+      "pc_score": 53.9
+    },
+    {
+      "rank": 18,
+      "name": "Fine Blend",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 118,
+          "p": 109,
+          "s": 109,
+          "tot_score": 336,
+          "pc_score": 56.0,
+          "m_pc": 59.0,
+          "p_pc": 54.5,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "Heart Of My Heart (The Story Of The Rose)",
+          "m": 100,
+          "p": 103,
+          "s": 106,
+          "tot_score": 309,
+          "pc_score": 51.5,
+          "m_pc": 50.0,
+          "p_pc": 51.5,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 218,
+      "m_pc": 54.5,
+      "p": 212,
+      "p_pc": 53.0,
+      "s": 215,
+      "s_pc": 53.8,
+      "tot_score": 645,
+      "pc_score": 53.8
+    },
+    {
+      "rank": 19,
+      "name": "Almost Gentlemen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Song For Mary",
+          "m": 111,
+          "p": 108,
+          "s": 115,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 55.5,
+          "p_pc": 54.0,
+          "s_pc": 57.5
+        },
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 99,
+          "p": 100,
+          "s": 111,
+          "tot_score": 310,
+          "pc_score": 51.7,
+          "m_pc": 49.5,
+          "p_pc": 50.0,
+          "s_pc": 55.5
+        }
+      ],
+      "n": 2,
+      "m": 210,
+      "m_pc": 52.5,
+      "p": 208,
+      "p_pc": 52.0,
+      "s": 226,
+      "s_pc": 56.5,
+      "tot_score": 644,
+      "pc_score": 53.7
+    },
+    {
+      "rank": 20,
+      "name": "Fourtune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 110,
+          "p": 108,
+          "s": 107,
+          "tot_score": 325,
+          "pc_score": 54.2,
+          "m_pc": 55.0,
+          "p_pc": 54.0,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "On A Slow Boat To China",
+          "m": 102,
+          "p": 108,
+          "s": 105,
+          "tot_score": 315,
+          "pc_score": 52.5,
+          "m_pc": 51.0,
+          "p_pc": 54.0,
+          "s_pc": 52.5
+        }
+      ],
+      "n": 2,
+      "m": 212,
+      "m_pc": 53.0,
+      "p": 216,
+      "p_pc": 54.0,
+      "s": 212,
+      "s_pc": 53.0,
+      "tot_score": 640,
+      "pc_score": 53.3
+    },
+    {
+      "rank": 20,
+      "name": "Southern Heritage",
+      "songs": [
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 107,
+          "p": 111,
+          "s": 101,
+          "tot_score": 319,
+          "pc_score": 53.2,
+          "m_pc": 53.5,
+          "p_pc": 55.5,
+          "s_pc": 50.5
+        },
+        {
+          "n": 1,
+          "name": "You're The One I Care For",
+          "m": 103,
+          "p": 112,
+          "s": 106,
+          "tot_score": 321,
+          "pc_score": 53.5,
+          "m_pc": 51.5,
+          "p_pc": 56.0,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 210,
+      "m_pc": 52.5,
+      "p": 223,
+      "p_pc": 55.8,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 640,
+      "pc_score": 53.3
+    },
+    {
+      "rank": 22,
+      "name": "Quadraphonic",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Old Piano Roll Blues",
+          "m": 104,
+          "p": 108,
+          "s": 101,
+          "tot_score": 313,
+          "pc_score": 52.2,
+          "m_pc": 52.0,
+          "p_pc": 54.0,
+          "s_pc": 50.5
+        },
+        {
+          "n": 1,
+          "name": "Emaline",
+          "m": 110,
+          "p": 106,
+          "s": 100,
+          "tot_score": 316,
+          "pc_score": 52.7,
+          "m_pc": 55.0,
+          "p_pc": 53.0,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 214,
+      "m_pc": 53.5,
+      "p": 214,
+      "p_pc": 53.5,
+      "s": 201,
+      "s_pc": 50.3,
+      "tot_score": 629,
+      "pc_score": 52.4
+    },
+    {
+      "rank": 23,
+      "name": "Southern Brand",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 106,
+          "p": 105,
+          "s": 107,
+          "tot_score": 318,
+          "pc_score": 53.0,
+          "m_pc": 53.0,
+          "p_pc": 52.5,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "Mistakes",
+          "m": 101,
+          "p": 101,
+          "s": 101,
+          "tot_score": 303,
+          "pc_score": 50.5,
+          "m_pc": 50.5,
+          "p_pc": 50.5,
+          "s_pc": 50.5
+        }
+      ],
+      "n": 2,
+      "m": 207,
+      "m_pc": 51.8,
+      "p": 206,
+      "p_pc": 51.5,
+      "s": 208,
+      "s_pc": 52.0,
+      "tot_score": 621,
+      "pc_score": 51.8
+    },
+    {
+      "rank": 24,
+      "name": "Speculation",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 110,
+          "p": 98,
+          "s": 107,
+          "tot_score": 315,
+          "pc_score": 52.5,
+          "m_pc": 55.0,
+          "p_pc": 49.0,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "A Little Street Where Old Friends Meet",
+          "m": 108,
+          "p": 96,
+          "s": 100,
+          "tot_score": 304,
+          "pc_score": 50.7,
+          "m_pc": 54.0,
+          "p_pc": 48.0,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 218,
+      "m_pc": 54.5,
+      "p": 194,
+      "p_pc": 48.5,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 619,
+      "pc_score": 51.6
+    },
+    {
+      "rank": 25,
+      "name": "Equinox",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Made Me Love You  / It Had To Be You Medley",
+          "m": 102,
+          "p": 117,
+          "s": 85,
+          "tot_score": 304,
+          "pc_score": 50.7,
+          "m_pc": 51.0,
+          "p_pc": 58.5,
+          "s_pc": 42.5
+        },
+        {
+          "n": 1,
+          "name": "Lazy River",
+          "m": 103,
+          "p": 120,
+          "s": 80,
+          "tot_score": 303,
+          "pc_score": 50.5,
+          "m_pc": 51.5,
+          "p_pc": 60.0,
+          "s_pc": 40.0
+        }
+      ],
+      "n": 2,
+      "m": 205,
+      "m_pc": 51.3,
+      "p": 237,
+      "p_pc": 59.3,
+      "s": 165,
+      "s_pc": 41.3,
+      "tot_score": 607,
+      "pc_score": 50.6
+    },
+    {
+      "rank": 26,
+      "name": "D'accord",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Girl Of My Dreams",
+          "m": 105,
+          "p": 93,
+          "s": 89,
+          "tot_score": 287,
+          "pc_score": 47.8,
+          "m_pc": 52.5,
+          "p_pc": 46.5,
+          "s_pc": 44.5
+        },
+        {
+          "n": 1,
+          "name": "Hello My Baby",
+          "m": 103,
+          "p": 93,
+          "s": 87,
+          "tot_score": 283,
+          "pc_score": 47.2,
+          "m_pc": 51.5,
+          "p_pc": 46.5,
+          "s_pc": 43.5
+        }
+      ],
+      "n": 2,
+      "m": 208,
+      "m_pc": 52.0,
+      "p": 186,
+      "p_pc": 46.5,
+      "s": 176,
+      "s_pc": 44.0,
+      "tot_score": 570,
+      "pc_score": 47.5
+    },
+    {
+      "rank": 27,
+      "name": "Bond Street",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 93,
+          "p": 95,
+          "s": 85,
+          "tot_score": 273,
+          "pc_score": 45.5,
+          "m_pc": 46.5,
+          "p_pc": 47.5,
+          "s_pc": 42.5
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 108,
+          "p": 98,
+          "s": 78,
+          "tot_score": 284,
+          "pc_score": 47.3,
+          "m_pc": 54.0,
+          "p_pc": 49.0,
+          "s_pc": 39.0
+        }
+      ],
+      "n": 2,
+      "m": 201,
+      "m_pc": 50.3,
+      "p": 193,
+      "p_pc": 48.3,
+      "s": 163,
+      "s_pc": 40.8,
+      "tot_score": 557,
+      "pc_score": 46.4
+    },
+    {
+      "rank": 28,
+      "name": "Broadway",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sam, The Old Accordion Man",
+          "m": 96,
+          "p": 98,
+          "s": 82,
+          "tot_score": 276,
+          "pc_score": 46.0,
+          "m_pc": 48.0,
+          "p_pc": 49.0,
+          "s_pc": 41.0
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 85,
+          "p": 94,
+          "s": 73,
+          "tot_score": 252,
+          "pc_score": 42.0,
+          "m_pc": 42.5,
+          "p_pc": 47.0,
+          "s_pc": 36.5
+        }
+      ],
+      "n": 2,
+      "m": 181,
+      "m_pc": 45.3,
+      "p": 192,
+      "p_pc": 48.0,
+      "s": 155,
+      "s_pc": 38.8,
+      "tot_score": 528,
+      "pc_score": 44.0
+    },
+    {
+      "rank": 29,
+      "name": "Ripchord",
+      "songs": [
+        {
+          "n": 1,
+          "name": "California Here I Come",
+          "m": 84,
+          "p": 86,
+          "s": 87,
+          "tot_score": 257,
+          "pc_score": 42.8,
+          "m_pc": 42.0,
+          "p_pc": 43.0,
+          "s_pc": 43.5
+        },
+        {
+          "n": 1,
+          "name": "Little Pal",
+          "m": 98,
+          "p": 87,
+          "s": 82,
+          "tot_score": 267,
+          "pc_score": 44.5,
+          "m_pc": 49.0,
+          "p_pc": 43.5,
+          "s_pc": 41.0
+        }
+      ],
+      "n": 2,
+      "m": 182,
+      "m_pc": 45.5,
+      "p": 173,
+      "p_pc": 43.3,
+      "s": 169,
+      "s_pc": 42.3,
+      "tot_score": 524,
+      "pc_score": 43.7
+    },
+    {
+      "rank": 30,
+      "name": "Top C",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 58,
+          "p": 65,
+          "s": 76,
+          "tot_score": 199,
+          "pc_score": 33.2,
+          "m_pc": 29.0,
+          "p_pc": 32.5,
+          "s_pc": 38.0
+        },
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 57,
+          "p": 70,
+          "s": 83,
+          "tot_score": 210,
+          "pc_score": 35.0,
+          "m_pc": 28.5,
+          "p_pc": 35.0,
+          "s_pc": 41.5
+        }
+      ],
+      "n": 2,
+      "m": 115,
+      "m_pc": 28.8,
+      "p": 135,
+      "p_pc": 33.8,
+      "s": 159,
+      "s_pc": 39.8,
+      "tot_score": 409,
+      "pc_score": 34.1
+    }
+  ]
+}

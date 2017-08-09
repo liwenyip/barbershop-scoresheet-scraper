@@ -30,23 +30,23 @@
       "name": "Monica Funnell"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     }
   ],
@@ -62,19 +62,19 @@
       "pc_score": "70.3",
       "songs": [
         {
-          "title": "Drivin' Me Crazy",
+          "name": "Drivin' Me Crazy",
           "m": "141",
           "s": "141",
           "p": "140"
         },
         {
-          "title": "The Story Of The Rose (Heart Of My Heart)",
+          "name": "The Story Of The Rose (Heart Of My Heart)",
           "m": "135",
           "s": "141",
           "p": "145"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard"
@@ -103,19 +103,19 @@
       "pc_score": "66.6",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "135",
           "s": "131",
           "p": "139"
         },
         {
-          "title": "Oh You Beautiful Doll",
+          "name": "Oh You Beautiful Doll",
           "m": "133",
           "s": "130",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Graham"
@@ -144,19 +144,19 @@
       "pc_score": "66.3",
       "songs": [
         {
-          "title": "If I Love Again",
+          "name": "If I Love Again",
           "m": "132",
           "s": "128",
           "p": "132"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "133",
           "s": "136",
           "p": "135"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alan"
@@ -185,19 +185,19 @@
       "pc_score": "66.3",
       "songs": [
         {
-          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
           "m": "134",
           "s": "129",
           "p": "135"
         },
         {
-          "title": "You're Sixteen",
+          "name": "You're Sixteen",
           "m": "128",
           "s": "134",
           "p": "135"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Laurence"
@@ -226,19 +226,19 @@
       "pc_score": "66.2",
       "songs": [
         {
-          "title": "Sing Me That Song Again",
+          "name": "Sing Me That Song Again",
           "m": "134",
           "s": "129",
           "p": "131"
         },
         {
-          "title": "You're Sixteen",
+          "name": "You're Sixteen",
           "m": "128",
           "s": "137",
           "p": "135"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Geoff"
@@ -267,19 +267,19 @@
       "pc_score": "66.1",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "124",
           "s": "130",
           "p": "130"
         },
         {
-          "title": "There's A New Gang On The Corner",
+          "name": "There's A New Gang On The Corner",
           "m": "132",
           "s": "138",
           "p": "139"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Colin"
@@ -308,19 +308,19 @@
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "Always",
+          "name": "Always",
           "m": "131",
           "s": "131",
           "p": "131"
         },
         {
-          "title": "Just In Time",
+          "name": "Just In Time",
           "m": "123",
           "s": "134",
           "p": "133"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dick"
@@ -349,19 +349,19 @@
       "pc_score": "64.0",
       "songs": [
         {
-          "title": "Just In Time",
+          "name": "Just In Time",
           "m": "125",
           "s": "130",
           "p": "126"
         },
         {
-          "title": "My Melancholy Baby",
+          "name": "My Melancholy Baby",
           "m": "129",
           "s": "128",
           "p": "130"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian"
@@ -390,19 +390,19 @@
       "pc_score": "63.8",
       "songs": [
         {
-          "title": "Good Enough For Now",
+          "name": "Good Enough For Now",
           "m": "130",
           "s": "125",
           "p": "128"
         },
         {
-          "title": "How Can I Miss You If You Won't Go Away?",
+          "name": "How Can I Miss You If You Won't Go Away?",
           "m": "125",
           "s": "128",
           "p": "130"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Duncan"
@@ -431,19 +431,19 @@
       "pc_score": "62.6",
       "songs": [
         {
-          "title": "Make 'Em Laugh",
+          "name": "Make 'Em Laugh",
           "m": "122",
           "s": "124",
           "p": "119"
         },
         {
-          "title": "This Is All I Ask",
+          "name": "This Is All I Ask",
           "m": "122",
           "s": "129",
           "p": "135"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick"
@@ -472,19 +472,19 @@
       "pc_score": "62.4",
       "songs": [
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "123",
           "s": "126",
           "p": "124"
         },
         {
-          "title": "For All We Know",
+          "name": "For All We Know",
           "m": "126",
           "s": "124",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex"
@@ -513,19 +513,19 @@
       "pc_score": "62.0",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "122",
           "s": "123",
           "p": "122"
         },
         {
-          "title": "On A Wonderful Day Like Today/Zip-a-dee-doo-dah/it's a good da",
+          "name": "On A Wonderful Day Like Today/Zip-a-dee-doo-dah/it's a good da",
           "m": "128",
           "s": "125",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michael"
@@ -554,19 +554,19 @@
       "pc_score": "61.9",
       "songs": [
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "123",
           "s": "122",
           "p": "119"
         },
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "120",
           "s": "127",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Norman"
@@ -595,19 +595,19 @@
       "pc_score": "60.6",
       "songs": [
         {
-          "title": "You're Sixteen",
+          "name": "You're Sixteen",
           "m": "121",
           "s": "127",
           "p": "121"
         },
         {
-          "title": "This Is All I Ask",
+          "name": "This Is All I Ask",
           "m": "121",
           "s": "114",
           "p": "123"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Colin"
@@ -636,19 +636,19 @@
       "pc_score": "60.5",
       "songs": [
         {
-          "title": "When The Midnight Choo-Choo Leaves For Alabam'",
+          "name": "When The Midnight Choo-Choo Leaves For Alabam'",
           "m": "121",
           "s": "125",
           "p": "122"
         },
         {
-          "title": "The Masquerade Is Over",
+          "name": "The Masquerade Is Over",
           "m": "122",
           "s": "117",
           "p": "119"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nick"
@@ -677,19 +677,19 @@
       "pc_score": "58.8",
       "songs": [
         {
-          "title": "From The First Hello To The Last Goodbye",
+          "name": "From The First Hello To The Last Goodbye",
           "m": "118",
           "s": "117",
           "p": "119"
         },
         {
-          "title": "Old St Louis",
+          "name": "Old St Louis",
           "m": "120",
           "s": "115",
           "p": "117"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Geoff"
@@ -718,19 +718,19 @@
       "pc_score": "58.6",
       "songs": [
         {
-          "title": "When My Baby Smiles At Me",
+          "name": "When My Baby Smiles At Me",
           "m": "122",
           "s": "119",
           "p": "119"
         },
         {
-          "title": "Old Cape Cod",
+          "name": "Old Cape Cod",
           "m": "122",
           "s": "109",
           "p": "112"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Terry"
@@ -759,19 +759,19 @@
       "pc_score": "56.9",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "116",
           "s": "112",
           "p": "117"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "111",
           "s": "113",
           "p": "114"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Glenn"
@@ -800,19 +800,19 @@
       "pc_score": "56.8",
       "songs": [
         {
-          "title": "When You And I Were Young, Maggie",
+          "name": "When You And I Were Young, Maggie",
           "m": "109",
           "s": "112",
           "p": "108"
         },
         {
-          "title": "The Gang That Sang 'Heart Of My Heart'",
+          "name": "The Gang That Sang 'Heart Of My Heart'",
           "m": "108",
           "s": "122",
           "p": "122"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy"
@@ -841,19 +841,19 @@
       "pc_score": "56.4",
       "songs": [
         {
-          "title": "Basin Street Blues",
+          "name": "Basin Street Blues",
           "m": "119",
           "s": "116",
           "p": "119"
         },
         {
-          "title": "My Sunny Day",
+          "name": "My Sunny Day",
           "m": "113",
           "s": "104",
           "p": "106"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Clive"
@@ -882,19 +882,19 @@
       "pc_score": "55.9",
       "songs": [
         {
-          "title": "Old Cape Cod",
+          "name": "Old Cape Cod",
           "m": "115",
           "s": "108",
           "p": "113"
         },
         {
-          "title": "Let The Rest Of The World Go By",
+          "name": "Let The Rest Of The World Go By",
           "m": "109",
           "s": "113",
           "p": "113"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ed"
@@ -923,19 +923,19 @@
       "pc_score": "55.6",
       "songs": [
         {
-          "title": "It's A Good Day",
+          "name": "It's A Good Day",
           "m": "113",
           "s": "105",
           "p": "114"
         },
         {
-          "title": "Baby Face",
+          "name": "Baby Face",
           "m": "107",
           "s": "113",
           "p": "115"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
@@ -964,19 +964,19 @@
       "pc_score": "55.6",
       "songs": [
         {
-          "title": "Nevertheless",
+          "name": "Nevertheless",
           "m": "114",
           "s": "115",
           "p": "114"
         },
         {
-          "title": "Lover Come Back",
+          "name": "Lover Come Back",
           "m": "114",
           "s": "103",
           "p": "107"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Stephen"
@@ -1005,19 +1005,19 @@
       "pc_score": "55.4",
       "songs": [
         {
-          "title": "Each Time I Fall In Love",
+          "name": "Each Time I Fall In Love",
           "m": "109",
           "s": "105",
           "p": "112"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "108",
           "s": "114",
           "p": "117"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Terry"
@@ -1046,19 +1046,19 @@
       "pc_score": "55.0",
       "songs": [
         {
-          "title": "Bring Back Those Good Old Days",
+          "name": "Bring Back Those Good Old Days",
           "m": "113",
           "s": "113",
           "p": "110"
         },
         {
-          "title": "The Band Played On",
+          "name": "The Band Played On",
           "m": "119",
           "s": "102",
           "p": "103"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Den"
@@ -1087,19 +1087,19 @@
       "pc_score": "55.0",
       "songs": [
         {
-          "title": "Sentimental Journey",
+          "name": "Sentimental Journey",
           "m": "113",
           "s": "115",
           "p": "112"
         },
         {
-          "title": "Their Hearts Were Full Of Spring",
+          "name": "Their Hearts Were Full Of Spring",
           "m": "110",
           "s": "104",
           "p": "106"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrew"
@@ -1128,19 +1128,19 @@
       "pc_score": "52.7",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "106",
           "s": "104",
           "p": "110"
         },
         {
-          "title": "Dream A Little Dream Of Me",
+          "name": "Dream A Little Dream Of Me",
           "m": "108",
           "s": "102",
           "p": "102"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James"

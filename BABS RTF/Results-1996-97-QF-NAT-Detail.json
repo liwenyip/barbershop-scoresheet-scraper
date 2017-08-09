@@ -1,0 +1,371 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1996-97-QF-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "BRIGHTON",
+  "year": "1996/97",
+  "type": "q",
+  "date": "04/05/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bernie Cureton"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Ian Fairnie"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Cambridge Blues",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Dear Old Girl",
+          "m": 235,
+          "p": 211,
+          "s": 218,
+          "tot_score": 664,
+          "pc_score": 73.8,
+          "m_pc": 78.3,
+          "p_pc": 70.3,
+          "s_pc": 72.7
+        },
+        {
+          "n": 1,
+          "name": "I Got Rhythm",
+          "m": 211,
+          "p": 206,
+          "s": 210,
+          "tot_score": 627,
+          "pc_score": 69.7,
+          "m_pc": 70.3,
+          "p_pc": 68.7,
+          "s_pc": 70.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 440.0,
+          "p": 440.0,
+          "s": 411.0,
+          "tot_score": 1291.0,
+          "pc_score": 71.7,
+          "m_pc": 73.3,
+          "p_pc": 73.3,
+          "s_pc": 68.5
+        }
+      ],
+      "n": 4,
+      "m": 886.0,
+      "m_pc": 73.8,
+      "p": 857.0,
+      "p_pc": 71.4,
+      "s": 839.0,
+      "s_pc": 69.9,
+      "tot_score": 2582.0,
+      "pc_score": 71.7
+    },
+    {
+      "rank": 2,
+      "name": "High Fidelity",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 207,
+          "p": 204,
+          "s": 202,
+          "tot_score": 613,
+          "pc_score": 68.1,
+          "m_pc": 69.0,
+          "p_pc": 68.0,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Lady Wrestlers",
+          "m": 199,
+          "p": 212,
+          "s": 182,
+          "tot_score": 593,
+          "pc_score": 65.9,
+          "m_pc": 66.3,
+          "p_pc": 70.7,
+          "s_pc": 60.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 426.0,
+          "p": 421.0,
+          "s": 394.0,
+          "tot_score": 1241.0,
+          "pc_score": 68.9,
+          "m_pc": 71.0,
+          "p_pc": 70.2,
+          "s_pc": 65.7
+        }
+      ],
+      "n": 4,
+      "m": 832.0,
+      "m_pc": 69.3,
+      "p": 837.0,
+      "p_pc": 69.8,
+      "s": 778.0,
+      "s_pc": 64.8,
+      "tot_score": 2447.0,
+      "pc_score": 68.0
+    },
+    {
+      "rank": 3,
+      "name": "T.v.q",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Pal Of My Cradle Days",
+          "m": 202,
+          "p": 202,
+          "s": 200,
+          "tot_score": 604,
+          "pc_score": 67.1,
+          "m_pc": 67.3,
+          "p_pc": 67.3,
+          "s_pc": 66.7
+        },
+        {
+          "n": 1,
+          "name": "When It's Night Time In Dixie Land",
+          "m": 197,
+          "p": 198,
+          "s": 197,
+          "tot_score": 592,
+          "pc_score": 65.8,
+          "m_pc": 65.7,
+          "p_pc": 66.0,
+          "s_pc": 65.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 411.0,
+          "p": 404.0,
+          "s": 412.0,
+          "tot_score": 1227.0,
+          "pc_score": 68.2,
+          "m_pc": 68.5,
+          "p_pc": 67.3,
+          "s_pc": 68.7
+        }
+      ],
+      "n": 4,
+      "m": 810.0,
+      "m_pc": 67.5,
+      "p": 804.0,
+      "p_pc": 67.0,
+      "s": 809.0,
+      "s_pc": 67.4,
+      "tot_score": 2423.0,
+      "pc_score": 67.3
+    },
+    {
+      "rank": 4,
+      "name": "Chordial Exchange",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ride The Railroad Tonight",
+          "m": 204,
+          "p": 195,
+          "s": 185,
+          "tot_score": 584,
+          "pc_score": 64.9,
+          "m_pc": 68.0,
+          "p_pc": 65.0,
+          "s_pc": 61.7
+        },
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 196,
+          "p": 186,
+          "s": 182,
+          "tot_score": 564,
+          "pc_score": 62.7,
+          "m_pc": 65.3,
+          "p_pc": 62.0,
+          "s_pc": 60.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 416.0,
+          "p": 417.0,
+          "s": 433.0,
+          "tot_score": 1266.0,
+          "pc_score": 70.3,
+          "m_pc": 69.3,
+          "p_pc": 69.5,
+          "s_pc": 72.2
+        }
+      ],
+      "n": 4,
+      "m": 816.0,
+      "m_pc": 68.0,
+      "p": 798.0,
+      "p_pc": 66.5,
+      "s": 800.0,
+      "s_pc": 66.7,
+      "tot_score": 2414.0,
+      "pc_score": 67.1
+    },
+    {
+      "rank": 5,
+      "name": "Wall Street",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Bye Bye Baby Medley",
+          "m": 205,
+          "p": 202,
+          "s": 193,
+          "tot_score": 600,
+          "pc_score": 66.7,
+          "m_pc": 68.3,
+          "p_pc": 67.3,
+          "s_pc": 64.3
+        },
+        {
+          "n": 1,
+          "name": "If You Had All The World And Its Gold",
+          "m": 208,
+          "p": 214,
+          "s": 193,
+          "tot_score": 615,
+          "pc_score": 68.3,
+          "m_pc": 69.3,
+          "p_pc": 71.3,
+          "s_pc": 64.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 408.0,
+          "p": 378.0,
+          "s": 405.0,
+          "tot_score": 1191.0,
+          "pc_score": 66.2,
+          "m_pc": 68.0,
+          "p_pc": 63.0,
+          "s_pc": 67.5
+        }
+      ],
+      "n": 4,
+      "m": 821.0,
+      "m_pc": 68.4,
+      "p": 794.0,
+      "p_pc": 66.2,
+      "s": 791.0,
+      "s_pc": 65.9,
+      "tot_score": 2406.0,
+      "pc_score": 66.8
+    },
+    {
+      "rank": 6,
+      "name": "Nickelodeon",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 207,
+          "p": 207,
+          "s": 193,
+          "tot_score": 607,
+          "pc_score": 67.4,
+          "m_pc": 69.0,
+          "p_pc": 69.0,
+          "s_pc": 64.3
+        },
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 200,
+          "p": 201,
+          "s": 188,
+          "tot_score": 589,
+          "pc_score": 65.4,
+          "m_pc": 66.7,
+          "p_pc": 67.0,
+          "s_pc": 62.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 381.0,
+          "p": 420.0,
+          "s": 385.0,
+          "tot_score": 1186.0,
+          "pc_score": 65.9,
+          "m_pc": 63.5,
+          "p_pc": 70.0,
+          "s_pc": 64.2
+        }
+      ],
+      "n": 4,
+      "m": 788.0,
+      "m_pc": 65.7,
+      "p": 828.0,
+      "p_pc": 69.0,
+      "s": 766.0,
+      "s_pc": 63.8,
+      "tot_score": 2382.0,
+      "pc_score": 66.2
+    }
+  ]
+}

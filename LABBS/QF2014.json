@@ -42,43 +42,43 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Katie Dew"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1386",
-      "final_tot_score": "2747",
+      "prev_tot_score": "1386",
+      "tot_score": "2747",
       "rank_m": "1",
       "rank_s": "2",
       "rank_p": "1",
@@ -87,25 +87,25 @@
       "pc_score": "76.3",
       "songs": [
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "229",
           "s": "230",
           "p": "230"
         },
         {
-          "title": "Shanghai (Why Did I Tell You I Was Going To)",
+          "name": "Shanghai (Why Did I Tell You I Was Going To)",
           "m": "235",
           "s": "231",
           "p": "231"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "446",
           "s": "457",
           "p": "458"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Gaynor Schofield"
@@ -125,8 +125,8 @@
       ]
     },
     {
-      "tot_score": "1361",
-      "final_tot_score": "2739",
+      "prev_tot_score": "1361",
+      "tot_score": "2739",
       "rank_m": "2",
       "rank_s": "1",
       "rank_p": "2",
@@ -135,25 +135,25 @@
       "pc_score": "76.1",
       "songs": [
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "225",
           "s": "228",
           "p": "224"
         },
         {
-          "title": "Rock It For Me",
+          "name": "Rock It For Me",
           "m": "231",
           "s": "230",
           "p": "223"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "451",
           "s": "469",
           "p": "458"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hicks"
@@ -173,8 +173,8 @@
       ]
     },
     {
-      "tot_score": "1353",
-      "final_tot_score": "2676",
+      "prev_tot_score": "1353",
+      "tot_score": "2676",
       "rank_m": "3",
       "rank_s": "3",
       "rank_p": "3",
@@ -183,25 +183,25 @@
       "pc_score": "74.3",
       "songs": [
         {
-          "title": "I've Got A Feeling I'm Falling",
+          "name": "I've Got A Feeling I'm Falling",
           "m": "227",
           "s": "224",
           "p": "230"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "228",
           "s": "222",
           "p": "222"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "442",
           "s": "438",
           "p": "443"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -221,8 +221,8 @@
       ]
     },
     {
-      "tot_score": "1211",
-      "final_tot_score": "2505",
+      "prev_tot_score": "1211",
+      "tot_score": "2505",
       "rank_m": "4",
       "rank_s": "5",
       "rank_p": "4",
@@ -231,25 +231,25 @@
       "pc_score": "69.6",
       "songs": [
         {
-          "title": "For The Sake Of Auld Lang Syne",
+          "name": "For The Sake Of Auld Lang Syne",
           "m": "215",
           "s": "199",
           "p": "198"
         },
         {
-          "title": "I Want You, I Need You, I Love You",
+          "name": "I Want You, I Need You, I Love You",
           "m": "195",
           "s": "198",
           "p": "206"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "439",
           "s": "425",
           "p": "430"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -269,8 +269,8 @@
       ]
     },
     {
-      "tot_score": "1251",
-      "final_tot_score": "2495",
+      "prev_tot_score": "1251",
+      "tot_score": "2495",
       "rank_m": "5",
       "rank_s": "4",
       "rank_p": "6",
@@ -279,25 +279,25 @@
       "pc_score": "69.3",
       "songs": [
         {
-          "title": "Rock-A - Bye Your Baby With A Dixie Melody",
+          "name": "Rock-A - Bye Your Baby With A Dixie Melody",
           "m": "216",
           "s": "201",
           "p": "212"
         },
         {
-          "title": "White Cliffs Of Dover",
+          "name": "White Cliffs Of Dover",
           "m": "203",
           "s": "208",
           "p": "211"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "419",
           "s": "420",
           "p": "405"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Kim Handel"
@@ -317,8 +317,8 @@
       ]
     },
     {
-      "tot_score": "1241",
-      "final_tot_score": "2470",
+      "prev_tot_score": "1241",
+      "tot_score": "2470",
       "rank_m": "6",
       "rank_s": "6",
       "rank_p": "5",
@@ -327,25 +327,25 @@
       "pc_score": "68.6",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "211",
           "s": "208",
           "p": "203"
         },
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "205",
           "s": "206",
           "p": "208"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "411",
           "s": "411",
           "p": "407"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Lea"

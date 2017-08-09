@@ -42,27 +42,27 @@
       "name": "Cherry Hartshorn"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     }
   ],
@@ -78,19 +78,19 @@
       "pc_score": "71.3",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "217",
           "s": "210",
           "p": "208"
         },
         {
-          "title": "Show Me Where The Good Times Are",
+          "name": "Show Me Where The Good Times Are",
           "m": "211",
           "s": "216",
           "p": "221"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jamie Braham"
@@ -119,19 +119,19 @@
       "pc_score": "70.6",
       "songs": [
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "208",
           "s": "204",
           "p": "213"
         },
         {
-          "title": "It's You",
+          "name": "It's You",
           "m": "208",
           "s": "219",
           "p": "218"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ehsaan Shivarani"
@@ -160,19 +160,19 @@
       "pc_score": "69.9",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "209",
           "s": "204",
           "p": "210"
         },
         {
-          "title": "Goodbye My Coney Island Baby",
+          "name": "Goodbye My Coney Island Baby",
           "m": "208",
           "s": "215",
           "p": "212"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joseph Spratt"
@@ -201,19 +201,19 @@
       "pc_score": "68.6",
       "songs": [
         {
-          "title": "I Love Being Here With You",
+          "name": "I Love Being Here With You",
           "m": "206",
           "s": "208",
           "p": "196"
         },
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "211",
           "s": "206",
           "p": "207"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Robert Gall"
@@ -242,19 +242,19 @@
       "pc_score": "63.2",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "185",
           "s": "194",
           "p": "183"
         },
         {
-          "title": "You Are So Beautiful",
+          "name": "You Are So Beautiful",
           "m": "191",
           "s": "192",
           "p": "192"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Rich Platt"
@@ -283,19 +283,19 @@
       "pc_score": "62.6",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "192",
           "s": "183",
           "p": "183"
         },
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "186",
           "s": "187",
           "p": "195"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jeremy Jacomet"
@@ -324,19 +324,19 @@
       "pc_score": "61.2",
       "songs": [
         {
-          "title": "I Love To Hear That Old Barbershop Style",
+          "name": "I Love To Hear That Old Barbershop Style",
           "m": "184",
           "s": "180",
           "p": "181"
         },
         {
-          "title": "When She Loved Me",
+          "name": "When She Loved Me",
           "m": "184",
           "s": "186",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Abe Armitage"

@@ -30,23 +30,23 @@
       "name": "Nicky Salt"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     }
   ],
@@ -62,19 +62,19 @@
       "pc_score": "75.0",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "152",
           "s": "151",
           "p": "152"
         },
         {
-          "title": "You Are The Girl I Love",
+          "name": "You Are The Girl I Love",
           "m": "149",
           "s": "149",
           "p": "147"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex"
@@ -103,19 +103,19 @@
       "pc_score": "67.2",
       "songs": [
         {
-          "title": "Make 'Em Laugh",
+          "name": "Make 'Em Laugh",
           "m": "137",
           "s": "136",
           "p": "137"
         },
         {
-          "title": "The Street Where We Live",
+          "name": "The Street Where We Live",
           "m": "133",
           "s": "132",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tom"
@@ -144,19 +144,19 @@
       "pc_score": "62.0",
       "songs": [
         {
-          "title": "The Story Of The Rose (Heart Of My Heart)",
+          "name": "The Story Of The Rose (Heart Of My Heart)",
           "m": "123",
           "s": "115",
           "p": "129"
         },
         {
-          "title": "Alexander's Ragtime Band",
+          "name": "Alexander's Ragtime Band",
           "m": "123",
           "s": "129",
           "p": "125"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Laurence"
@@ -181,23 +181,64 @@
       "rank_s": "3",
       "rank_p": "4",
       "rank": "4",
-      "name": "Cutting Edge 61.3 675 Ain't Misbehavin' If You Were The Only Girl In The World 108 106 122 119 113 107 5 3 5 Category rankings: 5: Quadzilla",
-      "pc_score": "56.3",
+      "name": "Cutting Edge",
+      "pc_score": "61.3",
       "songs": [
         {
-          "title": "I'm All Alone",
+          "name": "I'm All Alone",
           "m": "120",
           "s": "116",
           "p": "120"
         },
         {
-          "title": "When Uncle Joe Plays A Rag On His Old Banjo",
+          "name": "When Uncle Joe Plays A Rag On His Old Banjo",
           "m": "123",
           "s": "129",
           "p": "127"
         }
       ],
-      "singers": [
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
+        }
+      ]
+    },
+    {
+      "tot_score": "675",
+      "rank_m": "5",
+      "rank_s": "5",
+      "rank_p": "3",
+      "rank": "5",
+      "name": "Quadzilla",
+      "pc_score": "56.3",
+      "songs": [
+        {
+          "name": "Ain't Misbehavin'",
+          "m": "108",
+          "s": "122",
+          "p": "106"
+        },
+        {
+          "name": "If You Were The Only Girl In The World",
+          "m": "119",
+          "s": "107",
+          "p": "113"
+        }
+      ],
+      "members": [
         {
           "part": "tenor",
           "name": "Joe"

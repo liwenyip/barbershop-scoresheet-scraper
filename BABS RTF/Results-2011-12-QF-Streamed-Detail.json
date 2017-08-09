@@ -1,0 +1,676 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2011-12-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "SOUTHPORT",
+  "year": "2011/12",
+  "type": "q",
+  "date": "27/05/2012",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Bob O'Brien"
+    },
+    {
+      "cat": "a",
+      "name": "Sam Roberts"
+    },
+    {
+      "cat": "a",
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Musical Island Boys",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Childhood",
+          "m": 264,
+          "p": 257,
+          "s": 257,
+          "tot_score": 778,
+          "pc_score": 86.4,
+          "m_pc": 88.0,
+          "p_pc": 85.7,
+          "s_pc": 85.7
+        },
+        {
+          "n": 1,
+          "name": "If I Can Dream",
+          "m": 263,
+          "p": 264,
+          "s": 243,
+          "tot_score": 770,
+          "pc_score": 85.6,
+          "m_pc": 87.7,
+          "p_pc": 88.0,
+          "s_pc": 81.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 520.0,
+          "p": 519.0,
+          "s": 516.0,
+          "tot_score": 1555.0,
+          "pc_score": 86.4,
+          "m_pc": 86.7,
+          "p_pc": 86.5,
+          "s_pc": 86.0
+        }
+      ],
+      "n": 4,
+      "m": 1047.0,
+      "m_pc": 87.3,
+      "p": 1040.0,
+      "p_pc": 86.7,
+      "s": 1016.0,
+      "s_pc": 84.7,
+      "tot_score": 3103.0,
+      "pc_score": 86.2
+    },
+    {
+      "rank": 2,
+      "name": "Crossfire",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian James"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan Whinyates"
+        },
+        {
+          "part": "bari",
+          "name": "Neil Firth"
+        },
+        {
+          "part": "bass",
+          "name": "Andrew Walker"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Raining In My Heart",
+          "m": 231,
+          "p": 235,
+          "s": 238,
+          "tot_score": 704,
+          "pc_score": 78.2,
+          "m_pc": 77.0,
+          "p_pc": 78.3,
+          "s_pc": 79.3
+        },
+        {
+          "n": 1,
+          "name": "They Can't Take That Away From Me",
+          "m": 234,
+          "p": 230,
+          "s": 235,
+          "tot_score": 699,
+          "pc_score": 77.7,
+          "m_pc": 78.0,
+          "p_pc": 76.7,
+          "s_pc": 78.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 474.0,
+          "p": 472.0,
+          "s": 468.0,
+          "tot_score": 1414.0,
+          "pc_score": 78.6,
+          "m_pc": 79.0,
+          "p_pc": 78.7,
+          "s_pc": 78.0
+        }
+      ],
+      "n": 4,
+      "m": 939.0,
+      "m_pc": 78.3,
+      "p": 937.0,
+      "p_pc": 78.1,
+      "s": 941.0,
+      "s_pc": 78.4,
+      "tot_score": 2817.0,
+      "pc_score": 78.3
+    },
+    {
+      "rank": 3,
+      "name": "Steel",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy Foster"
+        },
+        {
+          "part": "lead",
+          "name": "Keith Rees"
+        },
+        {
+          "part": "bari",
+          "name": "Dale Kynaston"
+        },
+        {
+          "part": "bass",
+          "name": "Andy Funnell"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Impossible",
+          "m": 234,
+          "p": 229,
+          "s": 243,
+          "tot_score": 706,
+          "pc_score": 78.4,
+          "m_pc": 78.0,
+          "p_pc": 76.3,
+          "s_pc": 81.0
+        },
+        {
+          "n": 1,
+          "name": "Yes Sir, That's My Baby",
+          "m": 242,
+          "p": 239,
+          "s": 241,
+          "tot_score": 722,
+          "pc_score": 80.2,
+          "m_pc": 80.7,
+          "p_pc": 79.7,
+          "s_pc": 80.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 456.0,
+          "p": 456.0,
+          "s": 460.0,
+          "tot_score": 1372.0,
+          "pc_score": 76.2,
+          "m_pc": 76.0,
+          "p_pc": 76.0,
+          "s_pc": 76.7
+        }
+      ],
+      "n": 4,
+      "m": 932.0,
+      "m_pc": 77.7,
+      "p": 924.0,
+      "p_pc": 77.0,
+      "s": 944.0,
+      "s_pc": 78.7,
+      "tot_score": 2800.0,
+      "pc_score": 77.8
+    },
+    {
+      "rank": 4,
+      "name": "IQ",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Mike Warner"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Schofield"
+        },
+        {
+          "part": "bari",
+          "name": "Peter Nugent"
+        },
+        {
+          "part": "bass",
+          "name": "Mike Taylor"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Oh! Look At Me Now",
+          "m": 236,
+          "p": 222,
+          "s": 213,
+          "tot_score": 671,
+          "pc_score": 74.6,
+          "m_pc": 78.7,
+          "p_pc": 74.0,
+          "s_pc": 71.0
+        },
+        {
+          "n": 1,
+          "name": "Daddy's Little Girl",
+          "m": 218,
+          "p": 213,
+          "s": 209,
+          "tot_score": 640,
+          "pc_score": 71.1,
+          "m_pc": 72.7,
+          "p_pc": 71.0,
+          "s_pc": 69.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 452.0,
+          "p": 437.0,
+          "s": 444.0,
+          "tot_score": 1333.0,
+          "pc_score": 74.1,
+          "m_pc": 75.3,
+          "p_pc": 72.8,
+          "s_pc": 74.0
+        }
+      ],
+      "n": 4,
+      "m": 906.0,
+      "m_pc": 75.5,
+      "p": 872.0,
+      "p_pc": 72.7,
+      "s": 866.0,
+      "s_pc": 72.2,
+      "tot_score": 2644.0,
+      "pc_score": 73.4
+    },
+    {
+      "rank": 5,
+      "name": "Mach 4",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alex Kaiserman"
+        },
+        {
+          "part": "lead",
+          "name": "Tim Briggs"
+        },
+        {
+          "part": "bari",
+          "name": "Antoine Kaiserman"
+        },
+        {
+          "part": "bass",
+          "name": "Joe White"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Yesterday I Heard The Rain",
+          "m": 204,
+          "p": 216,
+          "s": 209,
+          "tot_score": 629,
+          "pc_score": 69.9,
+          "m_pc": 68.0,
+          "p_pc": 72.0,
+          "s_pc": 69.7
+        },
+        {
+          "n": 1,
+          "name": "Desperado",
+          "m": 217,
+          "p": 217,
+          "s": 205,
+          "tot_score": 639,
+          "pc_score": 71.0,
+          "m_pc": 72.3,
+          "p_pc": 72.3,
+          "s_pc": 68.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 448.0,
+          "p": 438.0,
+          "s": 457.0,
+          "tot_score": 1343.0,
+          "pc_score": 74.6,
+          "m_pc": 74.7,
+          "p_pc": 73.0,
+          "s_pc": 76.2
+        }
+      ],
+      "n": 4,
+      "m": 869.0,
+      "m_pc": 72.4,
+      "p": 871.0,
+      "p_pc": 72.6,
+      "s": 871.0,
+      "s_pc": 72.6,
+      "tot_score": 2611.0,
+      "pc_score": 72.5
+    },
+    {
+      "rank": 6,
+      "name": "Fish & Chaps",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard Fisher"
+        },
+        {
+          "part": "lead",
+          "name": "Steve Emery"
+        },
+        {
+          "part": "bari",
+          "name": "Joe Knight"
+        },
+        {
+          "part": "bass",
+          "name": "Phil Drage"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When It Comes To Lovin' The Girls",
+          "m": 220,
+          "p": 214,
+          "s": 218,
+          "tot_score": 652,
+          "pc_score": 72.4,
+          "m_pc": 73.3,
+          "p_pc": 71.3,
+          "s_pc": 72.7
+        },
+        {
+          "n": 1,
+          "name": "You Don't Know Me",
+          "m": 222,
+          "p": 215,
+          "s": 218,
+          "tot_score": 655,
+          "pc_score": 72.8,
+          "m_pc": 74.0,
+          "p_pc": 71.7,
+          "s_pc": 72.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 420.0,
+          "p": 416.0,
+          "s": 425.0,
+          "tot_score": 1261.0,
+          "pc_score": 70.1,
+          "m_pc": 70.0,
+          "p_pc": 69.3,
+          "s_pc": 70.8
+        }
+      ],
+      "n": 4,
+      "m": 862.0,
+      "m_pc": 71.8,
+      "p": 845.0,
+      "p_pc": 70.4,
+      "s": 861.0,
+      "s_pc": 71.8,
+      "tot_score": 2568.0,
+      "pc_score": 71.3
+    },
+    {
+      "rank": 7,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon Hunt"
+        },
+        {
+          "part": "lead",
+          "name": "Simon Bond"
+        },
+        {
+          "part": "bari",
+          "name": "Jack Haslam"
+        },
+        {
+          "part": "bass",
+          "name": "John Clarke"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Orange Coloured Sky",
+          "m": 200,
+          "p": 204,
+          "s": 195,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 66.7,
+          "p_pc": 68.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 189,
+          "p": 198,
+          "s": 191,
+          "tot_score": 578,
+          "pc_score": 64.2,
+          "m_pc": 63.0,
+          "p_pc": 66.0,
+          "s_pc": 63.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 417.0,
+          "p": 427.0,
+          "s": 413.0,
+          "tot_score": 1257.0,
+          "pc_score": 69.8,
+          "m_pc": 69.5,
+          "p_pc": 71.2,
+          "s_pc": 68.8
+        }
+      ],
+      "n": 4,
+      "m": 806.0,
+      "m_pc": 67.2,
+      "p": 829.0,
+      "p_pc": 69.1,
+      "s": 799.0,
+      "s_pc": 66.6,
+      "tot_score": 2434.0,
+      "pc_score": 67.6
+    },
+    {
+      "rank": 8,
+      "name": "Park Street",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Laurence Hasson"
+        },
+        {
+          "part": "lead",
+          "name": "Alastair Hay-Plumb"
+        },
+        {
+          "part": "bari",
+          "name": "David Foot"
+        },
+        {
+          "part": "bass",
+          "name": "Simon Arnott"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "If All My Dreams Were Made Of Gold",
+          "m": 192,
+          "p": 203,
+          "s": 197,
+          "tot_score": 592,
+          "pc_score": 65.8,
+          "m_pc": 64.0,
+          "p_pc": 67.7,
+          "s_pc": 65.7
+        },
+        {
+          "n": 1,
+          "name": "Look At Me Now",
+          "m": 195,
+          "p": 201,
+          "s": 203,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 65.0,
+          "p_pc": 67.0,
+          "s_pc": 67.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 420.0,
+          "p": 388.0,
+          "s": 427.0,
+          "tot_score": 1235.0,
+          "pc_score": 68.6,
+          "m_pc": 70.0,
+          "p_pc": 64.7,
+          "s_pc": 71.2
+        }
+      ],
+      "n": 4,
+      "m": 807.0,
+      "m_pc": 67.3,
+      "p": 792.0,
+      "p_pc": 66.0,
+      "s": 827.0,
+      "s_pc": 68.9,
+      "tot_score": 2426.0,
+      "pc_score": 67.4
+    },
+    {
+      "rank": 9,
+      "name": "MC Squared",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Chris Smith"
+        },
+        {
+          "part": "lead",
+          "name": "Colin Barley"
+        },
+        {
+          "part": "bari",
+          "name": "Martin Baglow"
+        },
+        {
+          "part": "bass",
+          "name": "Martin Ford"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just In Time",
+          "m": 204,
+          "p": 203,
+          "s": 205,
+          "tot_score": 612,
+          "pc_score": 68.0,
+          "m_pc": 68.0,
+          "p_pc": 67.7,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "The Sunshine Of Your Smile",
+          "m": 209,
+          "p": 200,
+          "s": 202,
+          "tot_score": 611,
+          "pc_score": 67.9,
+          "m_pc": 69.7,
+          "p_pc": 66.7,
+          "s_pc": 67.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 406.0,
+          "p": 396.0,
+          "s": 396.0,
+          "tot_score": 1198.0,
+          "pc_score": 66.6,
+          "m_pc": 67.7,
+          "p_pc": 66.0,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 4,
+      "m": 819.0,
+      "m_pc": 68.3,
+      "p": 799.0,
+      "p_pc": 66.6,
+      "s": 803.0,
+      "s_pc": 66.9,
+      "tot_score": 2421.0,
+      "pc_score": 67.3
+    }
+  ]
+}

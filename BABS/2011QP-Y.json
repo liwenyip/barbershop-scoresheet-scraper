@@ -42,23 +42,23 @@
       "name": "Paula T-Williams"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "68.1",
       "songs": [
         {
-          "title": "You're The Girl I Love",
+          "name": "You're The Girl I Love",
           "m": "203",
           "s": "198",
           "p": "206"
         },
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "204",
           "s": "210",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex"
@@ -102,6 +102,47 @@
         {
           "part": "bass",
           "name": "Joe"
+        }
+      ]
+    },
+    {
+      "tot_score": "824",
+      "rank_m": "2",
+      "rank_s": "2",
+      "rank_p": "2",
+      "rank": "2",
+      "name": "Quadzilla",
+      "pc_score": "45.8",
+      "songs": [
+        {
+          "name": "It's Only A Paper Moon",
+          "m": "134",
+          "s": "135",
+          "p": "122"
+        },
+        {
+          "name": "If You Were The Only Girl In The World",
+          "m": "128",
+          "s": "150",
+          "p": "155"
+        }
+      ],
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
         }
       ]
     }

@@ -1,0 +1,400 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-QP-STH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "SOUTHERN QUARTET PRELIMS",
+  "location": "BREAN SANDS",
+  "year": "1997/98",
+  "type": "q",
+  "date": "06/12/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "High Fidelity",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 128,
+          "p": 135,
+          "s": 144,
+          "tot_score": 407,
+          "pc_score": 67.8,
+          "m_pc": 64.0,
+          "p_pc": 67.5,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 131,
+          "p": 141,
+          "s": 135,
+          "tot_score": 407,
+          "pc_score": 67.8,
+          "m_pc": 65.5,
+          "p_pc": 70.5,
+          "s_pc": 67.5
+        }
+      ],
+      "n": 2,
+      "m": 259,
+      "m_pc": 64.8,
+      "p": 276,
+      "p_pc": 69.0,
+      "s": 279,
+      "s_pc": 69.8,
+      "tot_score": 814,
+      "pc_score": 67.8
+    },
+    {
+      "rank": 2,
+      "name": "T.v.q",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 129,
+          "p": 129,
+          "s": 133,
+          "tot_score": 391,
+          "pc_score": 65.2,
+          "m_pc": 64.5,
+          "p_pc": 64.5,
+          "s_pc": 66.5
+        },
+        {
+          "n": 1,
+          "name": "Whippoorwhill / I Love You Medley",
+          "m": 127,
+          "p": 129,
+          "s": 130,
+          "tot_score": 386,
+          "pc_score": 64.3,
+          "m_pc": 63.5,
+          "p_pc": 64.5,
+          "s_pc": 65.0
+        }
+      ],
+      "n": 2,
+      "m": 256,
+      "m_pc": 64.0,
+      "p": 258,
+      "p_pc": 64.5,
+      "s": 263,
+      "s_pc": 65.8,
+      "tot_score": 777,
+      "pc_score": 64.8
+    },
+    {
+      "rank": 3,
+      "name": "Wheel Of Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Gang That Sang 'Heart Of My Heart'",
+          "m": 124,
+          "p": 131,
+          "s": 125,
+          "tot_score": 380,
+          "pc_score": 63.3,
+          "m_pc": 62.0,
+          "p_pc": 65.5,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 118,
+          "p": 136,
+          "s": 116,
+          "tot_score": 370,
+          "pc_score": 61.7,
+          "m_pc": 59.0,
+          "p_pc": 68.0,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 242,
+      "m_pc": 60.5,
+      "p": 267,
+      "p_pc": 66.8,
+      "s": 241,
+      "s_pc": 60.3,
+      "tot_score": 750,
+      "pc_score": 62.5
+    },
+    {
+      "rank": 4,
+      "name": "Bagatelle",
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's What I Call A Pal",
+          "m": 121,
+          "p": 128,
+          "s": 112,
+          "tot_score": 361,
+          "pc_score": 60.2,
+          "m_pc": 60.5,
+          "p_pc": 64.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "That Slippery Slide Trombone",
+          "m": 113,
+          "p": 127,
+          "s": 102,
+          "tot_score": 342,
+          "pc_score": 57.0,
+          "m_pc": 56.5,
+          "p_pc": 63.5,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 234,
+      "m_pc": 58.5,
+      "p": 255,
+      "p_pc": 63.8,
+      "s": 214,
+      "s_pc": 53.5,
+      "tot_score": 703,
+      "pc_score": 58.6
+    },
+    {
+      "rank": 5,
+      "name": "The Back Room Boys",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who Told You",
+          "m": 108,
+          "p": 114,
+          "s": 104,
+          "tot_score": 326,
+          "pc_score": 54.3,
+          "m_pc": 54.0,
+          "p_pc": 57.0,
+          "s_pc": 52.0
+        },
+        {
+          "n": 1,
+          "name": "I Want A Girl (Just Like The Girl That Married Dear Old Dad)",
+          "m": 103,
+          "p": 110,
+          "s": 103,
+          "tot_score": 316,
+          "pc_score": 52.7,
+          "m_pc": 51.5,
+          "p_pc": 55.0,
+          "s_pc": 51.5
+        }
+      ],
+      "n": 2,
+      "m": 211,
+      "m_pc": 52.8,
+      "p": 224,
+      "p_pc": 56.0,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 642,
+      "pc_score": 53.5
+    },
+    {
+      "rank": 6,
+      "name": "Southern Brand",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Hard Hearted Hannah",
+          "m": 98,
+          "p": 108,
+          "s": 110,
+          "tot_score": 316,
+          "pc_score": 52.7,
+          "m_pc": 49.0,
+          "p_pc": 54.0,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "Mistakes",
+          "m": 99,
+          "p": 97,
+          "s": 106,
+          "tot_score": 302,
+          "pc_score": 50.3,
+          "m_pc": 49.5,
+          "p_pc": 48.5,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 197,
+      "m_pc": 49.3,
+      "p": 205,
+      "p_pc": 51.3,
+      "s": 216,
+      "s_pc": 54.0,
+      "tot_score": 618,
+      "pc_score": 51.5
+    },
+    {
+      "rank": 7,
+      "name": "The Late Shift",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 92,
+          "p": 101,
+          "s": 101,
+          "tot_score": 294,
+          "pc_score": 49.0,
+          "m_pc": 46.0,
+          "p_pc": 50.5,
+          "s_pc": 50.5
+        },
+        {
+          "n": 1,
+          "name": "Five Foot Two",
+          "m": 103,
+          "p": 110,
+          "s": 105,
+          "tot_score": 318,
+          "pc_score": 53.0,
+          "m_pc": 51.5,
+          "p_pc": 55.0,
+          "s_pc": 52.5
+        }
+      ],
+      "n": 2,
+      "m": 195,
+      "m_pc": 48.8,
+      "p": 211,
+      "p_pc": 52.8,
+      "s": 206,
+      "s_pc": 51.5,
+      "tot_score": 612,
+      "pc_score": 51.0
+    },
+    {
+      "rank": 8,
+      "name": "Time Out",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just One More Chance",
+          "m": 93,
+          "p": 101,
+          "s": 99,
+          "tot_score": 293,
+          "pc_score": 48.8,
+          "m_pc": 46.5,
+          "p_pc": 50.5,
+          "s_pc": 49.5
+        },
+        {
+          "n": 1,
+          "name": "Baby Won't You Please Come Home",
+          "m": 98,
+          "p": 100,
+          "s": 88,
+          "tot_score": 286,
+          "pc_score": 47.7,
+          "m_pc": 49.0,
+          "p_pc": 50.0,
+          "s_pc": 44.0
+        }
+      ],
+      "n": 2,
+      "m": 191,
+      "m_pc": 47.8,
+      "p": 201,
+      "p_pc": 50.3,
+      "s": 187,
+      "s_pc": 46.8,
+      "tot_score": 579,
+      "pc_score": 48.3
+    },
+    {
+      "rank": 9,
+      "name": "Side By Side",
+      "songs": [
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 95,
+          "p": 102,
+          "s": 87,
+          "tot_score": 284,
+          "pc_score": 47.3,
+          "m_pc": 47.5,
+          "p_pc": 51.0,
+          "s_pc": 43.5
+        },
+        {
+          "n": 1,
+          "name": "Yes Sir, That's My Baby",
+          "m": 99,
+          "p": 95,
+          "s": 87,
+          "tot_score": 281,
+          "pc_score": 46.8,
+          "m_pc": 49.5,
+          "p_pc": 47.5,
+          "s_pc": 43.5
+        }
+      ],
+      "n": 2,
+      "m": 194,
+      "m_pc": 48.5,
+      "p": 197,
+      "p_pc": 49.3,
+      "s": 174,
+      "s_pc": 43.5,
+      "tot_score": 565,
+      "pc_score": 47.1
+    }
+  ]
+}

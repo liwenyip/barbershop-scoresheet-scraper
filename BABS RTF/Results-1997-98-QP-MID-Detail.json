@@ -1,0 +1,283 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-QP-MID-Detail.txt",
+  "assoc": "BABS",
+  "contest": "MIDLANDS QUARTET PRELIMS",
+  "location": "DERBY",
+  "year": "1997/98",
+  "type": "q",
+  "date": "08/11/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Nickelodeon",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 128,
+          "p": 137,
+          "s": 124,
+          "tot_score": 389,
+          "pc_score": 64.8,
+          "m_pc": 64.0,
+          "p_pc": 68.5,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 132,
+          "p": 145,
+          "s": 120,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 66.0,
+          "p_pc": 72.5,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 260,
+      "m_pc": 65.0,
+      "p": 282,
+      "p_pc": 70.5,
+      "s": 244,
+      "s_pc": 61.0,
+      "tot_score": 786,
+      "pc_score": 65.5
+    },
+    {
+      "rank": 2,
+      "name": "Rapport",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just A Cottage Small",
+          "m": 121,
+          "p": 122,
+          "s": 124,
+          "tot_score": 367,
+          "pc_score": 61.2,
+          "m_pc": 60.5,
+          "p_pc": 61.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "Pass The Apples / There's A Little Bit Of Bad In Every Good ",
+          "m": 129,
+          "p": 134,
+          "s": 115,
+          "tot_score": 378,
+          "pc_score": 63.0,
+          "m_pc": 64.5,
+          "p_pc": 67.0,
+          "s_pc": 57.5
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 256,
+      "p_pc": 64.0,
+      "s": 239,
+      "s_pc": 59.8,
+      "tot_score": 745,
+      "pc_score": 62.1
+    },
+    {
+      "rank": 3,
+      "name": "Midlife Crisis",
+      "songs": [
+        {
+          "n": 1,
+          "name": "We Kinda Miss Those Good Old Songs",
+          "m": 121,
+          "p": 123,
+          "s": 108,
+          "tot_score": 352,
+          "pc_score": 58.7,
+          "m_pc": 60.5,
+          "p_pc": 61.5,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "That Old Quartet Of Mine",
+          "m": 111,
+          "p": 119,
+          "s": 99,
+          "tot_score": 329,
+          "pc_score": 54.8,
+          "m_pc": 55.5,
+          "p_pc": 59.5,
+          "s_pc": 49.5
+        }
+      ],
+      "n": 2,
+      "m": 232,
+      "m_pc": 58.0,
+      "p": 242,
+      "p_pc": 60.5,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 681,
+      "pc_score": 56.8
+    },
+    {
+      "rank": 4,
+      "name": "Centenary Square",
+      "songs": [
+        {
+          "n": 1,
+          "name": "If There'd Never Been An Ireland",
+          "m": 108,
+          "p": 100,
+          "s": 89,
+          "tot_score": 297,
+          "pc_score": 49.5,
+          "m_pc": 54.0,
+          "p_pc": 50.0,
+          "s_pc": 44.5
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 106,
+          "p": 96,
+          "s": 83,
+          "tot_score": 285,
+          "pc_score": 47.5,
+          "m_pc": 53.0,
+          "p_pc": 48.0,
+          "s_pc": 41.5
+        }
+      ],
+      "n": 2,
+      "m": 214,
+      "m_pc": 53.5,
+      "p": 196,
+      "p_pc": 49.0,
+      "s": 172,
+      "s_pc": 43.0,
+      "tot_score": 582,
+      "pc_score": 48.5
+    },
+    {
+      "rank": 5,
+      "name": "Fourth Avenue",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Dry Your Tears When You Cry?",
+          "m": 111,
+          "p": 109,
+          "s": 86,
+          "tot_score": 306,
+          "pc_score": 51.0,
+          "m_pc": 55.5,
+          "p_pc": 54.5,
+          "s_pc": 43.0
+        },
+        {
+          "n": 1,
+          "name": "South Rampart Street Parade",
+          "m": 84,
+          "p": 99,
+          "s": 71,
+          "tot_score": 254,
+          "pc_score": 42.3,
+          "m_pc": 42.0,
+          "p_pc": 49.5,
+          "s_pc": 35.5
+        }
+      ],
+      "n": 2,
+      "m": 195,
+      "m_pc": 48.8,
+      "p": 208,
+      "p_pc": 52.0,
+      "s": 157,
+      "s_pc": 39.3,
+      "tot_score": 560,
+      "pc_score": 46.7
+    },
+    {
+      "rank": 6,
+      "name": "Broadway",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Oh! You Beautiful Doll",
+          "m": 98,
+          "p": 93,
+          "s": 76,
+          "tot_score": 267,
+          "pc_score": 44.5,
+          "m_pc": 49.0,
+          "p_pc": 46.5,
+          "s_pc": 38.0
+        },
+        {
+          "n": 1,
+          "name": "The Song Is Ended",
+          "m": 85,
+          "p": 88,
+          "s": 68,
+          "tot_score": 241,
+          "pc_score": 40.2,
+          "m_pc": 42.5,
+          "p_pc": 44.0,
+          "s_pc": 34.0
+        }
+      ],
+      "n": 2,
+      "m": 183,
+      "m_pc": 45.8,
+      "p": 181,
+      "p_pc": 45.3,
+      "s": 144,
+      "s_pc": 36.0,
+      "tot_score": 508,
+      "pc_score": 42.3
+    }
+  ]
+}

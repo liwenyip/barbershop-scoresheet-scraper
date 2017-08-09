@@ -30,15 +30,15 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     }
   ],
@@ -51,21 +51,26 @@
       "rank_p": "1",
       "rank": "1",
       "name": "Fascinating Rhythm",
-      "director": "Jo Dean",
       "size": "40",
       "pc_score": "71.8",
       "songs": [
         {
-          "title": "Flying Sinatra Medley",
+          "name": "Flying Sinatra Medley",
           "m": "142",
           "s": "140",
           "p": "141"
         },
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "140",
           "s": "149",
           "p": "150"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Jo Dean"
         }
       ]
     },
@@ -76,21 +81,26 @@
       "rank_p": "2",
       "rank": "2",
       "name": "Bristol Fashion",
-      "director": "Craig Kehoe",
       "size": "47",
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "If I Love Again",
+          "name": "If I Love Again",
           "m": "125",
           "s": "129",
           "p": "129"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "131",
           "s": "135",
           "p": "134"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Craig Kehoe"
         }
       ]
     },
@@ -101,21 +111,26 @@
       "rank_p": "4",
       "rank": "3",
       "name": "The Tudor Roses",
-      "director": "Di Crosfield",
       "size": "29",
       "pc_score": "62.2",
       "songs": [
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "127",
           "s": "116",
           "p": "129"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "124",
           "s": "124",
           "p": "126"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Di Crosfield"
         }
       ]
     },
@@ -126,21 +141,26 @@
       "rank_p": "3",
       "rank": "4",
       "name": "Avon Harmony",
-      "director": "David Proud",
       "size": "27",
       "pc_score": "60.3",
       "songs": [
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "120",
           "s": "118",
           "p": "119"
         },
         {
-          "title": "The Moment I Saw Your Eyes",
+          "name": "The Moment I Saw Your Eyes",
           "m": "124",
           "s": "120",
           "p": "122"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "David Proud"
         }
       ]
     },
@@ -151,21 +171,26 @@
       "rank_p": "5",
       "rank": "5",
       "name": "Brunel Harmony",
-      "director": "Delyth Knight",
       "size": "18",
       "pc_score": "57.5",
       "songs": [
         {
-          "title": "A Nightingale Sang In Berkeley Square",
+          "name": "A Nightingale Sang In Berkeley Square",
           "m": "115",
           "s": "120",
           "p": "121"
         },
         {
-          "title": "Deed I Do / Put Your Arms Around Me Honey Medley",
+          "name": "Deed I Do / Put Your Arms Around Me Honey Medley",
           "m": "115",
           "s": "109",
           "p": "110"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Delyth Knight"
         }
       ]
     }

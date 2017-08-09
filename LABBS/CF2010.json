@@ -42,27 +42,27 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     }
   ],
@@ -75,21 +75,26 @@
       "rank_p": "1",
       "rank": "1",
       "name": "Amersham A Cappella",
-      "director": "Helen Lappert",
       "size": "51",
       "pc_score": "74.9",
       "songs": [
         {
-          "title": "Ain't Misbehavin'",
+          "name": "Ain't Misbehavin'",
           "m": "223",
           "s": "225",
           "p": "221"
         },
         {
-          "title": "The Joint Is Jumpin'",
+          "name": "The Joint Is Jumpin'",
           "m": "227",
           "s": "226",
           "p": "226"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Helen Lappert"
         }
       ]
     },
@@ -100,21 +105,26 @@
       "rank_p": "2",
       "rank": "2",
       "name": "Signature",
-      "director": "Paul Jeanes",
       "size": "24",
       "pc_score": "74.8",
       "songs": [
         {
-          "title": "Come Dance With Me",
+          "name": "Come Dance With Me",
           "m": "222",
           "s": "225",
           "p": "228"
         },
         {
-          "title": "Only You",
+          "name": "Only You",
           "m": "225",
           "s": "227",
           "p": "219"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Paul Jeanes"
         }
       ]
     },
@@ -125,21 +135,26 @@
       "rank_p": "3",
       "rank": "3",
       "name": "Green Street Blues",
-      "director": "Peter Kennedy",
       "size": "31",
       "pc_score": "74.2",
       "songs": [
         {
-          "title": "What Kind Of Fool Am I?",
+          "name": "What Kind Of Fool Am I?",
           "m": "221",
           "s": "224",
           "p": "224"
         },
         {
-          "title": "Straighten Up And Fly Right",
+          "name": "Straighten Up And Fly Right",
           "m": "222",
           "s": "220",
           "p": "224"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Peter Kennedy"
         }
       ]
     },
@@ -150,21 +165,26 @@
       "rank_p": "4",
       "rank": "4",
       "name": "Second City Sound",
-      "director": "Rod Butcher",
       "size": "43",
       "pc_score": "71.6",
       "songs": [
         {
-          "title": "It's You",
+          "name": "It's You",
           "m": "217",
           "s": "212",
           "p": "216"
         },
         {
-          "title": "I Want You, I Need You, I Love You",
+          "name": "I Want You, I Need You, I Love You",
           "m": "212",
           "s": "216",
           "p": "216"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Rod Butcher"
         }
       ]
     },
@@ -175,21 +195,26 @@
       "rank_p": "6",
       "rank": "5",
       "name": "Capital Connection",
-      "director": "Debi Cox",
       "size": "33",
       "pc_score": "71.5",
       "songs": [
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "211",
           "s": "206",
           "p": "218"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "213",
           "s": "219",
           "p": "220"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Debi Cox"
         }
       ]
     },
@@ -200,21 +225,26 @@
       "rank_p": "5",
       "rank": "6",
       "name": "Belles Of Three Spires",
-      "director": "Timm Barkworth",
       "size": "54",
       "pc_score": "71.1",
       "songs": [
         {
-          "title": "I Never Meant To Fall In Love",
+          "name": "I Never Meant To Fall In Love",
           "m": "211",
           "s": "211",
           "p": "211"
         },
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "210",
           "s": "216",
           "p": "220"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Timm Barkworth"
         }
       ]
     },
@@ -225,21 +255,26 @@
       "rank_p": "7",
       "rank": "7",
       "name": "Crystal Chords",
-      "director": "Monica Funnell",
       "size": "50",
       "pc_score": "68.3",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "201",
           "s": "200",
           "p": "201"
         },
         {
-          "title": "The Nearness Of You",
+          "name": "The Nearness Of You",
           "m": "197",
           "s": "218",
           "p": "212"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Monica Funnell"
         }
       ]
     },
@@ -250,21 +285,26 @@
       "rank_p": "11",
       "rank": "8",
       "name": "Red Rosettes",
-      "director": "Katy Phillips",
       "size": "45",
       "pc_score": "66.2",
       "songs": [
         {
-          "title": "I Never Meant To Fall In Love",
+          "name": "I Never Meant To Fall In Love",
           "m": "195",
           "s": "191",
           "p": "193"
         },
         {
-          "title": "I Can't Give You Anything But Love / I've Gotta Feeling I'm Falling",
+          "name": "I Can't Give You Anything But Love / I've Gotta Feeling I'm Falling",
           "m": "194",
           "s": "205",
           "p": "213"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Katy Phillips"
         }
       ]
     },
@@ -275,21 +315,26 @@
       "rank_p": "9",
       "rank": "9",
       "name": "Silver Lining",
-      "director": "Sara Jackson",
       "size": "36",
       "pc_score": "65.9",
       "songs": [
         {
-          "title": "How Do You Like Your Eggs In The Morning?",
+          "name": "How Do You Like Your Eggs In The Morning?",
           "m": "194",
           "s": "196",
           "p": "196"
         },
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "198",
           "s": "202",
           "p": "201"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Sara Jackson"
         }
       ]
     },
@@ -300,21 +345,26 @@
       "rank_p": "8",
       "rank": "10",
       "name": "Wessex Harmony",
-      "director": "Franz Atkinson",
       "size": "41",
       "pc_score": "65.1",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "194",
           "s": "196",
           "p": "192"
         },
         {
-          "title": "Redhead",
+          "name": "Redhead",
           "m": "200",
           "s": "194",
           "p": "196"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Franz Atkinson"
         }
       ]
     },
@@ -325,21 +375,26 @@
       "rank_p": "12",
       "rank": "11",
       "name": "Fascinating Rhythm",
-      "director": "Jo Dean",
       "size": "35",
       "pc_score": "64.7",
       "songs": [
         {
-          "title": "Flying Sinatra Medley",
+          "name": "Flying Sinatra Medley",
           "m": "190",
           "s": "189",
           "p": "191"
         },
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "194",
           "s": "202",
           "p": "199"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Jo Dean"
         }
       ]
     },
@@ -350,21 +405,26 @@
       "rank_p": "10",
       "rank": "12",
       "name": "Bristol Fashion",
-      "director": "Craig Kehoe",
       "size": "43",
       "pc_score": "64.4",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "189",
           "s": "189",
           "p": "194"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "199",
           "s": "197",
           "p": "191"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Craig Kehoe"
         }
       ]
     },
@@ -375,21 +435,26 @@
       "rank_p": "13",
       "rank": "13",
       "name": "Mountain Harmony",
-      "director": "Derek Hollis",
       "size": "48",
       "pc_score": "63.0",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "187",
           "s": "184",
           "p": "182"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "187",
           "s": "197",
           "p": "197"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Derek Hollis"
         }
       ]
     },
@@ -400,21 +465,26 @@
       "rank_p": "15",
       "rank": "14",
       "name": "Pennine Chimes",
-      "director": "Pauline Corrieri",
       "size": "28",
       "pc_score": "62.7",
       "songs": [
         {
-          "title": "Fly Me To The Moon",
+          "name": "Fly Me To The Moon",
           "m": "191",
           "s": "177",
           "p": "197"
         },
         {
-          "title": "Side By Side",
+          "name": "Side By Side",
           "m": "179",
           "s": "194",
           "p": "190"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Pauline Corrieri"
         }
       ]
     },
@@ -425,21 +495,26 @@
       "rank_p": "17",
       "rank": "15",
       "name": "The Chordettes",
-      "director": "Peter Nugent",
       "size": "28",
       "pc_score": "60.2",
       "songs": [
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "182",
           "s": "177",
           "p": "170"
         },
         {
-          "title": "A Nightingale Sang In Berkeley Square",
+          "name": "A Nightingale Sang In Berkeley Square",
           "m": "174",
           "s": "190",
           "p": "191"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Peter Nugent"
         }
       ]
     },
@@ -450,21 +525,26 @@
       "rank_p": "14",
       "rank": "16",
       "name": "Avon Harmony",
-      "director": "Caroline Bamford",
       "size": "27",
       "pc_score": "60.1",
       "songs": [
         {
-          "title": "Red Hot",
+          "name": "Red Hot",
           "m": "180",
           "s": "177",
           "p": "183"
         },
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "183",
           "s": "180",
           "p": "178"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Caroline Bamford"
         }
       ]
     },
@@ -475,21 +555,26 @@
       "rank_p": "17",
       "rank": "17",
       "name": "Norwich Harmony",
-      "director": "Carol Logan",
       "size": "31",
       "pc_score": "59.6",
       "songs": [
         {
-          "title": "I'd Give A Million Tomorrows",
+          "name": "I'd Give A Million Tomorrows",
           "m": "181",
           "s": "174",
           "p": "179"
         },
         {
-          "title": "Lucky Day / I'm Sitting On Top Of The World Medley",
+          "name": "Lucky Day / I'm Sitting On Top Of The World Medley",
           "m": "177",
           "s": "179",
           "p": "182"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Carol Logan"
         }
       ]
     },
@@ -500,21 +585,26 @@
       "rank_p": "22",
       "rank": "18",
       "name": "Colne Harmony",
-      "director": "Maxine Udale",
       "size": "32",
       "pc_score": "58.0",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "179",
           "s": "169",
           "p": "172"
         },
         {
-          "title": "My Baby Just Cares For Me",
+          "name": "My Baby Just Cares For Me",
           "m": "169",
           "s": "177",
           "p": "178"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Maxine Udale"
         }
       ]
     },
@@ -525,21 +615,26 @@
       "rank_p": "19",
       "rank": "19",
       "name": "Brunel Harmony",
-      "director": "Delyth Knight",
       "size": "28",
       "pc_score": "57.6",
       "songs": [
         {
-          "title": "A Nightingale Sang In Berkeley Square",
+          "name": "A Nightingale Sang In Berkeley Square",
           "m": "174",
           "s": "170",
           "p": "171"
         },
         {
-          "title": "'Deed I Do / Put Your Arms Around Me Honey Medley",
+          "name": "'Deed I Do / Put Your Arms Around Me Honey Medley",
           "m": "176",
           "s": "175",
           "p": "171"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Delyth Knight"
         }
       ]
     },
@@ -550,21 +645,26 @@
       "rank_p": "16",
       "rank": "20",
       "name": "River City",
-      "director": "Valerie Harvey",
       "size": "27",
       "pc_score": "57.6",
       "songs": [
         {
-          "title": "A Room With A View",
+          "name": "A Room With A View",
           "m": "169",
           "s": "176",
           "p": "170"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "179",
           "s": "170",
           "p": "172"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Valerie Harvey"
         }
       ]
     },
@@ -575,21 +675,26 @@
       "rank_p": "21",
       "rank": "21",
       "name": "Mersey Harmony",
-      "director": "Lesley Crawford",
       "size": "41",
       "pc_score": "56.4",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "170",
           "s": "169",
           "p": "167"
         },
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "171",
           "s": "169",
           "p": "169"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lesley Crawford"
         }
       ]
     },
@@ -600,21 +705,26 @@
       "rank_p": "20",
       "rank": "22",
       "name": "Arun Sounds",
-      "director": "Madeleine Branson",
       "size": "20",
       "pc_score": "56.2",
       "songs": [
         {
-          "title": "I Love The Limelight",
+          "name": "I Love The Limelight",
           "m": "164",
           "s": "173",
           "p": "174"
         },
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "172",
           "s": "166",
           "p": "163"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Madeleine Branson"
         }
       ]
     },
@@ -625,21 +735,26 @@
       "rank_p": "24",
       "rank": "23",
       "name": "A Touch Of TLC",
-      "director": "Peter Jones",
       "size": "30",
       "pc_score": "55.9",
       "songs": [
         {
-          "title": "For The Sake Of Auld Lang Syne",
+          "name": "For The Sake Of Auld Lang Syne",
           "m": "165",
           "s": "164",
           "p": "170"
         },
         {
-          "title": "I Can't Give You Anything By Love / Steppin' Out With My Baby M",
+          "name": "I Can't Give You Anything By Love / Steppin' Out With My Baby M",
           "m": "169",
           "s": "174",
           "p": "165"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Peter Jones"
         }
       ]
     },
@@ -650,21 +765,26 @@
       "rank_p": "22",
       "rank": "24",
       "name": "Junction 14",
-      "director": "Hannah Washington",
       "size": "20",
       "pc_score": "55.7",
       "songs": [
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "168",
           "s": "166",
           "p": "164"
         },
         {
-          "title": "Orange Coloured Sky",
+          "name": "Orange Coloured Sky",
           "m": "172",
           "s": "165",
           "p": "167"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Hannah Washington"
         }
       ]
     },
@@ -675,21 +795,26 @@
       "rank_p": "25",
       "rank": "25",
       "name": "The Pitchpipers",
-      "director": "Marilyn Penketh",
       "size": "26",
       "pc_score": "54.1",
       "songs": [
         {
-          "title": "Many Years Ago",
+          "name": "Many Years Ago",
           "m": "166",
           "s": "154",
           "p": "169"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "165",
           "s": "160",
           "p": "159"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Marilyn Penketh"
         }
       ]
     },
@@ -700,21 +825,26 @@
       "rank_p": "27",
       "rank": "26",
       "name": "Wight Satin",
-      "director": "Anita Sides / Shirley Denne",
       "size": "21",
       "pc_score": "53.1",
       "songs": [
         {
-          "title": "Someone To Watch Over Me",
+          "name": "Someone To Watch Over Me",
           "m": "164",
           "s": "149",
           "p": "166"
         },
         {
-          "title": "Keep Young And Beautiful",
+          "name": "Keep Young And Beautiful",
           "m": "154",
           "s": "161",
           "p": "162"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Anita Sides / Shirley Denne"
         }
       ]
     },
@@ -725,21 +855,26 @@
       "rank_p": "26",
       "rank": "27",
       "name": "Spirit Of The South",
-      "director": "Lucy Van der Ven",
       "size": "19",
       "pc_score": "51.4",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "157",
           "s": "152",
           "p": "154"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "156",
           "s": "152",
           "p": "155"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lucy Van der Ven"
         }
       ]
     }

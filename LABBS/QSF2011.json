@@ -42,27 +42,27 @@
       "name": "Nancy Kelsall"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     }
   ],
@@ -78,19 +78,19 @@
       "pc_score": "74.6",
       "songs": [
         {
-          "title": "Goody Goodbye",
+          "name": "Goody Goodbye",
           "m": "224",
           "s": "223",
           "p": "226"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "225",
           "s": "224",
           "p": "221"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Veryan Zimber"
@@ -119,19 +119,19 @@
       "pc_score": "69.9",
       "songs": [
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "210",
           "s": "205",
           "p": "208"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "206",
           "s": "214",
           "p": "215"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lucy Edmonds"
@@ -160,19 +160,19 @@
       "pc_score": "68.4",
       "songs": [
         {
-          "title": "Flying Sinatra Medley",
+          "name": "Flying Sinatra Medley",
           "m": "202",
           "s": "200",
           "p": "203"
         },
         {
-          "title": "He Was There",
+          "name": "He Was There",
           "m": "201",
           "s": "212",
           "p": "214"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emma McManus"
@@ -201,19 +201,19 @@
       "pc_score": "68.2",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "206",
           "s": "202",
           "p": "205"
         },
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "205",
           "s": "204",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -242,19 +242,19 @@
       "pc_score": "67.2",
       "songs": [
         {
-          "title": "I Will Love You 'Til The End Of Time",
+          "name": "I Will Love You 'Til The End Of Time",
           "m": "199",
           "s": "198",
           "p": "203"
         },
         {
-          "title": "I Can't Give You Anything But Love / L.o.v.e Medley",
+          "name": "I Can't Give You Anything But Love / L.o.v.e Medley",
           "m": "200",
           "s": "205",
           "p": "204"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -283,19 +283,19 @@
       "pc_score": "66.7",
       "songs": [
         {
-          "title": "I'm Beginning To See The Light",
+          "name": "I'm Beginning To See The Light",
           "m": "198",
           "s": "202",
           "p": "205"
         },
         {
-          "title": "Each Time I Fall In Love",
+          "name": "Each Time I Fall In Love",
           "m": "202",
           "s": "198",
           "p": "196"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Leigh Holden"
@@ -324,19 +324,19 @@
       "pc_score": "66.3",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "197",
           "s": "191",
           "p": "196"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "199",
           "s": "206",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanne Lea"
@@ -365,19 +365,19 @@
       "pc_score": "65.8",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "197",
           "s": "199",
           "p": "195"
         },
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "200",
           "s": "196",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hooker"
@@ -406,19 +406,19 @@
       "pc_score": "65.7",
       "songs": [
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "201",
           "s": "196",
           "p": "197"
         },
         {
-          "title": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
           "m": "197",
           "s": "197",
           "p": "195"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jo Grant"
@@ -447,19 +447,19 @@
       "pc_score": "62.7",
       "songs": [
         {
-          "title": "Jeepers Creepers",
+          "name": "Jeepers Creepers",
           "m": "188",
           "s": "187",
           "p": "182"
         },
         {
-          "title": "Swinging On A Star (Parody)",
+          "name": "Swinging On A Star (Parody)",
           "m": "194",
           "s": "188",
           "p": "190"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Vickie China"
@@ -488,19 +488,19 @@
       "pc_score": "62.3",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "185",
           "s": "183",
           "p": "192"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "187",
           "s": "188",
           "p": "187"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Jones"
@@ -529,19 +529,19 @@
       "pc_score": "60.9",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "188",
           "s": "180",
           "p": "193"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "180",
           "s": "177",
           "p": "179"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Birtles"
@@ -570,19 +570,19 @@
       "pc_score": "58.1",
       "songs": [
         {
-          "title": "Each Time I Fall In Love",
+          "name": "Each Time I Fall In Love",
           "m": "174",
           "s": "168",
           "p": "180"
         },
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "172",
           "s": "178",
           "p": "174"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dot Cook"
@@ -611,19 +611,19 @@
       "pc_score": "58.0",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "178",
           "s": "177",
           "p": "176"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "173",
           "s": "169",
           "p": "171"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Anita Sides"
@@ -652,19 +652,19 @@
       "pc_score": "56.5",
       "songs": [
         {
-          "title": "I've Been Waiting For Your Phone Call",
+          "name": "I've Been Waiting For Your Phone Call",
           "m": "174",
           "s": "171",
           "p": "176"
         },
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "163",
           "s": "165",
           "p": "168"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Linda Blackett"
@@ -693,19 +693,19 @@
       "pc_score": "56.4",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "171",
           "s": "170",
           "p": "175"
         },
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "174",
           "s": "162",
           "p": "164"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Craggs"

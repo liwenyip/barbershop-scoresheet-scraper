@@ -1,0 +1,489 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-CP-NTH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NORTHERN CHORUS PRELIMS",
+  "location": "SHEFFIELD",
+  "year": "1997/98",
+  "type": "c",
+  "date": "22/11/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Arthur Scott"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Red Rose Chorus",
+      "size": 43,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 126,
+          "p": 132,
+          "s": 134,
+          "tot_score": 392,
+          "pc_score": 65.3,
+          "m_pc": 63.0,
+          "p_pc": 66.0,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "Waiting For The Robert E Lee",
+          "m": 120,
+          "p": 133,
+          "s": 128,
+          "tot_score": 381,
+          "pc_score": 63.5,
+          "m_pc": 60.0,
+          "p_pc": 66.5,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 246,
+      "m_pc": 61.5,
+      "p": 265,
+      "p_pc": 66.3,
+      "s": 262,
+      "s_pc": 65.5,
+      "tot_score": 773,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 2,
+      "name": "The Big County Chorus",
+      "size": 56,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Meet Me In Rosetime Rosie",
+          "m": 127,
+          "p": 132,
+          "s": 131,
+          "tot_score": 390,
+          "pc_score": 65.0,
+          "m_pc": 63.5,
+          "p_pc": 66.0,
+          "s_pc": 65.5
+        },
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 120,
+          "p": 131,
+          "s": 120,
+          "tot_score": 371,
+          "pc_score": 61.8,
+          "m_pc": 60.0,
+          "p_pc": 65.5,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 247,
+      "m_pc": 61.8,
+      "p": 263,
+      "p_pc": 65.8,
+      "s": 251,
+      "s_pc": 62.8,
+      "tot_score": 761,
+      "pc_score": 63.4
+    },
+    {
+      "rank": 3,
+      "name": "Clwyd Clippers",
+      "size": 38,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just An Old Time Love Song",
+          "m": 127,
+          "p": 127,
+          "s": 134,
+          "tot_score": 388,
+          "pc_score": 64.7,
+          "m_pc": 63.5,
+          "p_pc": 63.5,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "Bill Bailey, Won't You Please Come Home?",
+          "m": 111,
+          "p": 136,
+          "s": 125,
+          "tot_score": 372,
+          "pc_score": 62.0,
+          "m_pc": 55.5,
+          "p_pc": 68.0,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 238,
+      "m_pc": 59.5,
+      "p": 263,
+      "p_pc": 65.8,
+      "s": 259,
+      "s_pc": 64.8,
+      "tot_score": 760,
+      "pc_score": 63.3
+    },
+    {
+      "rank": 4,
+      "name": "Sound Association",
+      "size": 27,
+      "songs": [
+        {
+          "n": 1,
+          "name": "That Tumble Down Shack In Athlone",
+          "m": 119,
+          "p": 129,
+          "s": 120,
+          "tot_score": 368,
+          "pc_score": 61.3,
+          "m_pc": 59.5,
+          "p_pc": 64.5,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Danny Boy",
+          "m": 121,
+          "p": 130,
+          "s": 122,
+          "tot_score": 373,
+          "pc_score": 62.2,
+          "m_pc": 60.5,
+          "p_pc": 65.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 240,
+      "m_pc": 60.0,
+      "p": 259,
+      "p_pc": 64.8,
+      "s": 242,
+      "s_pc": 60.5,
+      "tot_score": 741,
+      "pc_score": 61.8
+    },
+    {
+      "rank": 5,
+      "name": "Cotton Town Chorus",
+      "size": 47,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Give Me A Barbershop Song",
+          "m": 123,
+          "p": 119,
+          "s": 127,
+          "tot_score": 369,
+          "pc_score": 61.5,
+          "m_pc": 61.5,
+          "p_pc": 59.5,
+          "s_pc": 63.5
+        },
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 119,
+          "p": 122,
+          "s": 122,
+          "tot_score": 363,
+          "pc_score": 60.5,
+          "m_pc": 59.5,
+          "p_pc": 61.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 242,
+      "m_pc": 60.5,
+      "p": 241,
+      "p_pc": 60.3,
+      "s": 249,
+      "s_pc": 62.3,
+      "tot_score": 732,
+      "pc_score": 61.0
+    },
+    {
+      "rank": 6,
+      "name": "Rainy City Chorus",
+      "size": 23,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 120,
+          "p": 115,
+          "s": 112,
+          "tot_score": 347,
+          "pc_score": 57.8,
+          "m_pc": 60.0,
+          "p_pc": 57.5,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Is There Sometime We Can Get Together?",
+          "m": 108,
+          "p": 115,
+          "s": 103,
+          "tot_score": 326,
+          "pc_score": 54.3,
+          "m_pc": 54.0,
+          "p_pc": 57.5,
+          "s_pc": 51.5
+        }
+      ],
+      "n": 2,
+      "m": 228,
+      "m_pc": 57.0,
+      "p": 230,
+      "p_pc": 57.5,
+      "s": 215,
+      "s_pc": 53.8,
+      "tot_score": 673,
+      "pc_score": 56.1
+    },
+    {
+      "rank": 7,
+      "name": "Spirit Of Harmony",
+      "size": 26,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 107,
+          "p": 107,
+          "s": 100,
+          "tot_score": 314,
+          "pc_score": 52.3,
+          "m_pc": 53.5,
+          "p_pc": 53.5,
+          "s_pc": 50.0
+        },
+        {
+          "n": 1,
+          "name": "When I Lost You",
+          "m": 113,
+          "p": 98,
+          "s": 99,
+          "tot_score": 310,
+          "pc_score": 51.7,
+          "m_pc": 56.5,
+          "p_pc": 49.0,
+          "s_pc": 49.5
+        }
+      ],
+      "n": 2,
+      "m": 220,
+      "m_pc": 55.0,
+      "p": 205,
+      "p_pc": 51.3,
+      "s": 199,
+      "s_pc": 49.8,
+      "tot_score": 624,
+      "pc_score": 52.0
+    },
+    {
+      "rank": 8,
+      "name": "The Peers Of Harmony",
+      "size": 16,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Sweetest Song In The World",
+          "m": 101,
+          "p": 103,
+          "s": 94,
+          "tot_score": 298,
+          "pc_score": 49.7,
+          "m_pc": 50.5,
+          "p_pc": 51.5,
+          "s_pc": 47.0
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 98,
+          "p": 108,
+          "s": 93,
+          "tot_score": 299,
+          "pc_score": 49.8,
+          "m_pc": 49.0,
+          "p_pc": 54.0,
+          "s_pc": 46.5
+        }
+      ],
+      "n": 2,
+      "m": 199,
+      "m_pc": 49.8,
+      "p": 211,
+      "p_pc": 52.8,
+      "s": 187,
+      "s_pc": 46.8,
+      "tot_score": 597,
+      "pc_score": 49.8
+    },
+    {
+      "rank": 9,
+      "name": "Friends In Harmony",
+      "size": 13,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Mary's Only In My Dreams",
+          "m": 90,
+          "p": 88,
+          "s": 82,
+          "tot_score": 260,
+          "pc_score": 43.3,
+          "m_pc": 45.0,
+          "p_pc": 44.0,
+          "s_pc": 41.0
+        },
+        {
+          "n": 1,
+          "name": "I'm Old Fashioned",
+          "m": 93,
+          "p": 86,
+          "s": 82,
+          "tot_score": 261,
+          "pc_score": 43.5,
+          "m_pc": 46.5,
+          "p_pc": 43.0,
+          "s_pc": 41.0
+        }
+      ],
+      "n": 2,
+      "m": 183,
+      "m_pc": 45.8,
+      "p": 174,
+      "p_pc": 43.5,
+      "s": 164,
+      "s_pc": 41.0,
+      "tot_score": 521,
+      "pc_score": 43.4
+    },
+    {
+      "rank": 10,
+      "name": "Wayfarers Chorus",
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Dry Your Tears When You Cry?",
+          "m": 83,
+          "p": 92,
+          "s": 79,
+          "tot_score": 254,
+          "pc_score": 42.3,
+          "m_pc": 41.5,
+          "p_pc": 46.0,
+          "s_pc": 39.5
+        },
+        {
+          "n": 1,
+          "name": "Bye Bye Blackbird",
+          "m": 86,
+          "p": 96,
+          "s": 84,
+          "tot_score": 266,
+          "pc_score": 44.3,
+          "m_pc": 43.0,
+          "p_pc": 48.0,
+          "s_pc": 42.0
+        }
+      ],
+      "n": 2,
+      "m": 169,
+      "m_pc": 42.3,
+      "p": 188,
+      "p_pc": 47.0,
+      "s": 163,
+      "s_pc": 40.8,
+      "tot_score": 520,
+      "pc_score": 43.3
+    },
+    {
+      "rank": 11,
+      "name": "Granite City Chorus",
+      "size": 17,
+      "songs": [
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 88,
+          "p": 86,
+          "s": 80,
+          "tot_score": 254,
+          "pc_score": 42.3,
+          "m_pc": 44.0,
+          "p_pc": 43.0,
+          "s_pc": 40.0
+        },
+        {
+          "n": 1,
+          "name": "If You Knew Susie",
+          "m": 78,
+          "p": 78,
+          "s": 73,
+          "tot_score": 229,
+          "pc_score": 38.2,
+          "m_pc": 39.0,
+          "p_pc": 39.0,
+          "s_pc": 36.5
+        }
+      ],
+      "n": 2,
+      "m": 166,
+      "m_pc": 41.5,
+      "p": 164,
+      "p_pc": 41.0,
+      "s": 153,
+      "s_pc": 38.3,
+      "tot_score": 483,
+      "pc_score": 40.3
+    }
+  ]
+}

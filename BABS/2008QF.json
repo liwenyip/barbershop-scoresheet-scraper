@@ -42,27 +42,27 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1393",
-      "final_tot_score": "2774",
+      "prev_tot_score": "1393",
+      "tot_score": "2774",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -71,25 +71,25 @@
       "pc_score": "77.1",
       "songs": [
         {
-          "title": "Undecided Medley",
+          "name": "Undecided Medley",
           "m": "234",
           "s": "226",
           "p": "241"
         },
         {
-          "title": "What Kind Of Fool Am I",
+          "name": "What Kind Of Fool Am I",
           "m": "232",
           "s": "230",
           "p": "230"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "465",
           "s": "462",
           "p": "454"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alan"
@@ -109,8 +109,8 @@
       ]
     },
     {
-      "tot_score": "1342",
-      "final_tot_score": "2690",
+      "prev_tot_score": "1342",
+      "tot_score": "2690",
       "rank_m": "2",
       "rank_s": "2",
       "rank_p": "2",
@@ -119,25 +119,25 @@
       "pc_score": "74.7",
       "songs": [
         {
-          "title": "It's Impossible",
+          "name": "It's Impossible",
           "m": "224",
           "s": "225",
           "p": "218"
         },
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "225",
           "s": "222",
           "p": "228"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "448",
           "s": "453",
           "p": "447"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tony"
@@ -157,8 +157,8 @@
       ]
     },
     {
-      "tot_score": "1250",
-      "final_tot_score": "2529",
+      "prev_tot_score": "1250",
+      "tot_score": "2529",
       "rank_m": "3",
       "rank_s": "3",
       "rank_p": "3",
@@ -167,25 +167,25 @@
       "pc_score": "70.3",
       "songs": [
         {
-          "title": "Little Girl",
+          "name": "Little Girl",
           "m": "206",
           "s": "206",
           "p": "211"
         },
         {
-          "title": "Somewhere Over The Rainbow",
+          "name": "Somewhere Over The Rainbow",
           "m": "202",
           "s": "214",
           "p": "211"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "421",
           "s": "430",
           "p": "428"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martin"
@@ -205,8 +205,8 @@
       ]
     },
     {
-      "tot_score": "1212",
-      "final_tot_score": "2479",
+      "prev_tot_score": "1212",
+      "tot_score": "2479",
       "rank_m": "4",
       "rank_s": "4",
       "rank_p": "4",
@@ -215,25 +215,25 @@
       "pc_score": "68.9",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "188",
           "s": "209",
           "p": "195"
         },
         {
-          "title": "For The Sake Of Auld Lang Syne",
+          "name": "For The Sake Of Auld Lang Syne",
           "m": "204",
           "s": "207",
           "p": "209"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "425",
           "s": "431",
           "p": "411"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy"
@@ -253,8 +253,8 @@
       ]
     },
     {
-      "tot_score": "1236",
-      "final_tot_score": "2417",
+      "prev_tot_score": "1236",
+      "tot_score": "2417",
       "rank_m": "5",
       "rank_s": "5",
       "rank_p": "5",
@@ -263,25 +263,25 @@
       "pc_score": "67.1",
       "songs": [
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "205",
           "s": "198",
           "p": "213"
         },
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "200",
           "s": "211",
           "p": "209"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "379",
           "s": "402",
           "p": "400"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon"
@@ -301,8 +301,8 @@
       ]
     },
     {
-      "tot_score": "1107",
-      "final_tot_score": "2307",
+      "prev_tot_score": "1107",
+      "tot_score": "2307",
       "rank_m": "6",
       "rank_s": "6",
       "rank_p": "6",
@@ -311,25 +311,25 @@
       "pc_score": "64.1",
       "songs": [
         {
-          "title": "Lazy Bones",
+          "name": "Lazy Bones",
           "m": "174",
           "s": "187",
           "p": "186"
         },
         {
-          "title": "Last Night On The Back Porch",
+          "name": "Last Night On The Back Porch",
           "m": "191",
           "s": "186",
           "p": "183"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "398",
           "s": "405",
           "p": "397"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris"

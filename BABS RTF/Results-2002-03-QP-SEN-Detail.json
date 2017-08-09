@@ -1,0 +1,170 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2002-03-QP-SEN-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL SENIORS QUARTET PRELIM",
+  "location": "WALSALL",
+  "year": "2002/03",
+  "type": "q",
+  "date": "13/10/2002",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "F.o.f.",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 125,
+          "p": 124,
+          "s": 125,
+          "tot_score": 374,
+          "pc_score": 62.3,
+          "m_pc": 62.5,
+          "p_pc": 62.0,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 111,
+          "p": 123,
+          "s": 119,
+          "tot_score": 353,
+          "pc_score": 58.8,
+          "m_pc": 55.5,
+          "p_pc": 61.5,
+          "s_pc": 59.5
+        }
+      ],
+      "n": 2,
+      "m": 236,
+      "m_pc": 59.0,
+      "p": 247,
+      "p_pc": 61.8,
+      "s": 244,
+      "s_pc": 61.0,
+      "tot_score": 727,
+      "pc_score": 60.6
+    },
+    {
+      "rank": 2,
+      "name": "Rockaholix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Give Me A Barbershop Song",
+          "m": 119,
+          "p": 117,
+          "s": 108,
+          "tot_score": 344,
+          "pc_score": 57.3,
+          "m_pc": 59.5,
+          "p_pc": 58.5,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 107,
+          "p": 116,
+          "s": 103,
+          "tot_score": 326,
+          "pc_score": 54.3,
+          "m_pc": 53.5,
+          "p_pc": 58.0,
+          "s_pc": 51.5
+        }
+      ],
+      "n": 2,
+      "m": 226,
+      "m_pc": 56.5,
+      "p": 233,
+      "p_pc": 58.3,
+      "s": 211,
+      "s_pc": 52.8,
+      "tot_score": 670,
+      "pc_score": 55.8
+    },
+    {
+      "rank": 3,
+      "name": "Voice Male",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 88,
+          "p": 99,
+          "s": 86,
+          "tot_score": 273,
+          "pc_score": 45.5,
+          "m_pc": 44.0,
+          "p_pc": 49.5,
+          "s_pc": 43.0
+        },
+        {
+          "n": 1,
+          "name": "I'm Still Havin' Fun",
+          "m": 91,
+          "p": 111,
+          "s": 84,
+          "tot_score": 286,
+          "pc_score": 47.7,
+          "m_pc": 45.5,
+          "p_pc": 55.5,
+          "s_pc": 42.0
+        }
+      ],
+      "n": 2,
+      "m": 179,
+      "m_pc": 44.8,
+      "p": 210,
+      "p_pc": 52.5,
+      "s": 170,
+      "s_pc": 42.5,
+      "tot_score": 559,
+      "pc_score": 46.6
+    }
+  ]
+}

@@ -30,19 +30,19 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Katie Dew"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     }
   ],
@@ -58,19 +58,19 @@
       "pc_score": "76.5",
       "songs": [
         {
-          "title": "Yesterday I Heard The Rain",
+          "name": "Yesterday I Heard The Rain",
           "m": "153",
           "s": "150",
           "p": "153"
         },
         {
-          "title": "Love And The Weather",
+          "name": "Love And The Weather",
           "m": "153",
           "s": "153",
           "p": "156"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hicks"
@@ -99,19 +99,19 @@
       "pc_score": "72.2",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "142",
           "s": "147",
           "p": "143"
         },
         {
-          "title": "I Will Love You 'Til The End Of Time",
+          "name": "I Will Love You 'Til The End Of Time",
           "m": "147",
           "s": "143",
           "p": "144"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -140,19 +140,19 @@
       "pc_score": "71.8",
       "songs": [
         {
-          "title": "If Ever I Would Leave You",
+          "name": "If Ever I Would Leave You",
           "m": "144",
           "s": "137",
           "p": "143"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "138",
           "s": "150",
           "p": "149"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -181,19 +181,19 @@
       "pc_score": "70.3",
       "songs": [
         {
-          "title": "Flirty Eyes",
+          "name": "Flirty Eyes",
           "m": "138",
           "s": "136",
           "p": "142"
         },
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "139",
           "s": "146",
           "p": "143"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Heidi Walsh"
@@ -222,19 +222,19 @@
       "pc_score": "69.3",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "139",
           "s": "136",
           "p": "138"
         },
         {
-          "title": "Love / Medley",
+          "name": "Love / Medley",
           "m": "139",
           "s": "140",
           "p": "140"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Rebecca Fish"
@@ -263,19 +263,19 @@
       "pc_score": "68.8",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "143",
           "s": "135",
           "p": "141"
         },
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "137",
           "s": "134",
           "p": "135"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -304,19 +304,19 @@
       "pc_score": "68.1",
       "songs": [
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "137",
           "s": "134",
           "p": "138"
         },
         {
-          "title": "Don't Break The Heart That Loves You",
+          "name": "Don't Break The Heart That Loves You",
           "m": "136",
           "s": "136",
           "p": "136"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lara Payne"
@@ -345,19 +345,19 @@
       "pc_score": "67.9",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "134",
           "s": "131",
           "p": "133"
         },
         {
-          "title": "He Was There",
+          "name": "He Was There",
           "m": "130",
           "s": "144",
           "p": "143"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sue Bottom"
@@ -386,19 +386,19 @@
       "pc_score": "67.4",
       "songs": [
         {
-          "title": "I've Got A Feeling I'm Falling",
+          "name": "I've Got A Feeling I'm Falling",
           "m": "136",
           "s": "133",
           "p": "134"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "134",
           "s": "134",
           "p": "138"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Kea"
@@ -427,19 +427,19 @@
       "pc_score": "67.3",
       "songs": [
         {
-          "title": "Ya Gotta Know How To Love",
+          "name": "Ya Gotta Know How To Love",
           "m": "133",
           "s": "137",
           "p": "133"
         },
         {
-          "title": "I'm Gonna Love That Guy",
+          "name": "I'm Gonna Love That Guy",
           "m": "133",
           "s": "137",
           "p": "135"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jane Wadsworth"
@@ -468,19 +468,19 @@
       "pc_score": "67.3",
       "songs": [
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "139",
           "s": "133",
           "p": "138"
         },
         {
-          "title": "Cabaret",
+          "name": "Cabaret",
           "m": "138",
           "s": "129",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Myfanwy Beynon"
@@ -509,19 +509,19 @@
       "pc_score": "65.8",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "139",
           "s": "125",
           "p": "136"
         },
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "122",
           "s": "133",
           "p": "135"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jenni Slee"
@@ -550,19 +550,19 @@
       "pc_score": "65.7",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "134",
           "s": "129",
           "p": "134"
         },
         {
-          "title": "The Sunshine Of Your Smile",
+          "name": "The Sunshine Of Your Smile",
           "m": "128",
           "s": "131",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ruth Thomas"
@@ -591,19 +591,19 @@
       "pc_score": "65.4",
       "songs": [
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "136",
           "s": "130",
           "p": "133"
         },
         {
-          "title": "How Could You Believe Me / It's A Sin To Tell A Lie",
+          "name": "How Could You Believe Me / It's A Sin To Tell A Lie",
           "m": "133",
           "s": "125",
           "p": "128"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Janet Micklewright"
@@ -632,19 +632,19 @@
       "pc_score": "65.1",
       "songs": [
         {
-          "title": "If I Had My Life To Live Over",
+          "name": "If I Had My Life To Live Over",
           "m": "129",
           "s": "128",
           "p": "134"
         },
         {
-          "title": "Goody Goodbye",
+          "name": "Goody Goodbye",
           "m": "132",
           "s": "130",
           "p": "128"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Barbara Wardle"
@@ -673,19 +673,19 @@
       "pc_score": "63.7",
       "songs": [
         {
-          "title": "Red Hot",
+          "name": "Red Hot",
           "m": "125",
           "s": "128",
           "p": "127"
         },
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "129",
           "s": "128",
           "p": "127"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sue Hunt"
@@ -714,19 +714,19 @@
       "pc_score": "63.3",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "121",
           "s": "133",
           "p": "117"
         },
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "134",
           "s": "128",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dot Cook"
@@ -755,19 +755,19 @@
       "pc_score": "63.1",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "135",
           "s": "124",
           "p": "134"
         },
         {
-          "title": "Deed I Do / Put Your Arms Around Me Honey / Medle",
+          "name": "Deed I Do / Put Your Arms Around Me Honey / Medle",
           "m": "124",
           "s": "119",
           "p": "121"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martha Tomlinson"
@@ -796,19 +796,19 @@
       "pc_score": "63.1",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "125",
           "s": "125",
           "p": "127"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "128",
           "s": "126",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nicky Sims"
@@ -837,19 +837,19 @@
       "pc_score": "61.6",
       "songs": [
         {
-          "title": "Just The Way You Look Tonight",
+          "name": "Just The Way You Look Tonight",
           "m": "127",
           "s": "124",
           "p": "128"
         },
         {
-          "title": "What Kind Of Fool Am I?",
+          "name": "What Kind Of Fool Am I?",
           "m": "127",
           "s": "116",
           "p": "117"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alison Tyzack"
@@ -878,19 +878,19 @@
       "pc_score": "61.3",
       "songs": [
         {
-          "title": "Ya Gotta Know How To Love",
+          "name": "Ya Gotta Know How To Love",
           "m": "118",
           "s": "129",
           "p": "113"
         },
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "128",
           "s": "123",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Katherine Lane-Seriff"
@@ -919,19 +919,19 @@
       "pc_score": "59.8",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "116",
           "s": "125",
           "p": "115"
         },
         {
-          "title": "On The Street Where You Live",
+          "name": "On The Street Where You Live",
           "m": "125",
           "s": "118",
           "p": "119"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Kathy Szeputi"
@@ -960,19 +960,19 @@
       "pc_score": "58.9",
       "songs": [
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "115",
           "s": "119",
           "p": "114"
         },
         {
-          "title": "You Made Me Love You",
+          "name": "You Made Me Love You",
           "m": "118",
           "s": "117",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Kate Bird"
@@ -1001,19 +1001,19 @@
       "pc_score": "58.8",
       "songs": [
         {
-          "title": "I Didn't Want To Fall",
+          "name": "I Didn't Want To Fall",
           "m": "114",
           "s": "119",
           "p": "117"
         },
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "120",
           "s": "118",
           "p": "117"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alison Grigson"
@@ -1042,19 +1042,19 @@
       "pc_score": "56.3",
       "songs": [
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "115",
           "s": "116",
           "p": "107"
         },
         {
-          "title": "When I Grow Too Old To Dream",
+          "name": "When I Grow Too Old To Dream",
           "m": "114",
           "s": "110",
           "p": "114"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Celia Nickson"
@@ -1083,19 +1083,19 @@
       "pc_score": "55.0",
       "songs": [
         {
-          "title": "Dream A Little Dream Of Me",
+          "name": "Dream A Little Dream Of Me",
           "m": "106",
           "s": "119",
           "p": "110"
         },
         {
-          "title": "When I Just Wear My Smile",
+          "name": "When I Just Wear My Smile",
           "m": "121",
           "s": "103",
           "p": "101"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dinah Trowbridge"
@@ -1124,19 +1124,19 @@
       "pc_score": "54.0",
       "songs": [
         {
-          "title": "If I Had My Way",
+          "name": "If I Had My Way",
           "m": "107",
           "s": "108",
           "p": "108"
         },
         {
-          "title": "Jazz Came Up The River From New Orleans",
+          "name": "Jazz Came Up The River From New Orleans",
           "m": "111",
           "s": "106",
           "p": "108"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Su Roberts"

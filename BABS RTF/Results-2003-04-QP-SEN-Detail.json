@@ -1,0 +1,170 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2003-04-QP-SEN-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL SENIORS QUARTET PRELIM",
+  "location": "WALSALL",
+  "year": "2003/04",
+  "type": "q",
+  "date": "12/10/2003",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Voice Male",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 98,
+          "p": 106,
+          "s": 96,
+          "tot_score": 300,
+          "pc_score": 50.0,
+          "m_pc": 49.0,
+          "p_pc": 53.0,
+          "s_pc": 48.0
+        },
+        {
+          "n": 1,
+          "name": "Heart Of My Heart (The Story Of The Rose)",
+          "m": 103,
+          "p": 105,
+          "s": 96,
+          "tot_score": 304,
+          "pc_score": 50.7,
+          "m_pc": 51.5,
+          "p_pc": 52.5,
+          "s_pc": 48.0
+        }
+      ],
+      "n": 2,
+      "m": 201,
+      "m_pc": 50.3,
+      "p": 211,
+      "p_pc": 52.8,
+      "s": 192,
+      "s_pc": 48.0,
+      "tot_score": 604,
+      "pc_score": 50.3
+    },
+    {
+      "rank": 2,
+      "name": "Cordon Bleu",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Still Havin' Fun",
+          "m": 106,
+          "p": 104,
+          "s": 95,
+          "tot_score": 305,
+          "pc_score": 50.8,
+          "m_pc": 53.0,
+          "p_pc": 52.0,
+          "s_pc": 47.5
+        },
+        {
+          "n": 1,
+          "name": "As Time Goes By",
+          "m": 72,
+          "p": 101,
+          "s": 90,
+          "tot_score": 263,
+          "pc_score": 43.8,
+          "m_pc": 36.0,
+          "p_pc": 50.5,
+          "s_pc": 45.0
+        }
+      ],
+      "n": 2,
+      "m": 178,
+      "m_pc": 44.5,
+      "p": 205,
+      "p_pc": 51.3,
+      "s": 185,
+      "s_pc": 46.3,
+      "tot_score": 568,
+      "pc_score": 47.3
+    },
+    {
+      "rank": 3,
+      "name": "Knights Of Old",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 90,
+          "p": 87,
+          "s": 99,
+          "tot_score": 276,
+          "pc_score": 46.0,
+          "m_pc": 45.0,
+          "p_pc": 43.5,
+          "s_pc": 49.5
+        },
+        {
+          "n": 1,
+          "name": "Five Foot Two",
+          "m": 93,
+          "p": 89,
+          "s": 97,
+          "tot_score": 279,
+          "pc_score": 46.5,
+          "m_pc": 46.5,
+          "p_pc": 44.5,
+          "s_pc": 48.5
+        }
+      ],
+      "n": 2,
+      "m": 183,
+      "m_pc": 45.8,
+      "p": 176,
+      "p_pc": 44.0,
+      "s": 196,
+      "s_pc": 49.0,
+      "tot_score": 555,
+      "pc_score": 46.3
+    }
+  ]
+}

@@ -1,0 +1,4335 @@
+[
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "CHORUS FINAL (NATIONAL STREAM)",
+    "location": "CHELTENHAM",
+    "year": "2007/08",
+    "date": "24/05/2008",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Paul Davies"
+      },
+      {
+        "cat": "m",
+        "name": "David Morehen"
+      },
+      {
+        "cat": "m",
+        "name": "Joyce Stroud"
+      },
+      {
+        "cat": "p",
+        "name": "Nick Frampton"
+      },
+      {
+        "cat": "p",
+        "name": "Wayne Jackson"
+      },
+      {
+        "cat": "p",
+        "name": "Mike Warner"
+      },
+      {
+        "cat": "s",
+        "name": "Peter Iseger"
+      },
+      {
+        "cat": "s",
+        "name": "David King"
+      },
+      {
+        "cat": "s",
+        "name": "Paula Williams"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Ken Hulme"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      },
+      {
+        "cat": "a",
+        "name": "Norma Head"
+      }
+    ],
+    "type": "chorus",
+    "contestants": [
+      {
+        "tot_score": "1418",
+        "rank_m": "1",
+        "rank_s": "1",
+        "rank_p": "1",
+        "rank": "1",
+        "name": "Great Western Chorus",
+        "size": "50",
+        "pc_score": "78.8",
+        "songs": [
+          {
+            "title": "Love Me And The World Is Mine",
+            "m": "243",
+            "s": "237",
+            "p": "240"
+          },
+          {
+            "title": "Oh You Beautiful Doll",
+            "m": "242",
+            "s": "228",
+            "p": "228"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Linda Corcoran"
+          }
+        ]
+      },
+      {
+        "tot_score": "1335",
+        "rank_m": "3",
+        "rank_s": "2",
+        "rank_p": "2",
+        "rank": "2",
+        "name": "The Royal Harmonics",
+        "size": "36",
+        "pc_score": "74.2",
+        "songs": [
+          {
+            "title": "The Way You Look Tonight",
+            "m": "218",
+            "s": "224",
+            "p": "222"
+          },
+          {
+            "title": "After You've Gone",
+            "m": "225",
+            "s": "221",
+            "p": "225"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "John Palmer"
+          }
+        ]
+      },
+      {
+        "tot_score": "1319",
+        "rank_m": "2",
+        "rank_s": "4",
+        "rank_p": "4",
+        "rank": "3",
+        "name": "Spirit Of Harmony",
+        "size": "61",
+        "pc_score": "73.3",
+        "songs": [
+          {
+            "title": "Come Fly With Me",
+            "m": "224",
+            "s": "223",
+            "p": "219"
+          },
+          {
+            "title": "If I Ruled The World",
+            "m": "215",
+            "s": "217",
+            "p": "221"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Andy Salter"
+          }
+        ]
+      },
+      {
+        "tot_score": "1302",
+        "rank_m": "5",
+        "rank_s": "3",
+        "rank_p": "3",
+        "rank": "4",
+        "name": "Grand Central Chorus",
+        "size": "40",
+        "pc_score": "72.3",
+        "songs": [
+          {
+            "title": "How Deep Is The Ocean",
+            "m": "206",
+            "s": "216",
+            "p": "212"
+          },
+          {
+            "title": "Hey Look Me Over / If My Friends Could See Me Now Medley",
+            "m": "223",
+            "s": "220",
+            "p": "225"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Zac Boules"
+          }
+        ]
+      },
+      {
+        "tot_score": "1260",
+        "rank_m": "4",
+        "rank_s": "5",
+        "rank_p": "5",
+        "rank": "5",
+        "name": "Thames Valley Chorus",
+        "size": "51",
+        "pc_score": "70.0",
+        "songs": [
+          {
+            "title": "How Deep Is The Ocean",
+            "m": "215",
+            "s": "212",
+            "p": "205"
+          },
+          {
+            "title": "Why Don't You Fall In Love With Me / Undecided Medley",
+            "m": "213",
+            "s": "202",
+            "p": "213"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Rhiannon Owens-Hall"
+          }
+        ]
+      },
+      {
+        "tot_score": "1228",
+        "rank_m": "6",
+        "rank_s": "6",
+        "rank_p": "7",
+        "rank": "6",
+        "name": "The Telfordaires",
+        "size": "22",
+        "pc_score": "68.2",
+        "songs": [
+          {
+            "title": "You Don't Know Me",
+            "m": "203",
+            "s": "209",
+            "p": "200"
+          },
+          {
+            "title": "It's Only A Paper Moon",
+            "m": "205",
+            "s": "205",
+            "p": "206"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Dale Kynaston"
+          }
+        ]
+      },
+      {
+        "tot_score": "1203",
+        "rank_m": "8",
+        "rank_s": "9",
+        "rank_p": "8",
+        "rank": "7",
+        "name": "Anvil Chorus",
+        "size": "32",
+        "pc_score": "66.8",
+        "songs": [
+          {
+            "title": "Sweet Georgia Brown",
+            "m": "198",
+            "s": "205",
+            "p": "196"
+          },
+          {
+            "title": "Midnight Rose",
+            "m": "206",
+            "s": "200",
+            "p": "198"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Duncan Whinyates"
+          }
+        ]
+      },
+      {
+        "tot_score": "1190",
+        "rank_m": "11",
+        "rank_s": "7",
+        "rank_p": "11",
+        "rank": "8",
+        "name": "Hallmark Of Harmony",
+        "size": "35",
+        "pc_score": "66.1",
+        "songs": [
+          {
+            "title": "There's A Rose On Your Cheek",
+            "m": "196",
+            "s": "194",
+            "p": "196"
+          },
+          {
+            "title": "Swanee",
+            "m": "199",
+            "s": "205",
+            "p": "200"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Andy Petch"
+          }
+        ]
+      },
+      {
+        "tot_score": "1190",
+        "rank_m": "17",
+        "rank_s": "12",
+        "rank_p": "6",
+        "rank": "8",
+        "name": "Vocal Academy",
+        "size": "35",
+        "pc_score": "66.1",
+        "songs": [
+          {
+            "title": "Roses Of Picardy",
+            "m": "190",
+            "s": "211",
+            "p": "187"
+          },
+          {
+            "title": "It's A Most Unusual Day",
+            "m": "209",
+            "s": "196",
+            "p": "197"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Graham Davies"
+          }
+        ]
+      },
+      {
+        "tot_score": "1187",
+        "rank_m": "14",
+        "rank_s": "8",
+        "rank_p": "9",
+        "rank": "10",
+        "name": "Shannon Express",
+        "size": "44",
+        "pc_score": "65.9",
+        "songs": [
+          {
+            "title": "Zing! Went The Strings Of My Heart",
+            "m": "187",
+            "s": "201",
+            "p": "195"
+          },
+          {
+            "title": "How Deep Is The Ocean",
+            "m": "201",
+            "s": "200",
+            "p": "203"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Roger Chantrelle"
+          }
+        ]
+      },
+      {
+        "tot_score": "1187",
+        "rank_m": "9",
+        "rank_s": "10",
+        "rank_p": "10",
+        "rank": "10",
+        "name": "The Kingsmen",
+        "size": "40",
+        "pc_score": "65.9",
+        "songs": [
+          {
+            "title": "Who'll Dry Your Tears When I'm Gone",
+            "m": "195",
+            "s": "199",
+            "p": "198"
+          },
+          {
+            "title": "Show Me Where The Good Times Are",
+            "m": "198",
+            "s": "198",
+            "p": "199"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Roy Hann"
+          }
+        ]
+      },
+      {
+        "tot_score": "1158",
+        "rank_m": "12",
+        "rank_s": "13",
+        "rank_p": "12",
+        "rank": "12",
+        "name": "The Major Oak Chorus",
+        "size": "34",
+        "pc_score": "64.3",
+        "songs": [
+          {
+            "title": "I'll Be Seeing You",
+            "m": "190",
+            "s": "187",
+            "p": "197"
+          },
+          {
+            "title": "Nice Work If You Can Get It",
+            "m": "197",
+            "s": "194",
+            "p": "193"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Glenn Chaney"
+          }
+        ]
+      },
+      {
+        "tot_score": "1155",
+        "rank_m": "9",
+        "rank_s": "14",
+        "rank_p": "13",
+        "rank": "13",
+        "name": "Knights Of Harmony",
+        "size": "35",
+        "pc_score": "64.2",
+        "songs": [
+          {
+            "title": "On A Wonderful Day Like Today",
+            "m": "195",
+            "s": "186",
+            "p": "198"
+          },
+          {
+            "title": "Lover Come Back",
+            "m": "193",
+            "s": "191",
+            "p": "192"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Tony Searle"
+          }
+        ]
+      },
+      {
+        "tot_score": "1153",
+        "rank_m": "7",
+        "rank_s": "14",
+        "rank_p": "16",
+        "rank": "14",
+        "name": "Southern Union",
+        "size": "32",
+        "pc_score": "64.1",
+        "songs": [
+          {
+            "title": "Let's Get Away From It All (Parody)",
+            "m": "199",
+            "s": "185",
+            "p": "198"
+          },
+          {
+            "title": "Bring Me Sunshine (Parody)",
+            "m": "188",
+            "s": "190",
+            "p": "193"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Pete Hills"
+          }
+        ]
+      },
+      {
+        "tot_score": "1145",
+        "rank_m": "15",
+        "rank_s": "11",
+        "rank_p": "17",
+        "rank": "15",
+        "name": "Solent City Chorus",
+        "size": "26",
+        "pc_score": "63.6",
+        "songs": [
+          {
+            "title": "When You And I Were Young, Maggie",
+            "m": "187",
+            "s": "186",
+            "p": "192"
+          },
+          {
+            "title": "Bring Me Sunshine",
+            "m": "186",
+            "s": "197",
+            "p": "197"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Bill Payne"
+          }
+        ]
+      },
+      {
+        "tot_score": "1134",
+        "rank_m": "13",
+        "rank_s": "17",
+        "rank_p": "15",
+        "rank": "16",
+        "name": "The Kentones",
+        "size": "37",
+        "pc_score": "63.0",
+        "songs": [
+          {
+            "title": "If I Loved You",
+            "m": "196",
+            "s": "189",
+            "p": "190"
+          },
+          {
+            "title": "Sweet Georgia Brown",
+            "m": "188",
+            "s": "183",
+            "p": "188"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Michael Corr"
+          }
+        ]
+      },
+      {
+        "tot_score": "1121",
+        "rank_m": "16",
+        "rank_s": "20",
+        "rank_p": "14",
+        "rank": "17",
+        "name": "Harmony Lincs",
+        "size": "37",
+        "pc_score": "62.3",
+        "songs": [
+          {
+            "title": "Lover Come Back",
+            "m": "192",
+            "s": "187",
+            "p": "186"
+          },
+          {
+            "title": "You Make Me Feel So Young",
+            "m": "191",
+            "s": "181",
+            "p": "184"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Tony Chapman"
+          }
+        ]
+      },
+      {
+        "tot_score": "1115",
+        "rank_m": "18",
+        "rank_s": "16",
+        "rank_p": "19",
+        "rank": "18",
+        "name": "The Rolling Hills Chorus",
+        "size": "34",
+        "pc_score": "61.9",
+        "songs": [
+          {
+            "title": "Sentimental Gentleman From Georgia",
+            "m": "188",
+            "s": "190",
+            "p": "181"
+          },
+          {
+            "title": "Georgia On My Mind",
+            "m": "179",
+            "s": "185",
+            "p": "192"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Nick Hayes"
+          }
+        ]
+      },
+      {
+        "tot_score": "1101",
+        "rank_m": "21",
+        "rank_s": "18",
+        "rank_p": "20",
+        "rank": "19",
+        "name": "The Pilgrimaires",
+        "size": "33",
+        "pc_score": "61.2",
+        "songs": [
+          {
+            "title": "If I Give My Heart To You",
+            "m": "181",
+            "s": "185",
+            "p": "183"
+          },
+          {
+            "title": "Smiles Medley",
+            "m": "182",
+            "s": "184",
+            "p": "186"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Dave Thompson"
+          }
+        ]
+      },
+      {
+        "tot_score": "1084",
+        "rank_m": "21",
+        "rank_s": "19",
+        "rank_p": "21",
+        "rank": "20",
+        "name": "Ocean Harmony",
+        "size": "25",
+        "pc_score": "60.2",
+        "songs": [
+          {
+            "title": "Once Upon A Time",
+            "m": "182",
+            "s": "177",
+            "p": "182"
+          },
+          {
+            "title": "Bring Me Sunshine",
+            "m": "176",
+            "s": "183",
+            "p": "184"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Laurence Prestage"
+          }
+        ]
+      },
+      {
+        "tot_score": "1079",
+        "rank_m": "19",
+        "rank_s": "21",
+        "rank_p": "22",
+        "rank": "21",
+        "name": "The Rivertones",
+        "size": "29",
+        "pc_score": "59.9",
+        "songs": [
+          {
+            "title": "Love That Old Barbershop Song",
+            "m": "185",
+            "s": "177",
+            "p": "183"
+          },
+          {
+            "title": "Nice Work If You Can Get It",
+            "m": "172",
+            "s": "179",
+            "p": "183"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Peter Gover"
+          }
+        ]
+      },
+      {
+        "tot_score": "1072",
+        "rank_m": "23",
+        "rank_s": "25",
+        "rank_p": "18",
+        "rank": "22",
+        "name": "Western Approach",
+        "size": "16",
+        "pc_score": "59.6",
+        "songs": [
+          {
+            "title": "Backrow Union Member",
+            "m": "174",
+            "s": "181",
+            "p": "177"
+          },
+          {
+            "title": "Rubber Ducky",
+            "m": "189",
+            "s": "179",
+            "p": "172"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Delyth Knight"
+          }
+        ]
+      },
+      {
+        "tot_score": "1061",
+        "rank_m": "20",
+        "rank_s": "24",
+        "rank_p": "25",
+        "rank": "23",
+        "name": "M.K. A Cappella",
+        "size": "19",
+        "pc_score": "58.9",
+        "songs": [
+          {
+            "title": "When Day Is Done",
+            "m": "181",
+            "s": "166",
+            "p": "185"
+          },
+          {
+            "title": "Hay, Look Me Over",
+            "m": "175",
+            "s": "175",
+            "p": "179"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Eddie Kidby"
+          }
+        ]
+      },
+      {
+        "tot_score": "1058",
+        "rank_m": "24",
+        "rank_s": "21",
+        "rank_p": "24",
+        "rank": "24",
+        "name": "Sussex Barbershop Singers",
+        "size": "16",
+        "pc_score": "58.8",
+        "songs": [
+          {
+            "title": "Old St Louis",
+            "m": "176",
+            "s": "172",
+            "p": "173"
+          },
+          {
+            "title": "It's Only A Paper Moon",
+            "m": "175",
+            "s": "179",
+            "p": "183"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Julian Gulliford"
+          }
+        ]
+      },
+      {
+        "tot_score": "1053",
+        "rank_m": "26",
+        "rank_s": "23",
+        "rank_p": "23",
+        "rank": "25",
+        "name": "Kings Of Herts",
+        "size": "29",
+        "pc_score": "58.5",
+        "songs": [
+          {
+            "title": "Let The Rest Of The World Go By",
+            "m": "170",
+            "s": "173",
+            "p": "177"
+          },
+          {
+            "title": "Georgia On My Mind",
+            "m": "175",
+            "s": "180",
+            "p": "178"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Marie-Claude Perreault"
+          }
+        ]
+      },
+      {
+        "tot_score": "1022",
+        "rank_m": "24",
+        "rank_s": "26",
+        "rank_p": "29",
+        "rank": "26",
+        "name": "The Sound Of Three Spires",
+        "size": "37",
+        "pc_score": "56.8",
+        "songs": [
+          {
+            "title": "Sing Me That Song Again",
+            "m": "176",
+            "s": "161",
+            "p": "173"
+          },
+          {
+            "title": "Give Me A Barbershop Song",
+            "m": "165",
+            "s": "172",
+            "p": "175"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Frank Salter"
+          }
+        ]
+      },
+      {
+        "tot_score": "1007",
+        "rank_m": "27",
+        "rank_s": "28",
+        "rank_p": "28",
+        "rank": "27",
+        "name": "Capital Chorus",
+        "size": "17",
+        "pc_score": "55.9",
+        "songs": [
+          {
+            "title": "Let's Get Away From It All",
+            "m": "169",
+            "s": "165",
+            "p": "170"
+          },
+          {
+            "title": "The Birth Of The Blues",
+            "m": "163",
+            "s": "169",
+            "p": "171"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Ray Garnett/Aidan Brand"
+          }
+        ]
+      },
+      {
+        "tot_score": "996",
+        "rank_m": "29",
+        "rank_s": "27",
+        "rank_p": "27",
+        "rank": "28",
+        "name": "The Red Rose Chorus",
+        "size": "21",
+        "pc_score": "55.3",
+        "songs": [
+          {
+            "title": "That's An Irish Lullaby",
+            "m": "162",
+            "s": "165",
+            "p": "162"
+          },
+          {
+            "title": "Old St. Louis",
+            "m": "165",
+            "s": "170",
+            "p": "172"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Paul Walters"
+          }
+        ]
+      },
+      {
+        "tot_score": "991",
+        "rank_m": "28",
+        "rank_s": "29",
+        "rank_p": "30",
+        "rank": "29",
+        "name": "Wight Harmony",
+        "size": "24",
+        "pc_score": "55.1",
+        "songs": [
+          {
+            "title": "For Me And My Gal",
+            "m": "166",
+            "s": "160",
+            "p": "171"
+          },
+          {
+            "title": "Who's Sorry Now?",
+            "m": "158",
+            "s": "167",
+            "p": "169"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Dave Bryant"
+          }
+        ]
+      },
+      {
+        "tot_score": "974",
+        "rank_m": "31",
+        "rank_s": "31",
+        "rank_p": "26",
+        "rank": "30",
+        "name": "Hereward Harmony",
+        "size": "26",
+        "pc_score": "54.1",
+        "songs": [
+          {
+            "title": "The Chordbuster March",
+            "m": "161",
+            "s": "170",
+            "p": "155"
+          },
+          {
+            "title": "Heart Of A Clown",
+            "m": "167",
+            "s": "156",
+            "p": "165"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Jeremy Curtis"
+          }
+        ]
+      },
+      {
+        "tot_score": "955",
+        "rank_m": "31",
+        "rank_s": "30",
+        "rank_p": "31",
+        "rank": "31",
+        "name": "Chelmsford Star Harmony",
+        "size": "23",
+        "pc_score": "53.1",
+        "songs": [
+          {
+            "title": "If You Were The Only Girl In The World",
+            "m": "157",
+            "s": "155",
+            "p": "159"
+          },
+          {
+            "title": "Lover Come Back",
+            "m": "161",
+            "s": "160",
+            "p": "163"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Brian Ward"
+          }
+        ]
+      },
+      {
+        "tot_score": "945",
+        "rank_m": "30",
+        "rank_s": "33",
+        "rank_p": "33",
+        "rank": "32",
+        "name": "Fine City Chorus",
+        "size": "17",
+        "pc_score": "52.5",
+        "songs": [
+          {
+            "title": "My Wild Irish Rose",
+            "m": "159",
+            "s": "156",
+            "p": "158"
+          },
+          {
+            "title": "How Deep Is The Ocean",
+            "m": "154",
+            "s": "157",
+            "p": "161"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Mike Mitchell"
+          }
+        ]
+      },
+      {
+        "tot_score": "942",
+        "rank_m": "33",
+        "rank_s": "34",
+        "rank_p": "32",
+        "rank": "33",
+        "name": "Vale Harmony",
+        "size": "19",
+        "pc_score": "52.3",
+        "songs": [
+          {
+            "title": "Georgia On My Mind",
+            "m": "162",
+            "s": "159",
+            "p": "153"
+          },
+          {
+            "title": "Yes Sir, That's My Baby",
+            "m": "156",
+            "s": "152",
+            "p": "160"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Eddie Howell"
+          }
+        ]
+      },
+      {
+        "tot_score": "930",
+        "rank_m": "34",
+        "rank_s": "32",
+        "rank_p": "34",
+        "rank": "34",
+        "name": "5 Ways",
+        "size": "12",
+        "pc_score": "51.7",
+        "songs": [
+          {
+            "title": "For All We Know",
+            "m": "156",
+            "s": "154",
+            "p": "148"
+          },
+          {
+            "title": "Hey, Look Me Over",
+            "m": "153",
+            "s": "157",
+            "p": "162"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Tony Keen"
+          }
+        ]
+      },
+      {
+        "tot_score": "880",
+        "rank_m": "36",
+        "rank_s": "35",
+        "rank_p": "35",
+        "rank": "35",
+        "name": "Heart Of England Chorus",
+        "size": "17",
+        "pc_score": "48.9",
+        "songs": [
+          {
+            "title": "Georgia On My Mind",
+            "m": "148",
+            "s": "148",
+            "p": "140"
+          },
+          {
+            "title": "Rock-A - Bye Your Baby With A Dixie Melody",
+            "m": "149",
+            "s": "144",
+            "p": "151"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Jim Pollock"
+          }
+        ]
+      },
+      {
+        "tot_score": "865",
+        "rank_m": "35",
+        "rank_s": "37",
+        "rank_p": "36",
+        "rank": "36",
+        "name": "Tees Valley",
+        "size": "21",
+        "pc_score": "48.1",
+        "songs": [
+          {
+            "title": "Forgive Me",
+            "m": "141",
+            "s": "144",
+            "p": "148"
+          },
+          {
+            "title": "Who's Sorry Now?",
+            "m": "148",
+            "s": "142",
+            "p": "142"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Les McGhee"
+          }
+        ]
+      },
+      {
+        "tot_score": "843",
+        "rank_m": "37",
+        "rank_s": "36",
+        "rank_p": "37",
+        "rank": "37",
+        "name": "Magna Carta Chorus",
+        "size": "19",
+        "pc_score": "46.8",
+        "songs": [
+          {
+            "title": "For All We Know",
+            "m": "140",
+            "s": "141",
+            "p": "134"
+          },
+          {
+            "title": "California Here I Come",
+            "m": "139",
+            "s": "142",
+            "p": "147"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "David Wood"
+          }
+        ]
+      }
+    ],
+    "filename": "BABS/2008CF.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "QUARTET FINAL (YOUTH STREAM)",
+    "location": "CHELTENHAM",
+    "year": "2007/08",
+    "date": "25/05/2008",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Rod Butcher"
+      },
+      {
+        "cat": "m",
+        "name": "Bob Croft"
+      },
+      {
+        "cat": "m",
+        "name": "John Palmer"
+      },
+      {
+        "cat": "p",
+        "name": "Derek Davies"
+      },
+      {
+        "cat": "p",
+        "name": "Pat Deeble"
+      },
+      {
+        "cat": "p",
+        "name": "Bob Walker"
+      },
+      {
+        "cat": "s",
+        "name": "Mark Grindall"
+      },
+      {
+        "cat": "s",
+        "name": "Barry Hine"
+      },
+      {
+        "cat": "s",
+        "name": "Stuart Lines"
+      },
+      {
+        "cat": "a",
+        "name": "Ken Hulme"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      },
+      {
+        "cat": "a",
+        "name": "Phil Mobsby"
+      }
+    ],
+    "type": "quartet final",
+    "contestants": [
+      {
+        "prev_tot_score": "1393",
+        "tot_score": "2774",
+        "rank_m": "1",
+        "rank_s": "1",
+        "rank_p": "1",
+        "rank": "1",
+        "name": "Monkey Magic",
+        "pc_score": "77.1",
+        "songs": [
+          {
+            "title": "Undecided Medley",
+            "m": "234",
+            "s": "226",
+            "p": "241"
+          },
+          {
+            "title": "What Kind Of Fool Am I",
+            "m": "232",
+            "s": "230",
+            "p": "230"
+          },
+          {
+            "title": "Previous",
+            "m": "465",
+            "s": "462",
+            "p": "454"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Alan"
+          },
+          {
+            "part": "lead",
+            "name": "Zac"
+          },
+          {
+            "part": "bari",
+            "name": "Joe"
+          },
+          {
+            "part": "bass",
+            "name": "Duncan"
+          }
+        ]
+      }
+    ],
+    "filename": "BABS/2008QF-Y.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "QUARTET FINAL (NATIONAL STREAM)",
+    "location": "CHELTENHAM",
+    "year": "2007/08",
+    "date": "25/05/2008",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Rod Butcher"
+      },
+      {
+        "cat": "m",
+        "name": "Bob Croft"
+      },
+      {
+        "cat": "m",
+        "name": "John Palmer"
+      },
+      {
+        "cat": "p",
+        "name": "Derek Davies"
+      },
+      {
+        "cat": "p",
+        "name": "Pat Deeble"
+      },
+      {
+        "cat": "p",
+        "name": "Bob Walker"
+      },
+      {
+        "cat": "s",
+        "name": "Mark Grindall"
+      },
+      {
+        "cat": "s",
+        "name": "Barry Hine"
+      },
+      {
+        "cat": "s",
+        "name": "Stuart Lines"
+      },
+      {
+        "cat": "a",
+        "name": "Ken Hulme"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      },
+      {
+        "cat": "a",
+        "name": "Phil Mobsby"
+      }
+    ],
+    "type": "quartet final",
+    "contestants": [
+      {
+        "prev_tot_score": "1393",
+        "tot_score": "2774",
+        "rank_m": "1",
+        "rank_s": "1",
+        "rank_p": "1",
+        "rank": "1",
+        "name": "Monkey Magic",
+        "pc_score": "77.1",
+        "songs": [
+          {
+            "title": "Undecided Medley",
+            "m": "234",
+            "s": "226",
+            "p": "241"
+          },
+          {
+            "title": "What Kind Of Fool Am I",
+            "m": "232",
+            "s": "230",
+            "p": "230"
+          },
+          {
+            "title": "Previous",
+            "m": "465",
+            "s": "462",
+            "p": "454"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Alan"
+          },
+          {
+            "part": "lead",
+            "name": "Zac"
+          },
+          {
+            "part": "bari",
+            "name": "Joe"
+          },
+          {
+            "part": "bass",
+            "name": "Duncan"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1342",
+        "tot_score": "2690",
+        "rank_m": "2",
+        "rank_s": "2",
+        "rank_p": "2",
+        "rank": "2",
+        "name": "Evolution",
+        "pc_score": "74.7",
+        "songs": [
+          {
+            "title": "It's Impossible",
+            "m": "224",
+            "s": "225",
+            "p": "218"
+          },
+          {
+            "title": "Come Fly With Me",
+            "m": "225",
+            "s": "222",
+            "p": "228"
+          },
+          {
+            "title": "Previous",
+            "m": "448",
+            "s": "453",
+            "p": "447"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Tony"
+          },
+          {
+            "part": "lead",
+            "name": "Michael"
+          },
+          {
+            "part": "bari",
+            "name": "Geoff"
+          },
+          {
+            "part": "bass",
+            "name": "Stuart"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1250",
+        "tot_score": "2529",
+        "rank_m": "3",
+        "rank_s": "3",
+        "rank_p": "3",
+        "rank": "3",
+        "name": "dB4",
+        "pc_score": "70.3",
+        "songs": [
+          {
+            "title": "Little Girl",
+            "m": "206",
+            "s": "206",
+            "p": "211"
+          },
+          {
+            "title": "Somewhere Over The Rainbow",
+            "m": "202",
+            "s": "214",
+            "p": "211"
+          },
+          {
+            "title": "Previous",
+            "m": "421",
+            "s": "430",
+            "p": "428"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Martin"
+          },
+          {
+            "part": "lead",
+            "name": "Paul"
+          },
+          {
+            "part": "bari",
+            "name": "Giles"
+          },
+          {
+            "part": "bass",
+            "name": "Andy"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1212",
+        "tot_score": "2479",
+        "rank_m": "4",
+        "rank_s": "4",
+        "rank_p": "4",
+        "rank": "4",
+        "name": "Qube",
+        "pc_score": "68.9",
+        "songs": [
+          {
+            "title": "Love Me",
+            "m": "188",
+            "s": "209",
+            "p": "195"
+          },
+          {
+            "title": "For The Sake Of Auld Lang Syne",
+            "m": "204",
+            "s": "207",
+            "p": "209"
+          },
+          {
+            "title": "Previous",
+            "m": "425",
+            "s": "431",
+            "p": "411"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Andy"
+          },
+          {
+            "part": "lead",
+            "name": "Tim"
+          },
+          {
+            "part": "bari",
+            "name": "Dave"
+          },
+          {
+            "part": "bass",
+            "name": "Dave"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1236",
+        "tot_score": "2417",
+        "rank_m": "5",
+        "rank_s": "5",
+        "rank_p": "5",
+        "rank": "5",
+        "name": "Celebration",
+        "pc_score": "67.1",
+        "songs": [
+          {
+            "title": "You Make Me Feel So Young",
+            "m": "205",
+            "s": "198",
+            "p": "213"
+          },
+          {
+            "title": "Where The Southern Roses Grow",
+            "m": "200",
+            "s": "211",
+            "p": "209"
+          },
+          {
+            "title": "Previous",
+            "m": "379",
+            "s": "402",
+            "p": "400"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Simon"
+          },
+          {
+            "part": "lead",
+            "name": "Simon"
+          },
+          {
+            "part": "bari",
+            "name": "John"
+          },
+          {
+            "part": "bass",
+            "name": "David"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1107",
+        "tot_score": "2307",
+        "rank_m": "6",
+        "rank_s": "6",
+        "rank_p": "6",
+        "rank": "6",
+        "name": "Four Blokes Singin'",
+        "pc_score": "64.1",
+        "songs": [
+          {
+            "title": "Lazy Bones",
+            "m": "174",
+            "s": "187",
+            "p": "186"
+          },
+          {
+            "title": "Last Night On The Back Porch",
+            "m": "191",
+            "s": "186",
+            "p": "183"
+          },
+          {
+            "title": "Previous",
+            "m": "398",
+            "s": "405",
+            "p": "397"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Chris"
+          },
+          {
+            "part": "lead",
+            "name": "Glen"
+          },
+          {
+            "part": "bari",
+            "name": "Adrian"
+          },
+          {
+            "part": "bass",
+            "name": "Steve"
+          }
+        ]
+      }
+    ],
+    "filename": "BABS/2008QF.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "QUARTET SEMI-FINAL (YOUTH STREAM)",
+    "location": "CHELTENHAM",
+    "year": "2007/08",
+    "date": "23/05/2008",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Rod Butcher"
+      },
+      {
+        "cat": "m",
+        "name": "Bob Croft"
+      },
+      {
+        "cat": "m",
+        "name": "John Palmer"
+      },
+      {
+        "cat": "p",
+        "name": "Derek Davies"
+      },
+      {
+        "cat": "p",
+        "name": "Pat Deeble"
+      },
+      {
+        "cat": "p",
+        "name": "Bob Walker"
+      },
+      {
+        "cat": "s",
+        "name": "Mark Grindall"
+      },
+      {
+        "cat": "s",
+        "name": "Barry Hine"
+      },
+      {
+        "cat": "s",
+        "name": "Stuart Lines"
+      },
+      {
+        "cat": "a",
+        "name": "Ken Hulme"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      },
+      {
+        "cat": "a",
+        "name": "Phil Mobsby"
+      }
+    ],
+    "type": "quartet",
+    "contestants": [
+      {
+        "tot_score": "1381",
+        "rank_m": "1",
+        "rank_s": "1",
+        "rank_p": "1",
+        "rank": "1",
+        "name": "Monkey Magic",
+        "pc_score": "76.7",
+        "songs": [
+          {
+            "title": "What'll I Do",
+            "m": "229",
+            "s": "228",
+            "p": "236"
+          },
+          {
+            "title": "No No Nora",
+            "m": "226",
+            "s": "230",
+            "p": "232"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Alan"
+          },
+          {
+            "part": "lead",
+            "name": "Zac"
+          },
+          {
+            "part": "bari",
+            "name": "Joe"
+          },
+          {
+            "part": "bass",
+            "name": "Duncan"
+          }
+        ]
+      },
+      {
+        "tot_score": "1154",
+        "rank_m": "2",
+        "rank_s": "2",
+        "rank_p": "2",
+        "rank": "2",
+        "name": "Cadence",
+        "pc_score": "64.1",
+        "songs": [
+          {
+            "title": "How Deep Is The Ocean",
+            "m": "181",
+            "s": "198",
+            "p": "180"
+          },
+          {
+            "title": "Midnight Rose",
+            "m": "192",
+            "s": "201",
+            "p": "202"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Steve"
+          },
+          {
+            "part": "lead",
+            "name": "Duncan"
+          },
+          {
+            "part": "bari",
+            "name": "Victor"
+          },
+          {
+            "part": "bass",
+            "name": "Tom"
+          }
+        ]
+      },
+      {
+        "tot_score": "1041",
+        "rank_m": "3",
+        "rank_s": "3",
+        "rank_p": "3",
+        "rank": "3",
+        "name": "Fraggle Rock",
+        "pc_score": "57.8",
+        "songs": [
+          {
+            "title": "For All We Know",
+            "m": "168",
+            "s": "178",
+            "p": "168"
+          },
+          {
+            "title": "Once Upon A Time",
+            "m": "183",
+            "s": "172",
+            "p": "172"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Steve"
+          },
+          {
+            "part": "lead",
+            "name": "Carl"
+          },
+          {
+            "part": "bari",
+            "name": "Eddie"
+          },
+          {
+            "part": "bass",
+            "name": "Dale"
+          }
+        ]
+      }
+    ],
+    "filename": "BABS/2008QSF-Y.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "QUARTET SEMI-FINAL (NATIONAL STREAM)",
+    "location": "CHELTENHAM",
+    "year": "2007/08",
+    "date": "23/05/2008",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Rod Butcher"
+      },
+      {
+        "cat": "m",
+        "name": "Bob Croft"
+      },
+      {
+        "cat": "m",
+        "name": "John Palmer"
+      },
+      {
+        "cat": "p",
+        "name": "Derek Davies"
+      },
+      {
+        "cat": "p",
+        "name": "Pat Deeble"
+      },
+      {
+        "cat": "p",
+        "name": "Bob Walker"
+      },
+      {
+        "cat": "s",
+        "name": "Mark Grindall"
+      },
+      {
+        "cat": "s",
+        "name": "Barry Hine"
+      },
+      {
+        "cat": "s",
+        "name": "Stuart Lines"
+      },
+      {
+        "cat": "a",
+        "name": "Ken Hulme"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      },
+      {
+        "cat": "a",
+        "name": "Phil Mobsby"
+      }
+    ],
+    "type": "quartet",
+    "contestants": [
+      {
+        "tot_score": "1381",
+        "rank_m": "1",
+        "rank_s": "1",
+        "rank_p": "1",
+        "rank": "1",
+        "name": "Monkey Magic",
+        "pc_score": "76.7",
+        "songs": [
+          {
+            "title": "What'll I Do",
+            "m": "229",
+            "s": "228",
+            "p": "236"
+          },
+          {
+            "title": "No No Nora",
+            "m": "226",
+            "s": "230",
+            "p": "232"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Alan"
+          },
+          {
+            "part": "lead",
+            "name": "Zac"
+          },
+          {
+            "part": "bari",
+            "name": "Joe"
+          },
+          {
+            "part": "bass",
+            "name": "Duncan"
+          }
+        ]
+      },
+      {
+        "tot_score": "1348",
+        "rank_m": "2",
+        "rank_s": "2",
+        "rank_p": "2",
+        "rank": "2",
+        "name": "Evolution",
+        "pc_score": "74.9",
+        "songs": [
+          {
+            "title": "The Way You Look Tonight",
+            "m": "224",
+            "s": "224",
+            "p": "224"
+          },
+          {
+            "title": "Taking A Chance On Love",
+            "m": "223",
+            "s": "227",
+            "p": "226"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Tony"
+          },
+          {
+            "part": "lead",
+            "name": "Michael"
+          },
+          {
+            "part": "bari",
+            "name": "Geoff"
+          },
+          {
+            "part": "bass",
+            "name": "Stuart"
+          }
+        ]
+      },
+      {
+        "tot_score": "1279",
+        "rank_m": "4",
+        "rank_s": "4",
+        "rank_p": "3",
+        "rank": "3",
+        "name": "dB4",
+        "pc_score": "71.1",
+        "songs": [
+          {
+            "title": "If I Give My Heart To You",
+            "m": "212",
+            "s": "213",
+            "p": "209"
+          },
+          {
+            "title": "You Make Me Feel So Young",
+            "m": "215",
+            "s": "213",
+            "p": "217"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Martin"
+          },
+          {
+            "part": "lead",
+            "name": "Paul"
+          },
+          {
+            "part": "bari",
+            "name": "Giles"
+          },
+          {
+            "part": "bass",
+            "name": "Andy"
+          }
+        ]
+      },
+      {
+        "tot_score": "1267",
+        "rank_m": "3",
+        "rank_s": "3",
+        "rank_p": "4",
+        "rank": "4",
+        "name": "Qube",
+        "pc_score": "70.4",
+        "songs": [
+          {
+            "title": "Come Fly With Me",
+            "m": "209",
+            "s": "209",
+            "p": "216"
+          },
+          {
+            "title": "May I Never Love Again",
+            "m": "202",
+            "s": "214",
+            "p": "217"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Andy"
+          },
+          {
+            "part": "lead",
+            "name": "Tim"
+          },
+          {
+            "part": "bari",
+            "name": "Dave"
+          },
+          {
+            "part": "bass",
+            "name": "Dave"
+          }
+        ]
+      },
+      {
+        "tot_score": "1200",
+        "rank_m": "5",
+        "rank_s": "5",
+        "rank_p": "7",
+        "rank": "5",
+        "name": "Four Blokes Singin'",
+        "pc_score": "66.7",
+        "songs": [
+          {
+            "title": "Yes Sir, That's My Baby",
+            "m": "203",
+            "s": "203",
+            "p": "195"
+          },
+          {
+            "title": "How Deep Is The Ocean",
+            "m": "194",
+            "s": "199",
+            "p": "206"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Chris"
+          },
+          {
+            "part": "lead",
+            "name": "Matthew"
+          },
+          {
+            "part": "bari",
+            "name": "Adrian"
+          },
+          {
+            "part": "bass",
+            "name": "Steve"
+          }
+        ]
+      },
+      {
+        "tot_score": "1181",
+        "rank_m": "6",
+        "rank_s": "7",
+        "rank_p": "6",
+        "rank": "6",
+        "name": "Celebration",
+        "pc_score": "65.6",
+        "songs": [
+          {
+            "title": "Come Fly With Me",
+            "m": "196",
+            "s": "204",
+            "p": "183"
+          },
+          {
+            "title": "Once Upon A Time",
+            "m": "196",
+            "s": "194",
+            "p": "208"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Simon"
+          },
+          {
+            "part": "lead",
+            "name": "Simon"
+          },
+          {
+            "part": "bari",
+            "name": "John"
+          },
+          {
+            "part": "bass",
+            "name": "David"
+          }
+        ]
+      },
+      {
+        "tot_score": "1179",
+        "rank_m": "6",
+        "rank_s": "8",
+        "rank_p": "5",
+        "rank": "7",
+        "name": "Figaro",
+        "pc_score": "65.5",
+        "songs": [
+          {
+            "title": "It's Only A Paper Moon",
+            "m": "189",
+            "s": "204",
+            "p": "190"
+          },
+          {
+            "title": "Moonlight Becomes You",
+            "m": "202",
+            "s": "195",
+            "p": "199"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Peter"
+          },
+          {
+            "part": "lead",
+            "name": "Richard"
+          },
+          {
+            "part": "bari",
+            "name": "Andy"
+          },
+          {
+            "part": "bass",
+            "name": "Aidan"
+          }
+        ]
+      },
+      {
+        "tot_score": "1154",
+        "rank_m": "10",
+        "rank_s": "6",
+        "rank_p": "8",
+        "rank": "8",
+        "name": "Cadence",
+        "pc_score": "64.1",
+        "songs": [
+          {
+            "title": "How Deep Is The Ocean",
+            "m": "181",
+            "s": "198",
+            "p": "180"
+          },
+          {
+            "title": "Midnight Rose",
+            "m": "192",
+            "s": "201",
+            "p": "202"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Steve"
+          },
+          {
+            "part": "lead",
+            "name": "Duncan"
+          },
+          {
+            "part": "bari",
+            "name": "Victor"
+          },
+          {
+            "part": "bass",
+            "name": "Tom"
+          }
+        ]
+      },
+      {
+        "tot_score": "1102",
+        "rank_m": "8",
+        "rank_s": "9",
+        "rank_p": "10",
+        "rank": "9",
+        "name": "Sharp Practice",
+        "pc_score": "61.2",
+        "songs": [
+          {
+            "title": "Wonderful Day Medley",
+            "m": "176",
+            "s": "184",
+            "p": "187"
+          },
+          {
+            "title": "For All We Know",
+            "m": "186",
+            "s": "184",
+            "p": "185"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "James"
+          },
+          {
+            "part": "lead",
+            "name": "Steve"
+          },
+          {
+            "part": "bari",
+            "name": "Nigel"
+          },
+          {
+            "part": "bass",
+            "name": "Keith"
+          }
+        ]
+      },
+      {
+        "tot_score": "1076",
+        "rank_m": "9",
+        "rank_s": "11",
+        "rank_p": "12",
+        "rank": "10",
+        "name": "Retro 59.8 1063 What'll I Do For All We Know 167 174 181 183 181 177 12 11 10 Category rankings: 11: Doghouse",
+        "pc_score": "59.1",
+        "songs": [
+          {
+            "title": "Last Night On The Back Porch",
+            "m": "177",
+            "s": "181",
+            "p": "185"
+          },
+          {
+            "title": "Where The Southern Roses Grow",
+            "m": "181",
+            "s": "179",
+            "p": "173"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Andy"
+          },
+          {
+            "part": "lead",
+            "name": "Simon"
+          },
+          {
+            "part": "bari",
+            "name": "Matthew"
+          },
+          {
+            "part": "bass",
+            "name": "Timm"
+          }
+        ]
+      },
+      {
+        "tot_score": "1056",
+        "rank_m": "13",
+        "rank_s": "15",
+        "rank_p": "9",
+        "rank": "12",
+        "name": "Abacus",
+        "pc_score": "58.7",
+        "songs": [
+          {
+            "title": "There's A Brand New Gang",
+            "m": "169",
+            "s": "193",
+            "p": "170"
+          },
+          {
+            "title": "I'll Take You Home Again, Kathleen",
+            "m": "187",
+            "s": "168",
+            "p": "169"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Geoff"
+          },
+          {
+            "part": "lead",
+            "name": "Wayne"
+          },
+          {
+            "part": "bari",
+            "name": "Chris"
+          },
+          {
+            "part": "bass",
+            "name": "Mike"
+          }
+        ]
+      },
+      {
+        "tot_score": "1045",
+        "rank_m": "14",
+        "rank_s": "12",
+        "rank_p": "14",
+        "rank": "13",
+        "name": "Vocal Icing",
+        "pc_score": "58.1",
+        "songs": [
+          {
+            "title": "Old St. Louis",
+            "m": "166",
+            "s": "178",
+            "p": "171"
+          },
+          {
+            "title": "She Didn't Say No",
+            "m": "179",
+            "s": "174",
+            "p": "177"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Dave"
+          },
+          {
+            "part": "lead",
+            "name": "Steve"
+          },
+          {
+            "part": "bari",
+            "name": "Hugh"
+          },
+          {
+            "part": "bass",
+            "name": "David"
+          }
+        ]
+      },
+      {
+        "tot_score": "1041",
+        "rank_m": "11",
+        "rank_s": "13",
+        "rank_p": "15",
+        "rank": "14",
+        "name": "Catch 22",
+        "pc_score": "57.8",
+        "songs": [
+          {
+            "title": "I'm Beginning To See The Light",
+            "m": "169",
+            "s": "177",
+            "p": "174"
+          },
+          {
+            "title": "You Make Me Feel So Young",
+            "m": "174",
+            "s": "174",
+            "p": "173"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "John"
+          },
+          {
+            "part": "lead",
+            "name": "Paul"
+          },
+          {
+            "part": "bari",
+            "name": "Andy"
+          },
+          {
+            "part": "bass",
+            "name": "Simon"
+          }
+        ]
+      },
+      {
+        "tot_score": "1041",
+        "rank_m": "15",
+        "rank_s": "14",
+        "rank_p": "13",
+        "rank": "14",
+        "name": "Fraggle Rock",
+        "pc_score": "57.8",
+        "songs": [
+          {
+            "title": "For All We Know",
+            "m": "168",
+            "s": "178",
+            "p": "168"
+          },
+          {
+            "title": "Once Upon A Time",
+            "m": "183",
+            "s": "172",
+            "p": "172"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Steve"
+          },
+          {
+            "part": "lead",
+            "name": "Carl"
+          },
+          {
+            "part": "bari",
+            "name": "Eddie"
+          },
+          {
+            "part": "bass",
+            "name": "Dale"
+          }
+        ]
+      },
+      {
+        "tot_score": "974",
+        "rank_m": "16",
+        "rank_s": "16",
+        "rank_p": "16",
+        "rank": "16",
+        "name": "Bianco",
+        "pc_score": "54.1",
+        "songs": [
+          {
+            "title": "Georgia On My Mind",
+            "m": "155",
+            "s": "175",
+            "p": "152"
+          },
+          {
+            "title": "Five Foot Two",
+            "m": "171",
+            "s": "160",
+            "p": "161"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Steve"
+          },
+          {
+            "part": "lead",
+            "name": "Bob"
+          },
+          {
+            "part": "bari",
+            "name": "Terry"
+          },
+          {
+            "part": "bass",
+            "name": "Paul"
+          }
+        ]
+      }
+    ],
+    "filename": "BABS/2008QSF.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "CHORUS FINAL (NATIONAL STREAM)",
+    "location": "LLANDUDNO",
+    "year": "2008/09",
+    "date": "23 May 2009",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Paul Davies"
+      },
+      {
+        "cat": "m",
+        "name": "David Morehen"
+      },
+      {
+        "cat": "m",
+        "name": "Neil Watkins"
+      },
+      {
+        "cat": "p",
+        "name": "Ron Billard"
+      },
+      {
+        "cat": "p",
+        "name": "Wayne Jackson"
+      },
+      {
+        "cat": "p",
+        "name": "Mike Warner"
+      },
+      {
+        "cat": "s",
+        "name": "Barry Clinton"
+      },
+      {
+        "cat": "s",
+        "name": "David King"
+      },
+      {
+        "cat": "s",
+        "name": "James Northen"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Ken Hulme"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      },
+      {
+        "cat": "a",
+        "name": "Peter Hughes"
+      }
+    ],
+    "type": "chorus",
+    "contestants": [],
+    "filename": "BABS/2009CF.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "QUARTET FINAL (NATIONAL STREAM)",
+    "location": "LLANDUDNO",
+    "year": "2008/09",
+    "date": "24 May 2009",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Rod Butcher"
+      },
+      {
+        "cat": "m",
+        "name": "Bob Croft"
+      },
+      {
+        "cat": "m",
+        "name": "John Palmer"
+      },
+      {
+        "cat": "p",
+        "name": "Pat Deeble"
+      },
+      {
+        "cat": "p",
+        "name": "Pru Van De Bilt"
+      },
+      {
+        "cat": "p",
+        "name": "Lucy Van De Ven"
+      },
+      {
+        "cat": "s",
+        "name": "Mark Grindall"
+      },
+      {
+        "cat": "s",
+        "name": "Stuart Lines"
+      },
+      {
+        "cat": "s",
+        "name": "Mike Taylor"
+      },
+      {
+        "cat": "a",
+        "name": "Dick Knight"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Peter Hughes"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      }
+    ],
+    "type": "quartet final",
+    "contestants": [],
+    "filename": "BABS/2009QF.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "QUARTET SEMI-FINAL (NATIONAL STREAM)",
+    "location": "LLANDUDNO",
+    "year": "2008/09",
+    "date": "22 May 2009",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Rod Butcher"
+      },
+      {
+        "cat": "m",
+        "name": "Bob Croft"
+      },
+      {
+        "cat": "m",
+        "name": "John Palmer"
+      },
+      {
+        "cat": "p",
+        "name": "Pat Deeble"
+      },
+      {
+        "cat": "p",
+        "name": "Pru Van De Bilt"
+      },
+      {
+        "cat": "p",
+        "name": "Lucy Van De Ven"
+      },
+      {
+        "cat": "s",
+        "name": "Mark Grindall"
+      },
+      {
+        "cat": "s",
+        "name": "Stuart Lines"
+      },
+      {
+        "cat": "s",
+        "name": "Mike Taylor"
+      },
+      {
+        "cat": "a",
+        "name": "Dick Knight"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Peter Hughes"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      }
+    ],
+    "type": "quartet",
+    "contestants": [],
+    "filename": "BABS/2009QSF.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "CHORUS FINAL (NATIONAL STREAM)",
+    "location": "HARROGATE",
+    "year": "2009/10",
+    "date": "29/05/2010",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Paul Davies"
+      },
+      {
+        "cat": "m",
+        "name": "Tom Gentry"
+      },
+      {
+        "cat": "m",
+        "name": "David Morehen"
+      },
+      {
+        "cat": "p",
+        "name": "Ron Billard"
+      },
+      {
+        "cat": "p",
+        "name": "Derek Davies"
+      },
+      {
+        "cat": "p",
+        "name": "Lucy Van De Ven"
+      },
+      {
+        "cat": "s",
+        "name": "Peter Iseger"
+      },
+      {
+        "cat": "s",
+        "name": "David King"
+      },
+      {
+        "cat": "s",
+        "name": "Mike Taylor"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      },
+      {
+        "cat": "a",
+        "name": "Hari Birtles"
+      },
+      {
+        "cat": "a",
+        "name": "Norma Head"
+      },
+      {
+        "cat": "a",
+        "name": "Phil Mobsby"
+      }
+    ],
+    "type": "chorus",
+    "contestants": [
+      {
+        "tot_score": "1392",
+        "rank_m": "2",
+        "rank_s": "1",
+        "rank_p": "1",
+        "rank": "1",
+        "name": "The Great Western Chorus Of Bristol",
+        "size": "54",
+        "pc_score": "77.3",
+        "songs": [
+          {
+            "title": "Come Take Your Place In My Heart",
+            "m": "219",
+            "s": "236",
+            "p": "222"
+          },
+          {
+            "title": "All Aboard For Dixie Land",
+            "m": "247",
+            "s": "234",
+            "p": "234"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Linda Corcoran"
+          }
+        ]
+      },
+      {
+        "tot_score": "1380",
+        "rank_m": "1",
+        "rank_s": "3",
+        "rank_p": "2",
+        "rank": "2",
+        "name": "The Cambridge Chord Company",
+        "size": "47",
+        "pc_score": "76.7",
+        "songs": [
+          {
+            "title": "If I Had My Way",
+            "m": "222",
+            "s": "232",
+            "p": "229"
+          },
+          {
+            "title": "Mason Dixon Line",
+            "m": "239",
+            "s": "228",
+            "p": "230"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Bob Croft"
+          }
+        ]
+      },
+      {
+        "tot_score": "1366",
+        "rank_m": "3",
+        "rank_s": "2",
+        "rank_p": "3",
+        "rank": "3",
+        "name": "Spirit Of Harmony",
+        "size": "51",
+        "pc_score": "75.9",
+        "songs": [
+          {
+            "title": "If I Ruled The World",
+            "m": "210",
+            "s": "229",
+            "p": "227"
+          },
+          {
+            "title": "I Can't Give You Anything But Love",
+            "m": "239",
+            "s": "235",
+            "p": "226"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Andy Salter"
+          }
+        ]
+      },
+      {
+        "tot_score": "1299",
+        "rank_m": "6",
+        "rank_s": "4",
+        "rank_p": "4",
+        "rank": "4",
+        "name": "The Royal Harmonics",
+        "size": "42",
+        "pc_score": "72.2",
+        "songs": [
+          {
+            "title": "Hit Me With A Hot Note / It Don't Mean A Thing / I Got Rhythm Me",
+            "m": "205",
+            "s": "220",
+            "p": "204"
+          },
+          {
+            "title": "River Island Of Dreams",
+            "m": "229",
+            "s": "221",
+            "p": "220"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "John Palmer"
+          }
+        ]
+      },
+      {
+        "tot_score": "1272",
+        "rank_m": "4",
+        "rank_s": "7",
+        "rank_p": "5",
+        "rank": "5",
+        "name": "The Telfordaires",
+        "size": "36",
+        "pc_score": "70.7",
+        "songs": [
+          {
+            "title": "Wait Till You Get 'Em Up In The Air, Boys",
+            "m": "210",
+            "s": "215",
+            "p": "213"
+          },
+          {
+            "title": "Who'll Take Your Place (Parody)",
+            "m": "221",
+            "s": "207",
+            "p": "206"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Dale Kynaston"
+          }
+        ]
+      },
+      {
+        "tot_score": "1270",
+        "rank_m": "5",
+        "rank_s": "5",
+        "rank_p": "8",
+        "rank": "6",
+        "name": "Grand Central Chorus",
+        "size": "35",
+        "pc_score": "70.6",
+        "songs": [
+          {
+            "title": "I Never Knew / You Were Meant For Me (Medley)",
+            "m": "212",
+            "s": "206",
+            "p": "207"
+          },
+          {
+            "title": "Time After Time",
+            "m": "207",
+            "s": "220",
+            "p": "218"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Zac Booles"
+          }
+        ]
+      },
+      {
+        "tot_score": "1233",
+        "rank_m": "7",
+        "rank_s": "8",
+        "rank_p": "6",
+        "rank": "7",
+        "name": "Shannon Express",
+        "size": "56",
+        "pc_score": "68.5",
+        "songs": [
+          {
+            "title": "Wonderful Day Medley",
+            "m": "204",
+            "s": "211",
+            "p": "198"
+          },
+          {
+            "title": "Lover Come Back",
+            "m": "213",
+            "s": "205",
+            "p": "202"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Roger Chantrelle"
+          }
+        ]
+      },
+      {
+        "tot_score": "1232",
+        "rank_m": "8",
+        "rank_s": "6",
+        "rank_p": "7",
+        "rank": "8",
+        "name": "Thames Valley Chorus",
+        "size": "62",
+        "pc_score": "68.4",
+        "songs": [
+          {
+            "title": "Last Night Was The End Of The World",
+            "m": "199",
+            "s": "203",
+            "p": "198"
+          },
+          {
+            "title": "New Ashmolian Marching Society & Student's' Conservatory Ban",
+            "m": "212",
+            "s": "211",
+            "p": "209"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Rhiannon Owens-Hall"
+          }
+        ]
+      },
+      {
+        "tot_score": "1197",
+        "rank_m": "9",
+        "rank_s": "10",
+        "rank_p": "10",
+        "rank": "9",
+        "name": "Hallmark Of Harmony",
+        "size": "34",
+        "pc_score": "66.5",
+        "songs": [
+          {
+            "title": "What'll I Do",
+            "m": "196",
+            "s": "196",
+            "p": "199"
+          },
+          {
+            "title": "On The Sunny Side Of The Street",
+            "m": "200",
+            "s": "204",
+            "p": "202"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Andy Allen"
+          }
+        ]
+      },
+      {
+        "tot_score": "1190",
+        "rank_m": "10",
+        "rank_s": "8",
+        "rank_p": "10",
+        "rank": "10",
+        "name": "Tuxedo Junction",
+        "size": "15",
+        "pc_score": "66.1",
+        "songs": [
+          {
+            "title": "Edelweiss",
+            "m": "191",
+            "s": "193",
+            "p": "196"
+          },
+          {
+            "title": "French Foreign Legion",
+            "m": "203",
+            "s": "207",
+            "p": "200"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Rob Barber"
+          }
+        ]
+      },
+      {
+        "tot_score": "1188",
+        "rank_m": "13",
+        "rank_s": "11",
+        "rank_p": "9",
+        "rank": "11",
+        "name": "Anvil Chorus",
+        "size": "34",
+        "pc_score": "66.0",
+        "songs": [
+          {
+            "title": "Raise Your Baton Mr Leader Man / Strike Up The Band Medley",
+            "m": "190",
+            "s": "202",
+            "p": "192"
+          },
+          {
+            "title": "If I Give My Heart To You",
+            "m": "201",
+            "s": "199",
+            "p": "204"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Duncan Whinyates"
+          }
+        ]
+      },
+      {
+        "tot_score": "1163",
+        "rank_m": "12",
+        "rank_s": "13",
+        "rank_p": "12",
+        "rank": "12",
+        "name": "Harmony Lincs",
+        "size": "60",
+        "pc_score": "64.6",
+        "songs": [
+          {
+            "title": "Lover Come Back",
+            "m": "189",
+            "s": "194",
+            "p": "195"
+          },
+          {
+            "title": "Steppin Out With My Baby",
+            "m": "198",
+            "s": "195",
+            "p": "192"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Richard Curtis"
+          }
+        ]
+      },
+      {
+        "tot_score": "1162",
+        "rank_m": "11",
+        "rank_s": "12",
+        "rank_p": "13",
+        "rank": "13",
+        "name": "The Kingsmen",
+        "size": "47",
+        "pc_score": "64.6",
+        "songs": [
+          {
+            "title": "May I Never Love Again",
+            "m": "194",
+            "s": "194",
+            "p": "192"
+          },
+          {
+            "title": "I'll Never Say \"Never Again\" Again",
+            "m": "194",
+            "s": "194",
+            "p": "194"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Roy Hann"
+          }
+        ]
+      },
+      {
+        "tot_score": "1136",
+        "rank_m": "14",
+        "rank_s": "15",
+        "rank_p": "14",
+        "rank": "14",
+        "name": "The Kentones",
+        "size": "45",
+        "pc_score": "63.1",
+        "songs": [
+          {
+            "title": "The Way You Look Tonight",
+            "m": "192",
+            "s": "184",
+            "p": "189"
+          },
+          {
+            "title": "Lover Come Back",
+            "m": "195",
+            "s": "186",
+            "p": "190"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Michael Corr"
+          }
+        ]
+      },
+      {
+        "tot_score": "1117",
+        "rank_m": "15",
+        "rank_s": "14",
+        "rank_p": "16",
+        "rank": "15",
+        "name": "The Sussex Harmonisers",
+        "size": "32",
+        "pc_score": "62.1",
+        "songs": [
+          {
+            "title": "What A Lovely Way To Spend An Evening",
+            "m": "177",
+            "s": "182",
+            "p": "188"
+          },
+          {
+            "title": "Time After Time",
+            "m": "188",
+            "s": "191",
+            "p": "191"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Peter Kennedy"
+          }
+        ]
+      },
+      {
+        "tot_score": "1090",
+        "rank_m": "16",
+        "rank_s": "16",
+        "rank_p": "17",
+        "rank": "16",
+        "name": "The Major Oak Chorus",
+        "size": "35",
+        "pc_score": "60.6",
+        "songs": [
+          {
+            "title": "When I Lost You",
+            "m": "176",
+            "s": "172",
+            "p": "188"
+          },
+          {
+            "title": "Girls Medley",
+            "m": "183",
+            "s": "187",
+            "p": "184"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Joe Knight"
+          }
+        ]
+      },
+      {
+        "tot_score": "1068",
+        "rank_m": "18",
+        "rank_s": "19",
+        "rank_p": "15",
+        "rank": "17",
+        "name": "Southern Union",
+        "size": "26",
+        "pc_score": "59.3",
+        "songs": [
+          {
+            "title": "Nice Work If You Can Get It (Parody)",
+            "m": "174",
+            "s": "189",
+            "p": "173"
+          },
+          {
+            "title": "You've Got To Have Heart (Parody)",
+            "m": "187",
+            "s": "170",
+            "p": "175"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Pete Hills"
+          }
+        ]
+      },
+      {
+        "tot_score": "1037",
+        "rank_m": "17",
+        "rank_s": "21",
+        "rank_p": "18",
+        "rank": "18",
+        "name": "Clwyd Clippers",
+        "size": "25",
+        "pc_score": "57.6",
+        "songs": [
+          {
+            "title": "If You Love Me (Really Love Me)",
+            "m": "174",
+            "s": "172",
+            "p": "176"
+          },
+          {
+            "title": "That's Life",
+            "m": "180",
+            "s": "162",
+            "p": "173"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Rhiannon Owens-Hall"
+          }
+        ]
+      },
+      {
+        "tot_score": "1029",
+        "rank_m": "24",
+        "rank_s": "17",
+        "rank_p": "19",
+        "rank": "19",
+        "name": "The Sound Of Three Spires",
+        "size": "33",
+        "pc_score": "57.2",
+        "songs": [
+          {
+            "title": "What A Lovely Way To Spend An Evening",
+            "m": "158",
+            "s": "167",
+            "p": "174"
+          },
+          {
+            "title": "Good Day Medley",
+            "m": "181",
+            "s": "178",
+            "p": "171"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "John Riseborough"
+          }
+        ]
+      },
+      {
+        "tot_score": "1018",
+        "rank_m": "20",
+        "rank_s": "21",
+        "rank_p": "23",
+        "rank": "20",
+        "name": "5 Ways",
+        "size": "12",
+        "pc_score": "56.6",
+        "songs": [
+          {
+            "title": "Alexander's Ragtime Band",
+            "m": "170",
+            "s": "170",
+            "p": "170"
+          },
+          {
+            "title": "Georgia On My Mind",
+            "m": "173",
+            "s": "171",
+            "p": "164"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Shanna Wells"
+          }
+        ]
+      },
+      {
+        "tot_score": "1017",
+        "rank_m": "23",
+        "rank_s": "20",
+        "rank_p": "20",
+        "rank": "21",
+        "name": "Granite City Chorus",
+        "size": "33",
+        "pc_score": "56.5",
+        "songs": [
+          {
+            "title": "Nobody Knows What A Red Head Mama Can Do",
+            "m": "171",
+            "s": "172",
+            "p": "163"
+          },
+          {
+            "title": "For All We Know",
+            "m": "174",
+            "s": "164",
+            "p": "173"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Colin Reid"
+          }
+        ]
+      },
+      {
+        "tot_score": "1015",
+        "rank_m": "20",
+        "rank_s": "24",
+        "rank_p": "20",
+        "rank": "22",
+        "name": "Oxford Harmony",
+        "size": "28",
+        "pc_score": "56.4",
+        "songs": [
+          {
+            "title": "Yes Sir, That's My Baby",
+            "m": "165",
+            "s": "179",
+            "p": "175"
+          },
+          {
+            "title": "My Wife The Dancer",
+            "m": "167",
+            "s": "164",
+            "p": "165"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Kate Doherty"
+          }
+        ]
+      },
+      {
+        "tot_score": "1005",
+        "rank_m": "25",
+        "rank_s": "23",
+        "rank_p": "22",
+        "rank": "23",
+        "name": "Capital Chorus",
+        "size": "24",
+        "pc_score": "55.8",
+        "songs": [
+          {
+            "title": "I'm Beginning To See The Light",
+            "m": "168",
+            "s": "170",
+            "p": "161"
+          },
+          {
+            "title": "I'll Be Seeing You",
+            "m": "174",
+            "s": "164",
+            "p": "168"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Aidan Brand"
+          }
+        ]
+      },
+      {
+        "tot_score": "1000",
+        "rank_m": "22",
+        "rank_s": "25",
+        "rank_p": "24",
+        "rank": "24",
+        "name": "Kings Of Herts",
+        "size": "23",
+        "pc_score": "55.6",
+        "songs": [
+          {
+            "title": "Let The Rest Of The World Go By",
+            "m": "164",
+            "s": "168",
+            "p": "172"
+          },
+          {
+            "title": "On The Sunny Side Of The Street",
+            "m": "172",
+            "s": "164",
+            "p": "160"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Derek Harrison"
+          }
+        ]
+      },
+      {
+        "tot_score": "996",
+        "rank_m": "19",
+        "rank_s": "26",
+        "rank_p": "25",
+        "rank": "25",
+        "name": "Fine City Chorus",
+        "size": "18",
+        "pc_score": "55.3",
+        "songs": [
+          {
+            "title": "You Keep Coming Back Like A Song",
+            "m": "168",
+            "s": "161",
+            "p": "176"
+          },
+          {
+            "title": "Baby Face",
+            "m": "171",
+            "s": "162",
+            "p": "158"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Carol Logan"
+          }
+        ]
+      },
+      {
+        "tot_score": "994",
+        "rank_m": "26",
+        "rank_s": "18",
+        "rank_p": "30",
+        "rank": "26",
+        "name": "M.K. A Cappella",
+        "size": "23",
+        "pc_score": "55.2",
+        "songs": [
+          {
+            "title": "Where The Blue Of The Night",
+            "m": "160",
+            "s": "157",
+            "p": "168"
+          },
+          {
+            "title": "My Old Kentucky Home",
+            "m": "162",
+            "s": "172",
+            "p": "175"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Eddie Kidby"
+          }
+        ]
+      },
+      {
+        "tot_score": "970",
+        "rank_m": "29",
+        "rank_s": "27",
+        "rank_p": "26",
+        "rank": "27",
+        "name": "Wight Harmony",
+        "size": "31",
+        "pc_score": "53.9",
+        "songs": [
+          {
+            "title": "Ain't Misbehavin'",
+            "m": "160",
+            "s": "164",
+            "p": "161"
+          },
+          {
+            "title": "It's Only A Paper Moon",
+            "m": "167",
+            "s": "161",
+            "p": "157"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Dave Bryant"
+          }
+        ]
+      },
+      {
+        "tot_score": "953",
+        "rank_m": "27",
+        "rank_s": "32",
+        "rank_p": "27",
+        "rank": "28",
+        "name": "Harmony Revival",
+        "size": "37",
+        "pc_score": "52.9",
+        "songs": [
+          {
+            "title": "Georgia On My Mind",
+            "m": "164",
+            "s": "168",
+            "p": "158"
+          },
+          {
+            "title": "I'll Be Seeing You",
+            "m": "159",
+            "s": "147",
+            "p": "157"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Lesley Carson"
+          }
+        ]
+      },
+      {
+        "tot_score": "951",
+        "rank_m": "27",
+        "rank_s": "30",
+        "rank_p": "29",
+        "rank": "29",
+        "name": "The Big County Chorus",
+        "size": "18",
+        "pc_score": "52.8",
+        "songs": [
+          {
+            "title": "Let The Rest Of The World Go By",
+            "m": "164",
+            "s": "161",
+            "p": "158"
+          },
+          {
+            "title": "If You Knew Susie",
+            "m": "160",
+            "s": "152",
+            "p": "156"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Hazel Jiggins"
+          }
+        ]
+      },
+      {
+        "tot_score": "949",
+        "rank_m": "31",
+        "rank_s": "29",
+        "rank_p": "28",
+        "rank": "30",
+        "name": "The Peers Of Harmony",
+        "size": "25",
+        "pc_score": "52.7",
+        "songs": [
+          {
+            "title": "For All We Know",
+            "m": "154",
+            "s": "161",
+            "p": "162"
+          },
+          {
+            "title": "The Sunny Side Of The Street",
+            "m": "163",
+            "s": "155",
+            "p": "154"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Susan Jones"
+          }
+        ]
+      },
+      {
+        "tot_score": "949",
+        "rank_m": "30",
+        "rank_s": "28",
+        "rank_p": "31",
+        "rank": "30",
+        "name": "Western Approach",
+        "size": "16",
+        "pc_score": "52.7",
+        "songs": [
+          {
+            "title": "The Story Of The Rose (Heart Of My Heart)",
+            "m": "157",
+            "s": "159",
+            "p": "163"
+          },
+          {
+            "title": "Once Upon A Time",
+            "m": "158",
+            "s": "155",
+            "p": "157"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Richard Knight"
+          }
+        ]
+      },
+      {
+        "tot_score": "925",
+        "rank_m": "32",
+        "rank_s": "32",
+        "rank_p": "32",
+        "rank": "32",
+        "name": "Hereward Harmony",
+        "size": "24",
+        "pc_score": "51.4",
+        "songs": [
+          {
+            "title": "For Me And My Gal",
+            "m": "155",
+            "s": "161",
+            "p": "150"
+          },
+          {
+            "title": "Let The Rest Of The World Go By",
+            "m": "155",
+            "s": "149",
+            "p": "155"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Jeremy Curtis"
+          }
+        ]
+      },
+      {
+        "tot_score": "908",
+        "rank_m": "33",
+        "rank_s": "31",
+        "rank_p": "33",
+        "rank": "33",
+        "name": "The Red Rose Chorus",
+        "size": "32",
+        "pc_score": "50.4",
+        "songs": [
+          {
+            "title": "Sweet Georgia Brown",
+            "m": "129",
+            "s": "150",
+            "p": "158"
+          },
+          {
+            "title": "Once Upon A Time",
+            "m": "164",
+            "s": "157",
+            "p": "150"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Paul Walters"
+          }
+        ]
+      },
+      {
+        "tot_score": "887",
+        "rank_m": "34",
+        "rank_s": "34",
+        "rank_p": "35",
+        "rank": "34",
+        "name": "Solent City Chorus",
+        "size": "17",
+        "pc_score": "49.3",
+        "songs": [
+          {
+            "title": "My Sunny Day",
+            "m": "139",
+            "s": "149",
+            "p": "144"
+          },
+          {
+            "title": "Come Fly With Me",
+            "m": "158",
+            "s": "146",
+            "p": "151"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Peter Mumford"
+          }
+        ]
+      },
+      {
+        "tot_score": "884",
+        "rank_m": "34",
+        "rank_s": "35",
+        "rank_p": "34",
+        "rank": "35",
+        "name": "The Rolling Hills Chorus",
+        "size": "20",
+        "pc_score": "49.1",
+        "songs": [
+          {
+            "title": "Are You Lonesome Tonight?",
+            "m": "144",
+            "s": "154",
+            "p": "139"
+          },
+          {
+            "title": "Sweet Georgia Brown",
+            "m": "156",
+            "s": "144",
+            "p": "147"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Nick Hayes"
+          }
+        ]
+      },
+      {
+        "tot_score": "845",
+        "rank_m": "36",
+        "rank_s": "36",
+        "rank_p": "36",
+        "rank": "36",
+        "name": "Northern Acchord",
+        "size": "36",
+        "pc_score": "46.9",
+        "songs": [
+          {
+            "title": "Nevertheless",
+            "m": "143",
+            "s": "155",
+            "p": "124"
+          },
+          {
+            "title": "Old Cape Cod",
+            "m": "141",
+            "s": "134",
+            "p": "148"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Les McGhee"
+          }
+        ]
+      },
+      {
+        "tot_score": "804",
+        "rank_m": "37",
+        "rank_s": "37",
+        "rank_p": "37",
+        "rank": "37",
+        "name": "Harrogate Harmony",
+        "size": "19",
+        "pc_score": "44.7",
+        "songs": [
+          {
+            "title": "I'm Confessing",
+            "m": "122",
+            "s": "133",
+            "p": "139"
+          },
+          {
+            "title": "Lulu's Back In Town",
+            "m": "140",
+            "s": "134",
+            "p": "136"
+          }
+        ],
+        "members": [
+          {
+            "part": "director",
+            "name": "Dean Whitehouse"
+          }
+        ]
+      }
+    ],
+    "filename": "BABS/2010CF.pdf"
+  },
+  {
+    "assoc": "THE BRITISH ASSOCIATION OF BARBERSHOP SINGERS",
+    "contest": "QUARTET FINAL (INTERNATIONAL STREAM)",
+    "location": "HARROGATE",
+    "year": "2009/10",
+    "date": "30/05/2010",
+    "judges": [
+      {
+        "cat": "m",
+        "name": "Rod Butcher"
+      },
+      {
+        "cat": "m",
+        "name": "Bob Croft"
+      },
+      {
+        "cat": "m",
+        "name": "Neil Watkins"
+      },
+      {
+        "cat": "p",
+        "name": "Pat Deeble"
+      },
+      {
+        "cat": "p",
+        "name": "Pru Van De Bilt"
+      },
+      {
+        "cat": "p",
+        "name": "Mike Warner"
+      },
+      {
+        "cat": "s",
+        "name": "Barry Hine"
+      },
+      {
+        "cat": "s",
+        "name": "Stuart Lines"
+      },
+      {
+        "cat": "s",
+        "name": "James Northen"
+      },
+      {
+        "cat": "a",
+        "name": "Dick Knight"
+      },
+      {
+        "cat": "a",
+        "name": "Peter Hughes"
+      },
+      {
+        "cat": "a",
+        "name": "Ken Hulme"
+      },
+      {
+        "cat": "a",
+        "name": "Chris Tideman"
+      },
+      {
+        "cat": "a",
+        "name": "Tony Wright"
+      }
+    ],
+    "type": "quartet final",
+    "contestants": [
+      {
+        "prev_tot_score": "1409",
+        "tot_score": "2833",
+        "rank_m": "1",
+        "rank_s": "1",
+        "rank_p": "1",
+        "rank": "1",
+        "name": "Evolution",
+        "pc_score": "78.7",
+        "songs": [
+          {
+            "title": "It's You",
+            "m": "238",
+            "s": "233",
+            "p": "238"
+          },
+          {
+            "title": "Smile Medley",
+            "m": "235",
+            "s": "234",
+            "p": "231"
+          },
+          {
+            "title": "Previous",
+            "m": "478",
+            "s": "475",
+            "p": "471"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Tony"
+          },
+          {
+            "part": "lead",
+            "name": "Michael"
+          },
+          {
+            "part": "bari",
+            "name": "Timm"
+          },
+          {
+            "part": "bass",
+            "name": "Stuart"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1393",
+        "tot_score": "2776",
+        "rank_m": "3",
+        "rank_s": "2",
+        "rank_p": "2",
+        "rank": "2",
+        "name": "Steel",
+        "pc_score": "77.1",
+        "songs": [
+          {
+            "title": "If I Had My Way",
+            "m": "233",
+            "s": "228",
+            "p": "233"
+          },
+          {
+            "title": "Put Your Arms Around Me Honey",
+            "m": "237",
+            "s": "231",
+            "p": "231"
+          },
+          {
+            "title": "Previous",
+            "m": "461",
+            "s": "465",
+            "p": "457"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Andy"
+          },
+          {
+            "part": "lead",
+            "name": "Keith"
+          },
+          {
+            "part": "bari",
+            "name": "Peter"
+          },
+          {
+            "part": "bass",
+            "name": "Andy"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1380",
+        "tot_score": "2766",
+        "rank_m": "2",
+        "rank_s": "3",
+        "rank_p": "3",
+        "rank": "3",
+        "name": "Monkey Magic",
+        "pc_score": "76.8",
+        "songs": [
+          {
+            "title": "Wait Till The Sun Shines, Nellie",
+            "m": "234",
+            "s": "227",
+            "p": "232"
+          },
+          {
+            "title": "When I Leave The World Behind",
+            "m": "232",
+            "s": "226",
+            "p": "229"
+          },
+          {
+            "title": "Previous",
+            "m": "464",
+            "s": "462",
+            "p": "460"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Alan"
+          },
+          {
+            "part": "lead",
+            "name": "Zac"
+          },
+          {
+            "part": "bari",
+            "name": "Duncan"
+          },
+          {
+            "part": "bass",
+            "name": "Joe"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1357",
+        "tot_score": "2709",
+        "rank_m": "4",
+        "rank_s": "4",
+        "rank_p": "4",
+        "rank": "4",
+        "name": "Crossfire",
+        "pc_score": "75.3",
+        "songs": [
+          {
+            "title": "Fit As A Fiddle",
+            "m": "228",
+            "s": "224",
+            "p": "232"
+          },
+          {
+            "title": "Moonlight Becomes You",
+            "m": "230",
+            "s": "222",
+            "p": "221"
+          },
+          {
+            "title": "Previous",
+            "m": "450",
+            "s": "453",
+            "p": "449"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Ian"
+          },
+          {
+            "part": "lead",
+            "name": "Duncan"
+          },
+          {
+            "part": "bari",
+            "name": "Andrew"
+          },
+          {
+            "part": "bass",
+            "name": "Neil"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1198",
+        "tot_score": "2402",
+        "rank_m": "5",
+        "rank_s": "6",
+        "rank_p": "6",
+        "rank": "5",
+        "name": "Qube",
+        "pc_score": "66.7",
+        "songs": [
+          {
+            "title": "Isn't It A Pity",
+            "m": "197",
+            "s": "206",
+            "p": "197"
+          },
+          {
+            "title": "Auld Lang Syne",
+            "m": "209",
+            "s": "194",
+            "p": "195"
+          },
+          {
+            "title": "Previous",
+            "m": "401",
+            "s": "401",
+            "p": "402"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Andy"
+          },
+          {
+            "part": "lead",
+            "name": "Tim"
+          },
+          {
+            "part": "bari",
+            "name": "Dave"
+          },
+          {
+            "part": "bass",
+            "name": "David"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1211",
+        "tot_score": "2393",
+        "rank_m": "6",
+        "rank_s": "7",
+        "rank_p": "5",
+        "rank": "6",
+        "name": "Cadence",
+        "pc_score": "66.5",
+        "songs": [
+          {
+            "title": "How Deep Is The Ocean",
+            "m": "195",
+            "s": "208",
+            "p": "200"
+          },
+          {
+            "title": "Come Fly With Me",
+            "m": "214",
+            "s": "196",
+            "p": "198"
+          },
+          {
+            "title": "Previous",
+            "m": "399",
+            "s": "385",
+            "p": "398"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Steve"
+          },
+          {
+            "part": "lead",
+            "name": "Duncan"
+          },
+          {
+            "part": "bari",
+            "name": "Victor"
+          },
+          {
+            "part": "bass",
+            "name": "Tom"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1198",
+        "tot_score": "2384",
+        "rank_m": "7",
+        "rank_s": "5",
+        "rank_p": "8",
+        "rank": "7",
+        "name": "Vox",
+        "pc_score": "66.2",
+        "songs": [
+          {
+            "title": "Blue Skies",
+            "m": "190",
+            "s": "205",
+            "p": "195"
+          },
+          {
+            "title": "Bright Was The Night",
+            "m": "201",
+            "s": "202",
+            "p": "205"
+          },
+          {
+            "title": "Previous",
+            "m": "398",
+            "s": "397",
+            "p": "391"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Richard"
+          },
+          {
+            "part": "lead",
+            "name": "Steve"
+          },
+          {
+            "part": "bari",
+            "name": "Graham"
+          },
+          {
+            "part": "bass",
+            "name": "Mark"
+          }
+        ]
+      },
+      {
+        "prev_tot_score": "1146",
+        "tot_score": "2326",
+        "rank_m": "8",
+        "rank_s": "8",
+        "rank_p": "7",
+        "rank": "8",
+        "name": "Celebration",
+        "pc_score": "64.6",
+        "songs": [
+          {
+            "title": "Make 'Em Laugh",
+            "m": "188",
+            "s": "207",
+            "p": "179"
+          },
+          {
+            "title": "That Old Feeling",
+            "m": "196",
+            "s": "184",
+            "p": "192"
+          },
+          {
+            "title": "Previous",
+            "m": "382",
+            "s": "400",
+            "p": "398"
+          }
+        ],
+        "members": [
+          {
+            "part": "tenor",
+            "name": "Simon"
+          },
+          {
+            "part": "lead",
+            "name": "Simon"
+          },
+          {
+            "part": "bari",
+            "name": "John"
+          },
+          {
+            "part": "bass",
+            "name": "Jack"
+          }
+        ]
+      }
+    ],
+    "filename": "BABS/2010QF-I.pdf"
+  }
+]

@@ -1,0 +1,560 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2003-04-QP-NAT-sa-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET PRELIM - SATURDAY",
+  "location": "WALSALL",
+  "year": "2003/04",
+  "type": "q",
+  "date": "10/10/2003",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 135,
+          "p": 146,
+          "s": 141,
+          "tot_score": 422,
+          "pc_score": 70.3,
+          "m_pc": 67.5,
+          "p_pc": 73.0,
+          "s_pc": 70.5
+        },
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 137,
+          "p": 148,
+          "s": 141,
+          "tot_score": 426,
+          "pc_score": 71.0,
+          "m_pc": 68.5,
+          "p_pc": 74.0,
+          "s_pc": 70.5
+        }
+      ],
+      "n": 2,
+      "m": 272,
+      "m_pc": 68.0,
+      "p": 294,
+      "p_pc": 73.5,
+      "s": 282,
+      "s_pc": 70.5,
+      "tot_score": 848,
+      "pc_score": 70.7
+    },
+    {
+      "rank": 2,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 133,
+          "p": 147,
+          "s": 135,
+          "tot_score": 415,
+          "pc_score": 69.2,
+          "m_pc": 66.5,
+          "p_pc": 73.5,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 132,
+          "p": 145,
+          "s": 132,
+          "tot_score": 409,
+          "pc_score": 68.2,
+          "m_pc": 66.0,
+          "p_pc": 72.5,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 2,
+      "m": 265,
+      "m_pc": 66.3,
+      "p": 292,
+      "p_pc": 73.0,
+      "s": 267,
+      "s_pc": 66.8,
+      "tot_score": 824,
+      "pc_score": 68.7
+    },
+    {
+      "rank": 3,
+      "name": "Format",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There's A Rose On Your Cheek",
+          "m": 129,
+          "p": 124,
+          "s": 130,
+          "tot_score": 383,
+          "pc_score": 63.8,
+          "m_pc": 64.5,
+          "p_pc": 62.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 135,
+          "p": 123,
+          "s": 126,
+          "tot_score": 384,
+          "pc_score": 64.0,
+          "m_pc": 67.5,
+          "p_pc": 61.5,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 264,
+      "m_pc": 66.0,
+      "p": 247,
+      "p_pc": 61.8,
+      "s": 256,
+      "s_pc": 64.0,
+      "tot_score": 767,
+      "pc_score": 63.9
+    },
+    {
+      "rank": 4,
+      "name": "A Cappella Fellas",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wonderful Day Medley",
+          "m": 123,
+          "p": 129,
+          "s": 121,
+          "tot_score": 373,
+          "pc_score": 62.2,
+          "m_pc": 61.5,
+          "p_pc": 64.5,
+          "s_pc": 60.5
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 127,
+          "p": 124,
+          "s": 118,
+          "tot_score": 369,
+          "pc_score": 61.5,
+          "m_pc": 63.5,
+          "p_pc": 62.0,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 253,
+      "p_pc": 63.3,
+      "s": 239,
+      "s_pc": 59.8,
+      "tot_score": 742,
+      "pc_score": 61.8
+    },
+    {
+      "rank": 5,
+      "name": "Retro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 117,
+          "p": 120,
+          "s": 126,
+          "tot_score": 363,
+          "pc_score": 60.5,
+          "m_pc": 58.5,
+          "p_pc": 60.0,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 121,
+          "p": 121,
+          "s": 125,
+          "tot_score": 367,
+          "pc_score": 61.2,
+          "m_pc": 60.5,
+          "p_pc": 60.5,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 238,
+      "m_pc": 59.5,
+      "p": 241,
+      "p_pc": 60.3,
+      "s": 251,
+      "s_pc": 62.8,
+      "tot_score": 730,
+      "pc_score": 60.8
+    },
+    {
+      "rank": 6,
+      "name": "Four Across",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 122,
+          "p": 123,
+          "s": 123,
+          "tot_score": 368,
+          "pc_score": 61.3,
+          "m_pc": 61.0,
+          "p_pc": 61.5,
+          "s_pc": 61.5
+        },
+        {
+          "n": 1,
+          "name": "Paper Doll",
+          "m": 122,
+          "p": 121,
+          "s": 115,
+          "tot_score": 358,
+          "pc_score": 59.7,
+          "m_pc": 61.0,
+          "p_pc": 60.5,
+          "s_pc": 57.5
+        }
+      ],
+      "n": 2,
+      "m": 244,
+      "m_pc": 61.0,
+      "p": 244,
+      "p_pc": 61.0,
+      "s": 238,
+      "s_pc": 59.5,
+      "tot_score": 726,
+      "pc_score": 60.5
+    },
+    {
+      "rank": 7,
+      "name": "Bianco",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Oh! You Beautiful Doll",
+          "m": 118,
+          "p": 117,
+          "s": 119,
+          "tot_score": 354,
+          "pc_score": 59.0,
+          "m_pc": 59.0,
+          "p_pc": 58.5,
+          "s_pc": 59.5
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 120,
+          "p": 117,
+          "s": 121,
+          "tot_score": 358,
+          "pc_score": 59.7,
+          "m_pc": 60.0,
+          "p_pc": 58.5,
+          "s_pc": 60.5
+        }
+      ],
+      "n": 2,
+      "m": 238,
+      "m_pc": 59.5,
+      "p": 234,
+      "p_pc": 58.5,
+      "s": 240,
+      "s_pc": 60.0,
+      "tot_score": 712,
+      "pc_score": 59.3
+    },
+    {
+      "rank": 8,
+      "name": "Figaro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Have You Ever Been Lonely?",
+          "m": 115,
+          "p": 117,
+          "s": 126,
+          "tot_score": 358,
+          "pc_score": 59.7,
+          "m_pc": 57.5,
+          "p_pc": 58.5,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 115,
+          "p": 113,
+          "s": 118,
+          "tot_score": 346,
+          "pc_score": 57.7,
+          "m_pc": 57.5,
+          "p_pc": 56.5,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 230,
+      "m_pc": 57.5,
+      "p": 230,
+      "p_pc": 57.5,
+      "s": 244,
+      "s_pc": 61.0,
+      "tot_score": 704,
+      "pc_score": 58.7
+    },
+    {
+      "rank": 9,
+      "name": "Forever A Cappella",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Mention My Name In Sheboygan",
+          "m": 118,
+          "p": 115,
+          "s": 114,
+          "tot_score": 347,
+          "pc_score": 57.8,
+          "m_pc": 59.0,
+          "p_pc": 57.5,
+          "s_pc": 57.0
+        },
+        {
+          "n": 1,
+          "name": "Paper Doll",
+          "m": 120,
+          "p": 116,
+          "s": 114,
+          "tot_score": 350,
+          "pc_score": 58.3,
+          "m_pc": 60.0,
+          "p_pc": 58.0,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 238,
+      "m_pc": 59.5,
+      "p": 231,
+      "p_pc": 57.8,
+      "s": 228,
+      "s_pc": 57.0,
+      "tot_score": 697,
+      "pc_score": 58.1
+    },
+    {
+      "rank": 10,
+      "name": "Streetwise",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night On The Back Porch",
+          "m": 113,
+          "p": 117,
+          "s": 105,
+          "tot_score": 335,
+          "pc_score": 55.8,
+          "m_pc": 56.5,
+          "p_pc": 58.5,
+          "s_pc": 52.5
+        },
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 108,
+          "p": 112,
+          "s": 105,
+          "tot_score": 325,
+          "pc_score": 54.2,
+          "m_pc": 54.0,
+          "p_pc": 56.0,
+          "s_pc": 52.5
+        }
+      ],
+      "n": 2,
+      "m": 221,
+      "m_pc": 55.3,
+      "p": 229,
+      "p_pc": 57.3,
+      "s": 210,
+      "s_pc": 52.5,
+      "tot_score": 660,
+      "pc_score": 55.0
+    },
+    {
+      "rank": 11,
+      "name": "Accord",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 112,
+          "p": 104,
+          "s": 110,
+          "tot_score": 326,
+          "pc_score": 54.3,
+          "m_pc": 56.0,
+          "p_pc": 52.0,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 112,
+          "p": 103,
+          "s": 107,
+          "tot_score": 322,
+          "pc_score": 53.7,
+          "m_pc": 56.0,
+          "p_pc": 51.5,
+          "s_pc": 53.5
+        }
+      ],
+      "n": 2,
+      "m": 224,
+      "m_pc": 56.0,
+      "p": 207,
+      "p_pc": 51.8,
+      "s": 217,
+      "s_pc": 54.3,
+      "tot_score": 648,
+      "pc_score": 54.0
+    },
+    {
+      "rank": 12,
+      "name": "Four Of Herts",
+      "songs": [
+        {
+          "n": 1,
+          "name": "From The First Hello To The Last Goodbye",
+          "m": 106,
+          "p": 102,
+          "s": 101,
+          "tot_score": 309,
+          "pc_score": 51.5,
+          "m_pc": 53.0,
+          "p_pc": 51.0,
+          "s_pc": 50.5
+        },
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 107,
+          "p": 101,
+          "s": 102,
+          "tot_score": 310,
+          "pc_score": 51.7,
+          "m_pc": 53.5,
+          "p_pc": 50.5,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 213,
+      "m_pc": 53.3,
+      "p": 203,
+      "p_pc": 50.8,
+      "s": 203,
+      "s_pc": 50.8,
+      "tot_score": 619,
+      "pc_score": 51.6
+    },
+    {
+      "rank": 13,
+      "name": "The Late Shift",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 86,
+          "p": 101,
+          "s": 99,
+          "tot_score": 286,
+          "pc_score": 47.7,
+          "m_pc": 43.0,
+          "p_pc": 50.5,
+          "s_pc": 49.5
+        },
+        {
+          "n": 1,
+          "name": "Five Foot Two",
+          "m": 85,
+          "p": 100,
+          "s": 97,
+          "tot_score": 282,
+          "pc_score": 47.0,
+          "m_pc": 42.5,
+          "p_pc": 50.0,
+          "s_pc": 48.5
+        }
+      ],
+      "n": 2,
+      "m": 171,
+      "m_pc": 42.8,
+      "p": 201,
+      "p_pc": 50.3,
+      "s": 196,
+      "s_pc": 49.0,
+      "tot_score": 568,
+      "pc_score": 47.3
+    }
+  ]
+}

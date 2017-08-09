@@ -1,0 +1,716 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1999-00-QP-STH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "SOUTHERN QUARTET PRELIMS",
+  "location": "READING",
+  "year": "1999/00",
+  "type": "q",
+  "date": "04/12/1999",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 140,
+          "p": 146,
+          "s": 131,
+          "tot_score": 417,
+          "pc_score": 69.5,
+          "m_pc": 70.0,
+          "p_pc": 73.0,
+          "s_pc": 65.5
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 135,
+          "p": 145,
+          "s": 126,
+          "tot_score": 406,
+          "pc_score": 67.7,
+          "m_pc": 67.5,
+          "p_pc": 72.5,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 275,
+      "m_pc": 68.8,
+      "p": 291,
+      "p_pc": 72.8,
+      "s": 257,
+      "s_pc": 64.3,
+      "tot_score": 823,
+      "pc_score": 68.6
+    },
+    {
+      "rank": 2,
+      "name": "High Fidelity",
+      "songs": [
+        {
+          "n": 1,
+          "name": "So Long, Mother",
+          "m": 139,
+          "p": 135,
+          "s": 127,
+          "tot_score": 401,
+          "pc_score": 66.8,
+          "m_pc": 69.5,
+          "p_pc": 67.5,
+          "s_pc": 63.5
+        },
+        {
+          "n": 1,
+          "name": "Slow Boat To Chine / Shanghai Medley",
+          "m": 138,
+          "p": 133,
+          "s": 125,
+          "tot_score": 396,
+          "pc_score": 66.0,
+          "m_pc": 69.0,
+          "p_pc": 66.5,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 277,
+      "m_pc": 69.3,
+      "p": 268,
+      "p_pc": 67.0,
+      "s": 252,
+      "s_pc": 63.0,
+      "tot_score": 797,
+      "pc_score": 66.4
+    },
+    {
+      "rank": 3,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Put Me To Sleep With An Old Fashioned Melody / Lullaby In ",
+          "m": 127,
+          "p": 135,
+          "s": 127,
+          "tot_score": 389,
+          "pc_score": 64.8,
+          "m_pc": 63.5,
+          "p_pc": 67.5,
+          "s_pc": 63.5
+        },
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 130,
+          "p": 150,
+          "s": 124,
+          "tot_score": 404,
+          "pc_score": 67.3,
+          "m_pc": 65.0,
+          "p_pc": 75.0,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 257,
+      "m_pc": 64.3,
+      "p": 285,
+      "p_pc": 71.3,
+      "s": 251,
+      "s_pc": 62.8,
+      "tot_score": 793,
+      "pc_score": 66.1
+    },
+    {
+      "rank": 4,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Got Rhythm",
+          "m": 133,
+          "p": 145,
+          "s": 123,
+          "tot_score": 401,
+          "pc_score": 66.8,
+          "m_pc": 66.5,
+          "p_pc": 72.5,
+          "s_pc": 61.5
+        },
+        {
+          "n": 1,
+          "name": "Wonderful Day Medley",
+          "m": 120,
+          "p": 135,
+          "s": 119,
+          "tot_score": 374,
+          "pc_score": 62.3,
+          "m_pc": 60.0,
+          "p_pc": 67.5,
+          "s_pc": 59.5
+        }
+      ],
+      "n": 2,
+      "m": 253,
+      "m_pc": 63.3,
+      "p": 280,
+      "p_pc": 70.0,
+      "s": 242,
+      "s_pc": 60.5,
+      "tot_score": 775,
+      "pc_score": 64.6
+    },
+    {
+      "rank": 5,
+      "name": "Legacy",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 131,
+          "p": 128,
+          "s": 115,
+          "tot_score": 374,
+          "pc_score": 62.3,
+          "m_pc": 65.5,
+          "p_pc": 64.0,
+          "s_pc": 57.5
+        },
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 138,
+          "p": 136,
+          "s": 125,
+          "tot_score": 399,
+          "pc_score": 66.5,
+          "m_pc": 69.0,
+          "p_pc": 68.0,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 269,
+      "m_pc": 67.3,
+      "p": 264,
+      "p_pc": 66.0,
+      "s": 240,
+      "s_pc": 60.0,
+      "tot_score": 773,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 5,
+      "name": "Savannah",
+      "songs": [
+        {
+          "n": 1,
+          "name": "All The World Will Be Jealous Of Me",
+          "m": 134,
+          "p": 134,
+          "s": 120,
+          "tot_score": 388,
+          "pc_score": 64.7,
+          "m_pc": 67.0,
+          "p_pc": 67.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 128,
+          "p": 139,
+          "s": 118,
+          "tot_score": 385,
+          "pc_score": 64.2,
+          "m_pc": 64.0,
+          "p_pc": 69.5,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 262,
+      "m_pc": 65.5,
+      "p": 273,
+      "p_pc": 68.3,
+      "s": 238,
+      "s_pc": 59.5,
+      "tot_score": 773,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 7,
+      "name": "Wheel Of Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 121,
+          "p": 126,
+          "s": 120,
+          "tot_score": 367,
+          "pc_score": 61.2,
+          "m_pc": 60.5,
+          "p_pc": 63.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 139,
+          "p": 139,
+          "s": 122,
+          "tot_score": 400,
+          "pc_score": 66.7,
+          "m_pc": 69.5,
+          "p_pc": 69.5,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 260,
+      "m_pc": 65.0,
+      "p": 265,
+      "p_pc": 66.3,
+      "s": 242,
+      "s_pc": 60.5,
+      "tot_score": 767,
+      "pc_score": 63.9
+    },
+    {
+      "rank": 8,
+      "name": "Team Spirit",
+      "songs": [
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 129,
+          "p": 125,
+          "s": 121,
+          "tot_score": 375,
+          "pc_score": 62.5,
+          "m_pc": 64.5,
+          "p_pc": 62.5,
+          "s_pc": 60.5
+        },
+        {
+          "n": 1,
+          "name": "Rain / Let A Smile Be Your Umbrella Medley",
+          "m": 122,
+          "p": 131,
+          "s": 121,
+          "tot_score": 374,
+          "pc_score": 62.3,
+          "m_pc": 61.0,
+          "p_pc": 65.5,
+          "s_pc": 60.5
+        }
+      ],
+      "n": 2,
+      "m": 251,
+      "m_pc": 62.8,
+      "p": 256,
+      "p_pc": 64.0,
+      "s": 242,
+      "s_pc": 60.5,
+      "tot_score": 749,
+      "pc_score": 62.4
+    },
+    {
+      "rank": 9,
+      "name": "Easy Livin'",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Jazz Came Up The River From New Orleans",
+          "m": 122,
+          "p": 126,
+          "s": 119,
+          "tot_score": 367,
+          "pc_score": 61.2,
+          "m_pc": 61.0,
+          "p_pc": 63.0,
+          "s_pc": 59.5
+        },
+        {
+          "n": 1,
+          "name": "Dream A Little Dream Of Me",
+          "m": 125,
+          "p": 131,
+          "s": 119,
+          "tot_score": 375,
+          "pc_score": 62.5,
+          "m_pc": 62.5,
+          "p_pc": 65.5,
+          "s_pc": 59.5
+        }
+      ],
+      "n": 2,
+      "m": 247,
+      "m_pc": 61.8,
+      "p": 257,
+      "p_pc": 64.3,
+      "s": 238,
+      "s_pc": 59.5,
+      "tot_score": 742,
+      "pc_score": 61.8
+    },
+    {
+      "rank": 10,
+      "name": "Almost Gentlemen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Song For Mary",
+          "m": 134,
+          "p": 116,
+          "s": 118,
+          "tot_score": 368,
+          "pc_score": 61.3,
+          "m_pc": 67.0,
+          "p_pc": 58.0,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "The Sweetest Song In The World",
+          "m": 118,
+          "p": 117,
+          "s": 115,
+          "tot_score": 350,
+          "pc_score": 58.3,
+          "m_pc": 59.0,
+          "p_pc": 58.5,
+          "s_pc": 57.5
+        }
+      ],
+      "n": 2,
+      "m": 252,
+      "m_pc": 63.0,
+      "p": 233,
+      "p_pc": 58.3,
+      "s": 233,
+      "s_pc": 58.3,
+      "tot_score": 718,
+      "pc_score": 59.8
+    },
+    {
+      "rank": 11,
+      "name": "The Daydreamers",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 118,
+          "p": 123,
+          "s": 107,
+          "tot_score": 348,
+          "pc_score": 58.0,
+          "m_pc": 59.0,
+          "p_pc": 61.5,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "The Little Boy",
+          "m": 120,
+          "p": 118,
+          "s": 108,
+          "tot_score": 346,
+          "pc_score": 57.7,
+          "m_pc": 60.0,
+          "p_pc": 59.0,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 238,
+      "m_pc": 59.5,
+      "p": 241,
+      "p_pc": 60.3,
+      "s": 215,
+      "s_pc": 53.8,
+      "tot_score": 694,
+      "pc_score": 57.8
+    },
+    {
+      "rank": 12,
+      "name": "Hot Air",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 91,
+          "p": 112,
+          "s": 101,
+          "tot_score": 304,
+          "pc_score": 50.7,
+          "m_pc": 45.5,
+          "p_pc": 56.0,
+          "s_pc": 50.5
+        },
+        {
+          "n": 1,
+          "name": "I'm Sitting On Top Of The World",
+          "m": 99,
+          "p": 109,
+          "s": 100,
+          "tot_score": 308,
+          "pc_score": 51.3,
+          "m_pc": 49.5,
+          "p_pc": 54.5,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 190,
+      "m_pc": 47.5,
+      "p": 221,
+      "p_pc": 55.3,
+      "s": 201,
+      "s_pc": 50.3,
+      "tot_score": 612,
+      "pc_score": 51.0
+    },
+    {
+      "rank": 13,
+      "name": "Southern Brand",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Cross That Mason Dixon Line",
+          "m": 108,
+          "p": 107,
+          "s": 88,
+          "tot_score": 303,
+          "pc_score": 50.5,
+          "m_pc": 54.0,
+          "p_pc": 53.5,
+          "s_pc": 44.0
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 87,
+          "p": 106,
+          "s": 83,
+          "tot_score": 276,
+          "pc_score": 46.0,
+          "m_pc": 43.5,
+          "p_pc": 53.0,
+          "s_pc": 41.5
+        }
+      ],
+      "n": 2,
+      "m": 195,
+      "m_pc": 48.8,
+      "p": 213,
+      "p_pc": 53.3,
+      "s": 171,
+      "s_pc": 42.8,
+      "tot_score": 579,
+      "pc_score": 48.3
+    },
+    {
+      "rank": 14,
+      "name": "Chord In The Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 104,
+          "p": 100,
+          "s": 92,
+          "tot_score": 296,
+          "pc_score": 49.3,
+          "m_pc": 52.0,
+          "p_pc": 50.0,
+          "s_pc": 46.0
+        },
+        {
+          "n": 1,
+          "name": "You Ain't Heard Nothin' Yet",
+          "m": 92,
+          "p": 99,
+          "s": 89,
+          "tot_score": 280,
+          "pc_score": 46.7,
+          "m_pc": 46.0,
+          "p_pc": 49.5,
+          "s_pc": 44.5
+        }
+      ],
+      "n": 2,
+      "m": 196,
+      "m_pc": 49.0,
+      "p": 199,
+      "p_pc": 49.8,
+      "s": 181,
+      "s_pc": 45.3,
+      "tot_score": 576,
+      "pc_score": 48.0
+    },
+    {
+      "rank": 15,
+      "name": "Take Note",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 95,
+          "p": 108,
+          "s": 95,
+          "tot_score": 298,
+          "pc_score": 49.7,
+          "m_pc": 47.5,
+          "p_pc": 54.0,
+          "s_pc": 47.5
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 85,
+          "p": 99,
+          "s": 85,
+          "tot_score": 269,
+          "pc_score": 44.8,
+          "m_pc": 42.5,
+          "p_pc": 49.5,
+          "s_pc": 42.5
+        }
+      ],
+      "n": 2,
+      "m": 180,
+      "m_pc": 45.0,
+      "p": 207,
+      "p_pc": 51.8,
+      "s": 180,
+      "s_pc": 45.0,
+      "tot_score": 567,
+      "pc_score": 47.3
+    },
+    {
+      "rank": 16,
+      "name": "The Late Shift",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 88,
+          "p": 103,
+          "s": 78,
+          "tot_score": 269,
+          "pc_score": 44.8,
+          "m_pc": 44.0,
+          "p_pc": 51.5,
+          "s_pc": 39.0
+        },
+        {
+          "n": 1,
+          "name": "Hello Mary Lou (Goodbye Heart)",
+          "m": 76,
+          "p": 93,
+          "s": 71,
+          "tot_score": 240,
+          "pc_score": 40.0,
+          "m_pc": 38.0,
+          "p_pc": 46.5,
+          "s_pc": 35.5
+        }
+      ],
+      "n": 2,
+      "m": 164,
+      "m_pc": 41.0,
+      "p": 196,
+      "p_pc": 49.0,
+      "s": 149,
+      "s_pc": 37.3,
+      "tot_score": 509,
+      "pc_score": 42.4
+    },
+    {
+      "rank": 17,
+      "name": "Sounds Easy",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love You The Best Of All",
+          "m": 81,
+          "p": 90,
+          "s": 76,
+          "tot_score": 247,
+          "pc_score": 41.2,
+          "m_pc": 40.5,
+          "p_pc": 45.0,
+          "s_pc": 38.0
+        },
+        {
+          "n": 1,
+          "name": "Give Me A Barbershop Song",
+          "m": 89,
+          "p": 86,
+          "s": 72,
+          "tot_score": 247,
+          "pc_score": 41.2,
+          "m_pc": 44.5,
+          "p_pc": 43.0,
+          "s_pc": 36.0
+        }
+      ],
+      "n": 2,
+      "m": 170,
+      "m_pc": 42.5,
+      "p": 176,
+      "p_pc": 44.0,
+      "s": 148,
+      "s_pc": 37.0,
+      "tot_score": 494,
+      "pc_score": 41.2
+    }
+  ]
+}

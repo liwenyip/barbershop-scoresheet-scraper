@@ -1,0 +1,728 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2001-02-QS-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET SEMI-FINALS",
+  "location": "BOURNEMOUTH",
+  "year": "2001/02",
+  "type": "q",
+  "date": "24/05/2002",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Matrix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When My Baby Smiles At Me",
+          "m": 238,
+          "p": 236,
+          "s": 227,
+          "tot_score": 701,
+          "pc_score": 77.9,
+          "m_pc": 79.3,
+          "p_pc": 78.7,
+          "s_pc": 75.7
+        },
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 237,
+          "p": 236,
+          "s": 231,
+          "tot_score": 704,
+          "pc_score": 78.2,
+          "m_pc": 79.0,
+          "p_pc": 78.7,
+          "s_pc": 77.0
+        }
+      ],
+      "n": 2,
+      "m": 475,
+      "m_pc": 79.2,
+      "p": 472,
+      "p_pc": 78.7,
+      "s": 458,
+      "s_pc": 76.3,
+      "tot_score": 1405,
+      "pc_score": 78.1
+    },
+    {
+      "rank": 2,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Loves Old Sweet Song (Parody)",
+          "m": 232,
+          "p": 235,
+          "s": 215,
+          "tot_score": 682,
+          "pc_score": 75.8,
+          "m_pc": 77.3,
+          "p_pc": 78.3,
+          "s_pc": 71.7
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby (Parody",
+          "m": 230,
+          "p": 241,
+          "s": 216,
+          "tot_score": 687,
+          "pc_score": 76.3,
+          "m_pc": 76.7,
+          "p_pc": 80.3,
+          "s_pc": 72.0
+        }
+      ],
+      "n": 2,
+      "m": 462,
+      "m_pc": 77.0,
+      "p": 476,
+      "p_pc": 79.3,
+      "s": 431,
+      "s_pc": 71.8,
+      "tot_score": 1369,
+      "pc_score": 76.1
+    },
+    {
+      "rank": 3,
+      "name": "The Light Industrial Choral Society",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Happy Go Lucky Lane",
+          "m": 233,
+          "p": 235,
+          "s": 221,
+          "tot_score": 689,
+          "pc_score": 76.6,
+          "m_pc": 77.7,
+          "p_pc": 78.3,
+          "s_pc": 73.7
+        },
+        {
+          "n": 1,
+          "name": "There's A New Gang On The Corner",
+          "m": 229,
+          "p": 232,
+          "s": 217,
+          "tot_score": 678,
+          "pc_score": 75.3,
+          "m_pc": 76.3,
+          "p_pc": 77.3,
+          "s_pc": 72.3
+        }
+      ],
+      "n": 2,
+      "m": 462,
+      "m_pc": 77.0,
+      "p": 467,
+      "p_pc": 77.8,
+      "s": 438,
+      "s_pc": 73.0,
+      "tot_score": 1367,
+      "pc_score": 75.9
+    },
+    {
+      "rank": 4,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Moonlight Becomes You",
+          "m": 220,
+          "p": 218,
+          "s": 214,
+          "tot_score": 652,
+          "pc_score": 72.4,
+          "m_pc": 73.3,
+          "p_pc": 72.7,
+          "s_pc": 71.3
+        },
+        {
+          "n": 1,
+          "name": "Always",
+          "m": 224,
+          "p": 217,
+          "s": 206,
+          "tot_score": 647,
+          "pc_score": 71.9,
+          "m_pc": 74.7,
+          "p_pc": 72.3,
+          "s_pc": 68.7
+        }
+      ],
+      "n": 2,
+      "m": 444,
+      "m_pc": 74.0,
+      "p": 435,
+      "p_pc": 72.5,
+      "s": 420,
+      "s_pc": 70.0,
+      "tot_score": 1299,
+      "pc_score": 72.2
+    },
+    {
+      "rank": 5,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 211,
+          "p": 211,
+          "s": 201,
+          "tot_score": 623,
+          "pc_score": 69.2,
+          "m_pc": 70.3,
+          "p_pc": 70.3,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "Just Because / Shine Medley",
+          "m": 210,
+          "p": 217,
+          "s": 200,
+          "tot_score": 627,
+          "pc_score": 69.7,
+          "m_pc": 70.0,
+          "p_pc": 72.3,
+          "s_pc": 66.7
+        }
+      ],
+      "n": 2,
+      "m": 421,
+      "m_pc": 70.2,
+      "p": 428,
+      "p_pc": 71.3,
+      "s": 401,
+      "s_pc": 66.8,
+      "tot_score": 1250,
+      "pc_score": 69.4
+    },
+    {
+      "rank": 6,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 200,
+          "p": 207,
+          "s": 203,
+          "tot_score": 610,
+          "pc_score": 67.8,
+          "m_pc": 66.7,
+          "p_pc": 69.0,
+          "s_pc": 67.7
+        },
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 192,
+          "p": 209,
+          "s": 207,
+          "tot_score": 608,
+          "pc_score": 67.6,
+          "m_pc": 64.0,
+          "p_pc": 69.7,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 392,
+      "m_pc": 65.3,
+      "p": 416,
+      "p_pc": 69.3,
+      "s": 410,
+      "s_pc": 68.3,
+      "tot_score": 1218,
+      "pc_score": 67.7
+    },
+    {
+      "rank": 7,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "So Long, Mother",
+          "m": 192,
+          "p": 205,
+          "s": 205,
+          "tot_score": 602,
+          "pc_score": 66.9,
+          "m_pc": 64.0,
+          "p_pc": 68.3,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "Tie Me To Your Apron Strings Again",
+          "m": 197,
+          "p": 205,
+          "s": 201,
+          "tot_score": 603,
+          "pc_score": 67.0,
+          "m_pc": 65.7,
+          "p_pc": 68.3,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 2,
+      "m": 389,
+      "m_pc": 64.8,
+      "p": 410,
+      "p_pc": 68.3,
+      "s": 406,
+      "s_pc": 67.7,
+      "tot_score": 1205,
+      "pc_score": 66.9
+    },
+    {
+      "rank": 8,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 181,
+          "p": 209,
+          "s": 187,
+          "tot_score": 577,
+          "pc_score": 64.1,
+          "m_pc": 60.3,
+          "p_pc": 69.7,
+          "s_pc": 62.3
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 183,
+          "p": 210,
+          "s": 189,
+          "tot_score": 582,
+          "pc_score": 64.7,
+          "m_pc": 61.0,
+          "p_pc": 70.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 364,
+      "m_pc": 60.7,
+      "p": 419,
+      "p_pc": 69.8,
+      "s": 376,
+      "s_pc": 62.7,
+      "tot_score": 1159,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 9,
+      "name": "Savannah",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 188,
+          "p": 198,
+          "s": 194,
+          "tot_score": 580,
+          "pc_score": 64.4,
+          "m_pc": 62.7,
+          "p_pc": 66.0,
+          "s_pc": 64.7
+        },
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 188,
+          "p": 195,
+          "s": 192,
+          "tot_score": 575,
+          "pc_score": 63.9,
+          "m_pc": 62.7,
+          "p_pc": 65.0,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 376,
+      "m_pc": 62.7,
+      "p": 393,
+      "p_pc": 65.5,
+      "s": 386,
+      "s_pc": 64.3,
+      "tot_score": 1155,
+      "pc_score": 64.2
+    },
+    {
+      "rank": 10,
+      "name": "Rhapsody",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 181,
+          "p": 184,
+          "s": 188,
+          "tot_score": 553,
+          "pc_score": 61.4,
+          "m_pc": 60.3,
+          "p_pc": 61.3,
+          "s_pc": 62.7
+        },
+        {
+          "n": 1,
+          "name": "Memories",
+          "m": 183,
+          "p": 186,
+          "s": 179,
+          "tot_score": 548,
+          "pc_score": 60.9,
+          "m_pc": 61.0,
+          "p_pc": 62.0,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 364,
+      "m_pc": 60.7,
+      "p": 370,
+      "p_pc": 61.7,
+      "s": 367,
+      "s_pc": 61.2,
+      "tot_score": 1101,
+      "pc_score": 61.2
+    },
+    {
+      "rank": 11,
+      "name": "Sound Byte",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 180,
+          "p": 185,
+          "s": 176,
+          "tot_score": 541,
+          "pc_score": 60.1,
+          "m_pc": 60.0,
+          "p_pc": 61.7,
+          "s_pc": 58.7
+        },
+        {
+          "n": 1,
+          "name": "In My Brand New Automobile",
+          "m": 177,
+          "p": 188,
+          "s": 173,
+          "tot_score": 538,
+          "pc_score": 59.8,
+          "m_pc": 59.0,
+          "p_pc": 62.7,
+          "s_pc": 57.7
+        }
+      ],
+      "n": 2,
+      "m": 357,
+      "m_pc": 59.5,
+      "p": 373,
+      "p_pc": 62.2,
+      "s": 349,
+      "s_pc": 58.2,
+      "tot_score": 1079,
+      "pc_score": 59.9
+    },
+    {
+      "rank": 12,
+      "name": "Four Across",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 182,
+          "p": 168,
+          "s": 177,
+          "tot_score": 527,
+          "pc_score": 58.6,
+          "m_pc": 60.7,
+          "p_pc": 56.0,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 182,
+          "p": 164,
+          "s": 179,
+          "tot_score": 525,
+          "pc_score": 58.3,
+          "m_pc": 60.7,
+          "p_pc": 54.7,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 364,
+      "m_pc": 60.7,
+      "p": 332,
+      "p_pc": 55.3,
+      "s": 356,
+      "s_pc": 59.3,
+      "tot_score": 1052,
+      "pc_score": 58.4
+    },
+    {
+      "rank": 13,
+      "name": "Almost Gentlemen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Song For Mary",
+          "m": 162,
+          "p": 154,
+          "s": 171,
+          "tot_score": 487,
+          "pc_score": 54.1,
+          "m_pc": 54.0,
+          "p_pc": 51.3,
+          "s_pc": 57.0
+        },
+        {
+          "n": 1,
+          "name": "Give My Regards To Broadway",
+          "m": 149,
+          "p": 156,
+          "s": 167,
+          "tot_score": 472,
+          "pc_score": 52.4,
+          "m_pc": 49.7,
+          "p_pc": 52.0,
+          "s_pc": 55.7
+        }
+      ],
+      "n": 2,
+      "m": 311,
+      "m_pc": 51.8,
+      "p": 310,
+      "p_pc": 51.7,
+      "s": 338,
+      "s_pc": 56.3,
+      "tot_score": 959,
+      "pc_score": 53.3
+    },
+    {
+      "rank": 14,
+      "name": "Equinox",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sailin' Away On The Henry Clay",
+          "m": 155,
+          "p": 166,
+          "s": 166,
+          "tot_score": 487,
+          "pc_score": 54.1,
+          "m_pc": 51.7,
+          "p_pc": 55.3,
+          "s_pc": 55.3
+        },
+        {
+          "n": 1,
+          "name": "Smilin' Through",
+          "m": 142,
+          "p": 163,
+          "s": 164,
+          "tot_score": 469,
+          "pc_score": 52.1,
+          "m_pc": 47.3,
+          "p_pc": 54.3,
+          "s_pc": 54.7
+        }
+      ],
+      "n": 2,
+      "m": 297,
+      "m_pc": 49.5,
+      "p": 329,
+      "p_pc": 54.8,
+      "s": 330,
+      "s_pc": 55.0,
+      "tot_score": 956,
+      "pc_score": 53.1
+    },
+    {
+      "rank": 14,
+      "name": "Speculation",
+      "songs": [
+        {
+          "n": 1,
+          "name": "A Little Street Where Old Friends Meet",
+          "m": 167,
+          "p": 154,
+          "s": 166,
+          "tot_score": 487,
+          "pc_score": 54.1,
+          "m_pc": 55.7,
+          "p_pc": 51.3,
+          "s_pc": 55.3
+        },
+        {
+          "n": 1,
+          "name": "I Just Wanna Call You Mine",
+          "m": 159,
+          "p": 155,
+          "s": 155,
+          "tot_score": 469,
+          "pc_score": 52.1,
+          "m_pc": 53.0,
+          "p_pc": 51.7,
+          "s_pc": 51.7
+        }
+      ],
+      "n": 2,
+      "m": 326,
+      "m_pc": 54.3,
+      "p": 309,
+      "p_pc": 51.5,
+      "s": 321,
+      "s_pc": 53.5,
+      "tot_score": 956,
+      "pc_score": 53.1
+    },
+    {
+      "rank": 16,
+      "name": "Southern Brand",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ma, She's Making Eyes At Me",
+          "m": 162,
+          "p": 150,
+          "s": 157,
+          "tot_score": 469,
+          "pc_score": 52.1,
+          "m_pc": 54.0,
+          "p_pc": 50.0,
+          "s_pc": 52.3
+        },
+        {
+          "n": 1,
+          "name": "April Showers",
+          "m": 163,
+          "p": 153,
+          "s": 159,
+          "tot_score": 475,
+          "pc_score": 52.8,
+          "m_pc": 54.3,
+          "p_pc": 51.0,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 325,
+      "m_pc": 54.2,
+      "p": 303,
+      "p_pc": 50.5,
+      "s": 316,
+      "s_pc": 52.7,
+      "tot_score": 944,
+      "pc_score": 52.4
+    },
+    {
+      "rank": 17,
+      "name": "Bostin' 4 A Pitch",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There's A Rainbow Round My Shoulder",
+          "m": 149,
+          "p": 153,
+          "s": 156,
+          "tot_score": 458,
+          "pc_score": 50.9,
+          "m_pc": 49.7,
+          "p_pc": 51.0,
+          "s_pc": 52.0
+        },
+        {
+          "n": 1,
+          "name": "From The First Hello To The Last Goodbye",
+          "m": 148,
+          "p": 147,
+          "s": 155,
+          "tot_score": 450,
+          "pc_score": 50.0,
+          "m_pc": 49.3,
+          "p_pc": 49.0,
+          "s_pc": 51.7
+        }
+      ],
+      "n": 2,
+      "m": 297,
+      "m_pc": 49.5,
+      "p": 300,
+      "p_pc": 50.0,
+      "s": 311,
+      "s_pc": 51.8,
+      "tot_score": 908,
+      "pc_score": 50.4
+    }
+  ]
+}

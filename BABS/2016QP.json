@@ -42,27 +42,27 @@
       "name": "Cherry Hartshorn"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     }
   ],
@@ -78,19 +78,19 @@
       "pc_score": "78.8",
       "songs": [
         {
-          "title": "There I've Said It Again",
+          "name": "There I've Said It Again",
           "m": "234",
           "s": "233",
           "p": "242"
         },
         {
-          "title": "Wouldn't It Be Lovely",
+          "name": "Wouldn't It Be Lovely",
           "m": "236",
           "s": "238",
           "p": "235"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian James"
@@ -119,19 +119,19 @@
       "pc_score": "77.8",
       "songs": [
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "234",
           "s": "231",
           "p": "231"
         },
         {
-          "title": "I Have Dreamed",
+          "name": "I Have Dreamed",
           "m": "229",
           "s": "240",
           "p": "236"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard Fisher"
@@ -160,19 +160,19 @@
       "pc_score": "75.6",
       "songs": [
         {
-          "title": "Over The Rainbow",
+          "name": "Over The Rainbow",
           "m": "231",
           "s": "229",
           "p": "223"
         },
         {
-          "title": "You Took Advantage Of Me",
+          "name": "You Took Advantage Of Me",
           "m": "226",
           "s": "225",
           "p": "227"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter Kennedy"
@@ -201,19 +201,19 @@
       "pc_score": "75.6",
       "songs": [
         {
-          "title": "How Deep Is The Ocean",
+          "name": "How Deep Is The Ocean",
           "m": "227",
           "s": "222",
           "p": "225"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "226",
           "s": "232",
           "p": "228"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon Hunt"
@@ -242,19 +242,19 @@
       "pc_score": "75.1",
       "songs": [
         {
-          "title": "Feelin' Good",
+          "name": "Feelin' Good",
           "m": "219",
           "s": "230",
           "p": "217"
         },
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "225",
           "s": "229",
           "p": "232"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Neil Firth"
@@ -283,19 +283,19 @@
       "pc_score": "72.6",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "219",
           "s": "214",
           "p": "214"
         },
         {
-          "title": "You Belong To Me",
+          "name": "You Belong To Me",
           "m": "218",
           "s": "220",
           "p": "222"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Laurence Hasson"
@@ -324,19 +324,19 @@
       "pc_score": "72.2",
       "songs": [
         {
-          "title": "There'll Be No New Tunes On This Old Piano",
+          "name": "There'll Be No New Tunes On This Old Piano",
           "m": "213",
           "s": "219",
           "p": "208"
         },
         {
-          "title": "From The First Hello To The Last Goodbye",
+          "name": "From The First Hello To The Last Goodbye",
           "m": "218",
           "s": "220",
           "p": "221"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Craig Kehoe"
@@ -365,19 +365,19 @@
       "pc_score": "71.5",
       "songs": [
         {
-          "title": "Five Foot Two",
+          "name": "Five Foot Two",
           "m": "217",
           "s": "220",
           "p": "210"
         },
         {
-          "title": "All Dressed Up With A Broken Heart",
+          "name": "All Dressed Up With A Broken Heart",
           "m": "217",
           "s": "210",
           "p": "213"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Edwards"
@@ -406,19 +406,19 @@
       "pc_score": "71.3",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "217",
           "s": "210",
           "p": "208"
         },
         {
-          "title": "Show Me Where The Good Times Are",
+          "name": "Show Me Where The Good Times Are",
           "m": "211",
           "s": "216",
           "p": "221"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jamie Braham"
@@ -447,19 +447,19 @@
       "pc_score": "70.6",
       "songs": [
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "208",
           "s": "204",
           "p": "213"
         },
         {
-          "title": "It's You",
+          "name": "It's You",
           "m": "208",
           "s": "219",
           "p": "218"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ehsaan Shivarani"
@@ -488,19 +488,19 @@
       "pc_score": "69.9",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "209",
           "s": "204",
           "p": "210"
         },
         {
-          "title": "Goodbye My Coney Island Baby",
+          "name": "Goodbye My Coney Island Baby",
           "m": "208",
           "s": "215",
           "p": "212"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joseph Spratt"
@@ -529,19 +529,19 @@
       "pc_score": "69.9",
       "songs": [
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "209",
           "s": "212",
           "p": "208"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "210",
           "s": "209",
           "p": "210"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrew Edgley"
@@ -570,19 +570,19 @@
       "pc_score": "68.8",
       "songs": [
         {
-          "title": "Walkin' My Baby Back Home",
+          "name": "Walkin' My Baby Back Home",
           "m": "206",
           "s": "207",
           "p": "203"
         },
         {
-          "title": "Smilin' Through",
+          "name": "Smilin' Through",
           "m": "209",
           "s": "208",
           "p": "206"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Salter"
@@ -611,19 +611,19 @@
       "pc_score": "68.6",
       "songs": [
         {
-          "title": "I Love Being Here With You",
+          "name": "I Love Being Here With You",
           "m": "206",
           "s": "208",
           "p": "196"
         },
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "211",
           "s": "206",
           "p": "207"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Robert Gall"
@@ -652,19 +652,19 @@
       "pc_score": "66.9",
       "songs": [
         {
-          "title": "Old Cape Cod",
+          "name": "Old Cape Cod",
           "m": "201",
           "s": "203",
           "p": "196"
         },
         {
-          "title": "If I Loved You",
+          "name": "If I Loved You",
           "m": "202",
           "s": "199",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Gary Roussak"
@@ -693,19 +693,19 @@
       "pc_score": "66.8",
       "songs": [
         {
-          "title": "Smile",
+          "name": "Smile",
           "m": "207",
           "s": "198",
           "p": "202"
         },
         {
-          "title": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
           "m": "202",
           "s": "197",
           "p": "196"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "David Enness"
@@ -734,19 +734,19 @@
       "pc_score": "66.7",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "196",
           "s": "200",
           "p": "200"
         },
         {
-          "title": "Make 'Em Laugh",
+          "name": "Make 'Em Laugh",
           "m": "204",
           "s": "201",
           "p": "199"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Paul Jeffrey"
@@ -775,19 +775,19 @@
       "pc_score": "65.9",
       "songs": [
         {
-          "title": "Darktown Strutters' Ball",
+          "name": "Darktown Strutters' Ball",
           "m": "200",
           "s": "201",
           "p": "200"
         },
         {
-          "title": "Mona Lisa",
+          "name": "Mona Lisa",
           "m": "203",
           "s": "192",
           "p": "191"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Devine"
@@ -816,19 +816,19 @@
       "pc_score": "65.7",
       "songs": [
         {
-          "title": "I'll Be Seeing You",
+          "name": "I'll Be Seeing You",
           "m": "194",
           "s": "200",
           "p": "197"
         },
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "200",
           "s": "194",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris Blatchford"
@@ -857,19 +857,19 @@
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "If I Love Again",
+          "name": "If I Love Again",
           "m": "197",
           "s": "199",
           "p": "193"
         },
         {
-          "title": "L.O.V.E",
+          "name": "L.O.V.E",
           "m": "199",
           "s": "194",
           "p": "193"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martyn Lapworth"
@@ -898,19 +898,19 @@
       "pc_score": "65.2",
       "songs": [
         {
-          "title": "Birth Of The Blues",
+          "name": "Birth Of The Blues",
           "m": "193",
           "s": "197",
           "p": "194"
         },
         {
-          "title": "One For My Baby",
+          "name": "One For My Baby",
           "m": "204",
           "s": "191",
           "p": "195"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michael Zefferman"
@@ -939,19 +939,19 @@
       "pc_score": "63.9",
       "songs": [
         {
-          "title": "Anything Goes",
+          "name": "Anything Goes",
           "m": "191",
           "s": "190",
           "p": "192"
         },
         {
-          "title": "Do You Really Love Me",
+          "name": "Do You Really Love Me",
           "m": "192",
           "s": "191",
           "p": "194"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Devine"
@@ -980,19 +980,19 @@
       "pc_score": "63.1",
       "songs": [
         {
-          "title": "Don't Blame Me",
+          "name": "Don't Blame Me",
           "m": "184",
           "s": "190",
           "p": "191"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "194",
           "s": "190",
           "p": "187"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Phil Smith"
@@ -1021,19 +1021,19 @@
       "pc_score": "62.6",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "192",
           "s": "183",
           "p": "183"
         },
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "186",
           "s": "187",
           "p": "195"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jeremy Jacomet"
@@ -1062,19 +1062,19 @@
       "pc_score": "62.3",
       "songs": [
         {
-          "title": "The Chordbuster March",
+          "name": "The Chordbuster March",
           "m": "190",
           "s": "191",
           "p": "182"
         },
         {
-          "title": "Zing! Went The Strings Of My Heart",
+          "name": "Zing! Went The Strings Of My Heart",
           "m": "186",
           "s": "186",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martin Proctor"
@@ -1103,19 +1103,19 @@
       "pc_score": "62.2",
       "songs": [
         {
-          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
           "m": "184",
           "s": "186",
           "p": "185"
         },
         {
-          "title": "Drivin' Me Crazy",
+          "name": "Drivin' Me Crazy",
           "m": "189",
           "s": "190",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joel Stephano"
@@ -1144,19 +1144,19 @@
       "pc_score": "61.7",
       "songs": [
         {
-          "title": "Feed The Birds",
+          "name": "Feed The Birds",
           "m": "185",
           "s": "189",
           "p": "181"
         },
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "186",
           "s": "188",
           "p": "181"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Santuary"
@@ -1185,19 +1185,19 @@
       "pc_score": "61.4",
       "songs": [
         {
-          "title": "Wonderful Day Medley",
+          "name": "Wonderful Day Medley",
           "m": "188",
           "s": "187",
           "p": "183"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "182",
           "s": "182",
           "p": "184"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mike Paterson"
@@ -1226,19 +1226,19 @@
       "pc_score": "61.2",
       "songs": [
         {
-          "title": "I Love To Hear That Old Barbershop Style",
+          "name": "I Love To Hear That Old Barbershop Style",
           "m": "184",
           "s": "180",
           "p": "181"
         },
         {
-          "title": "When She Loved Me",
+          "name": "When She Loved Me",
           "m": "184",
           "s": "186",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Abe Armitage"
@@ -1267,19 +1267,19 @@
       "pc_score": "60.1",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "173",
           "s": "185",
           "p": "172"
         },
         {
-          "title": "Mona Lisa",
+          "name": "Mona Lisa",
           "m": "187",
           "s": "181",
           "p": "183"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ru Pattie"
@@ -1308,19 +1308,19 @@
       "pc_score": "59.8",
       "songs": [
         {
-          "title": "Come Josephine In My Flying Machine",
+          "name": "Come Josephine In My Flying Machine",
           "m": "188",
           "s": "168",
           "p": "187"
         },
         {
-          "title": "I'm Forever Blowing Bubbles",
+          "name": "I'm Forever Blowing Bubbles",
           "m": "170",
           "s": "183",
           "p": "180"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tim Sowter"
@@ -1349,19 +1349,19 @@
       "pc_score": "58.8",
       "songs": [
         {
-          "title": "A Wink And A Smile",
+          "name": "A Wink And A Smile",
           "m": "172",
           "s": "183",
           "p": "171"
         },
         {
-          "title": "Let The Rest Of The World Go By",
+          "name": "Let The Rest Of The World Go By",
           "m": "179",
           "s": "175",
           "p": "178"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joe Dod"
@@ -1390,19 +1390,19 @@
       "pc_score": "58.5",
       "songs": [
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "182",
           "s": "177",
           "p": "173"
         },
         {
-          "title": "The Song Is Ended",
+          "name": "The Song Is Ended",
           "m": "173",
           "s": "170",
           "p": "178"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve Mowatt"
@@ -1431,19 +1431,19 @@
       "pc_score": "57.9",
       "songs": [
         {
-          "title": "Cinderella",
+          "name": "Cinderella",
           "m": "172",
           "s": "180",
           "p": "169"
         },
         {
-          "title": "If You Were The Only Girl In The World",
+          "name": "If You Were The Only Girl In The World",
           "m": "177",
           "s": "171",
           "p": "174"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Colin Howarth"
@@ -1472,19 +1472,19 @@
       "pc_score": "57.8",
       "songs": [
         {
-          "title": "If I Loved You",
+          "name": "If I Loved You",
           "m": "173",
           "s": "173",
           "p": "174"
         },
         {
-          "title": "I Love To Hear That Old Barbershop Style",
+          "name": "I Love To Hear That Old Barbershop Style",
           "m": "173",
           "s": "173",
           "p": "175"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick Hill"
@@ -1513,19 +1513,19 @@
       "pc_score": "55.6",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "159",
           "s": "174",
           "p": "158"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "171",
           "s": "168",
           "p": "170"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "David Kitchenham"
@@ -1554,19 +1554,19 @@
       "pc_score": "55.5",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "164",
           "s": "167",
           "p": "163"
         },
         {
-          "title": "From The First Hello To The Last Goodbye",
+          "name": "From The First Hello To The Last Goodbye",
           "m": "165",
           "s": "168",
           "p": "172"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve Norman"
@@ -1595,19 +1595,19 @@
       "pc_score": "52.1",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "158",
           "s": "151",
           "p": "157"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "154",
           "s": "159",
           "p": "158"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris Marchant"

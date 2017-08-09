@@ -42,19 +42,19 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     }
   ],
@@ -70,19 +70,19 @@
       "pc_score": "82.9",
       "songs": [
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "254",
           "s": "250",
           "p": "246"
         },
         {
-          "title": "I Got Rhythm",
+          "name": "I Got Rhythm",
           "m": "247",
           "s": "245",
           "p": "250"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James Williams"
@@ -111,19 +111,19 @@
       "pc_score": "82.5",
       "songs": [
         {
-          "title": "Feelin' Good",
+          "name": "Feelin' Good",
           "m": "254",
           "s": "251",
           "p": "244"
         },
         {
-          "title": "The Best Things Happen When You're Dancing",
+          "name": "The Best Things Happen When You're Dancing",
           "m": "249",
           "s": "241",
           "p": "246"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Foster"
@@ -152,19 +152,19 @@
       "pc_score": "79.9",
       "songs": [
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "240",
           "s": "243",
           "p": "235"
         },
         {
-          "title": "Ain't That Love/I'd Do Anything For You But Work",
+          "name": "Ain't That Love/I'd Do Anything For You But Work",
           "m": "245",
           "s": "236",
           "p": "239"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Antoine Kaiserman"
@@ -193,19 +193,19 @@
       "pc_score": "79.3",
       "songs": [
         {
-          "title": "If I Loved You",
+          "name": "If I Loved You",
           "m": "240",
           "s": "236",
           "p": "234"
         },
         {
-          "title": "Mr. Success",
+          "name": "Mr. Success",
           "m": "240",
           "s": "235",
           "p": "242"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian James"
@@ -234,19 +234,19 @@
       "pc_score": "78.7",
       "songs": [
         {
-          "title": "Spend My Life With You",
+          "name": "Spend My Life With You",
           "m": "231",
           "s": "238",
           "p": "235"
         },
         {
-          "title": "L-O - V-E",
+          "name": "L-O - V-E",
           "m": "239",
           "s": "240",
           "p": "233"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ben Ferguson"
@@ -275,19 +275,19 @@
       "pc_score": "76.8",
       "songs": [
         {
-          "title": "I Love Being Here With You",
+          "name": "I Love Being Here With You",
           "m": "226",
           "s": "224",
           "p": "239"
         },
         {
-          "title": "Brother, Can You Spare A Dime?",
+          "name": "Brother, Can You Spare A Dime?",
           "m": "234",
           "s": "232",
           "p": "228"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard Fisher"
@@ -316,19 +316,19 @@
       "pc_score": "76.2",
       "songs": [
         {
-          "title": "Beautiful Dreamer",
+          "name": "Beautiful Dreamer",
           "m": "230",
           "s": "224",
           "p": "229"
         },
         {
-          "title": "Bare Necessities",
+          "name": "Bare Necessities",
           "m": "227",
           "s": "228",
           "p": "234"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Eoin Conway"
@@ -357,19 +357,19 @@
       "pc_score": "75.1",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "228",
           "s": "221",
           "p": "230"
         },
         {
-          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
           "m": "227",
           "s": "222",
           "p": "224"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ruaidhri O'Dalaigh"
@@ -398,19 +398,19 @@
       "pc_score": "73.2",
       "songs": [
         {
-          "title": "Don't Break The Heart That Loves You",
+          "name": "Don't Break The Heart That Loves You",
           "m": "220",
           "s": "218",
           "p": "220"
         },
         {
-          "title": "How Deep Is The Ocean",
+          "name": "How Deep Is The Ocean",
           "m": "217",
           "s": "223",
           "p": "220"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Sanctuary"
@@ -439,19 +439,19 @@
       "pc_score": "70.3",
       "songs": [
         {
-          "title": "I Told 'em All About You/You Dear Medley",
+          "name": "I Told 'em All About You/You Dear Medley",
           "m": "214",
           "s": "206",
           "p": "218"
         },
         {
-          "title": "It's You",
+          "name": "It's You",
           "m": "210",
           "s": "207",
           "p": "210"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jamie Braham"
@@ -480,19 +480,19 @@
       "pc_score": "68.3",
       "songs": [
         {
-          "title": "I See The Light",
+          "name": "I See The Light",
           "m": "192",
           "s": "202",
           "p": "211"
         },
         {
-          "title": "You're Sixteen",
+          "name": "You're Sixteen",
           "m": "208",
           "s": "209",
           "p": "208"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Luke Freeney"
@@ -521,19 +521,19 @@
       "pc_score": "68.1",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "205",
           "s": "202",
           "p": "204"
         },
         {
-          "title": "Daydream Believer",
+          "name": "Daydream Believer",
           "m": "205",
           "s": "206",
           "p": "204"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Edwards"
@@ -562,19 +562,19 @@
       "pc_score": "66.4",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "197",
           "s": "202",
           "p": "195"
         },
         {
-          "title": "From The First Hello To The Last Goodbye",
+          "name": "From The First Hello To The Last Goodbye",
           "m": "202",
           "s": "199",
           "p": "200"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Craig Kehoe"
@@ -603,19 +603,19 @@
       "pc_score": "66.1",
       "songs": [
         {
-          "title": "Cinderella",
+          "name": "Cinderella",
           "m": "196",
           "s": "204",
           "p": "202"
         },
         {
-          "title": "Among My Souvenirs",
+          "name": "Among My Souvenirs",
           "m": "204",
           "s": "191",
           "p": "193"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter Sayer"
@@ -644,19 +644,19 @@
       "pc_score": "66.1",
       "songs": [
         {
-          "title": "How Deep Is The Ocean",
+          "name": "How Deep Is The Ocean",
           "m": "200",
           "s": "199",
           "p": "198"
         },
         {
-          "title": "Ain't That A Kick In The Head",
+          "name": "Ain't That A Kick In The Head",
           "m": "202",
           "s": "193",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrew Edgley"
@@ -685,19 +685,19 @@
       "pc_score": "65.8",
       "songs": [
         {
-          "title": "Smilin' Through",
+          "name": "Smilin' Through",
           "m": "208",
           "s": "197",
           "p": "199"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "196",
           "s": "188",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Salter"
@@ -726,19 +726,19 @@
       "pc_score": "65.8",
       "songs": [
         {
-          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
           "m": "199",
           "s": "198",
           "p": "199"
         },
         {
-          "title": "Bring Me Sunshine",
+          "name": "Bring Me Sunshine",
           "m": "196",
           "s": "194",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick Barnacle"
@@ -767,19 +767,19 @@
       "pc_score": "65.7",
       "songs": [
         {
-          "title": "Moonlight Becomes You",
+          "name": "Moonlight Becomes You",
           "m": "201",
           "s": "200",
           "p": "196"
         },
         {
-          "title": "Cheek To Cheek",
+          "name": "Cheek To Cheek",
           "m": "195",
           "s": "193",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Gary Roussak"
@@ -808,19 +808,19 @@
       "pc_score": "65.6",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "199",
           "s": "201",
           "p": "199"
         },
         {
-          "title": "Let's Get Away From It All",
+          "name": "Let's Get Away From It All",
           "m": "200",
           "s": "191",
           "p": "191"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Woolley"
@@ -849,19 +849,19 @@
       "pc_score": "65.4",
       "songs": [
         {
-          "title": "Do You Really Love Me",
+          "name": "Do You Really Love Me",
           "m": "197",
           "s": "201",
           "p": "194"
         },
         {
-          "title": "You Brought A New Kind Of Love To Me",
+          "name": "You Brought A New Kind Of Love To Me",
           "m": "199",
           "s": "193",
           "p": "194"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Stephen Cox"
@@ -890,19 +890,19 @@
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "I Don't Know Why",
+          "name": "I Don't Know Why",
           "m": "198",
           "s": "190",
           "p": "202"
         },
         {
-          "title": "I'm Alone Because I Love You",
+          "name": "I'm Alone Because I Love You",
           "m": "194",
           "s": "195",
           "p": "196"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris Blatchford"
@@ -931,19 +931,19 @@
       "pc_score": "63.9",
       "songs": [
         {
-          "title": "You Are So Beautiful",
+          "name": "You Are So Beautiful",
           "m": "189",
           "s": "196",
           "p": "193"
         },
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "197",
           "s": "188",
           "p": "187"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jeremy Jacomet"

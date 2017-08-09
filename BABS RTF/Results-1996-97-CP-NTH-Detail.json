@@ -1,0 +1,425 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1996-97-CP-NTH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NORTHERN CHORUS PRELIMS",
+  "location": "SOUTHPORT",
+  "year": "1996/97",
+  "type": "c",
+  "date": "16/11/1996",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "m",
+      "name": "Avg. Music"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Arthur Scott"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Stuart Wineberg"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Hallmark Of Harmony",
+      "size": 77,
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 233,
+          "p": 213,
+          "s": 217,
+          "tot_score": 663,
+          "pc_score": 73.7,
+          "m_pc": 77.7,
+          "p_pc": 71.0,
+          "s_pc": 72.3
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 234,
+          "p": 224,
+          "s": 214,
+          "tot_score": 672,
+          "pc_score": 74.7,
+          "m_pc": 78.0,
+          "p_pc": 74.7,
+          "s_pc": 71.3
+        }
+      ],
+      "n": 2,
+      "m": 467,
+      "m_pc": 77.8,
+      "p": 437,
+      "p_pc": 72.8,
+      "s": 431,
+      "s_pc": 71.8,
+      "tot_score": 1335,
+      "pc_score": 74.2
+    },
+    {
+      "rank": 2,
+      "name": "The Big County Chorus",
+      "size": 52,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Pal",
+          "m": 180,
+          "p": 184,
+          "s": 197,
+          "tot_score": 561,
+          "pc_score": 62.3,
+          "m_pc": 60.0,
+          "p_pc": 61.3,
+          "s_pc": 65.7
+        },
+        {
+          "n": 1,
+          "name": "Wait Till The Sun Shines, Nellie",
+          "m": 180,
+          "p": 183,
+          "s": 191,
+          "tot_score": 554,
+          "pc_score": 61.6,
+          "m_pc": 60.0,
+          "p_pc": 61.0,
+          "s_pc": 63.7
+        }
+      ],
+      "n": 2,
+      "m": 360,
+      "m_pc": 60.0,
+      "p": 367,
+      "p_pc": 61.2,
+      "s": 388,
+      "s_pc": 64.7,
+      "tot_score": 1115,
+      "pc_score": 61.9
+    },
+    {
+      "rank": 3,
+      "name": "The Red Rose Chorus",
+      "size": 29,
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 174,
+          "p": 203,
+          "s": 179,
+          "tot_score": 556,
+          "pc_score": 61.8,
+          "m_pc": 58.0,
+          "p_pc": 67.7,
+          "s_pc": 59.7
+        },
+        {
+          "n": 1,
+          "name": "Waiting For The Robert E Lee",
+          "m": 179,
+          "p": 192,
+          "s": 173,
+          "tot_score": 544,
+          "pc_score": 60.4,
+          "m_pc": 59.7,
+          "p_pc": 64.0,
+          "s_pc": 57.7
+        }
+      ],
+      "n": 2,
+      "m": 353,
+      "m_pc": 58.8,
+      "p": 395,
+      "p_pc": 65.8,
+      "s": 352,
+      "s_pc": 58.7,
+      "tot_score": 1100,
+      "pc_score": 61.1
+    },
+    {
+      "rank": 4,
+      "name": "Rainy City Chorus",
+      "size": 28,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 171,
+          "p": 158,
+          "s": 167,
+          "tot_score": 496,
+          "pc_score": 55.1,
+          "m_pc": 57.0,
+          "p_pc": 52.7,
+          "s_pc": 55.7
+        },
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 165,
+          "p": 163,
+          "s": 167,
+          "tot_score": 495,
+          "pc_score": 55.0,
+          "m_pc": 55.0,
+          "p_pc": 54.3,
+          "s_pc": 55.7
+        }
+      ],
+      "n": 2,
+      "m": 336,
+      "m_pc": 56.0,
+      "p": 321,
+      "p_pc": 53.5,
+      "s": 334,
+      "s_pc": 55.7,
+      "tot_score": 991,
+      "pc_score": 55.1
+    },
+    {
+      "rank": 5,
+      "name": "Spirit Of Harmony",
+      "size": 23,
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 156,
+          "p": 144,
+          "s": 126,
+          "tot_score": 426,
+          "pc_score": 47.3,
+          "m_pc": 52.0,
+          "p_pc": 48.0,
+          "s_pc": 42.0
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 162,
+          "p": 157,
+          "s": 128,
+          "tot_score": 447,
+          "pc_score": 49.7,
+          "m_pc": 54.0,
+          "p_pc": 52.3,
+          "s_pc": 42.7
+        }
+      ],
+      "n": 2,
+      "m": 318,
+      "m_pc": 53.0,
+      "p": 301,
+      "p_pc": 50.2,
+      "s": 254,
+      "s_pc": 42.3,
+      "tot_score": 873,
+      "pc_score": 48.5
+    },
+    {
+      "rank": 6,
+      "name": "Friends In Harmony",
+      "size": 20,
+      "songs": [
+        {
+          "n": 1,
+          "name": "There's A Rainbow Round My Shoulder",
+          "m": 144,
+          "p": 144,
+          "s": 132,
+          "tot_score": 420,
+          "pc_score": 46.7,
+          "m_pc": 48.0,
+          "p_pc": 48.0,
+          "s_pc": 44.0
+        },
+        {
+          "n": 1,
+          "name": "Mary's Only In My Dreams",
+          "m": 168,
+          "p": 147,
+          "s": 135,
+          "tot_score": 450,
+          "pc_score": 50.0,
+          "m_pc": 56.0,
+          "p_pc": 49.0,
+          "s_pc": 45.0
+        }
+      ],
+      "n": 2,
+      "m": 312,
+      "m_pc": 52.0,
+      "p": 291,
+      "p_pc": 48.5,
+      "s": 267,
+      "s_pc": 44.5,
+      "tot_score": 870,
+      "pc_score": 48.3
+    },
+    {
+      "rank": 6,
+      "name": "The Pier Town Chorus",
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wait Till The Sun Shines, Nellie",
+          "m": 153,
+          "p": 140,
+          "s": 129,
+          "tot_score": 422,
+          "pc_score": 46.9,
+          "m_pc": 51.0,
+          "p_pc": 46.7,
+          "s_pc": 43.0
+        },
+        {
+          "n": 1,
+          "name": "Give My Regards To Broadway",
+          "m": 168,
+          "p": 140,
+          "s": 140,
+          "tot_score": 448,
+          "pc_score": 49.8,
+          "m_pc": 56.0,
+          "p_pc": 46.7,
+          "s_pc": 46.7
+        }
+      ],
+      "n": 2,
+      "m": 321,
+      "m_pc": 53.5,
+      "p": 280,
+      "p_pc": 46.7,
+      "s": 269,
+      "s_pc": 44.8,
+      "tot_score": 870,
+      "pc_score": 48.3
+    },
+    {
+      "rank": 8,
+      "name": "The Peers Of Harmony",
+      "size": 24,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 156,
+          "p": 136,
+          "s": 122,
+          "tot_score": 414,
+          "pc_score": 46.0,
+          "m_pc": 52.0,
+          "p_pc": 45.3,
+          "s_pc": 40.7
+        },
+        {
+          "n": 1,
+          "name": "Don't Leave Me, Mammy",
+          "m": 129,
+          "p": 138,
+          "s": 112,
+          "tot_score": 379,
+          "pc_score": 42.1,
+          "m_pc": 43.0,
+          "p_pc": 46.0,
+          "s_pc": 37.3
+        }
+      ],
+      "n": 2,
+      "m": 285,
+      "m_pc": 47.5,
+      "p": 274,
+      "p_pc": 45.7,
+      "s": 234,
+      "s_pc": 39.0,
+      "tot_score": 793,
+      "pc_score": 44.1
+    },
+    {
+      "rank": 9,
+      "name": "The Grand National Chorus",
+      "size": 32,
+      "songs": [
+        {
+          "n": 1,
+          "name": "After Dark / I Love You Truly Medley",
+          "m": 101,
+          "p": 124,
+          "s": 109,
+          "tot_score": 334,
+          "pc_score": 37.1,
+          "m_pc": 33.7,
+          "p_pc": 41.3,
+          "s_pc": 36.3
+        },
+        {
+          "n": 1,
+          "name": "I Can't Help Falling In Love With You",
+          "m": 15,
+          "p": 114,
+          "s": 98,
+          "tot_score": 227,
+          "pc_score": 25.2,
+          "m_pc": 5.0,
+          "p_pc": 38.0,
+          "s_pc": 32.7
+        }
+      ],
+      "n": 2,
+      "m": 116,
+      "m_pc": 19.3,
+      "p": 238,
+      "p_pc": 39.7,
+      "s": 207,
+      "s_pc": 34.5,
+      "tot_score": 561,
+      "pc_score": 31.2
+    }
+  ]
+}

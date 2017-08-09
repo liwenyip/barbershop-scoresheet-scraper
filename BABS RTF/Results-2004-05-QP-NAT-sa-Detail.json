@@ -1,0 +1,521 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2004-05-QP-NAT-sa-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET PRELIM - SATURDAY",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2004/05",
+  "type": "q",
+  "date": "09/10/2004",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Andy Milner"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Gentleman Jack",
+      "songs": [
+        {
+          "n": 1,
+          "name": "They All Laughed",
+          "m": 145,
+          "p": 136,
+          "s": 141,
+          "tot_score": 422,
+          "pc_score": 70.3,
+          "m_pc": 72.5,
+          "p_pc": 68.0,
+          "s_pc": 70.5
+        },
+        {
+          "n": 1,
+          "name": "Basin Street Blues / Up A Lazy River Medley",
+          "m": 146,
+          "p": 139,
+          "s": 142,
+          "tot_score": 427,
+          "pc_score": 71.2,
+          "m_pc": 73.0,
+          "p_pc": 69.5,
+          "s_pc": 71.0
+        }
+      ],
+      "n": 2,
+      "m": 291,
+      "m_pc": 72.8,
+      "p": 275,
+      "p_pc": 68.8,
+      "s": 283,
+      "s_pc": 70.8,
+      "tot_score": 849,
+      "pc_score": 70.8
+    },
+    {
+      "rank": 2,
+      "name": "Retro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I've Been Workin' On The Railroad",
+          "m": 136,
+          "p": 141,
+          "s": 129,
+          "tot_score": 406,
+          "pc_score": 67.7,
+          "m_pc": 68.0,
+          "p_pc": 70.5,
+          "s_pc": 64.5
+        },
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 129,
+          "p": 138,
+          "s": 132,
+          "tot_score": 399,
+          "pc_score": 66.5,
+          "m_pc": 64.5,
+          "p_pc": 69.0,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 2,
+      "m": 265,
+      "m_pc": 66.3,
+      "p": 279,
+      "p_pc": 69.8,
+      "s": 261,
+      "s_pc": 65.3,
+      "tot_score": 805,
+      "pc_score": 67.1
+    },
+    {
+      "rank": 3,
+      "name": "Figaro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 128,
+          "p": 125,
+          "s": 124,
+          "tot_score": 377,
+          "pc_score": 62.8,
+          "m_pc": 64.0,
+          "p_pc": 62.5,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "There Goes My Heart",
+          "m": 124,
+          "p": 128,
+          "s": 125,
+          "tot_score": 377,
+          "pc_score": 62.8,
+          "m_pc": 62.0,
+          "p_pc": 64.0,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 252,
+      "m_pc": 63.0,
+      "p": 253,
+      "p_pc": 63.3,
+      "s": 249,
+      "s_pc": 62.3,
+      "tot_score": 754,
+      "pc_score": 62.8
+    },
+    {
+      "rank": 4,
+      "name": "Four Across",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 124,
+          "p": 133,
+          "s": 111,
+          "tot_score": 368,
+          "pc_score": 61.3,
+          "m_pc": 62.0,
+          "p_pc": 66.5,
+          "s_pc": 55.5
+        },
+        {
+          "n": 1,
+          "name": "Paper Doll",
+          "m": 123,
+          "p": 130,
+          "s": 105,
+          "tot_score": 358,
+          "pc_score": 59.7,
+          "m_pc": 61.5,
+          "p_pc": 65.0,
+          "s_pc": 52.5
+        }
+      ],
+      "n": 2,
+      "m": 247,
+      "m_pc": 61.8,
+      "p": 263,
+      "p_pc": 65.8,
+      "s": 216,
+      "s_pc": 54.0,
+      "tot_score": 726,
+      "pc_score": 60.5
+    },
+    {
+      "rank": 5,
+      "name": "Fine Blend",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Letters",
+          "m": 109,
+          "p": 123,
+          "s": 120,
+          "tot_score": 352,
+          "pc_score": 58.7,
+          "m_pc": 54.5,
+          "p_pc": 61.5,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 124,
+          "p": 124,
+          "s": 118,
+          "tot_score": 366,
+          "pc_score": 61.0,
+          "m_pc": 62.0,
+          "p_pc": 62.0,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 233,
+      "m_pc": 58.3,
+      "p": 247,
+      "p_pc": 61.8,
+      "s": 238,
+      "s_pc": 59.5,
+      "tot_score": 718,
+      "pc_score": 59.8
+    },
+    {
+      "rank": 5,
+      "name": "Vocale",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 117,
+          "p": 121,
+          "s": 119,
+          "tot_score": 357,
+          "pc_score": 59.5,
+          "m_pc": 58.5,
+          "p_pc": 60.5,
+          "s_pc": 59.5
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 120,
+          "p": 121,
+          "s": 120,
+          "tot_score": 361,
+          "pc_score": 60.2,
+          "m_pc": 60.0,
+          "p_pc": 60.5,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 237,
+      "m_pc": 59.3,
+      "p": 242,
+      "p_pc": 60.5,
+      "s": 239,
+      "s_pc": 59.8,
+      "tot_score": 718,
+      "pc_score": 59.8
+    },
+    {
+      "rank": 7,
+      "name": "Transatlantic Connection",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wonderful One",
+          "m": 113,
+          "p": 122,
+          "s": 109,
+          "tot_score": 344,
+          "pc_score": 57.3,
+          "m_pc": 56.5,
+          "p_pc": 61.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "I'm Alone Because I Love You",
+          "m": 114,
+          "p": 121,
+          "s": 110,
+          "tot_score": 345,
+          "pc_score": 57.5,
+          "m_pc": 57.0,
+          "p_pc": 60.5,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 227,
+      "m_pc": 56.8,
+      "p": 243,
+      "p_pc": 60.8,
+      "s": 219,
+      "s_pc": 54.8,
+      "tot_score": 689,
+      "pc_score": 57.4
+    },
+    {
+      "rank": 8,
+      "name": "Fourtune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 116,
+          "p": 112,
+          "s": 109,
+          "tot_score": 337,
+          "pc_score": 56.2,
+          "m_pc": 58.0,
+          "p_pc": 56.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 117,
+          "p": 111,
+          "s": 107,
+          "tot_score": 335,
+          "pc_score": 55.8,
+          "m_pc": 58.5,
+          "p_pc": 55.5,
+          "s_pc": 53.5
+        }
+      ],
+      "n": 2,
+      "m": 233,
+      "m_pc": 58.3,
+      "p": 223,
+      "p_pc": 55.8,
+      "s": 216,
+      "s_pc": 54.0,
+      "tot_score": 672,
+      "pc_score": 56.0
+    },
+    {
+      "rank": 9,
+      "name": "Bianco",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Basin Street Blues",
+          "m": 116,
+          "p": 108,
+          "s": 98,
+          "tot_score": 322,
+          "pc_score": 53.7,
+          "m_pc": 58.0,
+          "p_pc": 54.0,
+          "s_pc": 49.0
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 116,
+          "p": 110,
+          "s": 92,
+          "tot_score": 318,
+          "pc_score": 53.0,
+          "m_pc": 58.0,
+          "p_pc": 55.0,
+          "s_pc": 46.0
+        }
+      ],
+      "n": 2,
+      "m": 232,
+      "m_pc": 58.0,
+      "p": 218,
+      "p_pc": 54.5,
+      "s": 190,
+      "s_pc": 47.5,
+      "tot_score": 640,
+      "pc_score": 53.3
+    },
+    {
+      "rank": 10,
+      "name": "Southern Brand",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 106,
+          "p": 104,
+          "s": 111,
+          "tot_score": 321,
+          "pc_score": 53.5,
+          "m_pc": 53.0,
+          "p_pc": 52.0,
+          "s_pc": 55.5
+        },
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 106,
+          "p": 101,
+          "s": 108,
+          "tot_score": 315,
+          "pc_score": 52.5,
+          "m_pc": 53.0,
+          "p_pc": 50.5,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 212,
+      "m_pc": 53.0,
+      "p": 205,
+      "p_pc": 51.3,
+      "s": 219,
+      "s_pc": 54.8,
+      "tot_score": 636,
+      "pc_score": 53.0
+    },
+    {
+      "rank": 11,
+      "name": "Grand Edition",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 108,
+          "p": 112,
+          "s": 102,
+          "tot_score": 322,
+          "pc_score": 53.7,
+          "m_pc": 54.0,
+          "p_pc": 56.0,
+          "s_pc": 51.0
+        },
+        {
+          "n": 1,
+          "name": "When Day Is Done",
+          "m": 104,
+          "p": 108,
+          "s": 99,
+          "tot_score": 311,
+          "pc_score": 51.8,
+          "m_pc": 52.0,
+          "p_pc": 54.0,
+          "s_pc": 49.5
+        }
+      ],
+      "n": 2,
+      "m": 212,
+      "m_pc": 53.0,
+      "p": 220,
+      "p_pc": 55.0,
+      "s": 201,
+      "s_pc": 50.3,
+      "tot_score": 633,
+      "pc_score": 52.8
+    },
+    {
+      "rank": 12,
+      "name": "Bon a Chord",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Maggie Mine",
+          "m": 103,
+          "p": 97,
+          "s": 99,
+          "tot_score": 299,
+          "pc_score": 49.8,
+          "m_pc": 51.5,
+          "p_pc": 48.5,
+          "s_pc": 49.5
+        },
+        {
+          "n": 1,
+          "name": "When There's Love At Home",
+          "m": 94,
+          "p": 97,
+          "s": 102,
+          "tot_score": 293,
+          "pc_score": 48.8,
+          "m_pc": 47.0,
+          "p_pc": 48.5,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 197,
+      "m_pc": 49.3,
+      "p": 194,
+      "p_pc": 48.5,
+      "s": 201,
+      "s_pc": 50.3,
+      "tot_score": 592,
+      "pc_score": 49.3
+    }
+  ]
+}

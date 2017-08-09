@@ -1,0 +1,865 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2001-02-CF-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL CHORUS FINALS",
+  "location": "BOURNEMOUTH",
+  "year": "2001/02",
+  "type": "c",
+  "date": "25/05/2002",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "p",
+      "name": "Carol Sherry"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Cambridge Chord Company",
+      "size": 37,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just A Cottage Small",
+          "m": 254,
+          "p": 250,
+          "s": 252,
+          "tot_score": 756,
+          "pc_score": 84.0,
+          "m_pc": 84.7,
+          "p_pc": 83.3,
+          "s_pc": 84.0
+        },
+        {
+          "n": 1,
+          "name": "The Mother - In - Law Medley",
+          "m": 245,
+          "p": 255,
+          "s": 248,
+          "tot_score": 748,
+          "pc_score": 83.1,
+          "m_pc": 81.7,
+          "p_pc": 85.0,
+          "s_pc": 82.7
+        }
+      ],
+      "n": 2,
+      "m": 499,
+      "m_pc": 83.2,
+      "p": 505,
+      "p_pc": 84.2,
+      "s": 500,
+      "s_pc": 83.3,
+      "tot_score": 1504,
+      "pc_score": 83.6
+    },
+    {
+      "rank": 2,
+      "name": "Cotton Town Chorus",
+      "size": 65,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 229,
+          "p": 230,
+          "s": 234,
+          "tot_score": 693,
+          "pc_score": 77.0,
+          "m_pc": 76.3,
+          "p_pc": 76.7,
+          "s_pc": 78.0
+        },
+        {
+          "n": 1,
+          "name": "Toot Toot Tootsie Goodbye",
+          "m": 242,
+          "p": 232,
+          "s": 228,
+          "tot_score": 702,
+          "pc_score": 78.0,
+          "m_pc": 80.7,
+          "p_pc": 77.3,
+          "s_pc": 76.0
+        }
+      ],
+      "n": 2,
+      "m": 471,
+      "m_pc": 78.5,
+      "p": 462,
+      "p_pc": 77.0,
+      "s": 462,
+      "s_pc": 77.0,
+      "tot_score": 1395,
+      "pc_score": 77.5
+    },
+    {
+      "rank": 3,
+      "name": "Great Western Chorus",
+      "size": 69,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 231,
+          "p": 220,
+          "s": 214,
+          "tot_score": 665,
+          "pc_score": 73.9,
+          "m_pc": 77.0,
+          "p_pc": 73.3,
+          "s_pc": 71.3
+        },
+        {
+          "n": 1,
+          "name": "Oh! You Beautiful Doll",
+          "m": 222,
+          "p": 218,
+          "s": 199,
+          "tot_score": 639,
+          "pc_score": 71.0,
+          "m_pc": 74.0,
+          "p_pc": 72.7,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 453,
+      "m_pc": 75.5,
+      "p": 438,
+      "p_pc": 73.0,
+      "s": 413,
+      "s_pc": 68.8,
+      "tot_score": 1304,
+      "pc_score": 72.4
+    },
+    {
+      "rank": 4,
+      "name": "The Royal Harmonics",
+      "size": 26,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Opening Night On Broadway",
+          "m": 199,
+          "p": 204,
+          "s": 212,
+          "tot_score": 615,
+          "pc_score": 68.3,
+          "m_pc": 66.3,
+          "p_pc": 68.0,
+          "s_pc": 70.7
+        },
+        {
+          "n": 1,
+          "name": "The Song Is Ended",
+          "m": 206,
+          "p": 216,
+          "s": 211,
+          "tot_score": 633,
+          "pc_score": 70.3,
+          "m_pc": 68.7,
+          "p_pc": 72.0,
+          "s_pc": 70.3
+        }
+      ],
+      "n": 2,
+      "m": 405,
+      "m_pc": 67.5,
+      "p": 420,
+      "p_pc": 70.0,
+      "s": 423,
+      "s_pc": 70.5,
+      "tot_score": 1248,
+      "pc_score": 69.3
+    },
+    {
+      "rank": 5,
+      "name": "Thames Valley Chorus",
+      "size": 60,
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 213,
+          "p": 207,
+          "s": 199,
+          "tot_score": 619,
+          "pc_score": 68.8,
+          "m_pc": 71.0,
+          "p_pc": 69.0,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 212,
+          "p": 211,
+          "s": 195,
+          "tot_score": 618,
+          "pc_score": 68.7,
+          "m_pc": 70.7,
+          "p_pc": 70.3,
+          "s_pc": 65.0
+        }
+      ],
+      "n": 2,
+      "m": 425,
+      "m_pc": 70.8,
+      "p": 418,
+      "p_pc": 69.7,
+      "s": 394,
+      "s_pc": 65.7,
+      "tot_score": 1237,
+      "pc_score": 68.7
+    },
+    {
+      "rank": 6,
+      "name": "Hallmark Of Harmony",
+      "size": 38,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Till We Meet Again",
+          "m": 201,
+          "p": 196,
+          "s": 202,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 67.0,
+          "p_pc": 65.3,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "The Liar Medley",
+          "m": 198,
+          "p": 205,
+          "s": 197,
+          "tot_score": 600,
+          "pc_score": 66.7,
+          "m_pc": 66.0,
+          "p_pc": 68.3,
+          "s_pc": 65.7
+        }
+      ],
+      "n": 2,
+      "m": 399,
+      "m_pc": 66.5,
+      "p": 401,
+      "p_pc": 66.8,
+      "s": 399,
+      "s_pc": 66.5,
+      "tot_score": 1199,
+      "pc_score": 66.6
+    },
+    {
+      "rank": 7,
+      "name": "Shannon Express",
+      "size": 40,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 202,
+          "p": 197,
+          "s": 201,
+          "tot_score": 600,
+          "pc_score": 66.7,
+          "m_pc": 67.3,
+          "p_pc": 65.7,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "I Never Knew Medley",
+          "m": 197,
+          "p": 200,
+          "s": 197,
+          "tot_score": 594,
+          "pc_score": 66.0,
+          "m_pc": 65.7,
+          "p_pc": 66.7,
+          "s_pc": 65.7
+        }
+      ],
+      "n": 2,
+      "m": 399,
+      "m_pc": 66.5,
+      "p": 397,
+      "p_pc": 66.2,
+      "s": 398,
+      "s_pc": 66.3,
+      "tot_score": 1194,
+      "pc_score": 66.3
+    },
+    {
+      "rank": 8,
+      "name": "The Red Rose Chorus",
+      "size": 31,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Row Row Row / Paddling Madeline Home Medley",
+          "m": 195,
+          "p": 200,
+          "s": 186,
+          "tot_score": 581,
+          "pc_score": 64.6,
+          "m_pc": 65.0,
+          "p_pc": 66.7,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "There's A Rose On Your Cheek",
+          "m": 191,
+          "p": 205,
+          "s": 177,
+          "tot_score": 573,
+          "pc_score": 63.7,
+          "m_pc": 63.7,
+          "p_pc": 68.3,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 386,
+      "m_pc": 64.3,
+      "p": 405,
+      "p_pc": 67.5,
+      "s": 363,
+      "s_pc": 60.5,
+      "tot_score": 1154,
+      "pc_score": 64.1
+    },
+    {
+      "rank": 9,
+      "name": "Anvil Chorus",
+      "size": 39,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Gold Turns To Grey",
+          "m": 196,
+          "p": 193,
+          "s": 190,
+          "tot_score": 579,
+          "pc_score": 64.3,
+          "m_pc": 65.3,
+          "p_pc": 64.3,
+          "s_pc": 63.3
+        },
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 193,
+          "p": 198,
+          "s": 176,
+          "tot_score": 567,
+          "pc_score": 63.0,
+          "m_pc": 64.3,
+          "p_pc": 66.0,
+          "s_pc": 58.7
+        }
+      ],
+      "n": 2,
+      "m": 389,
+      "m_pc": 64.8,
+      "p": 391,
+      "p_pc": 65.2,
+      "s": 366,
+      "s_pc": 61.0,
+      "tot_score": 1146,
+      "pc_score": 63.7
+    },
+    {
+      "rank": 10,
+      "name": "The Telfordaires",
+      "size": 23,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Take My Place When I'm Gone?",
+          "m": 190,
+          "p": 185,
+          "s": 191,
+          "tot_score": 566,
+          "pc_score": 62.9,
+          "m_pc": 63.3,
+          "p_pc": 61.7,
+          "s_pc": 63.7
+        },
+        {
+          "n": 1,
+          "name": "Can You Tame Wild Wimmen'",
+          "m": 194,
+          "p": 189,
+          "s": 189,
+          "tot_score": 572,
+          "pc_score": 63.6,
+          "m_pc": 64.7,
+          "p_pc": 63.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 384,
+      "m_pc": 64.0,
+      "p": 374,
+      "p_pc": 62.3,
+      "s": 380,
+      "s_pc": 63.3,
+      "tot_score": 1138,
+      "pc_score": 63.2
+    },
+    {
+      "rank": 11,
+      "name": "Spirit Of Harmony",
+      "size": 46,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 190,
+          "p": 190,
+          "s": 178,
+          "tot_score": 558,
+          "pc_score": 62.0,
+          "m_pc": 63.3,
+          "p_pc": 63.3,
+          "s_pc": 59.3
+        },
+        {
+          "n": 1,
+          "name": "Danny Boy",
+          "m": 190,
+          "p": 195,
+          "s": 179,
+          "tot_score": 564,
+          "pc_score": 62.7,
+          "m_pc": 63.3,
+          "p_pc": 65.0,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 380,
+      "m_pc": 63.3,
+      "p": 385,
+      "p_pc": 64.2,
+      "s": 357,
+      "s_pc": 59.5,
+      "tot_score": 1122,
+      "pc_score": 62.3
+    },
+    {
+      "rank": 12,
+      "name": "Solent City Chorus",
+      "size": 31,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 191,
+          "p": 180,
+          "s": 188,
+          "tot_score": 559,
+          "pc_score": 62.1,
+          "m_pc": 63.7,
+          "p_pc": 60.0,
+          "s_pc": 62.7
+        },
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 189,
+          "p": 179,
+          "s": 186,
+          "tot_score": 554,
+          "pc_score": 61.6,
+          "m_pc": 63.0,
+          "p_pc": 59.7,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 380,
+      "m_pc": 63.3,
+      "p": 359,
+      "p_pc": 59.8,
+      "s": 374,
+      "s_pc": 62.3,
+      "tot_score": 1113,
+      "pc_score": 61.8
+    },
+    {
+      "rank": 12,
+      "name": "The Pilgrimaires",
+      "size": 55,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Brother, Can You Spare A Dime?",
+          "m": 191,
+          "p": 202,
+          "s": 181,
+          "tot_score": 574,
+          "pc_score": 63.8,
+          "m_pc": 63.7,
+          "p_pc": 67.3,
+          "s_pc": 60.3
+        },
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 182,
+          "p": 185,
+          "s": 172,
+          "tot_score": 539,
+          "pc_score": 59.9,
+          "m_pc": 60.7,
+          "p_pc": 61.7,
+          "s_pc": 57.3
+        }
+      ],
+      "n": 2,
+      "m": 373,
+      "m_pc": 62.2,
+      "p": 387,
+      "p_pc": 64.5,
+      "s": 353,
+      "s_pc": 58.8,
+      "tot_score": 1113,
+      "pc_score": 61.8
+    },
+    {
+      "rank": 14,
+      "name": "Southern Union",
+      "size": 47,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Sitting On Top Of The World",
+          "m": 185,
+          "p": 182,
+          "s": 178,
+          "tot_score": 545,
+          "pc_score": 60.6,
+          "m_pc": 61.7,
+          "p_pc": 60.7,
+          "s_pc": 59.3
+        },
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 184,
+          "p": 183,
+          "s": 166,
+          "tot_score": 533,
+          "pc_score": 59.2,
+          "m_pc": 61.3,
+          "p_pc": 61.0,
+          "s_pc": 55.3
+        }
+      ],
+      "n": 2,
+      "m": 369,
+      "m_pc": 61.5,
+      "p": 365,
+      "p_pc": 60.8,
+      "s": 344,
+      "s_pc": 57.3,
+      "tot_score": 1078,
+      "pc_score": 59.9
+    },
+    {
+      "rank": 15,
+      "name": "Knights Of Harmony",
+      "size": 28,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Close My Eyes",
+          "m": 173,
+          "p": 179,
+          "s": 179,
+          "tot_score": 531,
+          "pc_score": 59.0,
+          "m_pc": 57.7,
+          "p_pc": 59.7,
+          "s_pc": 59.7
+        },
+        {
+          "n": 1,
+          "name": "Happy Feet",
+          "m": 174,
+          "p": 182,
+          "s": 165,
+          "tot_score": 521,
+          "pc_score": 57.9,
+          "m_pc": 58.0,
+          "p_pc": 60.7,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 347,
+      "m_pc": 57.8,
+      "p": 361,
+      "p_pc": 60.2,
+      "s": 344,
+      "s_pc": 57.3,
+      "tot_score": 1052,
+      "pc_score": 58.4
+    },
+    {
+      "rank": 16,
+      "name": "Kings Of Herts",
+      "size": 41,
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 181,
+          "p": 171,
+          "s": 173,
+          "tot_score": 525,
+          "pc_score": 58.3,
+          "m_pc": 60.3,
+          "p_pc": 57.0,
+          "s_pc": 57.7
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 176,
+          "p": 174,
+          "s": 173,
+          "tot_score": 523,
+          "pc_score": 58.1,
+          "m_pc": 58.7,
+          "p_pc": 58.0,
+          "s_pc": 57.7
+        }
+      ],
+      "n": 2,
+      "m": 357,
+      "m_pc": 59.5,
+      "p": 345,
+      "p_pc": 57.5,
+      "s": 346,
+      "s_pc": 57.7,
+      "tot_score": 1048,
+      "pc_score": 58.2
+    },
+    {
+      "rank": 17,
+      "name": "Chelmsford Star Harmony",
+      "size": 27,
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 167,
+          "p": 162,
+          "s": 179,
+          "tot_score": 508,
+          "pc_score": 56.4,
+          "m_pc": 55.7,
+          "p_pc": 54.0,
+          "s_pc": 59.7
+        },
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 163,
+          "p": 162,
+          "s": 177,
+          "tot_score": 502,
+          "pc_score": 55.8,
+          "m_pc": 54.3,
+          "p_pc": 54.0,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 330,
+      "m_pc": 55.0,
+      "p": 324,
+      "p_pc": 54.0,
+      "s": 356,
+      "s_pc": 59.3,
+      "tot_score": 1010,
+      "pc_score": 56.1
+    },
+    {
+      "rank": 18,
+      "name": "The Kentones",
+      "size": 35,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 184,
+          "p": 169,
+          "s": 151,
+          "tot_score": 504,
+          "pc_score": 56.0,
+          "m_pc": 61.3,
+          "p_pc": 56.3,
+          "s_pc": 50.3
+        },
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 176,
+          "p": 172,
+          "s": 157,
+          "tot_score": 505,
+          "pc_score": 56.1,
+          "m_pc": 58.7,
+          "p_pc": 57.3,
+          "s_pc": 52.3
+        }
+      ],
+      "n": 2,
+      "m": 360,
+      "m_pc": 60.0,
+      "p": 341,
+      "p_pc": 56.8,
+      "s": 308,
+      "s_pc": 51.3,
+      "tot_score": 1009,
+      "pc_score": 56.1
+    },
+    {
+      "rank": 19,
+      "name": "Granite City Chorus",
+      "size": 19,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All (Parody)",
+          "m": 167,
+          "p": 174,
+          "s": 168,
+          "tot_score": 509,
+          "pc_score": 56.6,
+          "m_pc": 55.7,
+          "p_pc": 58.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "When You're Smiling",
+          "m": 166,
+          "p": 169,
+          "s": 164,
+          "tot_score": 499,
+          "pc_score": 55.4,
+          "m_pc": 55.3,
+          "p_pc": 56.3,
+          "s_pc": 54.7
+        }
+      ],
+      "n": 2,
+      "m": 333,
+      "m_pc": 55.5,
+      "p": 343,
+      "p_pc": 57.2,
+      "s": 332,
+      "s_pc": 55.3,
+      "tot_score": 1008,
+      "pc_score": 56.0
+    },
+    {
+      "rank": 20,
+      "name": "Clwyd Clippers",
+      "size": 27,
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Had All The World And Its Gold",
+          "m": 161,
+          "p": 168,
+          "s": 135,
+          "tot_score": 464,
+          "pc_score": 51.6,
+          "m_pc": 53.7,
+          "p_pc": 56.0,
+          "s_pc": 45.0
+        },
+        {
+          "n": 1,
+          "name": "If You Love Me Really Love Me",
+          "m": 146,
+          "p": 167,
+          "s": 126,
+          "tot_score": 439,
+          "pc_score": 48.8,
+          "m_pc": 48.7,
+          "p_pc": 55.7,
+          "s_pc": 42.0
+        }
+      ],
+      "n": 2,
+      "m": 307,
+      "m_pc": 51.2,
+      "p": 335,
+      "p_pc": 55.8,
+      "s": 261,
+      "s_pc": 43.5,
+      "tot_score": 903,
+      "pc_score": 50.2
+    }
+  ]
+}

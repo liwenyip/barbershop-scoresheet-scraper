@@ -1,0 +1,623 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2009-10-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "HARROGATE",
+  "year": "2009/10",
+  "type": "q",
+  "date": "30/05/2010",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "James Northen"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Timm"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's You",
+          "m": 238,
+          "p": 233,
+          "s": 231,
+          "tot_score": 702,
+          "pc_score": 78.0,
+          "m_pc": 79.3,
+          "p_pc": 77.7,
+          "s_pc": 77.0
+        },
+        {
+          "n": 1,
+          "name": "Smile Medley",
+          "m": 238,
+          "p": 235,
+          "s": 234,
+          "tot_score": 707,
+          "pc_score": 78.6,
+          "m_pc": 79.3,
+          "p_pc": 78.3,
+          "s_pc": 78.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 478.0,
+          "p": 471.0,
+          "s": 475.0,
+          "tot_score": 1424.0,
+          "pc_score": 79.1,
+          "m_pc": 79.7,
+          "p_pc": 78.5,
+          "s_pc": 79.2
+        }
+      ],
+      "n": 4,
+      "m": 954.0,
+      "m_pc": 79.5,
+      "p": 939.0,
+      "p_pc": 78.3,
+      "s": 940.0,
+      "s_pc": 78.3,
+      "tot_score": 2833.0,
+      "pc_score": 78.7
+    },
+    {
+      "rank": 2,
+      "name": "Steel",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Keith"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "If I Had My Way",
+          "m": 233,
+          "p": 228,
+          "s": 231,
+          "tot_score": 692,
+          "pc_score": 76.9,
+          "m_pc": 77.7,
+          "p_pc": 76.0,
+          "s_pc": 77.0
+        },
+        {
+          "n": 1,
+          "name": "Put Your Arms Around Me Honey",
+          "m": 233,
+          "p": 237,
+          "s": 231,
+          "tot_score": 701,
+          "pc_score": 77.9,
+          "m_pc": 77.7,
+          "p_pc": 79.0,
+          "s_pc": 77.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 461.0,
+          "p": 457.0,
+          "s": 465.0,
+          "tot_score": 1383.0,
+          "pc_score": 76.8,
+          "m_pc": 76.8,
+          "p_pc": 76.2,
+          "s_pc": 77.5
+        }
+      ],
+      "n": 4,
+      "m": 927.0,
+      "m_pc": 77.3,
+      "p": 922.0,
+      "p_pc": 76.8,
+      "s": 927.0,
+      "s_pc": 77.3,
+      "tot_score": 2776.0,
+      "pc_score": 77.1
+    },
+    {
+      "rank": 3,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Duncan"
+        },
+        {
+          "part": "bass",
+          "name": "Joe"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wait Till The Sun Shines, Nellie",
+          "m": 234,
+          "p": 227,
+          "s": 229,
+          "tot_score": 690,
+          "pc_score": 76.7,
+          "m_pc": 78.0,
+          "p_pc": 75.7,
+          "s_pc": 76.3
+        },
+        {
+          "n": 1,
+          "name": "When I Leave The World Behind",
+          "m": 232,
+          "p": 232,
+          "s": 226,
+          "tot_score": 690,
+          "pc_score": 76.7,
+          "m_pc": 77.3,
+          "p_pc": 77.3,
+          "s_pc": 75.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 464.0,
+          "p": 460.0,
+          "s": 462.0,
+          "tot_score": 1386.0,
+          "pc_score": 77.0,
+          "m_pc": 77.3,
+          "p_pc": 76.7,
+          "s_pc": 77.0
+        }
+      ],
+      "n": 4,
+      "m": 930.0,
+      "m_pc": 77.5,
+      "p": 919.0,
+      "p_pc": 76.6,
+      "s": 917.0,
+      "s_pc": 76.4,
+      "tot_score": 2766.0,
+      "pc_score": 76.8
+    },
+    {
+      "rank": 4,
+      "name": "Crossfire",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Andrew"
+        },
+        {
+          "part": "bass",
+          "name": "Neil"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Fit As A Fiddle",
+          "m": 228,
+          "p": 224,
+          "s": 221,
+          "tot_score": 673,
+          "pc_score": 74.8,
+          "m_pc": 76.0,
+          "p_pc": 74.7,
+          "s_pc": 73.7
+        },
+        {
+          "n": 1,
+          "name": "Moonlight Becomes You",
+          "m": 232,
+          "p": 230,
+          "s": 222,
+          "tot_score": 684,
+          "pc_score": 76.0,
+          "m_pc": 77.3,
+          "p_pc": 76.7,
+          "s_pc": 74.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 450.0,
+          "p": 449.0,
+          "s": 453.0,
+          "tot_score": 1352.0,
+          "pc_score": 75.1,
+          "m_pc": 75.0,
+          "p_pc": 74.8,
+          "s_pc": 75.5
+        }
+      ],
+      "n": 4,
+      "m": 910.0,
+      "m_pc": 75.8,
+      "p": 903.0,
+      "p_pc": 75.3,
+      "s": 896.0,
+      "s_pc": 74.7,
+      "tot_score": 2709.0,
+      "pc_score": 75.3
+    },
+    {
+      "rank": 5,
+      "name": "Qube",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Isn't It A Pity",
+          "m": 197,
+          "p": 206,
+          "s": 195,
+          "tot_score": 598,
+          "pc_score": 66.4,
+          "m_pc": 65.7,
+          "p_pc": 68.7,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Auld Lang Syne",
+          "m": 197,
+          "p": 209,
+          "s": 194,
+          "tot_score": 600,
+          "pc_score": 66.7,
+          "m_pc": 65.7,
+          "p_pc": 69.7,
+          "s_pc": 64.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 401.0,
+          "p": 402.0,
+          "s": 401.0,
+          "tot_score": 1204.0,
+          "pc_score": 66.9,
+          "m_pc": 66.8,
+          "p_pc": 67.0,
+          "s_pc": 66.8
+        }
+      ],
+      "n": 4,
+      "m": 795.0,
+      "m_pc": 66.3,
+      "p": 817.0,
+      "p_pc": 68.1,
+      "s": 790.0,
+      "s_pc": 65.8,
+      "tot_score": 2402.0,
+      "pc_score": 66.7
+    },
+    {
+      "rank": 6,
+      "name": "Cadence",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "How Deep Is The Ocean",
+          "m": 195,
+          "p": 208,
+          "s": 198,
+          "tot_score": 601,
+          "pc_score": 66.8,
+          "m_pc": 65.0,
+          "p_pc": 69.3,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 200,
+          "p": 214,
+          "s": 196,
+          "tot_score": 610,
+          "pc_score": 67.8,
+          "m_pc": 66.7,
+          "p_pc": 71.3,
+          "s_pc": 65.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 399.0,
+          "p": 398.0,
+          "s": 385.0,
+          "tot_score": 1182.0,
+          "pc_score": 65.7,
+          "m_pc": 66.5,
+          "p_pc": 66.3,
+          "s_pc": 64.2
+        }
+      ],
+      "n": 4,
+      "m": 794.0,
+      "m_pc": 66.2,
+      "p": 820.0,
+      "p_pc": 68.3,
+      "s": 779.0,
+      "s_pc": 64.9,
+      "tot_score": 2393.0,
+      "pc_score": 66.5
+    },
+    {
+      "rank": 7,
+      "name": "Vox",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Graham"
+        },
+        {
+          "part": "bass",
+          "name": "Mark"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Blue Skies",
+          "m": 190,
+          "mr": -8,
+          "p": 205,
+          "s": 205,
+          "tot_score": 600,
+          "pc_score": 66.7,
+          "m_pc": 63.3,
+          "p_pc": 68.3,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 195,
+          "p": 201,
+          "s": 202,
+          "tot_score": 598,
+          "pc_score": 66.4,
+          "m_pc": 65.0,
+          "p_pc": 67.0,
+          "s_pc": 67.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 398.0,
+          "p": 391.0,
+          "s": 397.0,
+          "tot_score": 1186.0,
+          "pc_score": 65.9,
+          "m_pc": 66.3,
+          "p_pc": 65.2,
+          "s_pc": 66.2
+        }
+      ],
+      "n": 4,
+      "m": 783.0,
+      "m_pc": 65.3,
+      "p": 797.0,
+      "p_pc": 66.4,
+      "s": 804.0,
+      "s_pc": 67.0,
+      "tot_score": 2384.0,
+      "pc_score": 66.2
+    },
+    {
+      "rank": 8,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Make 'Em Laugh",
+          "m": 188,
+          "mr": -1,
+          "p": 207,
+          "s": 192,
+          "tot_score": 587,
+          "pc_score": 65.2,
+          "m_pc": 62.7,
+          "p_pc": 69.0,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "That Old Feeling",
+          "m": 179,
+          "p": 196,
+          "s": 184,
+          "tot_score": 559,
+          "pc_score": 62.1,
+          "m_pc": 59.7,
+          "p_pc": 65.3,
+          "s_pc": 61.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 382.0,
+          "p": 398.0,
+          "s": 400.0,
+          "tot_score": 1180.0,
+          "pc_score": 65.6,
+          "m_pc": 63.7,
+          "p_pc": 66.3,
+          "s_pc": 66.7
+        }
+      ],
+      "n": 4,
+      "m": 749.0,
+      "m_pc": 62.4,
+      "p": 801.0,
+      "p_pc": 66.8,
+      "s": 776.0,
+      "s_pc": 64.7,
+      "tot_score": 2326.0,
+      "pc_score": 64.6
+    }
+  ]
+}

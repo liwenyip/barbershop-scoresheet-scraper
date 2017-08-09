@@ -30,15 +30,15 @@
       "name": "Nicky Salt"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
@@ -54,19 +54,19 @@
       "pc_score": "78.2",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "151",
           "s": "157",
           "p": "155"
         },
         {
-          "title": "Don't Break The Heart That Loves You",
+          "name": "Don't Break The Heart That Loves You",
           "m": "158",
           "s": "161",
           "p": "156"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Karen Riley"
@@ -95,19 +95,19 @@
       "pc_score": "78.0",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "156",
           "s": "154",
           "p": "155"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "155",
           "s": "156",
           "p": "160"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -136,19 +136,19 @@
       "pc_score": "74.4",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "147",
           "s": "151",
           "p": "147"
         },
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "149",
           "s": "148",
           "p": "151"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emma McManus"
@@ -177,19 +177,19 @@
       "pc_score": "73.4",
       "songs": [
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "143",
           "s": "148",
           "p": "146"
         },
         {
-          "title": "The Glory Of Love",
+          "name": "The Glory Of Love",
           "m": "150",
           "s": "147",
           "p": "147"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hicks"
@@ -218,19 +218,19 @@
       "pc_score": "73.0",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "147",
           "s": "144",
           "p": "147"
         },
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "141",
           "s": "150",
           "p": "147"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Beth Rothwell"
@@ -259,19 +259,19 @@
       "pc_score": "72.6",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "148",
           "s": "142",
           "p": "148"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "141",
           "s": "144",
           "p": "148"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -300,19 +300,19 @@
       "pc_score": "70.9",
       "songs": [
         {
-          "title": "Flirty Eyes",
+          "name": "Flirty Eyes",
           "m": "140",
           "s": "141",
           "p": "138"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "142",
           "s": "143",
           "p": "147"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Heidi Walsh"
@@ -341,19 +341,19 @@
       "pc_score": "67.7",
       "songs": [
         {
-          "title": "Love Medley",
+          "name": "Love Medley",
           "m": "136",
           "s": "140",
           "p": "133"
         },
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "133",
           "s": "131",
           "p": "139"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Lea"
@@ -382,19 +382,19 @@
       "pc_score": "67.6",
       "songs": [
         {
-          "title": "Shanghai (Why Did I Tell You I Was Going To)",
+          "name": "Shanghai (Why Did I Tell You I Was Going To)",
           "m": "133",
           "s": "132",
           "p": "136"
         },
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "128",
           "s": "140",
           "p": "142"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nickie Williams"
@@ -423,19 +423,19 @@
       "pc_score": "66.1",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "129",
           "s": "134",
           "p": "129"
         },
         {
-          "title": "As Long As You're Not In Love With Anyone Else / Undecided Med",
+          "name": "As Long As You're Not In Love With Anyone Else / Undecided Med",
           "m": "132",
           "s": "135",
           "p": "134"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Vickie China"
@@ -464,19 +464,19 @@
       "pc_score": "65.4",
       "songs": [
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "125",
           "s": "133",
           "p": "128"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "131",
           "s": "135",
           "p": "133"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Caroline Bamford"
@@ -505,19 +505,19 @@
       "pc_score": "65.4",
       "songs": [
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "130",
           "s": "127",
           "p": "131"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "126",
           "s": "134",
           "p": "137"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jane Kuipers"
@@ -546,19 +546,19 @@
       "pc_score": "65.0",
       "songs": [
         {
-          "title": "Heart Of My Heart",
+          "name": "Heart Of My Heart",
           "m": "129",
           "s": "129",
           "p": "128"
         },
         {
-          "title": "Cheek To Cheek",
+          "name": "Cheek To Cheek",
           "m": "131",
           "s": "132",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jane Wright"
@@ -587,19 +587,19 @@
       "pc_score": "64.8",
       "songs": [
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "127",
           "s": "126",
           "p": "134"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "127",
           "s": "133",
           "p": "130"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Birtles"
@@ -628,19 +628,19 @@
       "pc_score": "63.6",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "130",
           "s": "129",
           "p": "128"
         },
         {
-          "title": "I Never Meant To Fall In Love",
+          "name": "I Never Meant To Fall In Love",
           "m": "124",
           "s": "124",
           "p": "128"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sue Bottom"
@@ -669,19 +669,19 @@
       "pc_score": "63.6",
       "songs": [
         {
-          "title": "Ya Gotta Know How To Love",
+          "name": "Ya Gotta Know How To Love",
           "m": "129",
           "s": "127",
           "p": "131"
         },
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "122",
           "s": "125",
           "p": "129"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Amanda Torkington"
@@ -710,19 +710,19 @@
       "pc_score": "61.8",
       "songs": [
         {
-          "title": "Goody Goodbye",
+          "name": "Goody Goodbye",
           "m": "125",
           "s": "123",
           "p": "129"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "120",
           "s": "121",
           "p": "123"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tina Ruggles"
@@ -751,19 +751,19 @@
       "pc_score": "61.0",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "116",
           "s": "115",
           "p": "119"
         },
         {
-          "title": "Flying Sinatra Medley",
+          "name": "Flying Sinatra Medley",
           "m": "119",
           "s": "130",
           "p": "133"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Juliet Erskine"
@@ -792,19 +792,19 @@
       "pc_score": "58.4",
       "songs": [
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "113",
           "s": "112",
           "p": "113"
         },
         {
-          "title": "For All We Know",
+          "name": "For All We Know",
           "m": "114",
           "s": "125",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jane Fielding"
@@ -833,19 +833,19 @@
       "pc_score": "56.3",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "110",
           "s": "111",
           "p": "110"
         },
         {
-          "title": "Jeepers Creepers",
+          "name": "Jeepers Creepers",
           "m": "109",
           "s": "121",
           "p": "114"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Griffiths"
@@ -874,19 +874,19 @@
       "pc_score": "54.8",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "113",
           "s": "110",
           "p": "115"
         },
         {
-          "title": "Take Me To The Land Of Jazz",
+          "name": "Take Me To The Land Of Jazz",
           "m": "109",
           "s": "104",
           "p": "107"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jill Zimber"
@@ -915,19 +915,19 @@
       "pc_score": "52.5",
       "songs": [
         {
-          "title": "In The Wee Small Hours Of The Morning",
+          "name": "In The Wee Small Hours Of The Morning",
           "m": "102",
           "s": "103",
           "p": "105"
         },
         {
-          "title": "The Trolley Song",
+          "name": "The Trolley Song",
           "m": "106",
           "s": "107",
           "p": "107"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Celia Nickson"
@@ -956,19 +956,19 @@
       "pc_score": "51.3",
       "songs": [
         {
-          "title": "Baby Face",
+          "name": "Baby Face",
           "m": "104",
           "s": "100",
           "p": "104"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "100",
           "s": "103",
           "p": "104"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Maggie Heal"

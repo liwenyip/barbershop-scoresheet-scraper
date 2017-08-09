@@ -1,0 +1,981 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2008-09-QP-NAT-sa-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NAT QUARTET PRELIM - SA",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2008/09",
+  "type": "q",
+  "date": "11/10/2008",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Impossible",
+          "m": 222,
+          "p": 218,
+          "s": 223,
+          "tot_score": 663,
+          "pc_score": 73.7,
+          "m_pc": 74.0,
+          "p_pc": 72.7,
+          "s_pc": 74.3
+        },
+        {
+          "n": 1,
+          "name": "Cuddle Up A Little Closer, Lovey Mine",
+          "m": 218,
+          "p": 222,
+          "s": 219,
+          "tot_score": 659,
+          "pc_score": 73.2,
+          "m_pc": 72.7,
+          "p_pc": 74.0,
+          "s_pc": 73.0
+        }
+      ],
+      "n": 2,
+      "m": 440,
+      "m_pc": 73.3,
+      "p": 440,
+      "p_pc": 73.3,
+      "s": 442,
+      "s_pc": 73.7,
+      "tot_score": 1322,
+      "pc_score": 73.4
+    },
+    {
+      "rank": 2,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Undecided Medley",
+          "m": 215,
+          "p": 218,
+          "s": 214,
+          "tot_score": 647,
+          "pc_score": 71.9,
+          "m_pc": 71.7,
+          "p_pc": 72.7,
+          "s_pc": 71.3
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 230,
+          "p": 222,
+          "s": 215,
+          "tot_score": 667,
+          "pc_score": 74.1,
+          "m_pc": 76.7,
+          "p_pc": 74.0,
+          "s_pc": 71.7
+        }
+      ],
+      "n": 2,
+      "m": 445,
+      "m_pc": 74.2,
+      "p": 440,
+      "p_pc": 73.3,
+      "s": 429,
+      "s_pc": 71.5,
+      "tot_score": 1314,
+      "pc_score": 73.0
+    },
+    {
+      "rank": 3,
+      "name": "Qube",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 215,
+          "p": 212,
+          "s": 209,
+          "tot_score": 636,
+          "pc_score": 70.7,
+          "m_pc": 71.7,
+          "p_pc": 70.7,
+          "s_pc": 69.7
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 208,
+          "p": 212,
+          "s": 207,
+          "tot_score": 627,
+          "pc_score": 69.7,
+          "m_pc": 69.3,
+          "p_pc": 70.7,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 423,
+      "m_pc": 70.5,
+      "p": 424,
+      "p_pc": 70.7,
+      "s": 416,
+      "s_pc": 69.3,
+      "tot_score": 1263,
+      "pc_score": 70.2
+    },
+    {
+      "rank": 4,
+      "name": "Sharp Practice",
+      "members": [
+        {
+          "part": "director",
+          "name": "James"
+        },
+        {
+          "part": "director",
+          "name": "Steve"
+        },
+        {
+          "part": "director",
+          "name": "Nigel. Keith"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wonderful Day Medley",
+          "m": 188,
+          "p": 178,
+          "s": 184,
+          "tot_score": 550,
+          "pc_score": 61.1,
+          "m_pc": 62.7,
+          "p_pc": 59.3,
+          "s_pc": 61.3
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 191,
+          "p": 181,
+          "s": 186,
+          "tot_score": 558,
+          "pc_score": 62.0,
+          "m_pc": 63.7,
+          "p_pc": 60.3,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 379,
+      "m_pc": 63.2,
+      "p": 359,
+      "p_pc": 59.8,
+      "s": 370,
+      "s_pc": 61.7,
+      "tot_score": 1108,
+      "pc_score": 61.6
+    },
+    {
+      "rank": 5,
+      "name": "Harry's Boat Club",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Charlie"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Dale"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old Cape Cod",
+          "m": 171,
+          "p": 185,
+          "s": 181,
+          "tot_score": 537,
+          "pc_score": 59.7,
+          "m_pc": 57.0,
+          "p_pc": 61.7,
+          "s_pc": 60.3
+        },
+        {
+          "n": 1,
+          "name": "Liza",
+          "m": 161,
+          "p": 188,
+          "s": 176,
+          "tot_score": 525,
+          "pc_score": 58.3,
+          "m_pc": 53.7,
+          "p_pc": 62.7,
+          "s_pc": 58.7
+        }
+      ],
+      "n": 2,
+      "m": 332,
+      "m_pc": 55.3,
+      "p": 373,
+      "p_pc": 62.2,
+      "s": 357,
+      "s_pc": 59.5,
+      "tot_score": 1062,
+      "pc_score": 59.0
+    },
+    {
+      "rank": 6,
+      "name": "Chordwright",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Wayne"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Steven"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Alone Because I Love You",
+          "m": 180,
+          "p": 173,
+          "s": 170,
+          "tot_score": 523,
+          "pc_score": 58.1,
+          "m_pc": 60.0,
+          "p_pc": 57.7,
+          "s_pc": 56.7
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 186,
+          "p": 179,
+          "s": 172,
+          "tot_score": 537,
+          "pc_score": 59.7,
+          "m_pc": 62.0,
+          "p_pc": 59.7,
+          "s_pc": 57.3
+        }
+      ],
+      "n": 2,
+      "m": 366,
+      "m_pc": 61.0,
+      "p": 352,
+      "p_pc": 58.7,
+      "s": 342,
+      "s_pc": 57.0,
+      "tot_score": 1060,
+      "pc_score": 58.9
+    },
+    {
+      "rank": 7,
+      "name": "Cadence",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Midnight Rose",
+          "m": 172,
+          "p": 161,
+          "s": 182,
+          "tot_score": 515,
+          "pc_score": 57.2,
+          "m_pc": 57.3,
+          "p_pc": 53.7,
+          "s_pc": 60.7
+        },
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 179,
+          "p": 173,
+          "s": 182,
+          "tot_score": 534,
+          "pc_score": 59.3,
+          "m_pc": 59.7,
+          "p_pc": 57.7,
+          "s_pc": 60.7
+        }
+      ],
+      "n": 2,
+      "m": 351,
+      "m_pc": 58.5,
+      "p": 334,
+      "p_pc": 55.7,
+      "s": 364,
+      "s_pc": 60.7,
+      "tot_score": 1049,
+      "pc_score": 58.3
+    },
+    {
+      "rank": 8,
+      "name": "Quadrahedron",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 187,
+          "p": 162,
+          "s": 183,
+          "tot_score": 532,
+          "pc_score": 59.1,
+          "m_pc": 62.3,
+          "p_pc": 54.0,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "A Nightingale Sang In Berkeley Square",
+          "m": 175,
+          "p": 164,
+          "s": 173,
+          "tot_score": 512,
+          "pc_score": 56.9,
+          "m_pc": 58.3,
+          "p_pc": 54.7,
+          "s_pc": 57.7
+        }
+      ],
+      "n": 2,
+      "m": 362,
+      "m_pc": 60.3,
+      "p": 326,
+      "p_pc": 54.3,
+      "s": 356,
+      "s_pc": 59.3,
+      "tot_score": 1044,
+      "pc_score": 58.0
+    },
+    {
+      "rank": 9,
+      "name": "Last Orders",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Roger"
+        },
+        {
+          "part": "bari",
+          "name": "Paul"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Yes Sir, That's My Baby",
+          "m": 169,
+          "p": 184,
+          "s": 155,
+          "tot_score": 508,
+          "pc_score": 56.4,
+          "m_pc": 56.3,
+          "p_pc": 61.3,
+          "s_pc": 51.7
+        },
+        {
+          "n": 1,
+          "name": "Maggie",
+          "m": 175,
+          "p": 191,
+          "s": 161,
+          "tot_score": 527,
+          "pc_score": 58.6,
+          "m_pc": 58.3,
+          "p_pc": 63.7,
+          "s_pc": 53.7
+        }
+      ],
+      "n": 2,
+      "m": 344,
+      "m_pc": 57.3,
+      "p": 375,
+      "p_pc": 62.5,
+      "s": 316,
+      "s_pc": 52.7,
+      "tot_score": 1035,
+      "pc_score": 57.5
+    },
+    {
+      "rank": 10,
+      "name": "Good Company",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tim"
+        },
+        {
+          "part": "lead",
+          "name": "Pete"
+        },
+        {
+          "part": "bari",
+          "name": "Bob"
+        },
+        {
+          "part": "bass",
+          "name": "Jim"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Way You Look Tonight",
+          "m": 170,
+          "p": 168,
+          "s": 166,
+          "tot_score": 504,
+          "pc_score": 56.0,
+          "m_pc": 56.7,
+          "p_pc": 56.0,
+          "s_pc": 55.3
+        },
+        {
+          "n": 1,
+          "name": "One For My Baby",
+          "m": 167,
+          "p": 175,
+          "s": 161,
+          "tot_score": 503,
+          "pc_score": 55.9,
+          "m_pc": 55.7,
+          "p_pc": 58.3,
+          "s_pc": 53.7
+        }
+      ],
+      "n": 2,
+      "m": 337,
+      "m_pc": 56.2,
+      "p": 343,
+      "p_pc": 57.2,
+      "s": 327,
+      "s_pc": 54.5,
+      "tot_score": 1007,
+      "pc_score": 55.9
+    },
+    {
+      "rank": 11,
+      "name": "J A Q",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Mark"
+        },
+        {
+          "part": "lead",
+          "name": "Dyrck"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Rob"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 168,
+          "p": 163,
+          "s": 159,
+          "tot_score": 490,
+          "pc_score": 54.4,
+          "m_pc": 56.0,
+          "p_pc": 54.3,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 165,
+          "p": 165,
+          "s": 157,
+          "tot_score": 487,
+          "pc_score": 54.1,
+          "m_pc": 55.0,
+          "p_pc": 55.0,
+          "s_pc": 52.3
+        }
+      ],
+      "n": 2,
+      "m": 333,
+      "m_pc": 55.5,
+      "p": 328,
+      "p_pc": 54.7,
+      "s": 316,
+      "s_pc": 52.7,
+      "tot_score": 977,
+      "pc_score": 54.3
+    },
+    {
+      "rank": 12,
+      "name": "Vocal Icing",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Dave"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Hugh"
+        },
+        {
+          "part": "bass",
+          "name": "Paul"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 163,
+          "p": 167,
+          "s": 167,
+          "tot_score": 497,
+          "pc_score": 55.2,
+          "m_pc": 54.3,
+          "p_pc": 55.7,
+          "s_pc": 55.7
+        },
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 155,
+          "p": 168,
+          "s": 151,
+          "tot_score": 474,
+          "pc_score": 52.7,
+          "m_pc": 51.7,
+          "p_pc": 56.0,
+          "s_pc": 50.3
+        }
+      ],
+      "n": 2,
+      "m": 318,
+      "m_pc": 53.0,
+      "p": 335,
+      "p_pc": 55.8,
+      "s": 318,
+      "s_pc": 53.0,
+      "tot_score": 971,
+      "pc_score": 53.9
+    },
+    {
+      "rank": 13,
+      "name": "Odyssey",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Dave"
+        },
+        {
+          "part": "lead",
+          "name": "Pete"
+        },
+        {
+          "part": "bari",
+          "name": "Steve"
+        },
+        {
+          "part": "bass",
+          "name": "Dennis"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Thirty Five Years Ago",
+          "m": 162,
+          "p": 148,
+          "s": 168,
+          "tot_score": 478,
+          "pc_score": 53.1,
+          "m_pc": 54.0,
+          "p_pc": 49.3,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Bye Bye Blues",
+          "m": 156,
+          "p": 148,
+          "s": 164,
+          "tot_score": 468,
+          "pc_score": 52.0,
+          "m_pc": 52.0,
+          "p_pc": 49.3,
+          "s_pc": 54.7
+        }
+      ],
+      "n": 2,
+      "m": 318,
+      "m_pc": 53.0,
+      "p": 296,
+      "p_pc": 49.3,
+      "s": 332,
+      "s_pc": 55.3,
+      "tot_score": 946,
+      "pc_score": 52.6
+    },
+    {
+      "rank": 14,
+      "name": "Extra Time",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Ian"
+        },
+        {
+          "part": "bari",
+          "name": "Martyn"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "From The First Hello To The Last Goodbye",
+          "m": 159,
+          "p": 156,
+          "s": 155,
+          "tot_score": 470,
+          "pc_score": 52.2,
+          "m_pc": 53.0,
+          "p_pc": 52.0,
+          "s_pc": 51.7
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 152,
+          "p": 158,
+          "s": 150,
+          "tot_score": 460,
+          "pc_score": 51.1,
+          "m_pc": 50.7,
+          "p_pc": 52.7,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 311,
+      "m_pc": 51.8,
+      "p": 314,
+      "p_pc": 52.3,
+      "s": 305,
+      "s_pc": 50.8,
+      "tot_score": 930,
+      "pc_score": 51.7
+    },
+    {
+      "rank": 15,
+      "name": "Metaphor",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "David"
+        },
+        {
+          "part": "lead",
+          "name": "Frank"
+        },
+        {
+          "part": "bari",
+          "name": "Kevin"
+        },
+        {
+          "part": "bass",
+          "name": "Erik"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 152,
+          "p": 153,
+          "s": 153,
+          "tot_score": 458,
+          "pc_score": 50.9,
+          "m_pc": 50.7,
+          "p_pc": 51.0,
+          "s_pc": 51.0
+        },
+        {
+          "n": 1,
+          "name": "On The Sunny Side Of The Street",
+          "m": 155,
+          "p": 157,
+          "s": 151,
+          "tot_score": 463,
+          "pc_score": 51.4,
+          "m_pc": 51.7,
+          "p_pc": 52.3,
+          "s_pc": 50.3
+        }
+      ],
+      "n": 2,
+      "m": 307,
+      "m_pc": 51.2,
+      "p": 310,
+      "p_pc": 51.7,
+      "s": 304,
+      "s_pc": 50.7,
+      "tot_score": 921,
+      "pc_score": 51.2
+    },
+    {
+      "rank": 16,
+      "name": "Excalibur",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Brian"
+        },
+        {
+          "part": "lead",
+          "name": "Don"
+        },
+        {
+          "part": "bari",
+          "name": "Julian"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Over The Rainbow",
+          "m": 155,
+          "p": 134,
+          "s": 135,
+          "tot_score": 424,
+          "pc_score": 47.1,
+          "m_pc": 51.7,
+          "p_pc": 44.7,
+          "s_pc": 45.0
+        },
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 162,
+          "p": 156,
+          "s": 140,
+          "tot_score": 458,
+          "pc_score": 50.9,
+          "m_pc": 54.0,
+          "p_pc": 52.0,
+          "s_pc": 46.7
+        }
+      ],
+      "n": 2,
+      "m": 317,
+      "m_pc": 52.8,
+      "p": 290,
+      "p_pc": 48.3,
+      "s": 275,
+      "s_pc": 45.8,
+      "tot_score": 882,
+      "pc_score": 49.0
+    }
+  ]
+}

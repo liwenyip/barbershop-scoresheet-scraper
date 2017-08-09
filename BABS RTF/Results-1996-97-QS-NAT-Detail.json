@@ -1,0 +1,689 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1996-97-QS-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET SEMI-FINALS",
+  "location": "BRIGHTON",
+  "year": "1996/97",
+  "type": "q",
+  "date": "02/05/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bernie Cureton"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Ian Fairnie"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Cambridge Blues",
+      "songs": [
+        {
+          "n": 1,
+          "name": "\"Liar\" Medley",
+          "m": 221,
+          "p": 217,
+          "s": 204,
+          "tot_score": 642,
+          "pc_score": 71.3,
+          "m_pc": 73.7,
+          "p_pc": 72.3,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "Smilin' Through",
+          "m": 219,
+          "p": 223,
+          "s": 207,
+          "tot_score": 649,
+          "pc_score": 72.1,
+          "m_pc": 73.0,
+          "p_pc": 74.3,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 440,
+      "m_pc": 73.3,
+      "p": 440,
+      "p_pc": 73.3,
+      "s": 411,
+      "s_pc": 68.5,
+      "tot_score": 1291,
+      "pc_score": 71.7
+    },
+    {
+      "rank": 2,
+      "name": "Chordial Exchange",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When I See All The Loving They Waste On Babies",
+          "m": 206,
+          "p": 208,
+          "s": 215,
+          "tot_score": 629,
+          "pc_score": 69.9,
+          "m_pc": 68.7,
+          "p_pc": 69.3,
+          "s_pc": 71.7
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 210,
+          "p": 209,
+          "s": 218,
+          "tot_score": 637,
+          "pc_score": 70.8,
+          "m_pc": 70.0,
+          "p_pc": 69.7,
+          "s_pc": 72.7
+        }
+      ],
+      "n": 2,
+      "m": 416,
+      "m_pc": 69.3,
+      "p": 417,
+      "p_pc": 69.5,
+      "s": 433,
+      "s_pc": 72.2,
+      "tot_score": 1266,
+      "pc_score": 70.3
+    },
+    {
+      "rank": 3,
+      "name": "High Fidelity",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 213,
+          "p": 208,
+          "s": 200,
+          "tot_score": 621,
+          "pc_score": 69.0,
+          "m_pc": 71.0,
+          "p_pc": 69.3,
+          "s_pc": 66.7
+        },
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 213,
+          "p": 213,
+          "s": 194,
+          "tot_score": 620,
+          "pc_score": 68.9,
+          "m_pc": 71.0,
+          "p_pc": 71.0,
+          "s_pc": 64.7
+        }
+      ],
+      "n": 2,
+      "m": 426,
+      "m_pc": 71.0,
+      "p": 421,
+      "p_pc": 70.2,
+      "s": 394,
+      "s_pc": 65.7,
+      "tot_score": 1241,
+      "pc_score": 68.9
+    },
+    {
+      "rank": 4,
+      "name": "T.v.q",
+      "songs": [
+        {
+          "n": 1,
+          "name": "For The Sake Of Auld Lang Syne",
+          "m": 202,
+          "p": 204,
+          "s": 207,
+          "tot_score": 613,
+          "pc_score": 68.1,
+          "m_pc": 67.3,
+          "p_pc": 68.0,
+          "s_pc": 69.0
+        },
+        {
+          "n": 1,
+          "name": "Bring Back Those Days Of The Song And Dance Man",
+          "m": 209,
+          "p": 200,
+          "s": 205,
+          "tot_score": 614,
+          "pc_score": 68.2,
+          "m_pc": 69.7,
+          "p_pc": 66.7,
+          "s_pc": 68.3
+        }
+      ],
+      "n": 2,
+      "m": 411,
+      "m_pc": 68.5,
+      "p": 404,
+      "p_pc": 67.3,
+      "s": 412,
+      "s_pc": 68.7,
+      "tot_score": 1227,
+      "pc_score": 68.2
+    },
+    {
+      "rank": 5,
+      "name": "Wall Street",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Baby Days",
+          "m": 203,
+          "p": 186,
+          "s": 200,
+          "tot_score": 589,
+          "pc_score": 65.4,
+          "m_pc": 67.7,
+          "p_pc": 62.0,
+          "s_pc": 66.7
+        },
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 205,
+          "p": 192,
+          "s": 205,
+          "tot_score": 602,
+          "pc_score": 66.9,
+          "m_pc": 68.3,
+          "p_pc": 64.0,
+          "s_pc": 68.3
+        }
+      ],
+      "n": 2,
+      "m": 408,
+      "m_pc": 68.0,
+      "p": 378,
+      "p_pc": 63.0,
+      "s": 405,
+      "s_pc": 67.5,
+      "tot_score": 1191,
+      "pc_score": 66.2
+    },
+    {
+      "rank": 6,
+      "name": "Nickelodeon",
+      "songs": [
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 184,
+          "p": 204,
+          "s": 190,
+          "tot_score": 578,
+          "pc_score": 64.2,
+          "m_pc": 61.3,
+          "p_pc": 68.0,
+          "s_pc": 63.3
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 197,
+          "p": 216,
+          "s": 195,
+          "tot_score": 608,
+          "pc_score": 67.6,
+          "m_pc": 65.7,
+          "p_pc": 72.0,
+          "s_pc": 65.0
+        }
+      ],
+      "n": 2,
+      "m": 381,
+      "m_pc": 63.5,
+      "p": 420,
+      "p_pc": 70.0,
+      "s": 385,
+      "s_pc": 64.2,
+      "tot_score": 1186,
+      "pc_score": 65.9
+    },
+    {
+      "rank": 7,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 198,
+          "p": 207,
+          "s": 188,
+          "tot_score": 593,
+          "pc_score": 65.9,
+          "m_pc": 66.0,
+          "p_pc": 69.0,
+          "s_pc": 62.7
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 195,
+          "p": 212,
+          "s": 178,
+          "tot_score": 585,
+          "pc_score": 65.0,
+          "m_pc": 65.0,
+          "p_pc": 70.7,
+          "s_pc": 59.3
+        }
+      ],
+      "n": 2,
+      "m": 393,
+      "m_pc": 65.5,
+      "p": 419,
+      "p_pc": 69.8,
+      "s": 366,
+      "s_pc": 61.0,
+      "tot_score": 1178,
+      "pc_score": 65.4
+    },
+    {
+      "rank": 8,
+      "name": "Rapport",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Used To Call Her Baby",
+          "m": 201,
+          "p": 202,
+          "s": 182,
+          "tot_score": 585,
+          "pc_score": 65.0,
+          "m_pc": 67.0,
+          "p_pc": 67.3,
+          "s_pc": 60.7
+        },
+        {
+          "n": 1,
+          "name": "It's Good To Know I'm Welcome",
+          "m": 198,
+          "p": 205,
+          "s": 172,
+          "tot_score": 575,
+          "pc_score": 63.9,
+          "m_pc": 66.0,
+          "p_pc": 68.3,
+          "s_pc": 57.3
+        }
+      ],
+      "n": 2,
+      "m": 399,
+      "m_pc": 66.5,
+      "p": 407,
+      "p_pc": 67.8,
+      "s": 354,
+      "s_pc": 59.0,
+      "tot_score": 1160,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 9,
+      "name": "Close Encounters",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Oh, How I Miss You Tonight",
+          "m": 196,
+          "p": 193,
+          "s": 190,
+          "tot_score": 579,
+          "pc_score": 64.3,
+          "m_pc": 65.3,
+          "p_pc": 64.3,
+          "s_pc": 63.3
+        },
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 189,
+          "p": 197,
+          "s": 181,
+          "tot_score": 567,
+          "pc_score": 63.0,
+          "m_pc": 63.0,
+          "p_pc": 65.7,
+          "s_pc": 60.3
+        }
+      ],
+      "n": 2,
+      "m": 385,
+      "m_pc": 64.2,
+      "p": 390,
+      "p_pc": 65.0,
+      "s": 371,
+      "s_pc": 61.8,
+      "tot_score": 1146,
+      "pc_score": 63.7
+    },
+    {
+      "rank": 10,
+      "name": "Serenade",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Them There Eyes",
+          "m": 182,
+          "p": 204,
+          "s": 181,
+          "tot_score": 567,
+          "pc_score": 63.0,
+          "m_pc": 60.7,
+          "p_pc": 68.0,
+          "s_pc": 60.3
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 184,
+          "p": 198,
+          "s": 185,
+          "tot_score": 567,
+          "pc_score": 63.0,
+          "m_pc": 61.3,
+          "p_pc": 66.0,
+          "s_pc": 61.7
+        }
+      ],
+      "n": 2,
+      "m": 366,
+      "m_pc": 61.0,
+      "p": 402,
+      "p_pc": 67.0,
+      "s": 366,
+      "s_pc": 61.0,
+      "tot_score": 1134,
+      "pc_score": 63.0
+    },
+    {
+      "rank": 11,
+      "name": "Intermezzo",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Eyes Medley",
+          "m": 193,
+          "p": 189,
+          "s": 186,
+          "tot_score": 568,
+          "pc_score": 63.1,
+          "m_pc": 64.3,
+          "p_pc": 63.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 191,
+          "p": 185,
+          "s": 178,
+          "tot_score": 554,
+          "pc_score": 61.6,
+          "m_pc": 63.7,
+          "p_pc": 61.7,
+          "s_pc": 59.3
+        }
+      ],
+      "n": 2,
+      "m": 384,
+      "m_pc": 64.0,
+      "p": 374,
+      "p_pc": 62.3,
+      "s": 364,
+      "s_pc": 60.7,
+      "tot_score": 1122,
+      "pc_score": 62.3
+    },
+    {
+      "rank": 11,
+      "name": "The Likely Lads",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Gold Turns To Grey",
+          "m": 196,
+          "p": 189,
+          "s": 170,
+          "tot_score": 555,
+          "pc_score": 61.7,
+          "m_pc": 65.3,
+          "p_pc": 63.0,
+          "s_pc": 56.7
+        },
+        {
+          "n": 1,
+          "name": "Back In Dixie Again",
+          "m": 201,
+          "p": 196,
+          "s": 170,
+          "tot_score": 567,
+          "pc_score": 63.0,
+          "m_pc": 67.0,
+          "p_pc": 65.3,
+          "s_pc": 56.7
+        }
+      ],
+      "n": 2,
+      "m": 397,
+      "m_pc": 66.2,
+      "p": 385,
+      "p_pc": 64.2,
+      "s": 340,
+      "s_pc": 56.7,
+      "tot_score": 1122,
+      "pc_score": 62.3
+    },
+    {
+      "rank": 13,
+      "name": "Flying High",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 195,
+          "p": 193,
+          "s": 184,
+          "tot_score": 572,
+          "pc_score": 63.6,
+          "m_pc": 65.0,
+          "p_pc": 64.3,
+          "s_pc": 61.3
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 156,
+          "p": 207,
+          "s": 184,
+          "tot_score": 547,
+          "pc_score": 60.8,
+          "m_pc": 52.0,
+          "p_pc": 69.0,
+          "s_pc": 61.3
+        }
+      ],
+      "n": 2,
+      "m": 351,
+      "m_pc": 58.5,
+      "p": 400,
+      "p_pc": 66.7,
+      "s": 368,
+      "s_pc": 61.3,
+      "tot_score": 1119,
+      "pc_score": 62.2
+    },
+    {
+      "rank": 14,
+      "name": "Route 16",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 187,
+          "p": 192,
+          "s": 175,
+          "tot_score": 554,
+          "pc_score": 61.6,
+          "m_pc": 62.3,
+          "p_pc": 64.0,
+          "s_pc": 58.3
+        },
+        {
+          "n": 1,
+          "name": "Captain Of The Toy Brigade",
+          "m": 190,
+          "p": 195,
+          "s": 173,
+          "tot_score": 558,
+          "pc_score": 62.0,
+          "m_pc": 63.3,
+          "p_pc": 65.0,
+          "s_pc": 57.7
+        }
+      ],
+      "n": 2,
+      "m": 377,
+      "m_pc": 62.8,
+      "p": 387,
+      "p_pc": 64.5,
+      "s": 348,
+      "s_pc": 58.0,
+      "tot_score": 1112,
+      "pc_score": 61.8
+    },
+    {
+      "rank": 15,
+      "name": "Music Hall",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Tell Me The Same Things Over Again",
+          "m": 179,
+          "p": 185,
+          "s": 162,
+          "tot_score": 526,
+          "pc_score": 58.4,
+          "m_pc": 59.7,
+          "p_pc": 61.7,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 176,
+          "p": 187,
+          "s": 169,
+          "tot_score": 532,
+          "pc_score": 59.1,
+          "m_pc": 58.7,
+          "p_pc": 62.3,
+          "s_pc": 56.3
+        }
+      ],
+      "n": 2,
+      "m": 355,
+      "m_pc": 59.2,
+      "p": 372,
+      "p_pc": 62.0,
+      "s": 331,
+      "s_pc": 55.2,
+      "tot_score": 1058,
+      "pc_score": 58.8
+    },
+    {
+      "rank": 16,
+      "name": "Bagatelle",
+      "songs": [
+        {
+          "n": 1,
+          "name": "We Kinda Miss Those Good Old Songs",
+          "m": 172,
+          "p": 192,
+          "s": 171,
+          "tot_score": 535,
+          "pc_score": 59.4,
+          "m_pc": 57.3,
+          "p_pc": 64.0,
+          "s_pc": 57.0
+        },
+        {
+          "n": 1,
+          "name": "I'll Never Write A Love Song Anymore",
+          "m": 173,
+          "p": 183,
+          "s": 166,
+          "tot_score": 522,
+          "pc_score": 58.0,
+          "m_pc": 57.7,
+          "p_pc": 61.0,
+          "s_pc": 55.3
+        }
+      ],
+      "n": 2,
+      "m": 345,
+      "m_pc": 57.5,
+      "p": 375,
+      "p_pc": 62.5,
+      "s": 337,
+      "s_pc": 56.2,
+      "tot_score": 1057,
+      "pc_score": 58.7
+    }
+  ]
+}

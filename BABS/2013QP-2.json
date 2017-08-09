@@ -30,15 +30,15 @@
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     }
   ],
@@ -54,19 +54,19 @@
       "pc_score": "77.8",
       "songs": [
         {
-          "title": "Just A Cottage Small",
+          "name": "Just A Cottage Small",
           "m": "149",
           "s": "158",
           "p": "154"
         },
         {
-          "title": "Drivin' Me Crazy",
+          "name": "Drivin' Me Crazy",
           "m": "162",
           "s": "156",
           "p": "155"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James Whittick"
@@ -95,19 +95,19 @@
       "pc_score": "75.9",
       "songs": [
         {
-          "title": "My Romance",
+          "name": "My Romance",
           "m": "151",
           "s": "150",
           "p": "154"
         },
         {
-          "title": "Swanee",
+          "name": "Swanee",
           "m": "156",
           "s": "151",
           "p": "149"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ben Ferguson"
@@ -136,19 +136,19 @@
       "pc_score": "71.7",
       "songs": [
         {
-          "title": "If I Had My Way",
+          "name": "If I Had My Way",
           "m": "141",
           "s": "147",
           "p": "139"
         },
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "143",
           "s": "146",
           "p": "144"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James Williams"
@@ -177,19 +177,19 @@
       "pc_score": "69.8",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "140",
           "s": "138",
           "p": "142"
         },
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "143",
           "s": "138",
           "p": "137"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon Hunt"
@@ -218,19 +218,19 @@
       "pc_score": "66.4",
       "songs": [
         {
-          "title": "All Aboard For Dixie Land",
+          "name": "All Aboard For Dixie Land",
           "m": "126",
           "s": "130",
           "p": "129"
         },
         {
-          "title": "When I Leave The World Behind",
+          "name": "When I Leave The World Behind",
           "m": "133",
           "s": "142",
           "p": "137"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Graham Harper"
@@ -259,19 +259,19 @@
       "pc_score": "64.7",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "132",
           "s": "128",
           "p": "130"
         },
         {
-          "title": "Over The Rainbow",
+          "name": "Over The Rainbow",
           "m": "127",
           "s": "128",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve Cox"
@@ -300,19 +300,19 @@
       "pc_score": "64.7",
       "songs": [
         {
-          "title": "It Don't Mean A Thing",
+          "name": "It Don't Mean A Thing",
           "m": "132",
           "s": "129",
           "p": "134"
         },
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "130",
           "s": "128",
           "p": "123"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Callum Rickard"
@@ -341,19 +341,19 @@
       "pc_score": "64.4",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "127",
           "s": "127",
           "p": "130"
         },
         {
-          "title": "It Happened In Monterey",
+          "name": "It Happened In Monterey",
           "m": "127",
           "s": "133",
           "p": "129"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alan Wright"
@@ -382,19 +382,19 @@
       "pc_score": "63.4",
       "songs": [
         {
-          "title": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
           "m": "121",
           "s": "135",
           "p": "122"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "134",
           "s": "123",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Brian Shorrocks"
@@ -423,19 +423,19 @@
       "pc_score": "62.7",
       "songs": [
         {
-          "title": "The Moment I Saw Your Eyes",
+          "name": "The Moment I Saw Your Eyes",
           "m": "131",
           "s": "126",
           "p": "126"
         },
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "128",
           "s": "121",
           "p": "120"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Blankley"
@@ -464,19 +464,19 @@
       "pc_score": "62.0",
       "songs": [
         {
-          "title": "The Darktown Strutter's Ball",
+          "name": "The Darktown Strutter's Ball",
           "m": "124",
           "s": "134",
           "p": "116"
         },
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "129",
           "s": "119",
           "p": "122"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Woolley"
@@ -505,19 +505,19 @@
       "pc_score": "61.8",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "123",
           "s": "127",
           "p": "124"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "125",
           "s": "122",
           "p": "121"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martyn Lapworth"
@@ -546,19 +546,19 @@
       "pc_score": "59.9",
       "songs": [
         {
-          "title": "Do You Really Love Me",
+          "name": "Do You Really Love Me",
           "m": "111",
           "s": "117",
           "p": "120"
         },
         {
-          "title": "The Darktown Strutter's Ball",
+          "name": "The Darktown Strutter's Ball",
           "m": "121",
           "s": "124",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Devine"
@@ -587,19 +587,19 @@
       "pc_score": "58.3",
       "songs": [
         {
-          "title": "Basin Street Blues",
+          "name": "Basin Street Blues",
           "m": "119",
           "s": "118",
           "p": "113"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "122",
           "s": "112",
           "p": "115"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Thomas Fitch"
@@ -628,19 +628,19 @@
       "pc_score": "58.2",
       "songs": [
         {
-          "title": "A Little Street Where Old Friends Meet",
+          "name": "A Little Street Where Old Friends Meet",
           "m": "115",
           "s": "118",
           "p": "111"
         },
         {
-          "title": "I Don't Know Why",
+          "name": "I Don't Know Why",
           "m": "118",
           "s": "117",
           "p": "119"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Christopher Brian"
@@ -669,19 +669,19 @@
       "pc_score": "55.2",
       "songs": [
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "109",
           "s": "110",
           "p": "114"
         },
         {
-          "title": "Sweet Georgia Brown",
+          "name": "Sweet Georgia Brown",
           "m": "115",
           "s": "108",
           "p": "106"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "David Gamble"
@@ -710,19 +710,19 @@
       "pc_score": "55.1",
       "songs": [
         {
-          "title": "Last Night Was The End Of The World",
+          "name": "Last Night Was The End Of The World",
           "m": "116",
           "s": "108",
           "p": "116"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "111",
           "s": "104",
           "p": "106"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Josh Smith"
@@ -751,19 +751,19 @@
       "pc_score": "54.9",
       "songs": [
         {
-          "title": "Five Foot Two",
+          "name": "Five Foot Two",
           "m": "107",
           "s": "111",
           "p": "111"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "114",
           "s": "108",
           "p": "108"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tony White"
@@ -792,19 +792,19 @@
       "pc_score": "53.7",
       "songs": [
         {
-          "title": "Chances Are",
+          "name": "Chances Are",
           "m": "108",
           "s": "109",
           "p": "109"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "110",
           "s": "103",
           "p": "105"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nigel Kearney"

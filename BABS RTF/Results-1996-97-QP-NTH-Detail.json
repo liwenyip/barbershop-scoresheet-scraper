@@ -1,0 +1,533 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1996-97-QP-NTH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NORTHERN QUARTET PRELIMS",
+  "location": "SOUTHPORT",
+  "year": "1996/97",
+  "type": "q",
+  "date": "16/11/1996",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bernie Cureton"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "p",
+      "name": "Jonathan Hershman"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "John Grant"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Stuart Wineberg"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Chordial Exchange",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ride The Railroad Tonight",
+          "m": 203,
+          "p": 218,
+          "s": 211,
+          "tot_score": 632,
+          "pc_score": 70.2,
+          "m_pc": 67.7,
+          "p_pc": 72.7,
+          "s_pc": 70.3
+        },
+        {
+          "n": 1,
+          "name": "That Old Quartet Of Mine",
+          "m": 205,
+          "p": 210,
+          "s": 199,
+          "tot_score": 614,
+          "pc_score": 68.2,
+          "m_pc": 68.3,
+          "p_pc": 70.0,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 408,
+      "m_pc": 68.0,
+      "p": 428,
+      "p_pc": 71.3,
+      "s": 410,
+      "s_pc": 68.3,
+      "tot_score": 1246,
+      "pc_score": 69.2
+    },
+    {
+      "rank": 2,
+      "name": "Wall Street",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Baby Days",
+          "m": 206,
+          "p": 203,
+          "s": 206,
+          "tot_score": 615,
+          "pc_score": 68.3,
+          "m_pc": 68.7,
+          "p_pc": 67.7,
+          "s_pc": 68.7
+        },
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 194,
+          "p": 197,
+          "s": 211,
+          "tot_score": 602,
+          "pc_score": 66.9,
+          "m_pc": 64.7,
+          "p_pc": 65.7,
+          "s_pc": 70.3
+        }
+      ],
+      "n": 2,
+      "m": 400,
+      "m_pc": 66.7,
+      "p": 400,
+      "p_pc": 66.7,
+      "s": 417,
+      "s_pc": 69.5,
+      "tot_score": 1217,
+      "pc_score": 67.6
+    },
+    {
+      "rank": 3,
+      "name": "Brand X",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Take Your Place In My Heart",
+          "m": 206,
+          "p": 197,
+          "s": 201,
+          "tot_score": 604,
+          "pc_score": 67.1,
+          "m_pc": 68.7,
+          "p_pc": 65.7,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "If You Knew Susie",
+          "m": 201,
+          "p": 191,
+          "s": 211,
+          "tot_score": 603,
+          "pc_score": 67.0,
+          "m_pc": 67.0,
+          "p_pc": 63.7,
+          "s_pc": 70.3
+        }
+      ],
+      "n": 2,
+      "m": 407,
+      "m_pc": 67.8,
+      "p": 388,
+      "p_pc": 64.7,
+      "s": 412,
+      "s_pc": 68.7,
+      "tot_score": 1207,
+      "pc_score": 67.1
+    },
+    {
+      "rank": 4,
+      "name": "Serenade",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 200,
+          "p": 188,
+          "s": 195,
+          "tot_score": 583,
+          "pc_score": 64.8,
+          "m_pc": 66.7,
+          "p_pc": 62.7,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Paper Doll",
+          "m": 187,
+          "p": 195,
+          "s": 185,
+          "tot_score": 567,
+          "pc_score": 63.0,
+          "m_pc": 62.3,
+          "p_pc": 65.0,
+          "s_pc": 61.7
+        }
+      ],
+      "n": 2,
+      "m": 387,
+      "m_pc": 64.5,
+      "p": 383,
+      "p_pc": 63.8,
+      "s": 380,
+      "s_pc": 63.3,
+      "tot_score": 1150,
+      "pc_score": 63.9
+    },
+    {
+      "rank": 5,
+      "name": "Close Encounters",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When I Leave The World Behind",
+          "m": 183,
+          "p": 189,
+          "s": 190,
+          "tot_score": 562,
+          "pc_score": 62.4,
+          "m_pc": 61.0,
+          "p_pc": 63.0,
+          "s_pc": 63.3
+        },
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 199,
+          "p": 194,
+          "s": 187,
+          "tot_score": 580,
+          "pc_score": 64.4,
+          "m_pc": 66.3,
+          "p_pc": 64.7,
+          "s_pc": 62.3
+        }
+      ],
+      "n": 2,
+      "m": 382,
+      "m_pc": 63.7,
+      "p": 383,
+      "p_pc": 63.8,
+      "s": 377,
+      "s_pc": 62.8,
+      "tot_score": 1142,
+      "pc_score": 63.4
+    },
+    {
+      "rank": 6,
+      "name": "The Likely Lads",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Chordbuster March",
+          "m": 184,
+          "p": 203,
+          "s": 183,
+          "tot_score": 570,
+          "pc_score": 63.3,
+          "m_pc": 61.3,
+          "p_pc": 67.7,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 190,
+          "p": 201,
+          "s": 166,
+          "tot_score": 557,
+          "pc_score": 61.9,
+          "m_pc": 63.3,
+          "p_pc": 67.0,
+          "s_pc": 55.3
+        }
+      ],
+      "n": 2,
+      "m": 374,
+      "m_pc": 62.3,
+      "p": 404,
+      "p_pc": 67.3,
+      "s": 349,
+      "s_pc": 58.2,
+      "tot_score": 1127,
+      "pc_score": 62.6
+    },
+    {
+      "rank": 7,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Owe It To My Dear Old Dad",
+          "m": 184,
+          "p": 185,
+          "s": 170,
+          "tot_score": 539,
+          "pc_score": 59.9,
+          "m_pc": 61.3,
+          "p_pc": 61.7,
+          "s_pc": 56.7
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 166,
+          "p": 192,
+          "s": 163,
+          "tot_score": 521,
+          "pc_score": 57.9,
+          "m_pc": 55.3,
+          "p_pc": 64.0,
+          "s_pc": 54.3
+        }
+      ],
+      "n": 2,
+      "m": 350,
+      "m_pc": 58.3,
+      "p": 377,
+      "p_pc": 62.8,
+      "s": 333,
+      "s_pc": 55.5,
+      "tot_score": 1060,
+      "pc_score": 58.9
+    },
+    {
+      "rank": 8,
+      "name": "Fifth Amendment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 166,
+          "p": 196,
+          "s": 162,
+          "tot_score": 524,
+          "pc_score": 58.2,
+          "m_pc": 55.3,
+          "p_pc": 65.3,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 171,
+          "p": 181,
+          "s": 157,
+          "tot_score": 509,
+          "pc_score": 56.6,
+          "m_pc": 57.0,
+          "p_pc": 60.3,
+          "s_pc": 52.3
+        }
+      ],
+      "n": 2,
+      "m": 337,
+      "m_pc": 56.2,
+      "p": 377,
+      "p_pc": 62.8,
+      "s": 319,
+      "s_pc": 53.2,
+      "tot_score": 1033,
+      "pc_score": 57.4
+    },
+    {
+      "rank": 9,
+      "name": "Chordite",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Take Me Out To The Ball Game",
+          "m": 165,
+          "p": 167,
+          "s": 154,
+          "tot_score": 486,
+          "pc_score": 54.0,
+          "m_pc": 55.0,
+          "p_pc": 55.7,
+          "s_pc": 51.3
+        },
+        {
+          "n": 1,
+          "name": "Sam, The Old Accordion Man",
+          "m": 146,
+          "p": 149,
+          "s": 124,
+          "tot_score": 419,
+          "pc_score": 46.6,
+          "m_pc": 48.7,
+          "p_pc": 49.7,
+          "s_pc": 41.3
+        }
+      ],
+      "n": 2,
+      "m": 311,
+      "m_pc": 51.8,
+      "p": 316,
+      "p_pc": 52.7,
+      "s": 278,
+      "s_pc": 46.3,
+      "tot_score": 905,
+      "pc_score": 50.3
+    },
+    {
+      "rank": 10,
+      "name": "Stage Door",
+      "songs": [
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 143,
+          "p": 162,
+          "s": 145,
+          "tot_score": 450,
+          "pc_score": 50.0,
+          "m_pc": 47.7,
+          "p_pc": 54.0,
+          "s_pc": 48.3
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 138,
+          "p": 162,
+          "s": 139,
+          "tot_score": 439,
+          "pc_score": 48.8,
+          "m_pc": 46.0,
+          "p_pc": 54.0,
+          "s_pc": 46.3
+        }
+      ],
+      "n": 2,
+      "m": 281,
+      "m_pc": 46.8,
+      "p": 324,
+      "p_pc": 54.0,
+      "s": 284,
+      "s_pc": 47.3,
+      "tot_score": 889,
+      "pc_score": 49.4
+    },
+    {
+      "rank": 11,
+      "name": "Northern Lights",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Want To Be In Chicago Town",
+          "m": 144,
+          "p": 153,
+          "s": 154,
+          "tot_score": 451,
+          "pc_score": 50.1,
+          "m_pc": 48.0,
+          "p_pc": 51.0,
+          "s_pc": 51.3
+        },
+        {
+          "n": 1,
+          "name": "Radio",
+          "m": 127,
+          "p": 143,
+          "s": 135,
+          "tot_score": 405,
+          "pc_score": 45.0,
+          "m_pc": 42.3,
+          "p_pc": 47.7,
+          "s_pc": 45.0
+        }
+      ],
+      "n": 2,
+      "m": 271,
+      "m_pc": 45.2,
+      "p": 296,
+      "p_pc": 49.3,
+      "s": 289,
+      "s_pc": 48.2,
+      "tot_score": 856,
+      "pc_score": 47.6
+    },
+    {
+      "rank": 12,
+      "name": "Barbershop Style",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Vo - De - O - Do",
+          "m": 115,
+          "p": 120,
+          "s": 122,
+          "tot_score": 357,
+          "pc_score": 39.7,
+          "m_pc": 38.3,
+          "p_pc": 40.0,
+          "s_pc": 40.7
+        },
+        {
+          "n": 1,
+          "name": "Love Is A Many Splendoured Thing",
+          "m": 45,
+          "p": 110,
+          "s": 122,
+          "tot_score": 277,
+          "pc_score": 30.8,
+          "m_pc": 15.0,
+          "p_pc": 36.7,
+          "s_pc": 40.7
+        }
+      ],
+      "n": 2,
+      "m": 160,
+      "m_pc": 26.7,
+      "p": 230,
+      "p_pc": 38.3,
+      "s": 244,
+      "s_pc": 40.7,
+      "tot_score": 634,
+      "pc_score": 35.2
+    }
+  ]
+}

@@ -42,27 +42,27 @@
       "name": "Mike Taylor"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1460",
-      "final_tot_score": "2885",
+      "prev_tot_score": "1460",
+      "tot_score": "2885",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -71,25 +71,25 @@
       "pc_score": "80.1",
       "songs": [
         {
-          "title": "The Tender Trap",
+          "name": "The Tender Trap",
           "m": "247",
           "s": "236",
           "p": "254"
         },
         {
-          "title": "The Very Thought Of You",
+          "name": "The Very Thought Of You",
           "m": "247",
           "s": "241",
           "p": "235"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "482",
           "s": "467",
           "p": "476"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Foster"
@@ -109,8 +109,8 @@
       ]
     },
     {
-      "tot_score": "1408",
-      "final_tot_score": "2791",
+      "prev_tot_score": "1408",
+      "tot_score": "2791",
       "rank_m": "2",
       "rank_s": "3",
       "rank_p": "3",
@@ -119,25 +119,25 @@
       "pc_score": "77.5",
       "songs": [
         {
-          "title": "I Wouldn't Have Nothing If I Didn't Have You",
+          "name": "I Wouldn't Have Nothing If I Didn't Have You",
           "m": "233",
           "s": "233",
           "p": "237"
         },
         {
-          "title": "Oklahoma",
+          "name": "Oklahoma",
           "m": "238",
           "s": "234",
           "p": "233"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "470",
           "s": "456",
           "p": "457"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Antoine Kaiserman"
@@ -157,8 +157,8 @@
       ]
     },
     {
-      "tot_score": "1387",
-      "final_tot_score": "2790",
+      "prev_tot_score": "1387",
+      "tot_score": "2790",
       "rank_m": "4",
       "rank_s": "5",
       "rank_p": "2",
@@ -167,25 +167,25 @@
       "pc_score": "77.5",
       "songs": [
         {
-          "title": "Love Letters",
+          "name": "Love Letters",
           "m": "227",
           "s": "238",
           "p": "228"
         },
         {
-          "title": "Let's Do It (Let's Fall In Love)",
+          "name": "Let's Do It (Let's Fall In Love)",
           "m": "234",
           "s": "230",
           "p": "230"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "475",
           "s": "461",
           "p": "467"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lawrence Hasson"
@@ -205,8 +205,8 @@
       ]
     },
     {
-      "tot_score": "1359",
-      "final_tot_score": "2779",
+      "prev_tot_score": "1359",
+      "tot_score": "2779",
       "rank_m": "3",
       "rank_s": "4",
       "rank_p": "5",
@@ -215,25 +215,25 @@
       "pc_score": "77.2",
       "songs": [
         {
-          "title": "You Are So Beautiful",
+          "name": "You Are So Beautiful",
           "m": "221",
           "s": "229",
           "p": "228"
         },
         {
-          "title": "A Fool Such As I",
+          "name": "A Fool Such As I",
           "m": "230",
           "s": "225",
           "p": "226"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "489",
           "s": "471",
           "p": "460"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jordi Forcadell"
@@ -253,8 +253,8 @@
       ]
     },
     {
-      "tot_score": "1361",
-      "final_tot_score": "2764",
+      "prev_tot_score": "1361",
+      "tot_score": "2764",
       "rank_m": "5",
       "rank_s": "2",
       "rank_p": "4",
@@ -263,25 +263,25 @@
       "pc_score": "76.8",
       "songs": [
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "223",
           "s": "229",
           "p": "224"
         },
         {
-          "title": "Destination Moon",
+          "name": "Destination Moon",
           "m": "228",
           "s": "228",
           "p": "229"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "468",
           "s": "469",
           "p": "466"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian James"
@@ -301,8 +301,8 @@
       ]
     },
     {
-      "tot_score": "1296",
-      "final_tot_score": "2628",
+      "prev_tot_score": "1296",
+      "tot_score": "2628",
       "rank_m": "7",
       "rank_s": "7",
       "rank_p": "6",
@@ -311,25 +311,25 @@
       "pc_score": "73.0",
       "songs": [
         {
-          "title": "All Aboard For Dixie Land",
+          "name": "All Aboard For Dixie Land",
           "m": "213",
           "s": "220",
           "p": "220"
         },
         {
-          "title": "Mona Lisa",
+          "name": "Mona Lisa",
           "m": "220",
           "s": "212",
           "p": "211"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "446",
           "s": "437",
           "p": "449"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James Williams"
@@ -349,8 +349,8 @@
       ]
     },
     {
-      "tot_score": "1320",
-      "final_tot_score": "2625",
+      "prev_tot_score": "1320",
+      "tot_score": "2625",
       "rank_m": "6",
       "rank_s": "6",
       "rank_p": "8",
@@ -359,25 +359,25 @@
       "pc_score": "72.9",
       "songs": [
         {
-          "title": "For Once In My Life",
+          "name": "For Once In My Life",
           "m": "228",
           "s": "217",
           "p": "221"
         },
         {
-          "title": "Ain't That A Kick In The Head",
+          "name": "Ain't That A Kick In The Head",
           "m": "215",
           "s": "218",
           "p": "221"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "444",
           "s": "436",
           "p": "425"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ben Ferguson"
@@ -397,8 +397,8 @@
       ]
     },
     {
-      "tot_score": "1288",
-      "final_tot_score": "2601",
+      "prev_tot_score": "1288",
+      "tot_score": "2601",
       "rank_m": "8",
       "rank_s": "8",
       "rank_p": "7",
@@ -407,25 +407,25 @@
       "pc_score": "72.3",
       "songs": [
         {
-          "title": "Unsaid Things",
+          "name": "Unsaid Things",
           "m": "219",
           "s": "215",
           "p": "212"
         },
         {
-          "title": "Too Much Love Will Kill You",
+          "name": "Too Much Love Will Kill You",
           "m": "218",
           "s": "208",
           "p": "216"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "441",
           "s": "430",
           "p": "442"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Graham Harper"
@@ -445,8 +445,8 @@
       ]
     },
     {
-      "tot_score": "1235",
-      "final_tot_score": "2542",
+      "prev_tot_score": "1235",
+      "tot_score": "2542",
       "rank_m": "9",
       "rank_s": "9",
       "rank_p": "9",
@@ -455,25 +455,25 @@
       "pc_score": "70.6",
       "songs": [
         {
-          "title": "Give Me A Barbershop Song",
+          "name": "Give Me A Barbershop Song",
           "m": "205",
           "s": "203",
           "p": "208"
         },
         {
-          "title": "That Old Quartet Of Mine",
+          "name": "That Old Quartet Of Mine",
           "m": "207",
           "s": "206",
           "p": "206"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "440",
           "s": "432",
           "p": "435"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon Hunt"

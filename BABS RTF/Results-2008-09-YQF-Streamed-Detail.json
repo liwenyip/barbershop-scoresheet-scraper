@@ -1,0 +1,169 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2008-09-YQF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "YOUTH QUARTET FINAL",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2008/09",
+  "type": "q",
+  "date": "11/10/2008",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Cadence",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "The Rolling Tones",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "James"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "TBA"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    }
+  ]
+}

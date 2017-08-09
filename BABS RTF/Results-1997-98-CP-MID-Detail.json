@@ -1,0 +1,529 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-CP-MID-Detail.txt",
+  "assoc": "BABS",
+  "contest": "MIDLANDS CHORUS PRELIMS",
+  "location": "DERBY",
+  "year": "1997/98",
+  "type": "c",
+  "date": "08/11/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Ian Fairnie"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Shannon Express",
+      "size": 53,
+      "songs": [
+        {
+          "n": 1,
+          "name": "From The First Hello To The Last Goodbye",
+          "m": 144,
+          "p": 143,
+          "s": 142,
+          "tot_score": 429,
+          "pc_score": 71.5,
+          "m_pc": 72.0,
+          "p_pc": 71.5,
+          "s_pc": 71.0
+        },
+        {
+          "n": 1,
+          "name": "Alabamy Bound",
+          "m": 148,
+          "p": 154,
+          "s": 143,
+          "tot_score": 445,
+          "pc_score": 74.2,
+          "m_pc": 74.0,
+          "p_pc": 77.0,
+          "s_pc": 71.5
+        }
+      ],
+      "n": 2,
+      "m": 292,
+      "m_pc": 73.0,
+      "p": 297,
+      "p_pc": 74.3,
+      "s": 285,
+      "s_pc": 71.3,
+      "tot_score": 874,
+      "pc_score": 72.8
+    },
+    {
+      "rank": 2,
+      "name": "The Cambridge Chord Company",
+      "size": 19,
+      "songs": [
+        {
+          "n": 1,
+          "name": "\"Liar\" Medley",
+          "m": 143,
+          "p": 144,
+          "s": 136,
+          "tot_score": 423,
+          "pc_score": 70.5,
+          "m_pc": 71.5,
+          "p_pc": 72.0,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "The Sweetest Story Ever Told",
+          "m": 148,
+          "p": 146,
+          "s": 143,
+          "tot_score": 437,
+          "pc_score": 72.8,
+          "m_pc": 74.0,
+          "p_pc": 73.0,
+          "s_pc": 71.5
+        }
+      ],
+      "n": 2,
+      "m": 291,
+      "m_pc": 72.8,
+      "p": 290,
+      "p_pc": 72.5,
+      "s": 279,
+      "s_pc": 69.8,
+      "tot_score": 860,
+      "pc_score": 71.7
+    },
+    {
+      "rank": 3,
+      "name": "The Highwaymen",
+      "size": 26,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 116,
+          "p": 130,
+          "s": 117,
+          "tot_score": 363,
+          "pc_score": 60.5,
+          "m_pc": 58.0,
+          "p_pc": 65.0,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "Ballin' The Jack",
+          "m": 119,
+          "p": 143,
+          "s": 106,
+          "tot_score": 368,
+          "pc_score": 61.3,
+          "m_pc": 59.5,
+          "p_pc": 71.5,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 235,
+      "m_pc": 58.8,
+      "p": 273,
+      "p_pc": 68.3,
+      "s": 223,
+      "s_pc": 55.8,
+      "tot_score": 731,
+      "pc_score": 60.9
+    },
+    {
+      "rank": 4,
+      "name": "Kings Of Herts",
+      "size": 46,
+      "songs": [
+        {
+          "n": 1,
+          "name": "For Me And My Gal",
+          "m": 124,
+          "p": 126,
+          "s": 116,
+          "tot_score": 366,
+          "pc_score": 61.0,
+          "m_pc": 62.0,
+          "p_pc": 63.0,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 119,
+          "p": 123,
+          "s": 116,
+          "tot_score": 358,
+          "pc_score": 59.7,
+          "m_pc": 59.5,
+          "p_pc": 61.5,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 243,
+      "m_pc": 60.8,
+      "p": 249,
+      "p_pc": 62.3,
+      "s": 232,
+      "s_pc": 58.0,
+      "tot_score": 724,
+      "pc_score": 60.3
+    },
+    {
+      "rank": 5,
+      "name": "The Telfordaires",
+      "size": 27,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Powder Your Face With Sunshine / Medley",
+          "m": 111,
+          "p": 119,
+          "s": 117,
+          "tot_score": 347,
+          "pc_score": 57.8,
+          "m_pc": 55.5,
+          "p_pc": 59.5,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "Who'll Take My Place When I'm Gone?",
+          "m": 115,
+          "p": 116,
+          "s": 113,
+          "tot_score": 344,
+          "pc_score": 57.3,
+          "m_pc": 57.5,
+          "p_pc": 58.0,
+          "s_pc": 56.5
+        }
+      ],
+      "n": 2,
+      "m": 226,
+      "m_pc": 56.5,
+      "p": 235,
+      "p_pc": 58.8,
+      "s": 230,
+      "s_pc": 57.5,
+      "tot_score": 691,
+      "pc_score": 57.6
+    },
+    {
+      "rank": 6,
+      "name": "Saffron Sound",
+      "size": 28,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Gee! But I Hate To Go Home Alone",
+          "m": 103,
+          "p": 122,
+          "s": 109,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 51.5,
+          "p_pc": 61.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "When The Midnight Choo - Choo Leaves For Alabam'",
+          "m": 117,
+          "p": 126,
+          "s": 111,
+          "tot_score": 354,
+          "pc_score": 59.0,
+          "m_pc": 58.5,
+          "p_pc": 63.0,
+          "s_pc": 55.5
+        }
+      ],
+      "n": 2,
+      "m": 220,
+      "m_pc": 55.0,
+      "p": 248,
+      "p_pc": 62.0,
+      "s": 220,
+      "s_pc": 55.0,
+      "tot_score": 688,
+      "pc_score": 57.3
+    },
+    {
+      "rank": 7,
+      "name": "The Sound Of Three Spires",
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "So Long, Mother",
+          "m": 118,
+          "p": 115,
+          "s": 106,
+          "tot_score": 339,
+          "pc_score": 56.5,
+          "m_pc": 59.0,
+          "p_pc": 57.5,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "Baby Won't You Please Come Home",
+          "m": 117,
+          "p": 118,
+          "s": 106,
+          "tot_score": 341,
+          "pc_score": 56.8,
+          "m_pc": 58.5,
+          "p_pc": 59.0,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 235,
+      "m_pc": 58.8,
+      "p": 233,
+      "p_pc": 58.3,
+      "s": 212,
+      "s_pc": 53.0,
+      "tot_score": 680,
+      "pc_score": 56.7
+    },
+    {
+      "rank": 8,
+      "name": "Chelmsford Star Harmony",
+      "size": 33,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Girl Of My Dreams",
+          "m": 104,
+          "p": 121,
+          "s": 110,
+          "tot_score": 335,
+          "pc_score": 55.8,
+          "m_pc": 52.0,
+          "p_pc": 60.5,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "When I Lost You",
+          "m": 108,
+          "p": 118,
+          "s": 118,
+          "tot_score": 344,
+          "pc_score": 57.3,
+          "m_pc": 54.0,
+          "p_pc": 59.0,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 212,
+      "m_pc": 53.0,
+      "p": 239,
+      "p_pc": 59.8,
+      "s": 228,
+      "s_pc": 57.0,
+      "tot_score": 679,
+      "pc_score": 56.6
+    },
+    {
+      "rank": 9,
+      "name": "Harmony Lincs",
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Last Time I Saw Henry",
+          "m": 103,
+          "p": 114,
+          "s": 110,
+          "tot_score": 327,
+          "pc_score": 54.5,
+          "m_pc": 51.5,
+          "p_pc": 57.0,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "I Wonder Who's Kissing Her Now",
+          "m": 99,
+          "p": 109,
+          "s": 109,
+          "tot_score": 317,
+          "pc_score": 52.8,
+          "m_pc": 49.5,
+          "p_pc": 54.5,
+          "s_pc": 54.5
+        }
+      ],
+      "n": 2,
+      "m": 202,
+      "m_pc": 50.5,
+      "p": 223,
+      "p_pc": 55.8,
+      "s": 219,
+      "s_pc": 54.8,
+      "tot_score": 644,
+      "pc_score": 53.7
+    },
+    {
+      "rank": 10,
+      "name": "Anvil Chorus",
+      "size": 21,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 107,
+          "p": 119,
+          "s": 98,
+          "tot_score": 324,
+          "pc_score": 54.0,
+          "m_pc": 53.5,
+          "p_pc": 59.5,
+          "s_pc": 49.0
+        },
+        {
+          "n": 1,
+          "name": "Dearie",
+          "m": 107,
+          "p": 113,
+          "s": 95,
+          "tot_score": 315,
+          "pc_score": 52.5,
+          "m_pc": 53.5,
+          "p_pc": 56.5,
+          "s_pc": 47.5
+        }
+      ],
+      "n": 2,
+      "m": 214,
+      "m_pc": 53.5,
+      "p": 232,
+      "p_pc": 58.0,
+      "s": 193,
+      "s_pc": 48.3,
+      "tot_score": 639,
+      "pc_score": 53.3
+    },
+    {
+      "rank": 11,
+      "name": "Vale Harmony",
+      "size": 17,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 100,
+          "p": 108,
+          "s": 103,
+          "tot_score": 311,
+          "pc_score": 51.8,
+          "m_pc": 50.0,
+          "p_pc": 54.0,
+          "s_pc": 51.5
+        },
+        {
+          "n": 1,
+          "name": "Everything Is Peaches Down In Georgia",
+          "m": 95,
+          "p": 103,
+          "s": 99,
+          "tot_score": 297,
+          "pc_score": 49.5,
+          "m_pc": 47.5,
+          "p_pc": 51.5,
+          "s_pc": 49.5
+        }
+      ],
+      "n": 2,
+      "m": 195,
+      "m_pc": 48.8,
+      "p": 211,
+      "p_pc": 52.8,
+      "s": 202,
+      "s_pc": 50.5,
+      "tot_score": 608,
+      "pc_score": 50.7
+    },
+    {
+      "rank": 12,
+      "name": "Harmony Union",
+      "size": 24,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Girl That I Marry / Medley",
+          "m": 92,
+          "p": 95,
+          "s": 97,
+          "tot_score": 284,
+          "pc_score": 47.3,
+          "m_pc": 46.0,
+          "p_pc": 47.5,
+          "s_pc": 48.5
+        },
+        {
+          "n": 1,
+          "name": "For Me And My Gal",
+          "m": 85,
+          "p": 94,
+          "s": 98,
+          "tot_score": 277,
+          "pc_score": 46.2,
+          "m_pc": 42.5,
+          "p_pc": 47.0,
+          "s_pc": 49.0
+        }
+      ],
+      "n": 2,
+      "m": 177,
+      "m_pc": 44.3,
+      "p": 189,
+      "p_pc": 47.3,
+      "s": 195,
+      "s_pc": 48.8,
+      "tot_score": 561,
+      "pc_score": 46.8
+    }
+  ]
+}

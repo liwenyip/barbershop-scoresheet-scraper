@@ -1,0 +1,443 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2003-04-QP-NAT-SU-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET PRELIM - SUNDAY",
+  "location": "WALSALL",
+  "year": "2003/04",
+  "type": "q",
+  "date": "12/10/2003",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 144,
+          "p": 143,
+          "s": 144,
+          "tot_score": 431,
+          "pc_score": 71.8,
+          "m_pc": 72.0,
+          "p_pc": 71.5,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "There's A New Gang On The Corner",
+          "m": 149,
+          "p": 146,
+          "s": 141,
+          "tot_score": 436,
+          "pc_score": 72.7,
+          "m_pc": 74.5,
+          "p_pc": 73.0,
+          "s_pc": 70.5
+        }
+      ],
+      "n": 2,
+      "m": 293,
+      "m_pc": 73.3,
+      "p": 289,
+      "p_pc": 72.3,
+      "s": 285,
+      "s_pc": 71.3,
+      "tot_score": 867,
+      "pc_score": 72.3
+    },
+    {
+      "rank": 2,
+      "name": "Gentleman Jack",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 134,
+          "p": 135,
+          "s": 140,
+          "tot_score": 409,
+          "pc_score": 68.2,
+          "m_pc": 67.0,
+          "p_pc": 67.5,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 141,
+          "p": 135,
+          "s": 138,
+          "tot_score": 414,
+          "pc_score": 69.0,
+          "m_pc": 70.5,
+          "p_pc": 67.5,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 275,
+      "m_pc": 68.8,
+      "p": 270,
+      "p_pc": 67.5,
+      "s": 278,
+      "s_pc": 69.5,
+      "tot_score": 823,
+      "pc_score": 68.6
+    },
+    {
+      "rank": 3,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lazy River",
+          "m": 131,
+          "p": 144,
+          "s": 136,
+          "tot_score": 411,
+          "pc_score": 68.5,
+          "m_pc": 65.5,
+          "p_pc": 72.0,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 130,
+          "p": 143,
+          "s": 138,
+          "tot_score": 411,
+          "pc_score": 68.5,
+          "m_pc": 65.0,
+          "p_pc": 71.5,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 261,
+      "m_pc": 65.3,
+      "p": 287,
+      "p_pc": 71.8,
+      "s": 274,
+      "s_pc": 68.5,
+      "tot_score": 822,
+      "pc_score": 68.5
+    },
+    {
+      "rank": 4,
+      "name": "Rhapsody",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Stars Fell On Alabama",
+          "m": 134,
+          "p": 132,
+          "s": 140,
+          "tot_score": 406,
+          "pc_score": 67.7,
+          "m_pc": 67.0,
+          "p_pc": 66.0,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "Bye Bye Blackbird",
+          "m": 132,
+          "p": 134,
+          "s": 132,
+          "tot_score": 398,
+          "pc_score": 66.3,
+          "m_pc": 66.0,
+          "p_pc": 67.0,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 2,
+      "m": 266,
+      "m_pc": 66.5,
+      "p": 266,
+      "p_pc": 66.5,
+      "s": 272,
+      "s_pc": 68.0,
+      "tot_score": 804,
+      "pc_score": 67.0
+    },
+    {
+      "rank": 5,
+      "name": "Ultra Sound",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Always",
+          "m": 132,
+          "p": 131,
+          "s": 137,
+          "tot_score": 400,
+          "pc_score": 66.7,
+          "m_pc": 66.0,
+          "p_pc": 65.5,
+          "s_pc": 68.5
+        },
+        {
+          "n": 1,
+          "name": "Goodbye Dixie, Goodbye",
+          "m": 137,
+          "p": 126,
+          "s": 134,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 68.5,
+          "p_pc": 63.0,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 2,
+      "m": 269,
+      "m_pc": 67.3,
+      "p": 257,
+      "p_pc": 64.3,
+      "s": 271,
+      "s_pc": 67.8,
+      "tot_score": 797,
+      "pc_score": 66.4
+    },
+    {
+      "rank": 6,
+      "name": "Almost Gentlemen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Get Out And Get Under The Moon",
+          "m": 124,
+          "p": 109,
+          "s": 125,
+          "tot_score": 358,
+          "pc_score": 59.7,
+          "m_pc": 62.0,
+          "p_pc": 54.5,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 121,
+          "p": 109,
+          "s": 123,
+          "tot_score": 353,
+          "pc_score": 58.8,
+          "m_pc": 60.5,
+          "p_pc": 54.5,
+          "s_pc": 61.5
+        }
+      ],
+      "n": 2,
+      "m": 245,
+      "m_pc": 61.3,
+      "p": 218,
+      "p_pc": 54.5,
+      "s": 248,
+      "s_pc": 62.0,
+      "tot_score": 711,
+      "pc_score": 59.3
+    },
+    {
+      "rank": 7,
+      "name": "Equinox",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sentimental Journey",
+          "m": 116,
+          "p": 120,
+          "s": 113,
+          "tot_score": 349,
+          "pc_score": 58.2,
+          "m_pc": 58.0,
+          "p_pc": 60.0,
+          "s_pc": 56.5
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 124,
+          "p": 118,
+          "s": 112,
+          "tot_score": 354,
+          "pc_score": 59.0,
+          "m_pc": 62.0,
+          "p_pc": 59.0,
+          "s_pc": 56.0
+        }
+      ],
+      "n": 2,
+      "m": 240,
+      "m_pc": 60.0,
+      "p": 238,
+      "p_pc": 59.5,
+      "s": 225,
+      "s_pc": 56.3,
+      "tot_score": 703,
+      "pc_score": 58.6
+    },
+    {
+      "rank": 8,
+      "name": "Bostin' 4 A Pitch",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 118,
+          "p": 112,
+          "s": 118,
+          "tot_score": 348,
+          "pc_score": 58.0,
+          "m_pc": 59.0,
+          "p_pc": 56.0,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 113,
+          "p": 114,
+          "s": 120,
+          "tot_score": 347,
+          "pc_score": 57.8,
+          "m_pc": 56.5,
+          "p_pc": 57.0,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 231,
+      "m_pc": 57.8,
+      "p": 226,
+      "p_pc": 56.5,
+      "s": 238,
+      "s_pc": 59.5,
+      "tot_score": 695,
+      "pc_score": 57.9
+    },
+    {
+      "rank": 9,
+      "name": "Fourtune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 112,
+          "p": 106,
+          "s": 106,
+          "tot_score": 324,
+          "pc_score": 54.0,
+          "m_pc": 56.0,
+          "p_pc": 53.0,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 99,
+          "p": 108,
+          "s": 107,
+          "tot_score": 314,
+          "pc_score": 52.3,
+          "m_pc": 49.5,
+          "p_pc": 54.0,
+          "s_pc": 53.5
+        }
+      ],
+      "n": 2,
+      "m": 211,
+      "m_pc": 52.8,
+      "p": 214,
+      "p_pc": 53.5,
+      "s": 213,
+      "s_pc": 53.3,
+      "tot_score": 638,
+      "pc_score": 53.2
+    },
+    {
+      "rank": 10,
+      "name": "Branded!",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wonderful Day Medley",
+          "m": 109,
+          "p": 98,
+          "s": 115,
+          "tot_score": 322,
+          "pc_score": 53.7,
+          "m_pc": 54.5,
+          "p_pc": 49.0,
+          "s_pc": 57.5
+        },
+        {
+          "n": 1,
+          "name": "Sweet And Lovely",
+          "m": 108,
+          "p": 95,
+          "s": 112,
+          "tot_score": 315,
+          "pc_score": 52.5,
+          "m_pc": 54.0,
+          "p_pc": 47.5,
+          "s_pc": 56.0
+        }
+      ],
+      "n": 2,
+      "m": 217,
+      "m_pc": 54.3,
+      "p": 193,
+      "p_pc": 48.3,
+      "s": 227,
+      "s_pc": 56.8,
+      "tot_score": 637,
+      "pc_score": 53.1
+    }
+  ]
+}

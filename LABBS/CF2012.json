@@ -42,23 +42,23 @@
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
@@ -71,21 +71,26 @@
       "rank_p": "1",
       "rank": "1",
       "name": "Cheshire Chord Company",
-      "director": "Jo Braham",
       "size": "47",
       "pc_score": "80.4",
       "songs": [
         {
-          "title": "How'dja Like To Love Me?",
+          "name": "How'dja Like To Love Me?",
           "m": "241",
           "s": "242",
           "p": "241"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "240",
           "s": "242",
           "p": "242"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Jo Braham"
         }
       ]
     },
@@ -96,21 +101,26 @@
       "rank_p": "2",
       "rank": "2",
       "name": "Amersham A Cappella",
-      "director": "Helen Lappert",
       "size": "56",
       "pc_score": "76.9",
       "songs": [
         {
-          "title": "I Have Dreamed",
+          "name": "I Have Dreamed",
           "m": "230",
           "s": "232",
           "p": "227"
         },
         {
-          "title": "This Could Be The Start Of Something Big",
+          "name": "This Could Be The Start Of Something Big",
           "m": "235",
           "s": "231",
           "p": "230"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Helen Lappert"
         }
       ]
     },
@@ -121,21 +131,26 @@
       "rank_p": "4",
       "rank": "3",
       "name": "Gem Connection",
-      "director": "Rachael Murphy",
       "size": "46",
       "pc_score": "74.9",
       "songs": [
         {
-          "title": "A Hot Time In The Old Town Tonight",
+          "name": "A Hot Time In The Old Town Tonight",
           "m": "222",
           "s": "223",
           "p": "227"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "225",
           "s": "225",
           "p": "226"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Rachael Murphy"
         }
       ]
     },
@@ -146,21 +161,26 @@
       "rank_p": "5",
       "rank": "4",
       "name": "Crystal Chords",
-      "director": "Monica Funnell",
       "size": "60",
       "pc_score": "74.3",
       "songs": [
         {
-          "title": "Secret Love",
+          "name": "Secret Love",
           "m": "222",
           "s": "219",
           "p": "219"
         },
         {
-          "title": "Shanghai (Why Did I Tell You I Was Going To)",
+          "name": "Shanghai (Why Did I Tell You I Was Going To)",
           "m": "227",
           "s": "227",
           "p": "224"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Monica Funnell"
         }
       ]
     },
@@ -171,21 +191,26 @@
       "rank_p": "3",
       "rank": "5",
       "name": "Signature",
-      "director": "Timm Barkworth",
       "size": "24",
       "pc_score": "74.2",
       "songs": [
         {
-          "title": "I Will",
+          "name": "I Will",
           "m": "198",
           "s": "227",
           "p": "222"
         },
         {
-          "title": "If Ever I Would Leave You",
+          "name": "If Ever I Would Leave You",
           "m": "236",
           "s": "229",
           "p": "224"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Timm Barkworth"
         }
       ]
     },
@@ -196,21 +221,26 @@
       "rank_p": "6",
       "rank": "6",
       "name": "Second City Sound",
-      "director": "Rod Butcher",
       "size": "58",
       "pc_score": "73.4",
       "songs": [
         {
-          "title": "Shakin' The Blues Away",
+          "name": "Shakin' The Blues Away",
           "m": "218",
           "s": "219",
           "p": "224"
         },
         {
-          "title": "If Ever I Would Leave You",
+          "name": "If Ever I Would Leave You",
           "m": "219",
           "s": "220",
           "p": "221"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Rod Butcher"
         }
       ]
     },
@@ -221,21 +251,26 @@
       "rank_p": "7",
       "rank": "7",
       "name": "Fascinating Rhythm",
-      "director": "Jo Dean",
       "size": "48",
       "pc_score": "71.7",
       "songs": [
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "212",
           "s": "213",
           "p": "213"
         },
         {
-          "title": "South Rampart Street Parade",
+          "name": "South Rampart Street Parade",
           "m": "222",
           "s": "211",
           "p": "219"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Jo Dean"
         }
       ]
     },
@@ -246,21 +281,26 @@
       "rank_p": "8",
       "rank": "8",
       "name": "Bristol Fashion",
-      "director": "Craig Kehoe",
       "size": "62",
       "pc_score": "71.6",
       "songs": [
         {
-          "title": "Somebody Loves Me",
+          "name": "Somebody Loves Me",
           "m": "208",
           "s": "216",
           "p": "218"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "218",
           "s": "215",
           "p": "214"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Craig Kehoe"
         }
       ]
     },
@@ -271,21 +311,26 @@
       "rank_p": "10",
       "rank": "9",
       "name": "Red Rosettes",
-      "director": "Katy Phillips",
       "size": "31",
       "pc_score": "71.1",
       "songs": [
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "212",
           "s": "209",
           "p": "205"
         },
         {
-          "title": "Don't Break The Heart That Loves You",
+          "name": "Don't Break The Heart That Loves You",
           "m": "211",
           "s": "220",
           "p": "222"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Katy Phillips"
         }
       ]
     },
@@ -296,21 +341,26 @@
       "rank_p": "9",
       "rank": "10",
       "name": "Green Street Blues",
-      "director": "Michael Potts",
       "size": "27",
       "pc_score": "70.9",
       "songs": [
         {
-          "title": "Oh! Look At Me Now",
+          "name": "Oh! Look At Me Now",
           "m": "207",
           "s": "211",
           "p": "210"
         },
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "216",
           "s": "217",
           "p": "215"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Michael Potts"
         }
       ]
     },
@@ -321,21 +371,26 @@
       "rank_p": "11",
       "rank": "11",
       "name": "Silver Lining",
-      "director": "Sara Jackson",
       "size": "48",
       "pc_score": "70.2",
       "songs": [
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "214",
           "s": "208",
           "p": "207"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "208",
           "s": "212",
           "p": "214"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Sara Jackson"
         }
       ]
     },
@@ -346,21 +401,26 @@
       "rank_p": "12",
       "rank": "12",
       "name": "Chorus Iceni",
-      "director": "Ian James and Nickie Williams",
       "size": "43",
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "194",
           "s": "199",
           "p": "187"
         },
         {
-          "title": "Sweet Georgia Brown",
+          "name": "Sweet Georgia Brown",
           "m": "203",
           "s": "193",
           "p": "200"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Ian James and Nickie Williams"
         }
       ]
     },
@@ -371,21 +431,26 @@
       "rank_p": "14",
       "rank": "13",
       "name": "Mountain Harmony",
-      "director": "Derek Hollis",
       "size": "47",
       "pc_score": "64.8",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "195",
           "s": "196",
           "p": "192"
         },
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "192",
           "s": "196",
           "p": "195"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Derek Hollis"
         }
       ]
     },
@@ -396,21 +461,26 @@
       "rank_p": "13",
       "rank": "14",
       "name": "Norwich Harmony",
-      "director": "Alison Thompson",
       "size": "43",
       "pc_score": "64.5",
       "songs": [
         {
-          "title": "If I Love Again",
+          "name": "If I Love Again",
           "m": "191",
           "s": "198",
           "p": "194"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "197",
           "s": "192",
           "p": "189"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Alison Thompson"
         }
       ]
     },
@@ -421,21 +491,26 @@
       "rank_p": "17",
       "rank": "15",
       "name": "Pennine Chimes",
-      "director": "Beth Connolly",
       "size": "33",
       "pc_score": "64.2",
       "songs": [
         {
-          "title": "On The Sunny Side Of The Street",
+          "name": "On The Sunny Side Of The Street",
           "m": "197",
           "s": "189",
           "p": "193"
         },
         {
-          "title": "A Little Patch Of Heaven",
+          "name": "A Little Patch Of Heaven",
           "m": "188",
           "s": "194",
           "p": "195"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Beth Connolly"
         }
       ]
     },
@@ -446,21 +521,26 @@
       "rank_p": "16",
       "rank": "16",
       "name": "Main Street Sound",
-      "director": "Terry Adamson",
       "size": "30",
       "pc_score": "64.1",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "192",
           "s": "192",
           "p": "188"
         },
         {
-          "title": "I Didn't Wanna Fall",
+          "name": "I Didn't Wanna Fall",
           "m": "189",
           "s": "195",
           "p": "197"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Terry Adamson"
         }
       ]
     },
@@ -471,21 +551,26 @@
       "rank_p": "15",
       "rank": "17",
       "name": "The Tudor Roses",
-      "director": "Di Crosfield",
       "size": "31",
       "pc_score": "63.9",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "190",
           "s": "190",
           "p": "186"
         },
         {
-          "title": "Happy Feet Medley",
+          "name": "Happy Feet Medley",
           "m": "193",
           "s": "194",
           "p": "198"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Di Crosfield"
         }
       ]
     },
@@ -496,21 +581,26 @@
       "rank_p": "19",
       "rank": "18",
       "name": "Belles Of Three Spires",
-      "director": "Lucy Edmonds",
       "size": "37",
       "pc_score": "63.4",
       "songs": [
         {
-          "title": "'Til There Was You",
+          "name": "'Til There Was You",
           "m": "188",
           "s": "184",
           "p": "190"
         },
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "189",
           "s": "196",
           "p": "195"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lucy Edmonds"
         }
       ]
     },
@@ -521,21 +611,26 @@
       "rank_p": "18",
       "rank": "19",
       "name": "Brunel Harmony",
-      "director": "Delyth Knight",
       "size": "26",
       "pc_score": "62.0",
       "songs": [
         {
-          "title": "For All We Know",
+          "name": "For All We Know",
           "m": "185",
           "s": "184",
           "p": "186"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "191",
           "s": "184",
           "p": "186"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Delyth Knight"
         }
       ]
     },
@@ -546,21 +641,26 @@
       "rank_p": "21",
       "rank": "20",
       "name": "Wessex Harmony",
-      "director": "Dyrck Lamble",
       "size": "40",
       "pc_score": "61.4",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "189",
           "s": "183",
           "p": "185"
         },
         {
-          "title": "Alexander's Ragtime Band",
+          "name": "Alexander's Ragtime Band",
           "m": "188",
           "s": "181",
           "p": "179"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Dyrck Lamble"
         }
       ]
     },
@@ -571,21 +671,26 @@
       "rank_p": "22",
       "rank": "21",
       "name": "The Chordettes",
-      "director": "Peter Nugent",
       "size": "34",
       "pc_score": "61.1",
       "songs": [
         {
-          "title": "Blues In The Night",
+          "name": "Blues In The Night",
           "m": "183",
           "s": "178",
           "p": "188"
         },
         {
-          "title": "I Love Jazz Medley",
+          "name": "I Love Jazz Medley",
           "m": "181",
           "s": "185",
           "p": "184"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Peter Nugent"
         }
       ]
     },
@@ -596,21 +701,26 @@
       "rank_p": "19",
       "rank": "22",
       "name": "Mersey Harmony",
-      "director": "Lesley Crawford",
       "size": "31",
       "pc_score": "60.3",
       "songs": [
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "179",
           "s": "185",
           "p": "181"
         },
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "188",
           "s": "176",
           "p": "176"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lesley Crawford"
         }
       ]
     },
@@ -621,21 +731,26 @@
       "rank_p": "24",
       "rank": "23",
       "name": "The Barberettes",
-      "director": "Emma Lelliott",
       "size": "29",
       "pc_score": "59.7",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "179",
           "s": "177",
           "p": "176"
         },
         {
-          "title": "Stars Fell On Alabama",
+          "name": "Stars Fell On Alabama",
           "m": "177",
           "s": "182",
           "p": "184"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Emma Lelliott"
         }
       ]
     },
@@ -646,21 +761,26 @@
       "rank_p": "23",
       "rank": "24",
       "name": "Junction 14",
-      "director": "Hannah Washington",
       "size": "27",
       "pc_score": "58.9",
       "songs": [
         {
-          "title": "Each Time I Fall In Love",
+          "name": "Each Time I Fall In Love",
           "m": "178",
           "s": "175",
           "p": "178"
         },
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "180",
           "s": "174",
           "p": "176"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Hannah Washington"
         }
       ]
     },
@@ -671,21 +791,26 @@
       "rank_p": "24",
       "rank": "25",
       "name": "Harmony InSpires",
-      "director": "Lynne Owen",
       "size": "30",
       "pc_score": "58.5",
       "songs": [
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "173",
           "s": "177",
           "p": "177"
         },
         {
-          "title": "In The Wee Small Hours Of The Morning",
+          "name": "In The Wee Small Hours Of The Morning",
           "m": "177",
           "s": "176",
           "p": "173"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lynne Owen"
         }
       ]
     },
@@ -696,21 +821,26 @@
       "rank_p": "27",
       "rank": "26",
       "name": "Guildford Harmony",
-      "director": "Andrew Edgley",
       "size": "15",
       "pc_score": "57.7",
       "songs": [
         {
-          "title": "Chase The Rain Away",
+          "name": "Chase The Rain Away",
           "m": "176",
           "s": "174",
           "p": "178"
         },
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "172",
           "s": "171",
           "p": "167"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Andrew Edgley"
         }
       ]
     },
@@ -721,21 +851,26 @@
       "rank_p": "26",
       "rank": "27",
       "name": "Arun Sounds",
-      "director": "Madeleine Branson",
       "size": "25",
       "pc_score": "56.6",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "172",
           "s": "173",
           "p": "168"
         },
         {
-          "title": "The Moment I Saw Your Eyes",
+          "name": "The Moment I Saw Your Eyes",
           "m": "174",
           "s": "165",
           "p": "167"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Madeleine Branson"
         }
       ]
     },
@@ -746,21 +881,26 @@
       "rank_p": "28",
       "rank": "28",
       "name": "The Pitchpipers",
-      "director": "Marilyn Penketh",
       "size": "23",
       "pc_score": "55.5",
       "songs": [
         {
-          "title": "Let's Get Away From It All (Parody)",
+          "name": "Let's Get Away From It All (Parody)",
           "m": "168",
           "s": "172",
           "p": "165"
         },
         {
-          "title": "Where Did Robinson Crusoe Go?",
+          "name": "Where Did Robinson Crusoe Go?",
           "m": "172",
           "s": "161",
           "p": "161"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Marilyn Penketh"
         }
       ]
     },
@@ -771,21 +911,26 @@
       "rank_p": "29",
       "rank": "29",
       "name": "A Touch Of TLC",
-      "director": "Peter Jones",
       "size": "29",
       "pc_score": "53.7",
       "songs": [
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "165",
           "s": "160",
           "p": "157"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "158",
           "s": "162",
           "p": "164"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Peter Jones"
         }
       ]
     },
@@ -796,21 +941,26 @@
       "rank_p": "30",
       "rank": "30",
       "name": "Soundwaves",
-      "director": "Samantha Roberts",
       "size": "20",
       "pc_score": "50.4",
       "songs": [
         {
-          "title": "Over The Rainbow",
+          "name": "Over The Rainbow",
           "m": "159",
           "s": "148",
           "p": "149"
         },
         {
-          "title": "Orange Coloured Sky",
+          "name": "Orange Coloured Sky",
           "m": "154",
           "s": "147",
           "p": "151"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Samantha Roberts"
         }
       ]
     }

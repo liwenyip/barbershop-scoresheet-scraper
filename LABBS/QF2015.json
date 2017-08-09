@@ -42,35 +42,35 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Katie Dew"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1363",
-      "final_tot_score": "2741",
+      "prev_tot_score": "1363",
+      "tot_score": "2741",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -79,25 +79,25 @@
       "pc_score": "76.1",
       "songs": [
         {
-          "title": "Stars Fell On Alabama",
+          "name": "Stars Fell On Alabama",
           "m": "228",
           "s": "229",
           "p": "223"
         },
         {
-          "title": "Fly Me To The Moon",
+          "name": "Fly Me To The Moon",
           "m": "225",
           "s": "227",
           "p": "231"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "459",
           "s": "461",
           "p": "458"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hicks"
@@ -117,8 +117,8 @@
       ]
     },
     {
-      "tot_score": "1312",
-      "final_tot_score": "2648",
+      "prev_tot_score": "1312",
+      "tot_score": "2648",
       "rank_m": "2",
       "rank_s": "2",
       "rank_p": "2",
@@ -127,25 +127,25 @@
       "pc_score": "73.6",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "217",
           "s": "217",
           "p": "213"
         },
         {
-          "title": "Put Your Arms Around Me Honey",
+          "name": "Put Your Arms Around Me Honey",
           "m": "216",
           "s": "225",
           "p": "224"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "440",
           "s": "455",
           "p": "441"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -165,8 +165,8 @@
       ]
     },
     {
-      "tot_score": "1215",
-      "final_tot_score": "2514",
+      "prev_tot_score": "1215",
+      "tot_score": "2514",
       "rank_m": "3",
       "rank_s": "3",
       "rank_p": "3",
@@ -175,25 +175,25 @@
       "pc_score": "69.8",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "205",
           "s": "200",
           "p": "203"
         },
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "204",
           "s": "202",
           "p": "201"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "432",
           "s": "438",
           "p": "429"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -213,8 +213,8 @@
       ]
     },
     {
-      "tot_score": "1236",
-      "final_tot_score": "2479",
+      "prev_tot_score": "1236",
+      "tot_score": "2479",
       "rank_m": "4",
       "rank_s": "5",
       "rank_p": "5",
@@ -223,25 +223,25 @@
       "pc_score": "68.9",
       "songs": [
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "205",
           "s": "205",
           "p": "208"
         },
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "202",
           "s": "207",
           "p": "209"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "421",
           "s": "407",
           "p": "415"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -261,8 +261,8 @@
       ]
     },
     {
-      "tot_score": "1217",
-      "final_tot_score": "2472",
+      "prev_tot_score": "1217",
+      "tot_score": "2472",
       "rank_m": "5",
       "rank_s": "4",
       "rank_p": "4",
@@ -271,25 +271,25 @@
       "pc_score": "68.7",
       "songs": [
         {
-          "title": "Good Luck Charm",
+          "name": "Good Luck Charm",
           "m": "198",
           "s": "202",
           "p": "204"
         },
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "206",
           "s": "205",
           "p": "202"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "410",
           "s": "428",
           "p": "417"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Heidi Walsh"
@@ -309,8 +309,8 @@
       ]
     },
     {
-      "tot_score": "1204",
-      "final_tot_score": "2418",
+      "prev_tot_score": "1204",
+      "tot_score": "2418",
       "rank_m": "6",
       "rank_s": "6",
       "rank_p": "6",
@@ -319,25 +319,25 @@
       "pc_score": "67.2",
       "songs": [
         {
-          "title": "Diamonds Are A Girl's Best Friend",
+          "name": "Diamonds Are A Girl's Best Friend",
           "m": "202",
           "s": "204",
           "p": "200"
         },
         {
-          "title": "Dream A Little Dream Of Me",
+          "name": "Dream A Little Dream Of Me",
           "m": "199",
           "s": "198",
           "p": "201"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "406",
           "s": "397",
           "p": "411"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Myfanwy Beynon"

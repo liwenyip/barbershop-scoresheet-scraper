@@ -42,39 +42,39 @@
       "name": "Nicky Salt"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1362",
-      "final_tot_score": "2750",
+      "prev_tot_score": "1362",
+      "tot_score": "2750",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -83,25 +83,25 @@
       "pc_score": "76.4",
       "songs": [
         {
-          "title": "He Was There",
+          "name": "He Was There",
           "m": "227",
           "s": "228",
           "p": "221"
         },
         {
-          "title": "How Could You Believe Me / It's A Sin To Tell A Lie Medley",
+          "name": "How Could You Believe Me / It's A Sin To Tell A Lie Medley",
           "m": "224",
           "s": "228",
           "p": "234"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "458",
           "s": "467",
           "p": "463"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Karen Riley"
@@ -121,8 +121,8 @@
       ]
     },
     {
-      "tot_score": "1343",
-      "final_tot_score": "2681",
+      "prev_tot_score": "1343",
+      "tot_score": "2681",
       "rank_m": "2",
       "rank_s": "4",
       "rank_p": "2",
@@ -131,25 +131,25 @@
       "pc_score": "74.5",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "226",
           "s": "228",
           "p": "225"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "226",
           "s": "217",
           "p": "221"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "443",
           "s": "444",
           "p": "451"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -169,8 +169,8 @@
       ]
     },
     {
-      "tot_score": "1324",
-      "final_tot_score": "2650",
+      "prev_tot_score": "1324",
+      "tot_score": "2650",
       "rank_m": "4",
       "rank_s": "2",
       "rank_p": "3",
@@ -179,25 +179,25 @@
       "pc_score": "73.6",
       "songs": [
         {
-          "title": "Runnin' Wild",
+          "name": "Runnin' Wild",
           "m": "210",
           "s": "217",
           "p": "221"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "225",
           "s": "227",
           "p": "224"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "442",
           "s": "435",
           "p": "449"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emma McManus"
@@ -217,8 +217,8 @@
       ]
     },
     {
-      "tot_score": "1333",
-      "final_tot_score": "2648",
+      "prev_tot_score": "1333",
+      "tot_score": "2648",
       "rank_m": "3",
       "rank_s": "3",
       "rank_p": "4",
@@ -227,25 +227,25 @@
       "pc_score": "73.6",
       "songs": [
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "224",
           "s": "217",
           "p": "223"
         },
         {
-          "title": "Love And The Weather",
+          "name": "Love And The Weather",
           "m": "218",
           "s": "226",
           "p": "225"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "436",
           "s": "434",
           "p": "445"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hicks"
@@ -265,8 +265,8 @@
       ]
     },
     {
-      "tot_score": "1256",
-      "final_tot_score": "2540",
+      "prev_tot_score": "1256",
+      "tot_score": "2540",
       "rank_m": "5",
       "rank_s": "5",
       "rank_p": "5",
@@ -275,25 +275,25 @@
       "pc_score": "70.6",
       "songs": [
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "203",
           "s": "216",
           "p": "205"
         },
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "214",
           "s": "209",
           "p": "209"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "431",
           "s": "416",
           "p": "437"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Heidi Walsh"
@@ -313,8 +313,8 @@
       ]
     },
     {
-      "tot_score": "1198",
-      "final_tot_score": "2421",
+      "prev_tot_score": "1198",
+      "tot_score": "2421",
       "rank_m": "6",
       "rank_s": "6",
       "rank_p": "6",
@@ -323,25 +323,25 @@
       "pc_score": "67.3",
       "songs": [
         {
-          "title": "I've Got A Feeling I'm Falling",
+          "name": "I've Got A Feeling I'm Falling",
           "m": "201",
           "s": "199",
           "p": "197"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "200",
           "s": "201",
           "p": "200"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "399",
           "s": "406",
           "p": "418"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Lea"

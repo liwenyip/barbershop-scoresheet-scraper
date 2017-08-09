@@ -1,0 +1,716 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2004-05-QP-NAT-SU-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET PRELIM - SUNDAY",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2004/05",
+  "type": "q",
+  "date": "10/10/2004",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Andy Milner"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Works",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Here Am I Broken Hearted",
+          "m": 154,
+          "p": 152,
+          "s": 151,
+          "tot_score": 457,
+          "pc_score": 76.2,
+          "m_pc": 77.0,
+          "p_pc": 76.0,
+          "s_pc": 75.5
+        },
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 159,
+          "p": 151,
+          "s": 149,
+          "tot_score": 459,
+          "pc_score": 76.5,
+          "m_pc": 79.5,
+          "p_pc": 75.5,
+          "s_pc": 74.5
+        }
+      ],
+      "n": 2,
+      "m": 313,
+      "m_pc": 78.3,
+      "p": 303,
+      "p_pc": 75.8,
+      "s": 300,
+      "s_pc": 75.0,
+      "tot_score": 916,
+      "pc_score": 76.3
+    },
+    {
+      "rank": 2,
+      "name": "Pitch Invasion",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Ideal",
+          "m": 140,
+          "p": 146,
+          "s": 140,
+          "tot_score": 426,
+          "pc_score": 71.0,
+          "m_pc": 70.0,
+          "p_pc": 73.0,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "Love / Eyes Medley",
+          "m": 147,
+          "p": 150,
+          "s": 148,
+          "tot_score": 445,
+          "pc_score": 74.2,
+          "m_pc": 73.5,
+          "p_pc": 75.0,
+          "s_pc": 74.0
+        }
+      ],
+      "n": 2,
+      "m": 287,
+      "m_pc": 71.8,
+      "p": 296,
+      "p_pc": 74.0,
+      "s": 288,
+      "s_pc": 72.0,
+      "tot_score": 871,
+      "pc_score": 72.6
+    },
+    {
+      "rank": 3,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 135,
+          "p": 151,
+          "s": 136,
+          "tot_score": 422,
+          "pc_score": 70.3,
+          "m_pc": 67.5,
+          "p_pc": 75.5,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "Lazy River",
+          "m": 130,
+          "p": 147,
+          "s": 138,
+          "tot_score": 415,
+          "pc_score": 69.2,
+          "m_pc": 65.0,
+          "p_pc": 73.5,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 265,
+      "m_pc": 66.3,
+      "p": 298,
+      "p_pc": 74.5,
+      "s": 274,
+      "s_pc": 68.5,
+      "tot_score": 837,
+      "pc_score": 69.8
+    },
+    {
+      "rank": 4,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 128,
+          "p": 136,
+          "s": 132,
+          "tot_score": 396,
+          "pc_score": 66.0,
+          "m_pc": 64.0,
+          "p_pc": 68.0,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 131,
+          "p": 144,
+          "s": 133,
+          "tot_score": 408,
+          "pc_score": 68.0,
+          "m_pc": 65.5,
+          "p_pc": 72.0,
+          "s_pc": 66.5
+        }
+      ],
+      "n": 2,
+      "m": 259,
+      "m_pc": 64.8,
+      "p": 280,
+      "p_pc": 70.0,
+      "s": 265,
+      "s_pc": 66.3,
+      "tot_score": 804,
+      "pc_score": 67.0
+    },
+    {
+      "rank": 5,
+      "name": "Q. E. D.",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Honey's Lovin' Arms",
+          "m": 132,
+          "p": 122,
+          "s": 128,
+          "tot_score": 382,
+          "pc_score": 63.7,
+          "m_pc": 66.0,
+          "p_pc": 61.0,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 133,
+          "p": 128,
+          "s": 135,
+          "tot_score": 396,
+          "pc_score": 66.0,
+          "m_pc": 66.5,
+          "p_pc": 64.0,
+          "s_pc": 67.5
+        }
+      ],
+      "n": 2,
+      "m": 265,
+      "m_pc": 66.3,
+      "p": 250,
+      "p_pc": 62.5,
+      "s": 263,
+      "s_pc": 65.8,
+      "tot_score": 778,
+      "pc_score": 64.8
+    },
+    {
+      "rank": 6,
+      "name": "This Way Up",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 123,
+          "p": 133,
+          "s": 128,
+          "tot_score": 384,
+          "pc_score": 64.0,
+          "m_pc": 61.5,
+          "p_pc": 66.5,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 121,
+          "p": 132,
+          "s": 119,
+          "tot_score": 372,
+          "pc_score": 62.0,
+          "m_pc": 60.5,
+          "p_pc": 66.0,
+          "s_pc": 59.5
+        }
+      ],
+      "n": 2,
+      "m": 244,
+      "m_pc": 61.0,
+      "p": 265,
+      "p_pc": 66.3,
+      "s": 247,
+      "s_pc": 61.8,
+      "tot_score": 756,
+      "pc_score": 63.0
+    },
+    {
+      "rank": 7,
+      "name": "Arrival",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 131,
+          "p": 120,
+          "s": 122,
+          "tot_score": 373,
+          "pc_score": 62.2,
+          "m_pc": 65.5,
+          "p_pc": 60.0,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 132,
+          "p": 124,
+          "s": 122,
+          "tot_score": 378,
+          "pc_score": 63.0,
+          "m_pc": 66.0,
+          "p_pc": 62.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 263,
+      "m_pc": 65.8,
+      "p": 244,
+      "p_pc": 61.0,
+      "s": 244,
+      "s_pc": 61.0,
+      "tot_score": 751,
+      "pc_score": 62.6
+    },
+    {
+      "rank": 8,
+      "name": "Revelation",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Song Is Ended",
+          "m": 122,
+          "p": 125,
+          "s": 122,
+          "tot_score": 369,
+          "pc_score": 61.5,
+          "m_pc": 61.0,
+          "p_pc": 62.5,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "Dream A Little Dream Of Me",
+          "m": 123,
+          "p": 122,
+          "s": 125,
+          "tot_score": 370,
+          "pc_score": 61.7,
+          "m_pc": 61.5,
+          "p_pc": 61.0,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 245,
+      "m_pc": 61.3,
+      "p": 247,
+      "p_pc": 61.8,
+      "s": 247,
+      "s_pc": 61.8,
+      "tot_score": 739,
+      "pc_score": 61.6
+    },
+    {
+      "rank": 9,
+      "name": "Midlife Crisis",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Basin Street Blues",
+          "m": 134,
+          "p": 118,
+          "s": 120,
+          "tot_score": 372,
+          "pc_score": 62.0,
+          "m_pc": 67.0,
+          "p_pc": 59.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 126,
+          "p": 114,
+          "s": 122,
+          "tot_score": 362,
+          "pc_score": 60.3,
+          "m_pc": 63.0,
+          "p_pc": 57.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 260,
+      "m_pc": 65.0,
+      "p": 232,
+      "p_pc": 58.0,
+      "s": 242,
+      "s_pc": 60.5,
+      "tot_score": 734,
+      "pc_score": 61.2
+    },
+    {
+      "rank": 10,
+      "name": "True Colours",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'd Love To Meet That Old Sweetheart Of Mine",
+          "m": 124,
+          "p": 115,
+          "s": 120,
+          "tot_score": 359,
+          "pc_score": 59.8,
+          "m_pc": 62.0,
+          "p_pc": 57.5,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 125,
+          "p": 116,
+          "s": 122,
+          "tot_score": 363,
+          "pc_score": 60.5,
+          "m_pc": 62.5,
+          "p_pc": 58.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 249,
+      "m_pc": 62.3,
+      "p": 231,
+      "p_pc": 57.8,
+      "s": 242,
+      "s_pc": 60.5,
+      "tot_score": 722,
+      "pc_score": 60.2
+    },
+    {
+      "rank": 11,
+      "name": "Fusion",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 124,
+          "p": 117,
+          "s": 115,
+          "tot_score": 356,
+          "pc_score": 59.3,
+          "m_pc": 62.0,
+          "p_pc": 58.5,
+          "s_pc": 57.5
+        },
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 124,
+          "p": 119,
+          "s": 113,
+          "tot_score": 356,
+          "pc_score": 59.3,
+          "m_pc": 62.0,
+          "p_pc": 59.5,
+          "s_pc": 56.5
+        }
+      ],
+      "n": 2,
+      "m": 248,
+      "m_pc": 62.0,
+      "p": 236,
+      "p_pc": 59.0,
+      "s": 228,
+      "s_pc": 57.0,
+      "tot_score": 712,
+      "pc_score": 59.3
+    },
+    {
+      "rank": 12,
+      "name": "Vocal Icing",
+      "songs": [
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 119,
+          "p": 113,
+          "s": 113,
+          "tot_score": 345,
+          "pc_score": 57.5,
+          "m_pc": 59.5,
+          "p_pc": 56.5,
+          "s_pc": 56.5
+        },
+        {
+          "n": 1,
+          "name": "It's Just A Little Street",
+          "m": 120,
+          "p": 110,
+          "s": 110,
+          "tot_score": 340,
+          "pc_score": 56.7,
+          "m_pc": 60.0,
+          "p_pc": 55.0,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 239,
+      "m_pc": 59.8,
+      "p": 223,
+      "p_pc": 55.8,
+      "s": 223,
+      "s_pc": 55.8,
+      "tot_score": 685,
+      "pc_score": 57.1
+    },
+    {
+      "rank": 13,
+      "name": "A Cappella Fellas",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Oh! You Beautiful Doll",
+          "m": 116,
+          "p": 111,
+          "s": 110,
+          "tot_score": 337,
+          "pc_score": 56.2,
+          "m_pc": 58.0,
+          "p_pc": 55.5,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 116,
+          "p": 114,
+          "s": 109,
+          "tot_score": 339,
+          "pc_score": 56.5,
+          "m_pc": 58.0,
+          "p_pc": 57.0,
+          "s_pc": 54.5
+        }
+      ],
+      "n": 2,
+      "m": 232,
+      "m_pc": 58.0,
+      "p": 225,
+      "p_pc": 56.3,
+      "s": 219,
+      "s_pc": 54.8,
+      "tot_score": 676,
+      "pc_score": 56.3
+    },
+    {
+      "rank": 14,
+      "name": "Rockaholix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 116,
+          "p": 112,
+          "s": 109,
+          "tot_score": 337,
+          "pc_score": 56.2,
+          "m_pc": 58.0,
+          "p_pc": 56.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 118,
+          "p": 112,
+          "s": 104,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 59.0,
+          "p_pc": 56.0,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 234,
+      "m_pc": 58.5,
+      "p": 224,
+      "p_pc": 56.0,
+      "s": 213,
+      "s_pc": 53.3,
+      "tot_score": 671,
+      "pc_score": 55.9
+    },
+    {
+      "rank": 15,
+      "name": "Speculation",
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Just A Little Street",
+          "m": 110,
+          "p": 113,
+          "s": 111,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 55.0,
+          "p_pc": 56.5,
+          "s_pc": 55.5
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 108,
+          "p": 113,
+          "s": 108,
+          "tot_score": 329,
+          "pc_score": 54.8,
+          "m_pc": 54.0,
+          "p_pc": 56.5,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 218,
+      "m_pc": 54.5,
+      "p": 226,
+      "p_pc": 56.5,
+      "s": 219,
+      "s_pc": 54.8,
+      "tot_score": 663,
+      "pc_score": 55.3
+    },
+    {
+      "rank": 16,
+      "name": "Almost Gentlemen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 109,
+          "p": 110,
+          "s": 108,
+          "tot_score": 327,
+          "pc_score": 54.5,
+          "m_pc": 54.5,
+          "p_pc": 55.0,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 106,
+          "p": 108,
+          "s": 104,
+          "tot_score": 318,
+          "pc_score": 53.0,
+          "m_pc": 53.0,
+          "p_pc": 54.0,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 215,
+      "m_pc": 53.8,
+      "p": 218,
+      "p_pc": 54.5,
+      "s": 212,
+      "s_pc": 53.0,
+      "tot_score": 645,
+      "pc_score": 53.8
+    },
+    {
+      "rank": 17,
+      "name": "Accord",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 101,
+          "p": 107,
+          "s": 105,
+          "tot_score": 313,
+          "pc_score": 52.2,
+          "m_pc": 50.5,
+          "p_pc": 53.5,
+          "s_pc": 52.5
+        },
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 102,
+          "p": 106,
+          "s": 102,
+          "tot_score": 310,
+          "pc_score": 51.7,
+          "m_pc": 51.0,
+          "p_pc": 53.0,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 203,
+      "m_pc": 50.8,
+      "p": 213,
+      "p_pc": 53.3,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 623,
+      "pc_score": 51.9
+    }
+  ]
+}

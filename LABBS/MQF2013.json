@@ -30,31 +30,31 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     }
   ],
@@ -70,19 +70,19 @@
       "pc_score": "71.8",
       "songs": [
         {
-          "title": "You Belong To Me",
+          "name": "You Belong To Me",
           "m": "151",
           "s": "143",
           "p": "142"
         },
         {
-          "title": "Georgia May",
+          "name": "Georgia May",
           "m": "144",
           "s": "139",
           "p": "142"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Warner"
@@ -111,19 +111,19 @@
       "pc_score": "70.4",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "145",
           "s": "140",
           "p": "145"
         },
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "143",
           "s": "135",
           "p": "137"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ali Jack"
@@ -152,19 +152,19 @@
       "pc_score": "67.3",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "145",
           "s": "132",
           "p": "139"
         },
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "131",
           "s": "128",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Delyth Knight"
@@ -193,19 +193,19 @@
       "pc_score": "66.3",
       "songs": [
         {
-          "title": "The Party's Over",
+          "name": "The Party's Over",
           "m": "132",
           "s": "133",
           "p": "138"
         },
         {
-          "title": "Bare Necessities",
+          "name": "Bare Necessities",
           "m": "135",
           "s": "126",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Cherie Morgan"
@@ -234,19 +234,19 @@
       "pc_score": "64.9",
       "songs": [
         {
-          "title": "Young And Foolish",
+          "name": "Young And Foolish",
           "m": "128",
           "s": "126",
           "p": "124"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "130",
           "s": "134",
           "p": "137"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alison Soutar"
@@ -275,19 +275,19 @@
       "pc_score": "64.4",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "124",
           "s": "127",
           "p": "133"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "133",
           "s": "128",
           "p": "128"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emma McManus"
@@ -316,19 +316,19 @@
       "pc_score": "63.7",
       "songs": [
         {
-          "title": "Since I Don't Have You",
+          "name": "Since I Don't Have You",
           "m": "130",
           "s": "128",
           "p": "121"
         },
         {
-          "title": "Good Luck Charm",
+          "name": "Good Luck Charm",
           "m": "128",
           "s": "127",
           "p": "130"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hooker"
@@ -357,19 +357,19 @@
       "pc_score": "62.7",
       "songs": [
         {
-          "title": "Bare Necessities",
+          "name": "Bare Necessities",
           "m": "122",
           "s": "122",
           "p": "127"
         },
         {
-          "title": "Ain't Misbehavin'",
+          "name": "Ain't Misbehavin'",
           "m": "128",
           "s": "129",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Louise Jourdan"
@@ -398,19 +398,19 @@
       "pc_score": "60.1",
       "songs": [
         {
-          "title": "Nevertheless",
+          "name": "Nevertheless",
           "m": "119",
           "s": "121",
           "p": "122"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "121",
           "s": "118",
           "p": "120"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Una Woodhead"

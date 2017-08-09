@@ -1,0 +1,155 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1998-99-QP-SEN-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL SENIORS QUARTET PRELIM",
+  "location": "SHEFFIELD",
+  "year": "1998/99",
+  "type": "q",
+  "date": "05/12/1998",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    },
+    {
+      "cat": "a",
+      "name": "Arthur Scott"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Take Note",
+      "songs": [
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 171,
+          "p": 203,
+          "s": 192,
+          "tot_score": 566,
+          "pc_score": 47.2,
+          "m_pc": 42.8,
+          "p_pc": 50.8,
+          "s_pc": 48.0
+        },
+        {
+          "n": 1,
+          "name": "Ro Ro Rollin' Along",
+          "m": 183,
+          "p": 193,
+          "s": 183,
+          "tot_score": 559,
+          "pc_score": 46.6,
+          "m_pc": 45.8,
+          "p_pc": 48.3,
+          "s_pc": 45.8
+        }
+      ],
+      "n": 2,
+      "m": 354,
+      "m_pc": 44.3,
+      "p": 396,
+      "p_pc": 49.5,
+      "s": 375,
+      "s_pc": 46.9,
+      "tot_score": 1125,
+      "pc_score": 46.9
+    },
+    {
+      "rank": 2,
+      "name": "Top C",
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Knew Susie",
+          "m": 187,
+          "p": 171,
+          "s": 186,
+          "tot_score": 544,
+          "pc_score": 45.3,
+          "m_pc": 46.8,
+          "p_pc": 42.8,
+          "s_pc": 46.5
+        },
+        {
+          "n": 1,
+          "name": "When You And I Were Young, Maggie",
+          "m": 178,
+          "p": 181,
+          "s": 184,
+          "tot_score": 543,
+          "pc_score": 45.3,
+          "m_pc": 44.5,
+          "p_pc": 45.3,
+          "s_pc": 46.0
+        }
+      ],
+      "n": 2,
+      "m": 365,
+      "m_pc": 45.6,
+      "p": 352,
+      "p_pc": 44.0,
+      "s": 370,
+      "s_pc": 46.3,
+      "tot_score": 1087,
+      "pc_score": 45.3
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2000-01-QF-EU-Detail.txt",
+  "assoc": "BABS",
+  "contest": "EUROPEAN QUARTET FINAL",
+  "location": "GLASGOW",
+  "year": "2000/01",
+  "type": "q",
+  "date": "06/05/2001",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "p",
+      "name": "Kjell Lindberg"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Isiger"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "Lars Holmstrom"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Jambalaya",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Way You Look Tonight",
+          "m": 281,
+          "p": 314,
+          "s": 310,
+          "tot_score": 905,
+          "pc_score": 75.4,
+          "m_pc": 70.3,
+          "p_pc": 78.5,
+          "s_pc": 77.5
+        },
+        {
+          "n": 1,
+          "name": "I Can't Give You Anything But Love",
+          "m": 313,
+          "p": 328,
+          "s": 306,
+          "tot_score": 947,
+          "pc_score": 78.9,
+          "m_pc": 78.3,
+          "p_pc": 82.0,
+          "s_pc": 76.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 646.0,
+          "p": 634.0,
+          "s": 632.0,
+          "tot_score": 1912.0,
+          "pc_score": 79.7,
+          "m_pc": 80.8,
+          "p_pc": 79.3,
+          "s_pc": 79.0
+        }
+      ],
+      "n": 4,
+      "m": 1240.0,
+      "m_pc": 77.5,
+      "p": 1276.0,
+      "p_pc": 79.8,
+      "s": 1248.0,
+      "s_pc": 78.0,
+      "tot_score": 3764.0,
+      "pc_score": 78.4
+    },
+    {
+      "rank": 2,
+      "name": "Matrix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When My Baby Smiles At Me",
+          "m": 325,
+          "p": 306,
+          "s": 303,
+          "tot_score": 934,
+          "pc_score": 77.8,
+          "m_pc": 81.3,
+          "p_pc": 76.5,
+          "s_pc": 75.8
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 331,
+          "p": 321,
+          "s": 299,
+          "tot_score": 951,
+          "pc_score": 79.3,
+          "m_pc": 82.8,
+          "p_pc": 80.3,
+          "s_pc": 74.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 620.0,
+          "p": 591.0,
+          "s": 570.0,
+          "tot_score": 1781.0,
+          "pc_score": 74.2,
+          "m_pc": 77.5,
+          "p_pc": 73.9,
+          "s_pc": 71.3
+        }
+      ],
+      "n": 4,
+      "m": 1276.0,
+      "m_pc": 79.8,
+      "p": 1218.0,
+      "p_pc": 76.1,
+      "s": 1172.0,
+      "s_pc": 73.3,
+      "tot_score": 3666.0,
+      "pc_score": 76.4
+    },
+    {
+      "rank": 3,
+      "name": "The Light Industrial Choral Society",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Dry Your Tears When You Cry?",
+          "m": 300,
+          "p": 292,
+          "s": 278,
+          "tot_score": 870,
+          "pc_score": 72.5,
+          "m_pc": 75.0,
+          "p_pc": 73.0,
+          "s_pc": 69.5
+        },
+        {
+          "n": 1,
+          "name": "I'd Love To Fall Asleep And Wake Up In My Mammy's Arms",
+          "m": 294,
+          "p": 299,
+          "s": 274,
+          "tot_score": 867,
+          "pc_score": 72.3,
+          "m_pc": 73.5,
+          "p_pc": 74.8,
+          "s_pc": 68.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 639.0,
+          "p": 625.0,
+          "s": 595.0,
+          "tot_score": 1859.0,
+          "pc_score": 77.5,
+          "m_pc": 79.9,
+          "p_pc": 78.1,
+          "s_pc": 74.4
+        }
+      ],
+      "n": 4,
+      "m": 1233.0,
+      "m_pc": 77.1,
+      "p": 1216.0,
+      "p_pc": 76.0,
+      "s": 1147.0,
+      "s_pc": 71.7,
+      "tot_score": 3596.0,
+      "pc_score": 74.9
+    },
+    {
+      "rank": 4,
+      "name": "Scandinavian Shuffle",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Walkin' Medley",
+          "m": 298,
+          "p": 301,
+          "s": 287,
+          "tot_score": 886,
+          "pc_score": 73.8,
+          "m_pc": 74.5,
+          "p_pc": 75.3,
+          "s_pc": 71.8
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 308,
+          "p": 307,
+          "s": 287,
+          "tot_score": 902,
+          "pc_score": 75.2,
+          "m_pc": 77.0,
+          "p_pc": 76.8,
+          "s_pc": 71.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 609.0,
+          "p": 591.0,
+          "s": 571.0,
+          "tot_score": 1771.0,
+          "pc_score": 73.8,
+          "m_pc": 76.1,
+          "p_pc": 73.9,
+          "s_pc": 71.4
+        }
+      ],
+      "n": 4,
+      "m": 1215.0,
+      "m_pc": 75.9,
+      "p": 1199.0,
+      "p_pc": 74.9,
+      "s": 1145.0,
+      "s_pc": 71.6,
+      "tot_score": 3559.0,
+      "pc_score": 74.1
+    },
+    {
+      "rank": 5,
+      "name": "Sonic",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Always",
+          "m": 299,
+          "p": 293,
+          "s": 278,
+          "tot_score": 870,
+          "pc_score": 72.5,
+          "m_pc": 74.8,
+          "p_pc": 73.3,
+          "s_pc": 69.5
+        },
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 293,
+          "p": 291,
+          "s": 268,
+          "tot_score": 852,
+          "pc_score": 71.0,
+          "m_pc": 73.3,
+          "p_pc": 72.8,
+          "s_pc": 67.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 607.0,
+          "p": 571.0,
+          "s": 558.0,
+          "tot_score": 1736.0,
+          "pc_score": 72.3,
+          "m_pc": 75.9,
+          "p_pc": 71.4,
+          "s_pc": 69.8
+        }
+      ],
+      "n": 4,
+      "m": 1199.0,
+      "m_pc": 74.9,
+      "p": 1155.0,
+      "p_pc": 72.2,
+      "s": 1104.0,
+      "s_pc": 69.0,
+      "tot_score": 3458.0,
+      "pc_score": 72.0
+    },
+    {
+      "rank": 6,
+      "name": "The Likely Lads",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 295,
+          "p": 284,
+          "s": 271,
+          "tot_score": 850,
+          "pc_score": 70.8,
+          "m_pc": 73.8,
+          "p_pc": 71.0,
+          "s_pc": 67.8
+        },
+        {
+          "n": 1,
+          "name": "At The End Of The Day With You",
+          "m": 292,
+          "p": 281,
+          "s": 270,
+          "tot_score": 843,
+          "pc_score": 70.3,
+          "m_pc": 73.0,
+          "p_pc": 70.3,
+          "s_pc": 67.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 584.0,
+          "p": 564.0,
+          "s": 538.0,
+          "tot_score": 1686.0,
+          "pc_score": 70.3,
+          "m_pc": 73.0,
+          "p_pc": 70.5,
+          "s_pc": 67.3
+        }
+      ],
+      "n": 4,
+      "m": 1171.0,
+      "m_pc": 73.2,
+      "p": 1129.0,
+      "p_pc": 70.6,
+      "s": 1079.0,
+      "s_pc": 67.4,
+      "tot_score": 3379.0,
+      "pc_score": 70.4
+    },
+    {
+      "rank": 7,
+      "name": "Viertakt",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 280,
+          "p": 278,
+          "s": 280,
+          "tot_score": 838,
+          "pc_score": 69.8,
+          "m_pc": 70.0,
+          "p_pc": 69.5,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 280,
+          "p": 279,
+          "s": 270,
+          "tot_score": 829,
+          "pc_score": 69.1,
+          "m_pc": 70.0,
+          "p_pc": 69.8,
+          "s_pc": 67.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 560.0,
+          "p": 574.0,
+          "s": 537.0,
+          "tot_score": 1671.0,
+          "pc_score": 69.6,
+          "m_pc": 70.0,
+          "p_pc": 71.8,
+          "s_pc": 67.1
+        }
+      ],
+      "n": 4,
+      "m": 1120.0,
+      "m_pc": 70.0,
+      "p": 1131.0,
+      "p_pc": 70.7,
+      "s": 1087.0,
+      "s_pc": 67.9,
+      "tot_score": 3338.0,
+      "pc_score": 69.5
+    },
+    {
+      "rank": 8,
+      "name": "Take Four",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 294,
+          "p": 295,
+          "s": 277,
+          "tot_score": 866,
+          "pc_score": 72.2,
+          "m_pc": 73.5,
+          "p_pc": 73.8,
+          "s_pc": 69.3
+        },
+        {
+          "n": 1,
+          "name": "Star Medley",
+          "m": 286,
+          "p": 297,
+          "s": 277,
+          "tot_score": 860,
+          "pc_score": 71.7,
+          "m_pc": 71.5,
+          "p_pc": 74.3,
+          "s_pc": 69.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 519.0,
+          "p": 541.0,
+          "s": 536.0,
+          "tot_score": 1596.0,
+          "pc_score": 66.5,
+          "m_pc": 64.9,
+          "p_pc": 67.6,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 4,
+      "m": 1099.0,
+      "m_pc": 68.7,
+      "p": 1133.0,
+      "p_pc": 70.8,
+      "s": 1090.0,
+      "s_pc": 68.1,
+      "tot_score": 3322.0,
+      "pc_score": 69.2
+    },
+    {
+      "rank": 9,
+      "name": "Radio Times",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 271,
+          "p": 280,
+          "s": 263,
+          "tot_score": 814,
+          "pc_score": 67.8,
+          "m_pc": 67.8,
+          "p_pc": 70.0,
+          "s_pc": 65.8
+        },
+        {
+          "n": 1,
+          "name": "Pal Of My Cradle Days",
+          "m": 281,
+          "p": 280,
+          "s": 259,
+          "tot_score": 820,
+          "pc_score": 68.3,
+          "m_pc": 70.3,
+          "p_pc": 70.0,
+          "s_pc": 64.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 560.0,
+          "p": 552.0,
+          "s": 549.0,
+          "tot_score": 1661.0,
+          "pc_score": 69.2,
+          "m_pc": 70.0,
+          "p_pc": 69.0,
+          "s_pc": 68.6
+        }
+      ],
+      "n": 4,
+      "m": 1112.0,
+      "m_pc": 69.5,
+      "p": 1112.0,
+      "p_pc": 69.5,
+      "s": 1071.0,
+      "s_pc": 66.9,
+      "tot_score": 3295.0,
+      "pc_score": 68.6
+    }
+  ]
+}

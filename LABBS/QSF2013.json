@@ -42,31 +42,31 @@
       "name": "Sng Avg 1"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     }
   ],
@@ -82,19 +82,19 @@
       "pc_score": "77.1",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "230",
           "s": "231",
           "p": "228"
         },
         {
-          "title": "Don't Break The Heart That Loves You",
+          "name": "Don't Break The Heart That Loves You",
           "m": "232",
           "s": "234",
           "p": "233"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Karen Riley"
@@ -123,19 +123,19 @@
       "pc_score": "74.3",
       "songs": [
         {
-          "title": "I've Got A Feeling I'm Falling",
+          "name": "I've Got A Feeling I'm Falling",
           "m": "220",
           "s": "225",
           "p": "223"
         },
         {
-          "title": "If We Can't Be The Same Old Sweethearts",
+          "name": "If We Can't Be The Same Old Sweethearts",
           "m": "226",
           "s": "221",
           "p": "223"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -164,19 +164,19 @@
       "pc_score": "73.7",
       "songs": [
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "222",
           "s": "227",
           "p": "220"
         },
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "222",
           "s": "216",
           "p": "219"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emma McManus"
@@ -205,19 +205,19 @@
       "pc_score": "73.1",
       "songs": [
         {
-          "title": "Glory Of Love",
+          "name": "Glory Of Love",
           "m": "219",
           "s": "223",
           "p": "217"
         },
         {
-          "title": "On The Street Where You Live",
+          "name": "On The Street Where You Live",
           "m": "222",
           "s": "213",
           "p": "221"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hicks"
@@ -246,19 +246,19 @@
       "pc_score": "71.3",
       "songs": [
         {
-          "title": "Flirty Eyes",
+          "name": "Flirty Eyes",
           "m": "217",
           "s": "219",
           "p": "214"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "218",
           "s": "207",
           "p": "209"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Heidi Walsh"
@@ -287,19 +287,19 @@
       "pc_score": "67.9",
       "songs": [
         {
-          "title": "Love Medley",
+          "name": "Love Medley",
           "m": "199",
           "s": "210",
           "p": "200"
         },
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "208",
           "s": "203",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Lea"
@@ -328,19 +328,19 @@
       "pc_score": "67.8",
       "songs": [
         {
-          "title": "For The Sake Of Auld Lang Syne",
+          "name": "For The Sake Of Auld Lang Syne",
           "m": "200",
           "s": "197",
           "p": "204"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "205",
           "s": "210",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -369,19 +369,19 @@
       "pc_score": "66.4",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "192",
           "s": "201",
           "p": "198"
         },
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "204",
           "s": "199",
           "p": "201"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Beth Rothwell"
@@ -410,19 +410,19 @@
       "pc_score": "65.5",
       "songs": [
         {
-          "title": "Ya Gotta Know How To Love",
+          "name": "Ya Gotta Know How To Love",
           "m": "191",
           "s": "195",
           "p": "199"
         },
         {
-          "title": "I'm Gonna Love That Guy",
+          "name": "I'm Gonna Love That Guy",
           "m": "198",
           "s": "198",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Amanda Torkington"
@@ -451,19 +451,19 @@
       "pc_score": "65.1",
       "songs": [
         {
-          "title": "The Story Of The Rose",
+          "name": "The Story Of The Rose",
           "m": "195",
           "s": "191",
           "p": "202"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "190",
           "s": "195",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Janet Micklewright"
@@ -492,19 +492,19 @@
       "pc_score": "64.8",
       "songs": [
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "195",
           "s": "192",
           "p": "193"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "191",
           "s": "197",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jane Kuipers"
@@ -533,19 +533,19 @@
       "pc_score": "64.1",
       "songs": [
         {
-          "title": "As Long As You're Not In Love With Somebody Else / Undecided",
+          "name": "As Long As You're Not In Love With Somebody Else / Undecided",
           "m": "194",
           "s": "197",
           "p": "188"
         },
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "194",
           "s": "186",
           "p": "195"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Vickie China"
@@ -574,19 +574,19 @@
       "pc_score": "63.8",
       "songs": [
         {
-          "title": "Ain't Misbehavin'",
+          "name": "Ain't Misbehavin'",
           "m": "194",
           "s": "192",
           "p": "195"
         },
         {
-          "title": "Flying Sinatra Medley",
+          "name": "Flying Sinatra Medley",
           "m": "189",
           "s": "187",
           "p": "192"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Juliet Erskine"
@@ -615,19 +615,19 @@
       "pc_score": "62.5",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "185",
           "s": "183",
           "p": "191"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "182",
           "s": "192",
           "p": "192"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Caroline Bamford"
@@ -656,19 +656,19 @@
       "pc_score": "62.4",
       "songs": [
         {
-          "title": "Don't Sit Under The Apple Tree",
+          "name": "Don't Sit Under The Apple Tree",
           "m": "186",
           "s": "191",
           "p": "186"
         },
         {
-          "title": "I'll Be With You In Apple Blossom Time",
+          "name": "I'll Be With You In Apple Blossom Time",
           "m": "193",
           "s": "185",
           "p": "183"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Birtles"
@@ -697,19 +697,19 @@
       "pc_score": "61.4",
       "songs": [
         {
-          "title": "I Can't Give You Anything But Love / Steppin' Out With My Baby",
+          "name": "I Can't Give You Anything But Love / Steppin' Out With My Baby",
           "m": "182",
           "s": "181",
           "p": "185"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "185",
           "s": "186",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tina Ruggles"

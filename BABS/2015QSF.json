@@ -42,19 +42,19 @@
       "name": "Rhiannon Owens-Hall"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
@@ -70,19 +70,19 @@
       "pc_score": "80.2",
       "songs": [
         {
-          "title": "For Once In My Life",
+          "name": "For Once In My Life",
           "m": "235",
           "s": "243",
           "p": "244"
         },
         {
-          "title": "L-O - V-E",
+          "name": "L-O - V-E",
           "m": "245",
           "s": "240",
           "p": "236"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ben Ferguson"
@@ -111,19 +111,19 @@
       "pc_score": "79.1",
       "songs": [
         {
-          "title": "If I Loved You",
+          "name": "If I Loved You",
           "m": "243",
           "s": "240",
           "p": "240"
         },
         {
-          "title": "I Never Knew / I'm Getting Married In The Morning",
+          "name": "I Never Knew / I'm Getting Married In The Morning",
           "m": "239",
           "s": "228",
           "p": "233"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian James"
@@ -152,19 +152,19 @@
       "pc_score": "78.5",
       "songs": [
         {
-          "title": "Over The Rainbow",
+          "name": "Over The Rainbow",
           "m": "234",
           "s": "234",
           "p": "238"
         },
         {
-          "title": "South Rampart Street Parade",
+          "name": "South Rampart Street Parade",
           "m": "238",
           "s": "235",
           "p": "234"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James Williams"
@@ -193,19 +193,19 @@
       "pc_score": "75.9",
       "songs": [
         {
-          "title": "A Fool Such As I",
+          "name": "A Fool Such As I",
           "m": "231",
           "s": "220",
           "p": "230"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "223",
           "s": "231",
           "p": "232"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard Fisher"
@@ -234,19 +234,19 @@
       "pc_score": "74.6",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "231",
           "s": "218",
           "p": "230"
         },
         {
-          "title": "There's A Brand New Gang",
+          "name": "There's A Brand New Gang",
           "m": "214",
           "s": "223",
           "p": "227"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Edwards"
@@ -275,19 +275,19 @@
       "pc_score": "73.8",
       "songs": [
         {
-          "title": "Ain't That A Kick In The Head",
+          "name": "Ain't That A Kick In The Head",
           "m": "220",
           "s": "226",
           "p": "220"
         },
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "228",
           "s": "216",
           "p": "218"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Neil Firth"
@@ -316,19 +316,19 @@
       "pc_score": "70.3",
       "songs": [
         {
-          "title": "Old Fashioned Girl Medley",
+          "name": "Old Fashioned Girl Medley",
           "m": "213",
           "s": "203",
           "p": "214"
         },
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "209",
           "s": "214",
           "p": "213"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon Hunt"
@@ -357,19 +357,19 @@
       "pc_score": "67.2",
       "songs": [
         {
-          "title": "Razzle Dazzle",
+          "name": "Razzle Dazzle",
           "m": "197",
           "s": "204",
           "p": "208"
         },
         {
-          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
           "m": "204",
           "s": "200",
           "p": "196"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sam Hubbard"
@@ -398,19 +398,19 @@
       "pc_score": "67.2",
       "songs": [
         {
-          "title": "Sweet Adeline",
+          "name": "Sweet Adeline",
           "m": "198",
           "s": "201",
           "p": "199"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "201",
           "s": "204",
           "p": "206"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Salter"
@@ -439,19 +439,19 @@
       "pc_score": "66.4",
       "songs": [
         {
-          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
           "m": "203",
           "s": "203",
           "p": "191"
         },
         {
-          "title": "We Kinda Miss Those Good Old Songs",
+          "name": "We Kinda Miss Those Good Old Songs",
           "m": "198",
           "s": "196",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick Barnacle"
@@ -480,19 +480,19 @@
       "pc_score": "65.9",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "202",
           "s": "202",
           "p": "193"
         },
         {
-          "title": "When My Baby Smiles At Me",
+          "name": "When My Baby Smiles At Me",
           "m": "199",
           "s": "193",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Paul Jeffrey"
@@ -521,19 +521,19 @@
       "pc_score": "65.2",
       "songs": [
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "197",
           "s": "194",
           "p": "196"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "200",
           "s": "194",
           "p": "193"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Stephen Green"
@@ -562,19 +562,19 @@
       "pc_score": "65.2",
       "songs": [
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "200",
           "s": "192",
           "p": "198"
         },
         {
-          "title": "Last Night On The Back Porch",
+          "name": "Last Night On The Back Porch",
           "m": "192",
           "s": "195",
           "p": "196"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris Blatchford"
@@ -603,19 +603,19 @@
       "pc_score": "65.2",
       "songs": [
         {
-          "title": "Bye Bye Blackbird",
+          "name": "Bye Bye Blackbird",
           "m": "200",
           "s": "198",
           "p": "198"
         },
         {
-          "title": "April Showers",
+          "name": "April Showers",
           "m": "194",
           "s": "189",
           "p": "194"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mark Constable"
@@ -644,19 +644,19 @@
       "pc_score": "65.1",
       "songs": [
         {
-          "title": "Here Am I Broken Hearted",
+          "name": "Here Am I Broken Hearted",
           "m": "200",
           "s": "195",
           "p": "193"
         },
         {
-          "title": "Somebody Loves Me",
+          "name": "Somebody Loves Me",
           "m": "191",
           "s": "194",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Devine"
@@ -685,19 +685,19 @@
       "pc_score": "64.1",
       "songs": [
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "196",
           "s": "204",
           "p": "178"
         },
         {
-          "title": "Sweet And Lovely (Parody)",
+          "name": "Sweet And Lovely (Parody)",
           "m": "187",
           "s": "192",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nick Pawley"

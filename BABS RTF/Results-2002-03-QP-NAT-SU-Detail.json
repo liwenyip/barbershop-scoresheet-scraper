@@ -1,0 +1,326 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2002-03-QP-NAT-SU-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET PRELIM - SUNDAY",
+  "location": "WALSALL",
+  "year": "2002/03",
+  "type": "q",
+  "date": "13/10/2002",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When You Look In the Heart Of A Rose",
+          "m": 140,
+          "p": 141,
+          "s": 142,
+          "tot_score": 423,
+          "pc_score": 70.5,
+          "m_pc": 70.0,
+          "p_pc": 70.5,
+          "s_pc": 71.0
+        },
+        {
+          "n": 1,
+          "name": "Hello My Baby",
+          "m": 143,
+          "p": 136,
+          "s": 138,
+          "tot_score": 417,
+          "pc_score": 69.5,
+          "m_pc": 71.5,
+          "p_pc": 68.0,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 283,
+      "m_pc": 70.8,
+      "p": 277,
+      "p_pc": 69.3,
+      "s": 280,
+      "s_pc": 70.0,
+      "tot_score": 840,
+      "pc_score": 70.0
+    },
+    {
+      "rank": 2,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 136,
+          "p": 148,
+          "s": 125,
+          "tot_score": 409,
+          "pc_score": 68.2,
+          "m_pc": 68.0,
+          "p_pc": 74.0,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 124,
+          "p": 145,
+          "s": 128,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 62.0,
+          "p_pc": 72.5,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 260,
+      "m_pc": 65.0,
+      "p": 293,
+      "p_pc": 73.3,
+      "s": 253,
+      "s_pc": 63.3,
+      "tot_score": 806,
+      "pc_score": 67.2
+    },
+    {
+      "rank": 3,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "So Long, Mother",
+          "m": 127,
+          "p": 142,
+          "s": 128,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 63.5,
+          "p_pc": 71.0,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "Heart Of A Clown",
+          "m": 126,
+          "p": 143,
+          "s": 121,
+          "tot_score": 390,
+          "pc_score": 65.0,
+          "m_pc": 63.0,
+          "p_pc": 71.5,
+          "s_pc": 60.5
+        }
+      ],
+      "n": 2,
+      "m": 253,
+      "m_pc": 63.3,
+      "p": 285,
+      "p_pc": 71.3,
+      "s": 249,
+      "s_pc": 62.3,
+      "tot_score": 787,
+      "pc_score": 65.6
+    },
+    {
+      "rank": 4,
+      "name": "Four Across",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 108,
+          "p": 112,
+          "s": 118,
+          "tot_score": 338,
+          "pc_score": 56.3,
+          "m_pc": 54.0,
+          "p_pc": 56.0,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "I Love To Hear That Old Barbershop Style",
+          "m": 108,
+          "p": 108,
+          "s": 114,
+          "tot_score": 330,
+          "pc_score": 55.0,
+          "m_pc": 54.0,
+          "p_pc": 54.0,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 216,
+      "m_pc": 54.0,
+      "p": 220,
+      "p_pc": 55.0,
+      "s": 232,
+      "s_pc": 58.0,
+      "tot_score": 668,
+      "pc_score": 55.7
+    },
+    {
+      "rank": 5,
+      "name": "Speculation",
+      "songs": [
+        {
+          "n": 1,
+          "name": "A Little Street Where Old Friends Meet",
+          "m": 108,
+          "p": 121,
+          "s": 108,
+          "tot_score": 337,
+          "pc_score": 56.2,
+          "m_pc": 54.0,
+          "p_pc": 60.5,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "I Just Wanna Call You Mine",
+          "m": 105,
+          "p": 117,
+          "s": 107,
+          "tot_score": 329,
+          "pc_score": 54.8,
+          "m_pc": 52.5,
+          "p_pc": 58.5,
+          "s_pc": 53.5
+        }
+      ],
+      "n": 2,
+      "m": 213,
+      "m_pc": 53.3,
+      "p": 238,
+      "p_pc": 59.5,
+      "s": 215,
+      "s_pc": 53.8,
+      "tot_score": 666,
+      "pc_score": 55.5
+    },
+    {
+      "rank": 6,
+      "name": "Equinox",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sailin' Away On The Henry Clay",
+          "m": 110,
+          "p": 117,
+          "s": 106,
+          "tot_score": 333,
+          "pc_score": 55.5,
+          "m_pc": 55.0,
+          "p_pc": 58.5,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "I Can't Give You Anything But Love",
+          "m": 113,
+          "p": 113,
+          "s": 101,
+          "tot_score": 327,
+          "pc_score": 54.5,
+          "m_pc": 56.5,
+          "p_pc": 56.5,
+          "s_pc": 50.5
+        }
+      ],
+      "n": 2,
+      "m": 223,
+      "m_pc": 55.8,
+      "p": 230,
+      "p_pc": 57.5,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 660,
+      "pc_score": 55.0
+    },
+    {
+      "rank": 7,
+      "name": "Quadraphonic",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 119,
+          "p": 107,
+          "s": 110,
+          "tot_score": 336,
+          "pc_score": 56.0,
+          "m_pc": 59.5,
+          "p_pc": 53.5,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "Don't Bring Lulu",
+          "m": 111,
+          "p": 103,
+          "s": 104,
+          "tot_score": 318,
+          "pc_score": 53.0,
+          "m_pc": 55.5,
+          "p_pc": 51.5,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 230,
+      "m_pc": 57.5,
+      "p": 210,
+      "p_pc": 52.5,
+      "s": 214,
+      "s_pc": 53.5,
+      "tot_score": 654,
+      "pc_score": 54.5
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2013-2014-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "HARROGATE",
+  "year": "2013/2014",
+  "type": "q",
+  "date": "25/05/2014",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Nickie James"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "a",
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "RECKLESS",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy Foster"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan Whinyates"
+        },
+        {
+          "part": "bari",
+          "name": "Dale Kynaston"
+        },
+        {
+          "part": "bass",
+          "name": "Andy Funnell"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Tender Trap",
+          "m": 247,
+          "p": 236,
+          "s": 235,
+          "tot_score": 718,
+          "pc_score": 79.8,
+          "m_pc": 82.3,
+          "p_pc": 78.7,
+          "s_pc": 78.3
+        },
+        {
+          "n": 1,
+          "name": "The Very Thought Of You",
+          "m": 254,
+          "p": 247,
+          "s": 241,
+          "tot_score": 742,
+          "pc_score": 82.4,
+          "m_pc": 84.7,
+          "p_pc": 82.3,
+          "s_pc": 80.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 482.0,
+          "p": 476.0,
+          "s": 467.0,
+          "tot_score": 1425.0,
+          "pc_score": 79.2,
+          "m_pc": 80.3,
+          "p_pc": 79.3,
+          "s_pc": 77.8
+        }
+      ],
+      "n": 4,
+      "m": 983.0,
+      "m_pc": 81.9,
+      "p": 959.0,
+      "p_pc": 79.9,
+      "s": 943.0,
+      "s_pc": 78.6,
+      "tot_score": 2885.0,
+      "pc_score": 80.1
+    },
+    {
+      "rank": 2,
+      "name": "The Emerald Guard",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Antoine Kaiserman"
+        },
+        {
+          "part": "lead",
+          "name": "Tim Briggs"
+        },
+        {
+          "part": "bari",
+          "name": "Andy Allen"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan Blackeby"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Wouldn't Have Nothing If I Didn't Have You",
+          "m": 233,
+          "p": 233,
+          "s": 233,
+          "tot_score": 699,
+          "pc_score": 77.7,
+          "m_pc": 77.7,
+          "p_pc": 77.7,
+          "s_pc": 77.7
+        },
+        {
+          "n": 1,
+          "name": "Oklahoma",
+          "m": 237,
+          "p": 238,
+          "s": 234,
+          "tot_score": 709,
+          "pc_score": 78.8,
+          "m_pc": 79.0,
+          "p_pc": 79.3,
+          "s_pc": 78.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 470.0,
+          "p": 457.0,
+          "s": 456.0,
+          "tot_score": 1383.0,
+          "pc_score": 76.8,
+          "m_pc": 78.3,
+          "p_pc": 76.2,
+          "s_pc": 76.0
+        }
+      ],
+      "n": 4,
+      "m": 940.0,
+      "m_pc": 78.3,
+      "p": 928.0,
+      "p_pc": 77.3,
+      "s": 923.0,
+      "s_pc": 76.9,
+      "tot_score": 2791.0,
+      "pc_score": 77.5
+    },
+    {
+      "rank": 3,
+      "name": "Park Street",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Lawrence Hasson"
+        },
+        {
+          "part": "lead",
+          "name": "Alastair Hay-Plumb"
+        },
+        {
+          "part": "bari",
+          "name": "David Foot"
+        },
+        {
+          "part": "bass",
+          "name": "Simon Arnott"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Letters",
+          "m": 227,
+          "p": 238,
+          "s": 230,
+          "tot_score": 695,
+          "pc_score": 77.2,
+          "m_pc": 75.7,
+          "p_pc": 79.3,
+          "s_pc": 76.7
+        },
+        {
+          "n": 1,
+          "name": "Let's Do It (Let's Fall In Love)",
+          "m": 228,
+          "p": 234,
+          "s": 230,
+          "tot_score": 692,
+          "pc_score": 76.9,
+          "m_pc": 76.0,
+          "p_pc": 78.0,
+          "s_pc": 76.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 475.0,
+          "p": 467.0,
+          "s": 461.0,
+          "tot_score": 1403.0,
+          "pc_score": 77.9,
+          "m_pc": 79.2,
+          "p_pc": 77.8,
+          "s_pc": 76.8
+        }
+      ],
+      "n": 4,
+      "m": 930.0,
+      "m_pc": 77.5,
+      "p": 939.0,
+      "p_pc": 78.3,
+      "s": 921.0,
+      "s_pc": 76.8,
+      "tot_score": 2790.0,
+      "pc_score": 77.5
+    },
+    {
+      "rank": 4,
+      "name": "The Hanfris Quartet",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Jordi Forcadell"
+        },
+        {
+          "part": "lead",
+          "name": "Gener Salicr\u00fa"
+        },
+        {
+          "part": "bari",
+          "name": "Juan Bertrand"
+        },
+        {
+          "part": "bass",
+          "name": "Adri\u00e0 Sivilla"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Are So Beautiful",
+          "m": 221,
+          "p": 229,
+          "s": 226,
+          "tot_score": 676,
+          "pc_score": 75.1,
+          "m_pc": 73.7,
+          "p_pc": 76.3,
+          "s_pc": 75.3
+        },
+        {
+          "n": 1,
+          "name": "A Fool Such As I",
+          "m": 228,
+          "p": 230,
+          "s": 225,
+          "tot_score": 683,
+          "pc_score": 75.9,
+          "m_pc": 76.0,
+          "p_pc": 76.7,
+          "s_pc": 75.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 489.0,
+          "p": 460.0,
+          "s": 471.0,
+          "tot_score": 1420.0,
+          "pc_score": 78.9,
+          "m_pc": 81.5,
+          "p_pc": 76.7,
+          "s_pc": 78.5
+        }
+      ],
+      "n": 4,
+      "m": 938.0,
+      "m_pc": 78.2,
+      "p": 919.0,
+      "p_pc": 76.6,
+      "s": 922.0,
+      "s_pc": 76.8,
+      "tot_score": 2779.0,
+      "pc_score": 77.2
+    },
+    {
+      "rank": 5,
+      "name": "Portobello Road",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian James"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Schofield"
+        },
+        {
+          "part": "bari",
+          "name": "Steve Emery"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart Owen"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 223,
+          "p": 229,
+          "s": 229,
+          "tot_score": 681,
+          "pc_score": 75.7,
+          "m_pc": 74.3,
+          "p_pc": 76.3,
+          "s_pc": 76.3
+        },
+        {
+          "n": 1,
+          "name": "Destination Moon",
+          "m": 224,
+          "p": 228,
+          "s": 228,
+          "tot_score": 680,
+          "pc_score": 75.6,
+          "m_pc": 74.7,
+          "p_pc": 76.0,
+          "s_pc": 76.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 468.0,
+          "p": 466.0,
+          "s": 469.0,
+          "tot_score": 1403.0,
+          "pc_score": 77.9,
+          "m_pc": 78.0,
+          "p_pc": 77.7,
+          "s_pc": 78.2
+        }
+      ],
+      "n": 4,
+      "m": 915.0,
+      "m_pc": 76.3,
+      "p": 923.0,
+      "p_pc": 76.9,
+      "s": 926.0,
+      "s_pc": 77.2,
+      "tot_score": 2764.0,
+      "pc_score": 76.8
+    },
+    {
+      "rank": 6,
+      "name": "HomeSpun",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "James Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Eddie Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Williams"
+        },
+        {
+          "part": "bass",
+          "name": "Nigel Williams"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "All Aboard For Dixie Land",
+          "m": 213,
+          "p": 220,
+          "s": 211,
+          "tot_score": 644,
+          "pc_score": 71.6,
+          "m_pc": 71.0,
+          "p_pc": 73.3,
+          "s_pc": 70.3
+        },
+        {
+          "n": 1,
+          "name": "Mona Lisa",
+          "m": 220,
+          "p": 220,
+          "s": 212,
+          "tot_score": 652,
+          "pc_score": 72.4,
+          "m_pc": 73.3,
+          "p_pc": 73.3,
+          "s_pc": 70.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 446.0,
+          "p": 449.0,
+          "s": 437.0,
+          "tot_score": 1332.0,
+          "pc_score": 74.0,
+          "m_pc": 74.3,
+          "p_pc": 74.8,
+          "s_pc": 72.8
+        }
+      ],
+      "n": 4,
+      "m": 879.0,
+      "m_pc": 73.3,
+      "p": 889.0,
+      "p_pc": 74.1,
+      "s": 860.0,
+      "s_pc": 71.7,
+      "tot_score": 2628.0,
+      "pc_score": 73.0
+    },
+    {
+      "rank": 7,
+      "name": "Tagline",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ben Ferguson"
+        },
+        {
+          "part": "lead",
+          "name": "James Gower-Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Chris Langworthy"
+        },
+        {
+          "part": "bass",
+          "name": "Rob Foot"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "For Once In My Life",
+          "m": 228,
+          "p": 217,
+          "s": 221,
+          "tot_score": 666,
+          "pc_score": 74.0,
+          "m_pc": 76.0,
+          "p_pc": 72.3,
+          "s_pc": 73.7
+        },
+        {
+          "n": 1,
+          "name": "Ain't That A Kick In The Head",
+          "m": 221,
+          "p": 215,
+          "s": 218,
+          "tot_score": 654,
+          "pc_score": 72.7,
+          "m_pc": 73.7,
+          "p_pc": 71.7,
+          "s_pc": 72.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 444.0,
+          "p": 425.0,
+          "s": 436.0,
+          "tot_score": 1305.0,
+          "pc_score": 72.5,
+          "m_pc": 74.0,
+          "p_pc": 70.8,
+          "s_pc": 72.7
+        }
+      ],
+      "n": 4,
+      "m": 893.0,
+      "m_pc": 74.4,
+      "p": 857.0,
+      "p_pc": 71.4,
+      "s": 875.0,
+      "s_pc": 72.9,
+      "tot_score": 2625.0,
+      "pc_score": 72.9
+    },
+    {
+      "rank": 8,
+      "name": "QuarteTones",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Graham Harper"
+        },
+        {
+          "part": "lead",
+          "name": "Richard Gardner"
+        },
+        {
+          "part": "bari",
+          "name": "Alex du Bruin"
+        },
+        {
+          "part": "bass",
+          "name": "Iain Hallam"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Unsaid Things",
+          "m": 219,
+          "p": 215,
+          "s": 216,
+          "tot_score": 650,
+          "pc_score": 72.2,
+          "m_pc": 73.0,
+          "p_pc": 71.7,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "Too Much Love Will Kill You",
+          "m": 212,
+          "p": 218,
+          "s": 208,
+          "tot_score": 638,
+          "pc_score": 70.9,
+          "m_pc": 70.7,
+          "p_pc": 72.7,
+          "s_pc": 69.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 441.0,
+          "p": 442.0,
+          "s": 430.0,
+          "tot_score": 1313.0,
+          "pc_score": 72.9,
+          "m_pc": 73.5,
+          "p_pc": 73.7,
+          "s_pc": 71.7
+        }
+      ],
+      "n": 4,
+      "m": 872.0,
+      "m_pc": 72.7,
+      "p": 875.0,
+      "p_pc": 72.9,
+      "s": 854.0,
+      "s_pc": 71.2,
+      "tot_score": 2601.0,
+      "pc_score": 72.3
+    },
+    {
+      "rank": 9,
+      "name": "eXceL",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon Hunt"
+        },
+        {
+          "part": "lead",
+          "name": "Andy Salter"
+        },
+        {
+          "part": "bari",
+          "name": "Dave Whittle"
+        },
+        {
+          "part": "bass",
+          "name": "Jon Dawson"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Give Me A Barbershop Song",
+          "m": 205,
+          "p": 203,
+          "s": 206,
+          "tot_score": 614,
+          "pc_score": 68.2,
+          "m_pc": 68.3,
+          "p_pc": 67.7,
+          "s_pc": 68.7
+        },
+        {
+          "n": 1,
+          "name": "That Old Quartet Of Mine",
+          "m": 208,
+          "p": 207,
+          "s": 206,
+          "tot_score": 621,
+          "pc_score": 69.0,
+          "m_pc": 69.3,
+          "p_pc": 69.0,
+          "s_pc": 68.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 440.0,
+          "p": 435.0,
+          "s": 432.0,
+          "tot_score": 1307.0,
+          "pc_score": 72.6,
+          "m_pc": 73.3,
+          "p_pc": 72.5,
+          "s_pc": 72.0
+        }
+      ],
+      "n": 4,
+      "m": 853.0,
+      "m_pc": 71.1,
+      "p": 845.0,
+      "p_pc": 70.4,
+      "s": 844.0,
+      "s_pc": 70.3,
+      "tot_score": 2542.0,
+      "pc_score": 70.6
+    }
+  ]
+}

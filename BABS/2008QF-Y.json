@@ -42,27 +42,27 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1393",
-      "final_tot_score": "2774",
+      "prev_tot_score": "1393",
+      "tot_score": "2774",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -71,25 +71,25 @@
       "pc_score": "77.1",
       "songs": [
         {
-          "title": "Undecided Medley",
+          "name": "Undecided Medley",
           "m": "234",
           "s": "226",
           "p": "241"
         },
         {
-          "title": "What Kind Of Fool Am I",
+          "name": "What Kind Of Fool Am I",
           "m": "232",
           "s": "230",
           "p": "230"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "465",
           "s": "462",
           "p": "454"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alan"

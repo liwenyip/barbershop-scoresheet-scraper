@@ -1,0 +1,88 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-QPM-SEN-Detail.txt",
+  "assoc": "BABS",
+  "contest": "MIDLANDS SENIORS QUARTET PRELIM",
+  "location": "DERBY",
+  "year": "1997/98",
+  "type": "q",
+  "date": "08/11/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Silver Sound",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Moonlight Bay",
+          "m": 113,
+          "p": 103,
+          "s": 96,
+          "tot_score": 312,
+          "pc_score": 52.0,
+          "m_pc": 56.5,
+          "p_pc": 51.5,
+          "s_pc": 48.0
+        },
+        {
+          "n": 1,
+          "name": "Everybody Wants To Go To Heaven",
+          "m": 111,
+          "p": 111,
+          "s": 100,
+          "tot_score": 322,
+          "pc_score": 53.7,
+          "m_pc": 55.5,
+          "p_pc": 55.5,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 224,
+      "m_pc": 56.0,
+      "p": 214,
+      "p_pc": 53.5,
+      "s": 196,
+      "s_pc": 49.0,
+      "tot_score": 634,
+      "pc_score": 52.8
+    }
+  ]
+}

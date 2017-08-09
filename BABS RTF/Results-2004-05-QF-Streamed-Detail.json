@@ -1,0 +1,656 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2004-05-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "BRIGHTON",
+  "year": "2004/05",
+  "type": "q",
+  "date": "29/05/2005",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Joyce Stroud"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Andy Milner"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Works",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Here Am I Broken Hearted",
+          "m": 320,
+          "p": 308,
+          "s": 310,
+          "tot_score": 938,
+          "pc_score": 78.2,
+          "m_pc": 80.0,
+          "p_pc": 77.0,
+          "s_pc": 77.5
+        },
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 319,
+          "p": 302,
+          "s": 310,
+          "tot_score": 931,
+          "pc_score": 77.6,
+          "m_pc": 79.8,
+          "p_pc": 75.5,
+          "s_pc": 77.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 636.0,
+          "p": 573.0,
+          "s": 610.0,
+          "tot_score": 1819.0,
+          "pc_score": 75.8,
+          "m_pc": 79.5,
+          "p_pc": 71.6,
+          "s_pc": 76.3
+        }
+      ],
+      "n": 4,
+      "m": 1275.0,
+      "m_pc": 79.7,
+      "p": 1183.0,
+      "p_pc": 73.9,
+      "s": 1230.0,
+      "s_pc": 76.9,
+      "tot_score": 3688.0,
+      "pc_score": 76.8
+    },
+    {
+      "rank": 2,
+      "name": "Pitch Invasion",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Glory Of Love",
+          "m": 303,
+          "p": 302,
+          "s": 297,
+          "tot_score": 902,
+          "pc_score": 75.2,
+          "m_pc": 75.8,
+          "p_pc": 75.5,
+          "s_pc": 74.3
+        },
+        {
+          "n": 1,
+          "name": "From The First Hello To The Last Goodbye",
+          "m": 305,
+          "p": 302,
+          "s": 294,
+          "tot_score": 901,
+          "pc_score": 75.1,
+          "m_pc": 76.3,
+          "p_pc": 75.5,
+          "s_pc": 73.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 600.0,
+          "p": 586.0,
+          "s": 584.0,
+          "tot_score": 1770.0,
+          "pc_score": 73.8,
+          "m_pc": 75.0,
+          "p_pc": 73.3,
+          "s_pc": 73.0
+        }
+      ],
+      "n": 4,
+      "m": 1208.0,
+      "m_pc": 75.5,
+      "p": 1190.0,
+      "p_pc": 74.4,
+      "s": 1175.0,
+      "s_pc": 73.4,
+      "tot_score": 3573.0,
+      "pc_score": 74.4
+    },
+    {
+      "rank": 3,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 282,
+          "p": 285,
+          "s": 287,
+          "tot_score": 854,
+          "pc_score": 71.2,
+          "m_pc": 70.5,
+          "p_pc": 71.3,
+          "s_pc": 71.8
+        },
+        {
+          "n": 1,
+          "name": "Fly Me To The Moon",
+          "m": 285,
+          "p": 283,
+          "s": 279,
+          "tot_score": 847,
+          "pc_score": 70.6,
+          "m_pc": 71.3,
+          "p_pc": 70.8,
+          "s_pc": 69.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 603.0,
+          "p": 589.0,
+          "s": 576.0,
+          "tot_score": 1768.0,
+          "pc_score": 73.7,
+          "m_pc": 75.4,
+          "p_pc": 73.6,
+          "s_pc": 72.0
+        }
+      ],
+      "n": 4,
+      "m": 1170.0,
+      "m_pc": 73.1,
+      "p": 1157.0,
+      "p_pc": 72.3,
+      "s": 1142.0,
+      "s_pc": 71.4,
+      "tot_score": 3469.0,
+      "pc_score": 72.3
+    },
+    {
+      "rank": 4,
+      "name": "Gentleman Jack",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 298,
+          "p": 283,
+          "s": 296,
+          "tot_score": 877,
+          "pc_score": 73.1,
+          "m_pc": 74.5,
+          "p_pc": 70.8,
+          "s_pc": 74.0
+        },
+        {
+          "n": 1,
+          "name": "Crazy Rhythm / Fascinating Rhythm Medley",
+          "m": 294,
+          "p": 278,
+          "s": 286,
+          "tot_score": 858,
+          "pc_score": 71.5,
+          "m_pc": 73.5,
+          "p_pc": 69.5,
+          "s_pc": 71.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 571.0,
+          "p": 554.0,
+          "s": 568.0,
+          "tot_score": 1693.0,
+          "pc_score": 70.5,
+          "m_pc": 71.4,
+          "p_pc": 69.3,
+          "s_pc": 71.0
+        }
+      ],
+      "n": 4,
+      "m": 1163.0,
+      "m_pc": 72.7,
+      "p": 1115.0,
+      "p_pc": 69.7,
+      "s": 1150.0,
+      "s_pc": 71.9,
+      "tot_score": 3428.0,
+      "pc_score": 71.4
+    },
+    {
+      "rank": 5,
+      "name": "Q. E. D.",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Honey's Lovin' Arms",
+          "m": 283,
+          "p": 268,
+          "s": 271,
+          "tot_score": 822,
+          "pc_score": 68.5,
+          "m_pc": 70.8,
+          "p_pc": 67.0,
+          "s_pc": 67.8
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 287,
+          "p": 269,
+          "s": 278,
+          "tot_score": 834,
+          "pc_score": 69.5,
+          "m_pc": 71.8,
+          "p_pc": 67.3,
+          "s_pc": 69.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 555.0,
+          "p": 513.0,
+          "s": 534.0,
+          "tot_score": 1602.0,
+          "pc_score": 66.8,
+          "m_pc": 69.4,
+          "p_pc": 64.1,
+          "s_pc": 66.8
+        }
+      ],
+      "n": 4,
+      "m": 1125.0,
+      "m_pc": 70.3,
+      "p": 1050.0,
+      "p_pc": 65.6,
+      "s": 1083.0,
+      "s_pc": 67.7,
+      "tot_score": 3258.0,
+      "pc_score": 67.9
+    },
+    {
+      "rank": 6,
+      "name": "This Way Up",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Nobody's Sweetheart",
+          "m": 268,
+          "p": 261,
+          "s": 261,
+          "tot_score": 790,
+          "pc_score": 65.8,
+          "m_pc": 67.0,
+          "p_pc": 65.3,
+          "s_pc": 65.3
+        },
+        {
+          "n": 1,
+          "name": "Bill Bailey, Won't You Please Come Home?",
+          "m": 263,
+          "p": 261,
+          "s": 261,
+          "tot_score": 785,
+          "pc_score": 65.4,
+          "m_pc": 65.8,
+          "p_pc": 65.3,
+          "s_pc": 65.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 554.0,
+          "p": 540.0,
+          "s": 521.0,
+          "tot_score": 1615.0,
+          "pc_score": 67.3,
+          "m_pc": 69.3,
+          "p_pc": 67.5,
+          "s_pc": 65.1
+        }
+      ],
+      "n": 4,
+      "m": 1085.0,
+      "m_pc": 67.8,
+      "p": 1062.0,
+      "p_pc": 66.4,
+      "s": 1043.0,
+      "s_pc": 65.2,
+      "tot_score": 3190.0,
+      "pc_score": 66.5
+    },
+    {
+      "rank": 7,
+      "name": "Absolut",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 317,
+          "p": 301,
+          "s": 309,
+          "tot_score": 927,
+          "pc_score": 77.3,
+          "m_pc": 79.3,
+          "p_pc": 75.3,
+          "s_pc": 77.3
+        },
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 326,
+          "p": 314,
+          "s": 305,
+          "tot_score": 945,
+          "pc_score": 78.8,
+          "m_pc": 81.5,
+          "p_pc": 78.5,
+          "s_pc": 76.3
+        }
+      ],
+      "n": 2,
+      "m": 643,
+      "m_pc": 80.4,
+      "p": 615,
+      "p_pc": 76.9,
+      "s": 614,
+      "s_pc": 76.8,
+      "tot_score": 1872,
+      "pc_score": 78.0
+    },
+    {
+      "rank": 8,
+      "name": "Radio Times",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 272,
+          "p": 266,
+          "s": 260,
+          "tot_score": 798,
+          "pc_score": 66.5,
+          "m_pc": 68.0,
+          "p_pc": 66.5,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 272,
+          "p": 273,
+          "s": 266,
+          "tot_score": 811,
+          "pc_score": 67.6,
+          "m_pc": 68.0,
+          "p_pc": 68.3,
+          "s_pc": 66.5
+        }
+      ],
+      "n": 2,
+      "m": 544,
+      "m_pc": 68.0,
+      "p": 539,
+      "p_pc": 67.4,
+      "s": 526,
+      "s_pc": 65.8,
+      "tot_score": 1609,
+      "pc_score": 67.0
+    },
+    {
+      "rank": 9,
+      "name": "Quarterstones",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Little Boy",
+          "m": 274,
+          "p": 262,
+          "s": 283,
+          "tot_score": 819,
+          "pc_score": 68.3,
+          "m_pc": 68.5,
+          "p_pc": 65.5,
+          "s_pc": 70.8
+        },
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 256,
+          "p": 260,
+          "s": 273,
+          "tot_score": 789,
+          "pc_score": 65.8,
+          "m_pc": 64.0,
+          "p_pc": 65.0,
+          "s_pc": 68.3
+        }
+      ],
+      "n": 2,
+      "m": 530,
+      "m_pc": 66.3,
+      "p": 522,
+      "p_pc": 65.3,
+      "s": 556,
+      "s_pc": 69.5,
+      "tot_score": 1608,
+      "pc_score": 67.0
+    },
+    {
+      "rank": 10,
+      "name": "Inflagranti",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 275,
+          "p": 256,
+          "s": 260,
+          "tot_score": 791,
+          "pc_score": 65.9,
+          "m_pc": 68.8,
+          "p_pc": 64.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "How Deep Is The Ocean",
+          "m": 272,
+          "p": 258,
+          "s": 257,
+          "tot_score": 787,
+          "pc_score": 65.6,
+          "m_pc": 68.0,
+          "p_pc": 64.5,
+          "s_pc": 64.3
+        }
+      ],
+      "n": 2,
+      "m": 547,
+      "m_pc": 68.4,
+      "p": 514,
+      "p_pc": 64.3,
+      "s": 517,
+      "s_pc": 64.6,
+      "tot_score": 1578,
+      "pc_score": 65.8
+    },
+    {
+      "rank": 11,
+      "name": "Unlimited",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old Man Time",
+          "m": 266,
+          "p": 251,
+          "s": 266,
+          "tot_score": 783,
+          "pc_score": 65.3,
+          "m_pc": 66.5,
+          "p_pc": 62.8,
+          "s_pc": 66.5
+        },
+        {
+          "n": 1,
+          "name": "The Little Boy",
+          "m": 264,
+          "p": 253,
+          "s": 270,
+          "tot_score": 787,
+          "pc_score": 65.6,
+          "m_pc": 66.0,
+          "p_pc": 63.3,
+          "s_pc": 67.5
+        }
+      ],
+      "n": 2,
+      "m": 530,
+      "m_pc": 66.3,
+      "p": 504,
+      "p_pc": 63.0,
+      "s": 536,
+      "s_pc": 67.0,
+      "tot_score": 1570,
+      "pc_score": 65.4
+    },
+    {
+      "rank": 12,
+      "name": "Done Deal",
+      "songs": [
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 255,
+          "p": 254,
+          "s": 265,
+          "tot_score": 774,
+          "pc_score": 64.5,
+          "m_pc": 63.8,
+          "p_pc": 63.5,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "Sentimental Gentleman From Georgia",
+          "m": 257,
+          "p": 263,
+          "s": 264,
+          "tot_score": 784,
+          "pc_score": 65.3,
+          "m_pc": 64.3,
+          "p_pc": 65.8,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 2,
+      "m": 512,
+      "m_pc": 64.0,
+      "p": 517,
+      "p_pc": 64.6,
+      "s": 529,
+      "s_pc": 66.1,
+      "tot_score": 1558,
+      "pc_score": 64.9
+    },
+    {
+      "rank": 13,
+      "name": "Close Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 263,
+          "p": 241,
+          "s": 252,
+          "tot_score": 756,
+          "pc_score": 63.0,
+          "m_pc": 65.8,
+          "p_pc": 60.3,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 258,
+          "p": 241,
+          "s": 248,
+          "tot_score": 747,
+          "pc_score": 62.3,
+          "m_pc": 64.5,
+          "p_pc": 60.3,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 521,
+      "m_pc": 65.1,
+      "p": 482,
+      "p_pc": 60.3,
+      "s": 500,
+      "s_pc": 62.5,
+      "tot_score": 1503,
+      "pc_score": 62.6
+    }
+  ]
+}

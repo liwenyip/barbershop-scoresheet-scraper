@@ -42,27 +42,27 @@
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Hari Birtles"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
@@ -78,19 +78,19 @@
       "pc_score": "73.7",
       "songs": [
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "220",
           "s": "220",
           "p": "225"
         },
         {
-          "title": "Don't Break The Heart That Loves You",
+          "name": "Don't Break The Heart That Loves You",
           "m": "222",
           "s": "220",
           "p": "219"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Foster"
@@ -119,19 +119,19 @@
       "pc_score": "68.1",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "206",
           "s": "199",
           "p": "207"
         },
         {
-          "title": "How About Me?",
+          "name": "How About Me?",
           "m": "202",
           "s": "206",
           "p": "206"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lucy Edmonds"
@@ -160,19 +160,19 @@
       "pc_score": "67.4",
       "songs": [
         {
-          "title": "Ya Gotta Know How To Love / I Can't Give You Anything But Love",
+          "name": "Ya Gotta Know How To Love / I Can't Give You Anything But Love",
           "m": "204",
           "s": "212",
           "p": "197"
         },
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "207",
           "s": "195",
           "p": "199"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanne Lea"
@@ -201,19 +201,19 @@
       "pc_score": "66.9",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "200",
           "s": "200",
           "p": "196"
         },
         {
-          "title": "If I Love Again",
+          "name": "If I Love Again",
           "m": "203",
           "s": "205",
           "p": "200"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Karen Campbell"
@@ -242,19 +242,19 @@
       "pc_score": "66.8",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "201",
           "s": "196",
           "p": "205"
         },
         {
-          "title": "Flying Sinatra Medley",
+          "name": "Flying Sinatra Medley",
           "m": "196",
           "s": "201",
           "p": "204"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emma McManus"
@@ -283,19 +283,19 @@
       "pc_score": "65.7",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "193",
           "s": "203",
           "p": "187"
         },
         {
-          "title": "Good Luck Charm",
+          "name": "Good Luck Charm",
           "m": "199",
           "s": "200",
           "p": "200"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hooker"
@@ -324,19 +324,19 @@
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "193",
           "s": "200",
           "p": "193"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "194",
           "s": "197",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -365,19 +365,19 @@
       "pc_score": "62.8",
       "songs": [
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "190",
           "s": "186",
           "p": "193"
         },
         {
-          "title": "Jeepers Creepers",
+          "name": "Jeepers Creepers",
           "m": "187",
           "s": "188",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Vickie China"
@@ -406,19 +406,19 @@
       "pc_score": "61.8",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "184",
           "s": "184",
           "p": "185"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "188",
           "s": "188",
           "p": "184"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dot Cook"
@@ -447,19 +447,19 @@
       "pc_score": "59.1",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "174",
           "s": "169",
           "p": "177"
         },
         {
-          "title": "I've Been Waiting For Your Phone Call",
+          "name": "I've Been Waiting For Your Phone Call",
           "m": "180",
           "s": "179",
           "p": "185"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sharon King"
@@ -488,19 +488,19 @@
       "pc_score": "56.7",
       "songs": [
         {
-          "title": "In The Wee Small Hours Of The Morning",
+          "name": "In The Wee Small Hours Of The Morning",
           "m": "173",
           "s": "162",
           "p": "181"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "169",
           "s": "168",
           "p": "168"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Anita Sides"
@@ -529,19 +529,19 @@
       "pc_score": "56.1",
       "songs": [
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "175",
           "s": "156",
           "p": "189"
         },
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "161",
           "s": "163",
           "p": "165"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Jones"
@@ -570,19 +570,19 @@
       "pc_score": "55.3",
       "songs": [
         {
-          "title": "'Deed I Do Medley",
+          "name": "'Deed I Do Medley",
           "m": "167",
           "s": "164",
           "p": "164"
         },
         {
-          "title": "Goodbye Medley",
+          "name": "Goodbye Medley",
           "m": "172",
           "s": "164",
           "p": "165"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sally Stephenson"
@@ -611,19 +611,19 @@
       "pc_score": "54.4",
       "songs": [
         {
-          "title": "Old Cape Cod",
+          "name": "Old Cape Cod",
           "m": "161",
           "s": "160",
           "p": "165"
         },
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "162",
           "s": "166",
           "p": "165"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tina Ruggles"
@@ -652,19 +652,19 @@
       "pc_score": "53.8",
       "songs": [
         {
-          "title": "Don't Sit Under The Apple Tree",
+          "name": "Don't Sit Under The Apple Tree",
           "m": "161",
           "s": "161",
           "p": "160"
         },
         {
-          "title": "Don't Cry Little Girl, Don't Cry",
+          "name": "Don't Cry Little Girl, Don't Cry",
           "m": "164",
           "s": "162",
           "p": "161"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Kate Scarle"
@@ -693,19 +693,19 @@
       "pc_score": "52.1",
       "songs": [
         {
-          "title": "Dream A Little Dream Of Me",
+          "name": "Dream A Little Dream Of Me",
           "m": "163",
           "s": "150",
           "p": "160"
         },
         {
-          "title": "Orange Coloured Sky",
+          "name": "Orange Coloured Sky",
           "m": "150",
           "s": "158",
           "p": "156"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sam Miles"
@@ -734,19 +734,19 @@
       "pc_score": "51.8",
       "songs": [
         {
-          "title": "Drivin' Me Crazy",
+          "name": "Drivin' Me Crazy",
           "m": "152",
           "s": "153",
           "p": "153"
         },
         {
-          "title": "Heart Of My Heart",
+          "name": "Heart Of My Heart",
           "m": "159",
           "s": "159",
           "p": "157"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Julie Bugler"

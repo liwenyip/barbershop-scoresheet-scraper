@@ -1,0 +1,625 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2001-02-CP-NTH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NORTHERN CHORUS PRELIMS",
+  "location": "SHEFFIELD",
+  "year": "2001/02",
+  "type": "c",
+  "date": "01/12/2001",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "m",
+      "name": "Jean Sutton"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "John Grant"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Gillian Depledge"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Cambridge Chord Company",
+      "size": 36,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 238,
+          "p": 221,
+          "s": 238,
+          "tot_score": 697,
+          "pc_score": 77.4,
+          "m_pc": 79.3,
+          "p_pc": 73.7,
+          "s_pc": 79.3
+        },
+        {
+          "n": 1,
+          "name": "Sunday / Manhattan Medley",
+          "m": 231,
+          "p": 223,
+          "s": 240,
+          "tot_score": 694,
+          "pc_score": 77.1,
+          "m_pc": 77.0,
+          "p_pc": 74.3,
+          "s_pc": 80.0
+        }
+      ],
+      "n": 2,
+      "m": 469,
+      "m_pc": 78.2,
+      "p": 444,
+      "p_pc": 74.0,
+      "s": 478,
+      "s_pc": 79.7,
+      "tot_score": 1391,
+      "pc_score": 77.3
+    },
+    {
+      "rank": 2,
+      "name": "Cotton Town Chorus",
+      "size": 60,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 217,
+          "p": 216,
+          "s": 224,
+          "tot_score": 657,
+          "pc_score": 73.0,
+          "m_pc": 72.3,
+          "p_pc": 72.0,
+          "s_pc": 74.7
+        },
+        {
+          "n": 1,
+          "name": "Toot Toot Tootsie Goodbye",
+          "m": 227,
+          "p": 222,
+          "s": 231,
+          "tot_score": 680,
+          "pc_score": 75.6,
+          "m_pc": 75.7,
+          "p_pc": 74.0,
+          "s_pc": 77.0
+        }
+      ],
+      "n": 2,
+      "m": 444,
+      "m_pc": 74.0,
+      "p": 438,
+      "p_pc": 73.0,
+      "s": 455,
+      "s_pc": 75.8,
+      "tot_score": 1337,
+      "pc_score": 74.3
+    },
+    {
+      "rank": 3,
+      "name": "Hallmark Of Harmony",
+      "size": 45,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 211,
+          "p": 210,
+          "s": 216,
+          "tot_score": 637,
+          "pc_score": 70.8,
+          "m_pc": 70.3,
+          "p_pc": 70.0,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "How Could You Believe Me When I Said I Love You / It's A Sin ",
+          "m": 216,
+          "p": 215,
+          "s": 212,
+          "tot_score": 643,
+          "pc_score": 71.4,
+          "m_pc": 72.0,
+          "p_pc": 71.7,
+          "s_pc": 70.7
+        }
+      ],
+      "n": 2,
+      "m": 427,
+      "m_pc": 71.2,
+      "p": 425,
+      "p_pc": 70.8,
+      "s": 428,
+      "s_pc": 71.3,
+      "tot_score": 1280,
+      "pc_score": 71.1
+    },
+    {
+      "rank": 4,
+      "name": "Spirit Of Harmony",
+      "size": 41,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 188,
+          "p": 184,
+          "s": 187,
+          "tot_score": 559,
+          "pc_score": 62.1,
+          "m_pc": 62.7,
+          "p_pc": 61.3,
+          "s_pc": 62.3
+        },
+        {
+          "n": 1,
+          "name": "Danny Boy",
+          "m": 184,
+          "p": 183,
+          "s": 184,
+          "tot_score": 551,
+          "pc_score": 61.2,
+          "m_pc": 61.3,
+          "p_pc": 61.0,
+          "s_pc": 61.3
+        }
+      ],
+      "n": 2,
+      "m": 372,
+      "m_pc": 62.0,
+      "p": 367,
+      "p_pc": 61.2,
+      "s": 371,
+      "s_pc": 61.8,
+      "tot_score": 1110,
+      "pc_score": 61.7
+    },
+    {
+      "rank": 5,
+      "name": "The Red Rose Chorus",
+      "size": 35,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 178,
+          "p": 186,
+          "s": 187,
+          "tot_score": 551,
+          "pc_score": 61.2,
+          "m_pc": 59.3,
+          "p_pc": 62.0,
+          "s_pc": 62.3
+        },
+        {
+          "n": 1,
+          "name": "When The Gold Turns To Grey",
+          "m": 174,
+          "p": 182,
+          "s": 190,
+          "tot_score": 546,
+          "pc_score": 60.7,
+          "m_pc": 58.0,
+          "p_pc": 60.7,
+          "s_pc": 63.3
+        }
+      ],
+      "n": 2,
+      "m": 352,
+      "m_pc": 58.7,
+      "p": 368,
+      "p_pc": 61.3,
+      "s": 377,
+      "s_pc": 62.8,
+      "tot_score": 1097,
+      "pc_score": 60.9
+    },
+    {
+      "rank": 6,
+      "name": "Anvil Chorus",
+      "size": 35,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Gold Turns To Grey",
+          "m": 178,
+          "p": 186,
+          "s": 186,
+          "tot_score": 550,
+          "pc_score": 61.1,
+          "m_pc": 59.3,
+          "p_pc": 62.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "The Church Bells Are Ringing For Mary",
+          "m": 182,
+          "p": 175,
+          "s": 177,
+          "tot_score": 534,
+          "pc_score": 59.3,
+          "m_pc": 60.7,
+          "p_pc": 58.3,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 360,
+      "m_pc": 60.0,
+      "p": 361,
+      "p_pc": 60.2,
+      "s": 363,
+      "s_pc": 60.5,
+      "tot_score": 1084,
+      "pc_score": 60.2
+    },
+    {
+      "rank": 7,
+      "name": "The Telfordaires",
+      "size": 21,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Can You Tame Wild Wimmen'",
+          "m": 168,
+          "p": 184,
+          "s": 184,
+          "tot_score": 536,
+          "pc_score": 59.6,
+          "m_pc": 56.0,
+          "p_pc": 61.3,
+          "s_pc": 61.3
+        },
+        {
+          "n": 1,
+          "name": "Heart Of A Clown",
+          "m": 162,
+          "p": 169,
+          "s": 181,
+          "tot_score": 512,
+          "pc_score": 56.9,
+          "m_pc": 54.0,
+          "p_pc": 56.3,
+          "s_pc": 60.3
+        }
+      ],
+      "n": 2,
+      "m": 330,
+      "m_pc": 55.0,
+      "p": 353,
+      "p_pc": 58.8,
+      "s": 365,
+      "s_pc": 60.8,
+      "tot_score": 1048,
+      "pc_score": 58.2
+    },
+    {
+      "rank": 8,
+      "name": "Granite City Chorus",
+      "size": 19,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All (Parody)",
+          "m": 156,
+          "p": 181,
+          "s": 169,
+          "tot_score": 506,
+          "pc_score": 56.2,
+          "m_pc": 52.0,
+          "p_pc": 60.3,
+          "s_pc": 56.3
+        },
+        {
+          "n": 1,
+          "name": "When You're Smiling",
+          "m": 152,
+          "p": 166,
+          "s": 164,
+          "tot_score": 482,
+          "pc_score": 53.6,
+          "m_pc": 50.7,
+          "p_pc": 55.3,
+          "s_pc": 54.7
+        }
+      ],
+      "n": 2,
+      "m": 308,
+      "m_pc": 51.3,
+      "p": 347,
+      "p_pc": 57.8,
+      "s": 333,
+      "s_pc": 55.5,
+      "tot_score": 988,
+      "pc_score": 54.9
+    },
+    {
+      "rank": 9,
+      "name": "Clwyd Clippers",
+      "size": 28,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 162,
+          "p": 160,
+          "s": 172,
+          "tot_score": 494,
+          "pc_score": 54.9,
+          "m_pc": 54.0,
+          "p_pc": 53.3,
+          "s_pc": 57.3
+        },
+        {
+          "n": 1,
+          "name": "If You Love Me Really Love Me",
+          "m": 163,
+          "p": 153,
+          "s": 159,
+          "tot_score": 475,
+          "pc_score": 52.8,
+          "m_pc": 54.3,
+          "p_pc": 51.0,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 325,
+      "m_pc": 54.2,
+      "p": 313,
+      "p_pc": 52.2,
+      "s": 331,
+      "s_pc": 55.2,
+      "tot_score": 969,
+      "pc_score": 53.8
+    },
+    {
+      "rank": 10,
+      "name": "The Big County Chorus",
+      "size": 29,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Pal",
+          "m": 154,
+          "p": 162,
+          "s": 164,
+          "tot_score": 480,
+          "pc_score": 53.3,
+          "m_pc": 51.3,
+          "p_pc": 54.0,
+          "s_pc": 54.7
+        },
+        {
+          "n": 1,
+          "name": "The Little Boy",
+          "m": 141,
+          "p": 153,
+          "s": 155,
+          "tot_score": 449,
+          "pc_score": 49.9,
+          "m_pc": 47.0,
+          "p_pc": 51.0,
+          "s_pc": 51.7
+        }
+      ],
+      "n": 2,
+      "m": 295,
+      "m_pc": 49.2,
+      "p": 315,
+      "p_pc": 52.5,
+      "s": 319,
+      "s_pc": 53.2,
+      "tot_score": 929,
+      "pc_score": 51.6
+    },
+    {
+      "rank": 11,
+      "name": "The Sound Of Three Spires",
+      "size": 29,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Basin Street Blues",
+          "m": 155,
+          "p": 151,
+          "s": 159,
+          "tot_score": 465,
+          "pc_score": 51.7,
+          "m_pc": 51.7,
+          "p_pc": 50.3,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 155,
+          "p": 150,
+          "s": 156,
+          "tot_score": 461,
+          "pc_score": 51.2,
+          "m_pc": 51.7,
+          "p_pc": 50.0,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 310,
+      "m_pc": 51.7,
+      "p": 301,
+      "p_pc": 50.2,
+      "s": 315,
+      "s_pc": 52.5,
+      "tot_score": 926,
+      "pc_score": 51.4
+    },
+    {
+      "rank": 12,
+      "name": "Friends In Harmony",
+      "size": 17,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 147,
+          "p": 159,
+          "s": 145,
+          "tot_score": 451,
+          "pc_score": 50.1,
+          "m_pc": 49.0,
+          "p_pc": 53.0,
+          "s_pc": 48.3
+        },
+        {
+          "n": 1,
+          "name": "Hello My Baby",
+          "m": 150,
+          "p": 159,
+          "s": 153,
+          "tot_score": 462,
+          "pc_score": 51.3,
+          "m_pc": 50.0,
+          "p_pc": 53.0,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 297,
+      "m_pc": 49.5,
+      "p": 318,
+      "p_pc": 53.0,
+      "s": 298,
+      "s_pc": 49.7,
+      "tot_score": 913,
+      "pc_score": 50.7
+    },
+    {
+      "rank": 13,
+      "name": "Rainy City Chorus",
+      "size": 29,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 128,
+          "p": 141,
+          "s": 139,
+          "tot_score": 408,
+          "pc_score": 45.3,
+          "m_pc": 42.7,
+          "p_pc": 47.0,
+          "s_pc": 46.3
+        },
+        {
+          "n": 1,
+          "name": "Don't Bring Lulu",
+          "m": 131,
+          "p": 141,
+          "s": 143,
+          "tot_score": 415,
+          "pc_score": 46.1,
+          "m_pc": 43.7,
+          "p_pc": 47.0,
+          "s_pc": 47.7
+        }
+      ],
+      "n": 2,
+      "m": 259,
+      "m_pc": 43.2,
+      "p": 282,
+      "p_pc": 47.0,
+      "s": 282,
+      "s_pc": 47.0,
+      "tot_score": 823,
+      "pc_score": 45.7
+    },
+    {
+      "rank": 14,
+      "name": "Heart Of England Chorus",
+      "size": 23,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 124,
+          "p": 145,
+          "s": 134,
+          "tot_score": 403,
+          "pc_score": 44.8,
+          "m_pc": 41.3,
+          "p_pc": 48.3,
+          "s_pc": 44.7
+        },
+        {
+          "n": 1,
+          "name": "Waiting For The Robert E Lee",
+          "m": 117,
+          "p": 139,
+          "s": 114,
+          "tot_score": 370,
+          "pc_score": 41.1,
+          "m_pc": 39.0,
+          "p_pc": 46.3,
+          "s_pc": 38.0
+        }
+      ],
+      "n": 2,
+      "m": 241,
+      "m_pc": 40.2,
+      "p": 284,
+      "p_pc": 47.3,
+      "s": 248,
+      "s_pc": 41.3,
+      "tot_score": 773,
+      "pc_score": 42.9
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2001-02-QP-NAT-SU-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET PRELIM - SUNDAY",
+  "location": "DARTMOUTH HIGH SCHOOL",
+  "year": "2001/02",
+  "type": "q",
+  "date": "14/10/2001",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 126,
+          "p": 139,
+          "s": 124,
+          "tot_score": 389,
+          "pc_score": 64.8,
+          "m_pc": 63.0,
+          "p_pc": 69.5,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 128,
+          "p": 142,
+          "s": 126,
+          "tot_score": 396,
+          "pc_score": 66.0,
+          "m_pc": 64.0,
+          "p_pc": 71.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 254,
+      "m_pc": 63.5,
+      "p": 281,
+      "p_pc": 70.3,
+      "s": 250,
+      "s_pc": 62.5,
+      "tot_score": 785,
+      "pc_score": 65.4
+    },
+    {
+      "rank": 2,
+      "name": "Savannah",
+      "songs": [
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 125,
+          "p": 132,
+          "s": 123,
+          "tot_score": 380,
+          "pc_score": 63.3,
+          "m_pc": 62.5,
+          "p_pc": 66.0,
+          "s_pc": 61.5
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 128,
+          "p": 134,
+          "s": 120,
+          "tot_score": 382,
+          "pc_score": 63.7,
+          "m_pc": 64.0,
+          "p_pc": 67.0,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 253,
+      "m_pc": 63.3,
+      "p": 266,
+      "p_pc": 66.5,
+      "s": 243,
+      "s_pc": 60.8,
+      "tot_score": 762,
+      "pc_score": 63.5
+    },
+    {
+      "rank": 3,
+      "name": "Speculation",
+      "songs": [
+        {
+          "n": 1,
+          "name": "A Little Street Where Old Friends Meet",
+          "m": 118,
+          "p": 109,
+          "s": 111,
+          "tot_score": 338,
+          "pc_score": 56.3,
+          "m_pc": 59.0,
+          "p_pc": 54.5,
+          "s_pc": 55.5
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 116,
+          "p": 112,
+          "s": 114,
+          "tot_score": 342,
+          "pc_score": 57.0,
+          "m_pc": 58.0,
+          "p_pc": 56.0,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 234,
+      "m_pc": 58.5,
+      "p": 221,
+      "p_pc": 55.3,
+      "s": 225,
+      "s_pc": 56.3,
+      "tot_score": 680,
+      "pc_score": 56.7
+    },
+    {
+      "rank": 4,
+      "name": "Almost Gentlemen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Man You've Had A Busy Day",
+          "m": 107,
+          "p": 105,
+          "s": 95,
+          "tot_score": 307,
+          "pc_score": 51.2,
+          "m_pc": 53.5,
+          "p_pc": 52.5,
+          "s_pc": 47.5
+        },
+        {
+          "n": 1,
+          "name": "Give My Regards To Broadway",
+          "m": 107,
+          "p": 109,
+          "s": 90,
+          "tot_score": 306,
+          "pc_score": 51.0,
+          "m_pc": 53.5,
+          "p_pc": 54.5,
+          "s_pc": 45.0
+        }
+      ],
+      "n": 2,
+      "m": 214,
+      "m_pc": 53.5,
+      "p": 214,
+      "p_pc": 53.5,
+      "s": 185,
+      "s_pc": 46.3,
+      "tot_score": 613,
+      "pc_score": 51.1
+    },
+    {
+      "rank": 5,
+      "name": "Quadraphonic",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Take My Place When I'm Gone?",
+          "m": 100,
+          "p": 103,
+          "s": 92,
+          "tot_score": 295,
+          "pc_score": 49.2,
+          "m_pc": 50.0,
+          "p_pc": 51.5,
+          "s_pc": 46.0
+        },
+        {
+          "n": 1,
+          "name": "The Old Piano Roll Blues",
+          "m": 103,
+          "p": 106,
+          "s": 91,
+          "tot_score": 300,
+          "pc_score": 50.0,
+          "m_pc": 51.5,
+          "p_pc": 53.0,
+          "s_pc": 45.5
+        }
+      ],
+      "n": 2,
+      "m": 203,
+      "m_pc": 50.8,
+      "p": 209,
+      "p_pc": 52.3,
+      "s": 183,
+      "s_pc": 45.8,
+      "tot_score": 595,
+      "pc_score": 49.6
+    },
+    {
+      "rank": 6,
+      "name": "After Dark",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 95,
+          "p": 88,
+          "s": 101,
+          "tot_score": 284,
+          "pc_score": 47.3,
+          "m_pc": 47.5,
+          "p_pc": 44.0,
+          "s_pc": 50.5
+        },
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 100,
+          "p": 84,
+          "s": 98,
+          "tot_score": 282,
+          "pc_score": 47.0,
+          "m_pc": 50.0,
+          "p_pc": 42.0,
+          "s_pc": 49.0
+        }
+      ],
+      "n": 2,
+      "m": 195,
+      "m_pc": 48.8,
+      "p": 172,
+      "p_pc": 43.0,
+      "s": 199,
+      "s_pc": 49.8,
+      "tot_score": 566,
+      "pc_score": 47.2
+    }
+  ]
+}

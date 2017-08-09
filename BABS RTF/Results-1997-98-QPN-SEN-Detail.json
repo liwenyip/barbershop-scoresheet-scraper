@@ -1,0 +1,127 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-QPN-SEN-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NORTHERN SENIORS QUARTET PRELIM",
+  "location": "SHEFFIELD",
+  "year": "1997/98",
+  "type": "q",
+  "date": "22/11/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Jonathan Hershman"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Stuart Wineberg"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Marksmen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love A Jolson Song",
+          "m": 95,
+          "p": 116,
+          "s": 92,
+          "tot_score": 303,
+          "pc_score": 50.5,
+          "m_pc": 47.5,
+          "p_pc": 58.0,
+          "s_pc": 46.0
+        },
+        {
+          "n": 1,
+          "name": "If I Had My Way",
+          "m": 80,
+          "p": 110,
+          "s": 76,
+          "tot_score": 266,
+          "pc_score": 44.3,
+          "m_pc": 40.0,
+          "p_pc": 55.0,
+          "s_pc": 38.0
+        }
+      ],
+      "n": 2,
+      "m": 175,
+      "m_pc": 43.8,
+      "p": 226,
+      "p_pc": 56.5,
+      "s": 168,
+      "s_pc": 42.0,
+      "tot_score": 569,
+      "pc_score": 47.4
+    },
+    {
+      "rank": 2,
+      "name": "Vintage Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sweet Rosie O'grady",
+          "m": 59,
+          "p": 86,
+          "s": 65,
+          "tot_score": 210,
+          "pc_score": 35.0,
+          "m_pc": 29.5,
+          "p_pc": 43.0,
+          "s_pc": 32.5
+        },
+        {
+          "n": 1,
+          "name": "Sweet And Lovely",
+          "m": 56,
+          "p": 80,
+          "s": 63,
+          "tot_score": 199,
+          "pc_score": 33.2,
+          "m_pc": 28.0,
+          "p_pc": 40.0,
+          "s_pc": 31.5
+        }
+      ],
+      "n": 2,
+      "m": 115,
+      "m_pc": 28.8,
+      "p": 166,
+      "p_pc": 41.5,
+      "s": 128,
+      "s_pc": 32.0,
+      "tot_score": 409,
+      "pc_score": 34.1
+    }
+  ]
+}

@@ -1,0 +1,916 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2007-08-QP-NAT-sa-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NAT QUARTET PRELIM - SA",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2007/08",
+  "type": "q",
+  "date": "13/10/2007",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "a",
+      "name": "Samantha Roberts"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Recipe For Makin' Love",
+          "m": 212,
+          "p": 214,
+          "s": 222,
+          "tot_score": 648,
+          "pc_score": 72.0,
+          "m_pc": 70.7,
+          "p_pc": 71.3,
+          "s_pc": 74.0
+        },
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 211,
+          "p": 220,
+          "s": 222,
+          "tot_score": 653,
+          "pc_score": 72.6,
+          "m_pc": 70.3,
+          "p_pc": 73.3,
+          "s_pc": 74.0
+        }
+      ],
+      "n": 2,
+      "m": 423,
+      "m_pc": 70.5,
+      "p": 434,
+      "p_pc": 72.3,
+      "s": 444,
+      "s_pc": 74.0,
+      "tot_score": 1301,
+      "pc_score": 72.3
+    },
+    {
+      "rank": 2,
+      "name": "Qube",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Dave"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 203,
+          "p": 200,
+          "s": 206,
+          "tot_score": 609,
+          "pc_score": 67.7,
+          "m_pc": 67.7,
+          "p_pc": 66.7,
+          "s_pc": 68.7
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 202,
+          "p": 197,
+          "s": 204,
+          "tot_score": 603,
+          "pc_score": 67.0,
+          "m_pc": 67.3,
+          "p_pc": 65.7,
+          "s_pc": 68.0
+        }
+      ],
+      "n": 2,
+      "m": 405,
+      "m_pc": 67.5,
+      "p": 397,
+      "p_pc": 66.2,
+      "s": 410,
+      "s_pc": 68.3,
+      "tot_score": 1212,
+      "pc_score": 67.3
+    },
+    {
+      "rank": 3,
+      "name": "Figaro",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Richard"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Aidan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 192,
+          "p": 199,
+          "s": 182,
+          "tot_score": 573,
+          "pc_score": 63.7,
+          "m_pc": 64.0,
+          "p_pc": 66.3,
+          "s_pc": 60.7
+        },
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 191,
+          "p": 199,
+          "s": 178,
+          "tot_score": 568,
+          "pc_score": 63.1,
+          "m_pc": 63.7,
+          "p_pc": 66.3,
+          "s_pc": 59.3
+        }
+      ],
+      "n": 2,
+      "m": 383,
+      "m_pc": 63.8,
+      "p": 398,
+      "p_pc": 66.3,
+      "s": 360,
+      "s_pc": 60.0,
+      "tot_score": 1141,
+      "pc_score": 63.4
+    },
+    {
+      "rank": 4,
+      "name": "Doghouse",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "Matthew"
+        },
+        {
+          "part": "bass",
+          "name": "Timm"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 197,
+          "p": 181,
+          "s": 190,
+          "tot_score": 568,
+          "pc_score": 63.1,
+          "m_pc": 65.7,
+          "p_pc": 60.3,
+          "s_pc": 63.3
+        },
+        {
+          "n": 1,
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
+          "m": 184,
+          "p": 173,
+          "s": 183,
+          "tot_score": 540,
+          "pc_score": 60.0,
+          "m_pc": 61.3,
+          "p_pc": 57.7,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 381,
+      "m_pc": 63.5,
+      "p": 354,
+      "p_pc": 59.0,
+      "s": 373,
+      "s_pc": 62.2,
+      "tot_score": 1108,
+      "pc_score": 61.6
+    },
+    {
+      "rank": 5,
+      "name": "Cadence",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Tom"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 193,
+          "p": 181,
+          "s": 184,
+          "tot_score": 558,
+          "pc_score": 62.0,
+          "m_pc": 64.3,
+          "p_pc": 60.3,
+          "s_pc": 61.3
+        },
+        {
+          "n": 1,
+          "name": "South Rampart Street Parade",
+          "m": 183,
+          "p": 183,
+          "s": 183,
+          "tot_score": 549,
+          "pc_score": 61.0,
+          "m_pc": 61.0,
+          "p_pc": 61.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 376,
+      "m_pc": 62.7,
+      "p": 364,
+      "p_pc": 60.7,
+      "s": 367,
+      "s_pc": 61.2,
+      "tot_score": 1107,
+      "pc_score": 61.5
+    },
+    {
+      "rank": 6,
+      "name": "Retro",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wait Till The Sun Shines, Nellie",
+          "m": 179,
+          "p": 171,
+          "s": 186,
+          "tot_score": 536,
+          "pc_score": 59.6,
+          "m_pc": 59.7,
+          "p_pc": 57.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "I've Been Workin' On The Railroad",
+          "m": 180,
+          "p": 172,
+          "s": 183,
+          "tot_score": 535,
+          "pc_score": 59.4,
+          "m_pc": 60.0,
+          "p_pc": 57.3,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 359,
+      "m_pc": 59.8,
+      "p": 343,
+      "p_pc": 57.2,
+      "s": 369,
+      "s_pc": 61.5,
+      "tot_score": 1071,
+      "pc_score": 59.5
+    },
+    {
+      "rank": 7,
+      "name": "Sharp Practice",
+      "members": [
+        {
+          "part": "director",
+          "name": "James"
+        },
+        {
+          "part": "director",
+          "name": "Steve"
+        },
+        {
+          "part": "director",
+          "name": "Nigel. Keith"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "So Long Mother",
+          "m": 177,
+          "p": 172,
+          "s": 167,
+          "tot_score": 516,
+          "pc_score": 57.3,
+          "m_pc": 59.0,
+          "p_pc": 57.3,
+          "s_pc": 55.7
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 179,
+          "p": 173,
+          "s": 167,
+          "tot_score": 519,
+          "pc_score": 57.7,
+          "m_pc": 59.7,
+          "p_pc": 57.7,
+          "s_pc": 55.7
+        }
+      ],
+      "n": 2,
+      "m": 356,
+      "m_pc": 59.3,
+      "p": 345,
+      "p_pc": 57.5,
+      "s": 334,
+      "s_pc": 55.7,
+      "tot_score": 1035,
+      "pc_score": 57.5
+    },
+    {
+      "rank": 8,
+      "name": "Catch 22",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "John"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 175,
+          "p": 175,
+          "s": 171,
+          "tot_score": 521,
+          "pc_score": 57.9,
+          "m_pc": 58.3,
+          "p_pc": 58.3,
+          "s_pc": 57.0
+        },
+        {
+          "n": 1,
+          "name": "Ten Feet Off The Ground",
+          "m": 169,
+          "p": 173,
+          "s": 169,
+          "tot_score": 511,
+          "pc_score": 56.8,
+          "m_pc": 56.3,
+          "p_pc": 57.7,
+          "s_pc": 56.3
+        }
+      ],
+      "n": 2,
+      "m": 344,
+      "m_pc": 57.3,
+      "p": 348,
+      "p_pc": 58.0,
+      "s": 340,
+      "s_pc": 56.7,
+      "tot_score": 1032,
+      "pc_score": 57.3
+    },
+    {
+      "rank": 9,
+      "name": "Fraggle Rock",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Carl"
+        },
+        {
+          "part": "bari",
+          "name": "Eddie"
+        },
+        {
+          "part": "bass",
+          "name": "Dale"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Good Luck Charm",
+          "m": 142,
+          "p": 173,
+          "s": 175,
+          "tot_score": 490,
+          "pc_score": 54.4,
+          "m_pc": 47.3,
+          "p_pc": 57.7,
+          "s_pc": 58.3
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 171,
+          "p": 179,
+          "s": 171,
+          "tot_score": 521,
+          "pc_score": 57.9,
+          "m_pc": 57.0,
+          "p_pc": 59.7,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 313,
+      "m_pc": 52.2,
+      "p": 352,
+      "p_pc": 58.7,
+      "s": 346,
+      "s_pc": 57.7,
+      "tot_score": 1011,
+      "pc_score": 56.2
+    },
+    {
+      "rank": 10,
+      "name": "Magnum",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Roy"
+        },
+        {
+          "part": "lead",
+          "name": "Chris"
+        },
+        {
+          "part": "bari",
+          "name": "Andrew"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 165,
+          "p": 162,
+          "s": 160,
+          "tot_score": 487,
+          "pc_score": 54.1,
+          "m_pc": 55.0,
+          "p_pc": 54.0,
+          "s_pc": 53.3
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 170,
+          "p": 164,
+          "s": 158,
+          "tot_score": 492,
+          "pc_score": 54.7,
+          "m_pc": 56.7,
+          "p_pc": 54.7,
+          "s_pc": 52.7
+        }
+      ],
+      "n": 2,
+      "m": 335,
+      "m_pc": 55.8,
+      "p": 326,
+      "p_pc": 54.3,
+      "s": 318,
+      "s_pc": 53.0,
+      "tot_score": 979,
+      "pc_score": 54.4
+    },
+    {
+      "rank": 11,
+      "name": "Marc Time",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ray"
+        },
+        {
+          "part": "lead",
+          "name": "Bill"
+        },
+        {
+          "part": "bari",
+          "name": "Cliff"
+        },
+        {
+          "part": "bass",
+          "name": "Alan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 156,
+          "p": 163,
+          "s": 160,
+          "tot_score": 479,
+          "pc_score": 53.2,
+          "m_pc": 52.0,
+          "p_pc": 54.3,
+          "s_pc": 53.3
+        },
+        {
+          "n": 1,
+          "name": "Sweet Adeline",
+          "m": 155,
+          "p": 163,
+          "s": 159,
+          "tot_score": 477,
+          "pc_score": 53.0,
+          "m_pc": 51.7,
+          "p_pc": 54.3,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 311,
+      "m_pc": 51.8,
+      "p": 326,
+      "p_pc": 54.3,
+      "s": 319,
+      "s_pc": 53.2,
+      "tot_score": 956,
+      "pc_score": 53.1
+    },
+    {
+      "rank": 12,
+      "name": "Pacemakers",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Brian"
+        },
+        {
+          "part": "lead",
+          "name": "Robin"
+        },
+        {
+          "part": "bari",
+          "name": "Julian"
+        },
+        {
+          "part": "bass",
+          "name": "Charles"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 152,
+          "p": 154,
+          "s": 159,
+          "tot_score": 465,
+          "pc_score": 51.7,
+          "m_pc": 50.7,
+          "p_pc": 51.3,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "Always",
+          "m": 160,
+          "p": 155,
+          "s": 149,
+          "tot_score": 464,
+          "pc_score": 51.6,
+          "m_pc": 53.3,
+          "p_pc": 51.7,
+          "s_pc": 49.7
+        }
+      ],
+      "n": 2,
+      "m": 312,
+      "m_pc": 52.0,
+      "p": 309,
+      "p_pc": 51.5,
+      "s": 308,
+      "s_pc": 51.3,
+      "tot_score": 929,
+      "pc_score": 51.6
+    },
+    {
+      "rank": 13,
+      "name": "Pitch Black",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "John"
+        },
+        {
+          "part": "lead",
+          "name": "Nick"
+        },
+        {
+          "part": "bari",
+          "name": "Stuart"
+        },
+        {
+          "part": "bass",
+          "name": "Mike"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "South Rampart Street Parade",
+          "m": 138,
+          "p": 145,
+          "s": 157,
+          "tot_score": 440,
+          "pc_score": 48.9,
+          "m_pc": 46.0,
+          "p_pc": 48.3,
+          "s_pc": 52.3
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 146,
+          "p": 145,
+          "s": 138,
+          "tot_score": 429,
+          "pc_score": 47.7,
+          "m_pc": 48.7,
+          "p_pc": 48.3,
+          "s_pc": 46.0
+        }
+      ],
+      "n": 2,
+      "m": 284,
+      "m_pc": 47.3,
+      "p": 290,
+      "p_pc": 48.3,
+      "s": 295,
+      "s_pc": 49.2,
+      "tot_score": 869,
+      "pc_score": 48.3
+    },
+    {
+      "rank": 14,
+      "name": "Black Velvet",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Clive"
+        },
+        {
+          "part": "lead",
+          "name": "Mark"
+        },
+        {
+          "part": "bari",
+          "name": "Eddie"
+        },
+        {
+          "part": "bass",
+          "name": "Jim"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Nice Work If You Can Get It",
+          "m": 138,
+          "p": 149,
+          "s": 134,
+          "tot_score": 421,
+          "pc_score": 46.8,
+          "m_pc": 46.0,
+          "p_pc": 49.7,
+          "s_pc": 44.7
+        },
+        {
+          "n": 1,
+          "name": "Dream A Little Dream Of Me",
+          "m": 147,
+          "p": 144,
+          "s": 136,
+          "tot_score": 427,
+          "pc_score": 47.4,
+          "m_pc": 49.0,
+          "p_pc": 48.0,
+          "s_pc": 45.3
+        }
+      ],
+      "n": 2,
+      "m": 285,
+      "m_pc": 47.5,
+      "p": 293,
+      "p_pc": 48.8,
+      "s": 270,
+      "s_pc": 45.0,
+      "tot_score": 848,
+      "pc_score": 47.1
+    },
+    {
+      "rank": 15,
+      "name": "Almost Gentleman",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tam"
+        },
+        {
+          "part": "lead",
+          "name": "Robin"
+        },
+        {
+          "part": "bari",
+          "name": "Julian"
+        },
+        {
+          "part": "bass",
+          "name": "Colin"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just A Cottage Small",
+          "m": 139,
+          "p": 147,
+          "s": 140,
+          "tot_score": 426,
+          "pc_score": 47.3,
+          "m_pc": 46.3,
+          "p_pc": 49.0,
+          "s_pc": 46.7
+        },
+        {
+          "n": 1,
+          "name": "Lullaby In Ragtime",
+          "m": 139,
+          "p": 146,
+          "s": 129,
+          "tot_score": 414,
+          "pc_score": 46.0,
+          "m_pc": 46.3,
+          "p_pc": 48.7,
+          "s_pc": 43.0
+        }
+      ],
+      "n": 2,
+      "m": 278,
+      "m_pc": 46.3,
+      "p": 293,
+      "p_pc": 48.8,
+      "s": 269,
+      "s_pc": 44.8,
+      "tot_score": 840,
+      "pc_score": 46.7
+    }
+  ]
+}

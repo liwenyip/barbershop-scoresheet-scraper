@@ -42,19 +42,19 @@
       "name": "Craig Kehoe"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alistair Taylor-Payne"
     }
   ],
@@ -70,19 +70,19 @@
       "pc_score": "71.1",
       "songs": [
         {
-          "title": "If I Love Again",
+          "name": "If I Love Again",
           "m": "216",
           "s": "212",
           "p": "215"
         },
         {
-          "title": "Somebody Loves Me",
+          "name": "Somebody Loves Me",
           "m": "209",
           "s": "211",
           "p": "217"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Kirstie Spencer"
@@ -111,19 +111,19 @@
       "pc_score": "69.6",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "208",
           "s": "213",
           "p": "207"
         },
         {
-          "title": "Young And Foolish",
+          "name": "Young And Foolish",
           "m": "209",
           "s": "208",
           "p": "207"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alison Soutar"
@@ -152,19 +152,19 @@
       "pc_score": "69.3",
       "songs": [
         {
-          "title": "If I Ruled The World",
+          "name": "If I Ruled The World",
           "m": "204",
           "s": "202",
           "p": "209"
         },
         {
-          "title": "Cheek To Cheek / My Blue Heaven Medley",
+          "name": "Cheek To Cheek / My Blue Heaven Medley",
           "m": "206",
           "s": "212",
           "p": "215"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Rose Hopkinson"
@@ -193,19 +193,19 @@
       "pc_score": "63.6",
       "songs": [
         {
-          "title": "Who'll Be The Next One",
+          "name": "Who'll Be The Next One",
           "m": "185",
           "s": "186",
           "p": "191"
         },
         {
-          "title": "The Bare Necessities",
+          "name": "The Bare Necessities",
           "m": "190",
           "s": "195",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alison Tyzack"
@@ -234,19 +234,19 @@
       "pc_score": "61.7",
       "songs": [
         {
-          "title": "I Only Have Eyes For You",
+          "name": "I Only Have Eyes For You",
           "m": "197",
           "s": "182",
           "p": "188"
         },
         {
-          "title": "Wrap Your Troubles In Dreams",
+          "name": "Wrap Your Troubles In Dreams",
           "m": "178",
           "s": "179",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Karen Whitworth"
@@ -275,19 +275,19 @@
       "pc_score": "60.7",
       "songs": [
         {
-          "title": "I Love That Barbershop Style",
+          "name": "I Love That Barbershop Style",
           "m": "181",
           "s": "183",
           "p": "181"
         },
         {
-          "title": "When She Loved Me",
+          "name": "When She Loved Me",
           "m": "189",
           "s": "181",
           "p": "177"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard Fisher"
@@ -316,19 +316,19 @@
       "pc_score": "57.6",
       "songs": [
         {
-          "title": "Let's Do It",
+          "name": "Let's Do It",
           "m": "176",
           "s": "170",
           "p": "174"
         },
         {
-          "title": "Love Letters",
+          "name": "Love Letters",
           "m": "174",
           "s": "167",
           "p": "175"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mary Williams"
@@ -357,19 +357,19 @@
       "pc_score": "56.5",
       "songs": [
         {
-          "title": "Meet Me In St. Louis, Louis",
+          "name": "Meet Me In St. Louis, Louis",
           "m": "169",
           "s": "170",
           "p": "165"
         },
         {
-          "title": "Row, Row, Row",
+          "name": "Row, Row, Row",
           "m": "174",
           "s": "169",
           "p": "170"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Fi Trench"
@@ -398,19 +398,19 @@
       "pc_score": "54.5",
       "songs": [
         {
-          "title": "When I Grow Too Old To Dream",
+          "name": "When I Grow Too Old To Dream",
           "m": "162",
           "s": "168",
           "p": "168"
         },
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "168",
           "s": "159",
           "p": "156"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Celia Nickson"
@@ -439,19 +439,19 @@
       "pc_score": "51.9",
       "songs": [
         {
-          "title": "Zing! Went The Strings Of My Heart",
+          "name": "Zing! Went The Strings Of My Heart",
           "m": "156",
           "s": "155",
           "p": "161"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "155",
           "s": "155",
           "p": "153"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jill Barnes"

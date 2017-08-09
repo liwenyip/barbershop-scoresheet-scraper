@@ -1,0 +1,585 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2002-03-CP-NTH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NORTHERN CHORUS PRELIMS",
+  "location": "DERBY",
+  "year": "2002/03",
+  "type": "c",
+  "date": "16/11/2002",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "John Grant"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Todd"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Grand Central Chorus",
+      "size": 49,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When Day Is Done",
+          "m": 220,
+          "p": 225,
+          "s": 223,
+          "tot_score": 668,
+          "pc_score": 74.2,
+          "m_pc": 73.3,
+          "p_pc": 75.0,
+          "s_pc": 74.3
+        },
+        {
+          "n": 1,
+          "name": "Over The Rainbow",
+          "m": 217,
+          "p": 225,
+          "s": 225,
+          "tot_score": 667,
+          "pc_score": 74.1,
+          "m_pc": 72.3,
+          "p_pc": 75.0,
+          "s_pc": 75.0
+        }
+      ],
+      "n": 2,
+      "m": 437,
+      "m_pc": 72.8,
+      "p": 450,
+      "p_pc": 75.0,
+      "s": 448,
+      "s_pc": 74.7,
+      "tot_score": 1335,
+      "pc_score": 74.2
+    },
+    {
+      "rank": 2,
+      "name": "Cotton Town Chorus",
+      "size": 58,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 212,
+          "p": 219,
+          "s": 224,
+          "tot_score": 655,
+          "pc_score": 72.8,
+          "m_pc": 70.7,
+          "p_pc": 73.0,
+          "s_pc": 74.7
+        },
+        {
+          "n": 1,
+          "name": "Toot Toot Tootsie Goodbye",
+          "m": 224,
+          "p": 229,
+          "s": 224,
+          "tot_score": 677,
+          "pc_score": 75.2,
+          "m_pc": 74.7,
+          "p_pc": 76.3,
+          "s_pc": 74.7
+        }
+      ],
+      "n": 2,
+      "m": 436,
+      "m_pc": 72.7,
+      "p": 448,
+      "p_pc": 74.7,
+      "s": 448,
+      "s_pc": 74.7,
+      "tot_score": 1332,
+      "pc_score": 74.0
+    },
+    {
+      "rank": 3,
+      "name": "Hallmark Of Harmony",
+      "size": 36,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Leave Me, Mammy",
+          "m": 188,
+          "p": 198,
+          "s": 195,
+          "tot_score": 581,
+          "pc_score": 64.6,
+          "m_pc": 62.7,
+          "p_pc": 66.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Back In The Old Routine",
+          "m": 202,
+          "p": 208,
+          "s": 188,
+          "tot_score": 598,
+          "pc_score": 66.4,
+          "m_pc": 67.3,
+          "p_pc": 69.3,
+          "s_pc": 62.7
+        }
+      ],
+      "n": 2,
+      "m": 390,
+      "m_pc": 65.0,
+      "p": 406,
+      "p_pc": 67.7,
+      "s": 383,
+      "s_pc": 63.8,
+      "tot_score": 1179,
+      "pc_score": 65.5
+    },
+    {
+      "rank": 4,
+      "name": "Spirit Of Harmony",
+      "size": 39,
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 196,
+          "p": 197,
+          "s": 188,
+          "tot_score": 581,
+          "pc_score": 64.6,
+          "m_pc": 65.3,
+          "p_pc": 65.7,
+          "s_pc": 62.7
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 198,
+          "p": 200,
+          "s": 186,
+          "tot_score": 584,
+          "pc_score": 64.9,
+          "m_pc": 66.0,
+          "p_pc": 66.7,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 394,
+      "m_pc": 65.7,
+      "p": 397,
+      "p_pc": 66.2,
+      "s": 374,
+      "s_pc": 62.3,
+      "tot_score": 1165,
+      "pc_score": 64.7
+    },
+    {
+      "rank": 5,
+      "name": "The Telfordaires",
+      "size": 20,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Take My Place When I'm Gone?",
+          "m": 197,
+          "p": 176,
+          "s": 182,
+          "tot_score": 555,
+          "pc_score": 61.7,
+          "m_pc": 65.7,
+          "p_pc": 58.7,
+          "s_pc": 60.7
+        },
+        {
+          "n": 1,
+          "name": "Can You Tame Wild Wimmen'",
+          "m": 211,
+          "p": 204,
+          "s": 188,
+          "tot_score": 603,
+          "pc_score": 67.0,
+          "m_pc": 70.3,
+          "p_pc": 68.0,
+          "s_pc": 62.7
+        }
+      ],
+      "n": 2,
+      "m": 408,
+      "m_pc": 68.0,
+      "p": 380,
+      "p_pc": 63.3,
+      "s": 370,
+      "s_pc": 61.7,
+      "tot_score": 1158,
+      "pc_score": 64.3
+    },
+    {
+      "rank": 6,
+      "name": "Gentlemen Songsters",
+      "size": 18,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Won't Tell A Soul I Love You",
+          "m": 173,
+          "p": 188,
+          "s": 172,
+          "tot_score": 533,
+          "pc_score": 59.2,
+          "m_pc": 57.7,
+          "p_pc": 62.7,
+          "s_pc": 57.3
+        },
+        {
+          "n": 1,
+          "name": "It's Crazy But I'm In Love",
+          "m": 176,
+          "p": 191,
+          "s": 170,
+          "tot_score": 537,
+          "pc_score": 59.7,
+          "m_pc": 58.7,
+          "p_pc": 63.7,
+          "s_pc": 56.7
+        }
+      ],
+      "n": 2,
+      "m": 349,
+      "m_pc": 58.2,
+      "p": 379,
+      "p_pc": 63.2,
+      "s": 342,
+      "s_pc": 57.0,
+      "tot_score": 1070,
+      "pc_score": 59.4
+    },
+    {
+      "rank": 7,
+      "name": "The Red Rose Chorus",
+      "size": 29,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Gold Turns To Grey",
+          "m": 155,
+          "p": 187,
+          "s": 173,
+          "tot_score": 515,
+          "pc_score": 57.2,
+          "m_pc": 51.7,
+          "p_pc": 62.3,
+          "s_pc": 57.7
+        },
+        {
+          "n": 1,
+          "name": "Oh! You Beautiful Doll",
+          "m": 171,
+          "p": 188,
+          "s": 176,
+          "tot_score": 535,
+          "pc_score": 59.4,
+          "m_pc": 57.0,
+          "p_pc": 62.7,
+          "s_pc": 58.7
+        }
+      ],
+      "n": 2,
+      "m": 326,
+      "m_pc": 54.3,
+      "p": 375,
+      "p_pc": 62.5,
+      "s": 349,
+      "s_pc": 58.2,
+      "tot_score": 1050,
+      "pc_score": 58.3
+    },
+    {
+      "rank": 8,
+      "name": "Harmony Lincs",
+      "size": 19,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 161,
+          "p": 176,
+          "s": 161,
+          "tot_score": 498,
+          "pc_score": 55.3,
+          "m_pc": 53.7,
+          "p_pc": 58.7,
+          "s_pc": 53.7
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 159,
+          "p": 173,
+          "s": 158,
+          "tot_score": 490,
+          "pc_score": 54.4,
+          "m_pc": 53.0,
+          "p_pc": 57.7,
+          "s_pc": 52.7
+        }
+      ],
+      "n": 2,
+      "m": 320,
+      "m_pc": 53.3,
+      "p": 349,
+      "p_pc": 58.2,
+      "s": 319,
+      "s_pc": 53.2,
+      "tot_score": 988,
+      "pc_score": 54.9
+    },
+    {
+      "rank": 9,
+      "name": "The Big County Chorus",
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Meet Me In Rosetime Rosie",
+          "m": 158,
+          "p": 168,
+          "s": 158,
+          "tot_score": 484,
+          "pc_score": 53.8,
+          "m_pc": 52.7,
+          "p_pc": 56.0,
+          "s_pc": 52.7
+        },
+        {
+          "n": 1,
+          "name": "The Little Boy",
+          "m": 143,
+          "p": 167,
+          "s": 155,
+          "tot_score": 465,
+          "pc_score": 51.7,
+          "m_pc": 47.7,
+          "p_pc": 55.7,
+          "s_pc": 51.7
+        }
+      ],
+      "n": 2,
+      "m": 301,
+      "m_pc": 50.2,
+      "p": 335,
+      "p_pc": 55.8,
+      "s": 313,
+      "s_pc": 52.2,
+      "tot_score": 949,
+      "pc_score": 52.7
+    },
+    {
+      "rank": 10,
+      "name": "Anvil Chorus",
+      "size": 36,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Church Bells Are Ringing For Mary",
+          "m": 161,
+          "p": 174,
+          "s": 150,
+          "tot_score": 485,
+          "pc_score": 53.9,
+          "m_pc": 53.7,
+          "p_pc": 58.0,
+          "s_pc": 50.0
+        },
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 153,
+          "p": 163,
+          "s": 147,
+          "tot_score": 463,
+          "pc_score": 51.4,
+          "m_pc": 51.0,
+          "p_pc": 54.3,
+          "s_pc": 49.0
+        }
+      ],
+      "n": 2,
+      "m": 314,
+      "m_pc": 52.3,
+      "p": 337,
+      "p_pc": 56.2,
+      "s": 297,
+      "s_pc": 49.5,
+      "tot_score": 948,
+      "pc_score": 52.7
+    },
+    {
+      "rank": 11,
+      "name": "Granite City Chorus",
+      "size": 16,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Take You Home Again, Kathleen",
+          "m": 149,
+          "p": 154,
+          "s": 144,
+          "tot_score": 447,
+          "pc_score": 49.7,
+          "m_pc": 49.7,
+          "p_pc": 51.3,
+          "s_pc": 48.0
+        },
+        {
+          "n": 1,
+          "name": "The Old Piano Roll Blues",
+          "m": 169,
+          "p": 168,
+          "s": 151,
+          "tot_score": 488,
+          "pc_score": 54.2,
+          "m_pc": 56.3,
+          "p_pc": 56.0,
+          "s_pc": 50.3
+        }
+      ],
+      "n": 2,
+      "m": 318,
+      "m_pc": 53.0,
+      "p": 322,
+      "p_pc": 53.7,
+      "s": 295,
+      "s_pc": 49.2,
+      "tot_score": 935,
+      "pc_score": 51.9
+    },
+    {
+      "rank": 12,
+      "name": "Friends In Harmony",
+      "size": 13,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 149,
+          "p": 167,
+          "s": 148,
+          "tot_score": 464,
+          "pc_score": 51.6,
+          "m_pc": 49.7,
+          "p_pc": 55.7,
+          "s_pc": 49.3
+        },
+        {
+          "n": 1,
+          "name": "Get Out And Get Under The Moon",
+          "m": 151,
+          "p": 154,
+          "s": 134,
+          "tot_score": 439,
+          "pc_score": 48.8,
+          "m_pc": 50.3,
+          "p_pc": 51.3,
+          "s_pc": 44.7
+        }
+      ],
+      "n": 2,
+      "m": 300,
+      "m_pc": 50.0,
+      "p": 321,
+      "p_pc": 53.5,
+      "s": 282,
+      "s_pc": 47.0,
+      "tot_score": 903,
+      "pc_score": 50.2
+    },
+    {
+      "rank": 13,
+      "name": "Rainy City Chorus",
+      "size": 26,
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 118,
+          "p": 151,
+          "s": 127,
+          "tot_score": 396,
+          "pc_score": 44.0,
+          "m_pc": 39.3,
+          "p_pc": 50.3,
+          "s_pc": 42.3
+        },
+        {
+          "n": 1,
+          "name": "Don't Bring Lulu",
+          "m": 133,
+          "p": 147,
+          "s": 131,
+          "tot_score": 411,
+          "pc_score": 45.7,
+          "m_pc": 44.3,
+          "p_pc": 49.0,
+          "s_pc": 43.7
+        }
+      ],
+      "n": 2,
+      "m": 251,
+      "m_pc": 41.8,
+      "p": 298,
+      "p_pc": 49.7,
+      "s": 258,
+      "s_pc": 43.0,
+      "tot_score": 807,
+      "pc_score": 44.8
+    }
+  ]
+}

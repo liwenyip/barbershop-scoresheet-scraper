@@ -1,0 +1,677 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2002-03-QP-NAT-sa-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET PRELIM - SATURDAY",
+  "location": "WALSALL",
+  "year": "2002/03",
+  "type": "q",
+  "date": "12/10/2002",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Andy Milner"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 146,
+          "p": 154,
+          "s": 133,
+          "tot_score": 433,
+          "pc_score": 72.2,
+          "m_pc": 73.0,
+          "p_pc": 77.0,
+          "s_pc": 66.5
+        },
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 139,
+          "p": 148,
+          "s": 143,
+          "tot_score": 430,
+          "pc_score": 71.7,
+          "m_pc": 69.5,
+          "p_pc": 74.0,
+          "s_pc": 71.5
+        }
+      ],
+      "n": 2,
+      "m": 285,
+      "m_pc": 71.3,
+      "p": 302,
+      "p_pc": 75.5,
+      "s": 276,
+      "s_pc": 69.0,
+      "tot_score": 863,
+      "pc_score": 71.9
+    },
+    {
+      "rank": 2,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 136,
+          "p": 144,
+          "s": 149,
+          "tot_score": 429,
+          "pc_score": 71.5,
+          "m_pc": 68.0,
+          "p_pc": 72.0,
+          "s_pc": 74.5
+        },
+        {
+          "n": 1,
+          "name": "I Got Rhythm",
+          "m": 133,
+          "p": 150,
+          "s": 145,
+          "tot_score": 428,
+          "pc_score": 71.3,
+          "m_pc": 66.5,
+          "p_pc": 75.0,
+          "s_pc": 72.5
+        }
+      ],
+      "n": 2,
+      "m": 269,
+      "m_pc": 67.3,
+      "p": 294,
+      "p_pc": 73.5,
+      "s": 294,
+      "s_pc": 73.5,
+      "tot_score": 857,
+      "pc_score": 71.4
+    },
+    {
+      "rank": 3,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Moonlight Becomes You",
+          "m": 135,
+          "p": 138,
+          "s": 146,
+          "tot_score": 419,
+          "pc_score": 69.8,
+          "m_pc": 67.5,
+          "p_pc": 69.0,
+          "s_pc": 73.0
+        },
+        {
+          "n": 1,
+          "name": "Make 'Em Laugh",
+          "m": 140,
+          "p": 147,
+          "s": 136,
+          "tot_score": 423,
+          "pc_score": 70.5,
+          "m_pc": 70.0,
+          "p_pc": 73.5,
+          "s_pc": 68.0
+        }
+      ],
+      "n": 2,
+      "m": 275,
+      "m_pc": 68.8,
+      "p": 285,
+      "p_pc": 71.3,
+      "s": 282,
+      "s_pc": 70.5,
+      "tot_score": 842,
+      "pc_score": 70.2
+    },
+    {
+      "rank": 4,
+      "name": "Savannah",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 125,
+          "p": 139,
+          "s": 127,
+          "tot_score": 391,
+          "pc_score": 65.2,
+          "m_pc": 62.5,
+          "p_pc": 69.5,
+          "s_pc": 63.5
+        },
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 132,
+          "p": 139,
+          "s": 127,
+          "tot_score": 398,
+          "pc_score": 66.3,
+          "m_pc": 66.0,
+          "p_pc": 69.5,
+          "s_pc": 63.5
+        }
+      ],
+      "n": 2,
+      "m": 257,
+      "m_pc": 64.3,
+      "p": 278,
+      "p_pc": 69.5,
+      "s": 254,
+      "s_pc": 63.5,
+      "tot_score": 789,
+      "pc_score": 65.8
+    },
+    {
+      "rank": 5,
+      "name": "Rhapsody",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Melancholy Baby",
+          "m": 131,
+          "p": 125,
+          "s": 138,
+          "tot_score": 394,
+          "pc_score": 65.7,
+          "m_pc": 65.5,
+          "p_pc": 62.5,
+          "s_pc": 69.0
+        },
+        {
+          "n": 1,
+          "name": "Oh You Beautiful Baby",
+          "m": 131,
+          "p": 126,
+          "s": 126,
+          "tot_score": 383,
+          "pc_score": 63.8,
+          "m_pc": 65.5,
+          "p_pc": 63.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 262,
+      "m_pc": 65.5,
+      "p": 251,
+      "p_pc": 62.8,
+      "s": 264,
+      "s_pc": 66.0,
+      "tot_score": 777,
+      "pc_score": 64.8
+    },
+    {
+      "rank": 6,
+      "name": "Format",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 124,
+          "p": 130,
+          "s": 128,
+          "tot_score": 382,
+          "pc_score": 63.7,
+          "m_pc": 62.0,
+          "p_pc": 65.0,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 126,
+          "p": 134,
+          "s": 125,
+          "tot_score": 385,
+          "pc_score": 64.2,
+          "m_pc": 63.0,
+          "p_pc": 67.0,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 264,
+      "p_pc": 66.0,
+      "s": 253,
+      "s_pc": 63.3,
+      "tot_score": 767,
+      "pc_score": 63.9
+    },
+    {
+      "rank": 7,
+      "name": "Bostin' 4 A Pitch",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There's A Rainbow Round My Shoulder",
+          "m": 122,
+          "p": 117,
+          "s": 118,
+          "tot_score": 357,
+          "pc_score": 59.5,
+          "m_pc": 61.0,
+          "p_pc": 58.5,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "Heart Of A Clown",
+          "m": 113,
+          "p": 116,
+          "s": 116,
+          "tot_score": 345,
+          "pc_score": 57.5,
+          "m_pc": 56.5,
+          "p_pc": 58.0,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 235,
+      "m_pc": 58.8,
+      "p": 233,
+      "p_pc": 58.3,
+      "s": 234,
+      "s_pc": 58.5,
+      "tot_score": 702,
+      "pc_score": 58.5
+    },
+    {
+      "rank": 8,
+      "name": "Fourtune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 111,
+          "p": 117,
+          "s": 120,
+          "tot_score": 348,
+          "pc_score": 58.0,
+          "m_pc": 55.5,
+          "p_pc": 58.5,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 118,
+          "p": 111,
+          "s": 120,
+          "tot_score": 349,
+          "pc_score": 58.2,
+          "m_pc": 59.0,
+          "p_pc": 55.5,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 229,
+      "m_pc": 57.3,
+      "p": 228,
+      "p_pc": 57.0,
+      "s": 240,
+      "s_pc": 60.0,
+      "tot_score": 697,
+      "pc_score": 58.1
+    },
+    {
+      "rank": 9,
+      "name": "Almost Gentlemen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Song For Mary",
+          "m": 112,
+          "p": 118,
+          "s": 117,
+          "tot_score": 347,
+          "pc_score": 57.8,
+          "m_pc": 56.0,
+          "p_pc": 59.0,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "Get Out And Get Under The Moon",
+          "m": 106,
+          "p": 120,
+          "s": 110,
+          "tot_score": 336,
+          "pc_score": 56.0,
+          "m_pc": 53.0,
+          "p_pc": 60.0,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 218,
+      "m_pc": 54.5,
+      "p": 238,
+      "p_pc": 59.5,
+      "s": 227,
+      "s_pc": 56.8,
+      "tot_score": 683,
+      "pc_score": 56.9
+    },
+    {
+      "rank": 9,
+      "name": "Forever A Cappella",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 108,
+          "p": 105,
+          "s": 126,
+          "tot_score": 339,
+          "pc_score": 56.5,
+          "m_pc": 54.0,
+          "p_pc": 52.5,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "From The First Hello To The Last Goodbye",
+          "m": 112,
+          "p": 110,
+          "s": 122,
+          "tot_score": 344,
+          "pc_score": 57.3,
+          "m_pc": 56.0,
+          "p_pc": 55.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 220,
+      "m_pc": 55.0,
+      "p": 215,
+      "p_pc": 53.8,
+      "s": 248,
+      "s_pc": 62.0,
+      "tot_score": 683,
+      "pc_score": 56.9
+    },
+    {
+      "rank": 11,
+      "name": "Fine Blend",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When You Look In The Heart Of A Rose",
+          "m": 113,
+          "p": 108,
+          "s": 119,
+          "tot_score": 340,
+          "pc_score": 56.7,
+          "m_pc": 56.5,
+          "p_pc": 54.0,
+          "s_pc": 59.5
+        },
+        {
+          "n": 1,
+          "name": "Paper Doll",
+          "m": 124,
+          "p": 103,
+          "s": 110,
+          "tot_score": 337,
+          "pc_score": 56.2,
+          "m_pc": 62.0,
+          "p_pc": 51.5,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 237,
+      "m_pc": 59.3,
+      "p": 211,
+      "p_pc": 52.8,
+      "s": 229,
+      "s_pc": 57.3,
+      "tot_score": 677,
+      "pc_score": 56.4
+    },
+    {
+      "rank": 12,
+      "name": "Sound Byte",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Toot Toot Tootsie Goodbye",
+          "m": 121,
+          "p": 118,
+          "s": 111,
+          "tot_score": 350,
+          "pc_score": 58.3,
+          "m_pc": 60.5,
+          "p_pc": 59.0,
+          "s_pc": 55.5
+        },
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 106,
+          "p": 113,
+          "s": 105,
+          "tot_score": 324,
+          "pc_score": 54.0,
+          "m_pc": 53.0,
+          "p_pc": 56.5,
+          "s_pc": 52.5
+        }
+      ],
+      "n": 2,
+      "m": 227,
+      "m_pc": 56.8,
+      "p": 231,
+      "p_pc": 57.8,
+      "s": 216,
+      "s_pc": 54.0,
+      "tot_score": 674,
+      "pc_score": 56.2
+    },
+    {
+      "rank": 13,
+      "name": "A Cappella Fellas",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 113,
+          "p": 111,
+          "s": 114,
+          "tot_score": 338,
+          "pc_score": 56.3,
+          "m_pc": 56.5,
+          "p_pc": 55.5,
+          "s_pc": 57.0
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 108,
+          "p": 110,
+          "s": 111,
+          "tot_score": 329,
+          "pc_score": 54.8,
+          "m_pc": 54.0,
+          "p_pc": 55.0,
+          "s_pc": 55.5
+        }
+      ],
+      "n": 2,
+      "m": 221,
+      "m_pc": 55.3,
+      "p": 221,
+      "p_pc": 55.3,
+      "s": 225,
+      "s_pc": 56.3,
+      "tot_score": 667,
+      "pc_score": 55.6
+    },
+    {
+      "rank": 14,
+      "name": "Retro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Basin Street Blues",
+          "m": 115,
+          "p": 116,
+          "s": 112,
+          "tot_score": 343,
+          "pc_score": 57.2,
+          "m_pc": 57.5,
+          "p_pc": 58.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Smilin' Through",
+          "m": 99,
+          "p": 113,
+          "s": 106,
+          "tot_score": 318,
+          "pc_score": 53.0,
+          "m_pc": 49.5,
+          "p_pc": 56.5,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 214,
+      "m_pc": 53.5,
+      "p": 229,
+      "p_pc": 57.3,
+      "s": 218,
+      "s_pc": 54.5,
+      "tot_score": 661,
+      "pc_score": 55.1
+    },
+    {
+      "rank": 15,
+      "name": "Figaro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There Goes My Heart",
+          "m": 102,
+          "p": 110,
+          "s": 112,
+          "tot_score": 324,
+          "pc_score": 54.0,
+          "m_pc": 51.0,
+          "p_pc": 55.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Have You Ever Been Lonely?",
+          "m": 105,
+          "p": 108,
+          "s": 112,
+          "tot_score": 325,
+          "pc_score": 54.2,
+          "m_pc": 52.5,
+          "p_pc": 54.0,
+          "s_pc": 56.0
+        }
+      ],
+      "n": 2,
+      "m": 207,
+      "m_pc": 51.8,
+      "p": 218,
+      "p_pc": 54.5,
+      "s": 224,
+      "s_pc": 56.0,
+      "tot_score": 649,
+      "pc_score": 54.1
+    },
+    {
+      "rank": 16,
+      "name": "Southern Brand",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 105,
+          "p": 105,
+          "s": 110,
+          "tot_score": 320,
+          "pc_score": 53.3,
+          "m_pc": 52.5,
+          "p_pc": 52.5,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "April Showers",
+          "m": 112,
+          "p": 104,
+          "s": 108,
+          "tot_score": 324,
+          "pc_score": 54.0,
+          "m_pc": 56.0,
+          "p_pc": 52.0,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 217,
+      "m_pc": 54.3,
+      "p": 209,
+      "p_pc": 52.3,
+      "s": 218,
+      "s_pc": 54.5,
+      "tot_score": 644,
+      "pc_score": 53.7
+    }
+  ]
+}

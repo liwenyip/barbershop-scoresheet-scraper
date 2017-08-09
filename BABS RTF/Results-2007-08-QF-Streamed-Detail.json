@@ -1,0 +1,479 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2007-08-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "CHELTENHAM",
+  "year": "2007/08",
+  "type": "q",
+  "date": "25/05/2008",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Undecided Medley",
+          "m": 234,
+          "p": 226,
+          "s": 230,
+          "tot_score": 690,
+          "pc_score": 76.7,
+          "m_pc": 78.0,
+          "p_pc": 75.3,
+          "s_pc": 76.7
+        },
+        {
+          "n": 1,
+          "name": "What Kind Of Fool Am I",
+          "m": 241,
+          "p": 232,
+          "s": 230,
+          "tot_score": 703,
+          "pc_score": 78.1,
+          "m_pc": 80.3,
+          "p_pc": 77.3,
+          "s_pc": 76.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 465.0,
+          "p": 454.0,
+          "s": 462.0,
+          "tot_score": 1381.0,
+          "pc_score": 76.7,
+          "m_pc": 77.5,
+          "p_pc": 75.7,
+          "s_pc": 77.0
+        }
+      ],
+      "n": 4,
+      "m": 940.0,
+      "m_pc": 78.3,
+      "p": 912.0,
+      "p_pc": 76.0,
+      "s": 922.0,
+      "s_pc": 76.8,
+      "tot_score": 2774.0,
+      "pc_score": 77.1
+    },
+    {
+      "rank": 2,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Impossible",
+          "m": 224,
+          "p": 225,
+          "s": 228,
+          "tot_score": 677,
+          "pc_score": 75.2,
+          "m_pc": 74.7,
+          "p_pc": 75.0,
+          "s_pc": 76.0
+        },
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 218,
+          "p": 225,
+          "s": 222,
+          "tot_score": 665,
+          "pc_score": 73.9,
+          "m_pc": 72.7,
+          "p_pc": 75.0,
+          "s_pc": 74.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 448.0,
+          "p": 447.0,
+          "s": 453.0,
+          "tot_score": 1348.0,
+          "pc_score": 74.9,
+          "m_pc": 74.7,
+          "p_pc": 74.5,
+          "s_pc": 75.5
+        }
+      ],
+      "n": 4,
+      "m": 890.0,
+      "m_pc": 74.2,
+      "p": 897.0,
+      "p_pc": 74.8,
+      "s": 903.0,
+      "s_pc": 75.3,
+      "tot_score": 2690.0,
+      "pc_score": 74.7
+    },
+    {
+      "rank": 3,
+      "name": "dB4",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Martin"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Giles"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 206,
+          "p": 206,
+          "s": 211,
+          "tot_score": 623,
+          "pc_score": 69.2,
+          "m_pc": 68.7,
+          "p_pc": 68.7,
+          "s_pc": 70.3
+        },
+        {
+          "n": 1,
+          "name": "Over The Rainbow",
+          "m": 211,
+          "p": 202,
+          "s": 214,
+          "tot_score": 627,
+          "pc_score": 69.7,
+          "m_pc": 70.3,
+          "p_pc": 67.3,
+          "s_pc": 71.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 421.0,
+          "p": 428.0,
+          "s": 430.0,
+          "tot_score": 1279.0,
+          "pc_score": 71.1,
+          "m_pc": 70.2,
+          "p_pc": 71.3,
+          "s_pc": 71.7
+        }
+      ],
+      "n": 4,
+      "m": 838.0,
+      "m_pc": 69.8,
+      "p": 836.0,
+      "p_pc": 69.7,
+      "s": 855.0,
+      "s_pc": 71.3,
+      "tot_score": 2529.0,
+      "pc_score": 70.3
+    },
+    {
+      "rank": 4,
+      "name": "Qube",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Dave"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me",
+          "m": 188,
+          "p": 209,
+          "s": 209,
+          "tot_score": 606,
+          "pc_score": 67.3,
+          "m_pc": 62.7,
+          "p_pc": 69.7,
+          "s_pc": 69.7
+        },
+        {
+          "n": 1,
+          "name": "For The Sake Of Auld Lang Syne",
+          "m": 195,
+          "p": 204,
+          "s": 207,
+          "tot_score": 606,
+          "pc_score": 67.3,
+          "m_pc": 65.0,
+          "p_pc": 68.0,
+          "s_pc": 69.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 425.0,
+          "p": 411.0,
+          "s": 431.0,
+          "tot_score": 1267.0,
+          "pc_score": 70.4,
+          "m_pc": 70.8,
+          "p_pc": 68.5,
+          "s_pc": 71.8
+        }
+      ],
+      "n": 4,
+      "m": 808.0,
+      "m_pc": 67.3,
+      "p": 824.0,
+      "p_pc": 68.7,
+      "s": 847.0,
+      "s_pc": 70.6,
+      "tot_score": 2479.0,
+      "pc_score": 68.9
+    },
+    {
+      "rank": 5,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 205,
+          "p": 198,
+          "s": 209,
+          "tot_score": 612,
+          "pc_score": 68.0,
+          "m_pc": 68.3,
+          "p_pc": 66.0,
+          "s_pc": 69.7
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 213,
+          "p": 200,
+          "s": 211,
+          "tot_score": 624,
+          "pc_score": 69.3,
+          "m_pc": 71.0,
+          "p_pc": 66.7,
+          "s_pc": 70.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 379.0,
+          "p": 400.0,
+          "s": 402.0,
+          "tot_score": 1181.0,
+          "pc_score": 65.6,
+          "m_pc": 63.2,
+          "p_pc": 66.7,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 4,
+      "m": 797.0,
+      "m_pc": 66.4,
+      "p": 798.0,
+      "p_pc": 66.5,
+      "s": 822.0,
+      "s_pc": 68.5,
+      "tot_score": 2417.0,
+      "pc_score": 67.1
+    },
+    {
+      "rank": 6,
+      "name": "Four Blokes Singin'",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Chris"
+        },
+        {
+          "part": "lead",
+          "name": "Glen"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lazy Bones",
+          "m": 174,
+          "p": 187,
+          "s": 183,
+          "tot_score": 544,
+          "pc_score": 60.4,
+          "m_pc": 58.0,
+          "p_pc": 62.3,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "Last Night On The Back Porch",
+          "m": 186,
+          "p": 191,
+          "s": 186,
+          "tot_score": 563,
+          "pc_score": 62.6,
+          "m_pc": 62.0,
+          "p_pc": 63.7,
+          "s_pc": 62.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 398.0,
+          "p": 397.0,
+          "s": 405.0,
+          "tot_score": 1200.0,
+          "pc_score": 66.7,
+          "m_pc": 66.3,
+          "p_pc": 66.2,
+          "s_pc": 67.5
+        }
+      ],
+      "n": 4,
+      "m": 758.0,
+      "m_pc": 63.2,
+      "p": 775.0,
+      "p_pc": 64.6,
+      "s": 774.0,
+      "s_pc": 64.5,
+      "tot_score": 2307.0,
+      "pc_score": 64.1
+    }
+  ]
+}

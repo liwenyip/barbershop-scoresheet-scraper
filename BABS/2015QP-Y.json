@@ -42,23 +42,23 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "72.8",
       "songs": [
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "222",
           "s": "224",
           "p": "214"
         },
         {
-          "title": "Goodbye Yellow Brick Road",
+          "name": "Goodbye Yellow Brick Road",
           "m": "222",
           "s": "208",
           "p": "220"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Sanctuary"
@@ -115,19 +115,19 @@
       "pc_score": "71.8",
       "songs": [
         {
-          "title": "Cuddle Up A Little Closer, Lovey Mine",
+          "name": "Cuddle Up A Little Closer, Lovey Mine",
           "m": "211",
           "s": "207",
           "p": "217"
         },
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "214",
           "s": "223",
           "p": "220"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joseph Spratt"
@@ -156,19 +156,19 @@
       "pc_score": "69.9",
       "songs": [
         {
-          "title": "Cruella De Vil",
+          "name": "Cruella De Vil",
           "m": "221",
           "s": "218",
           "p": "210"
         },
         {
-          "title": "Lucky Old Sun",
+          "name": "Lucky Old Sun",
           "m": "211",
           "s": "196",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Luke Freeney"
@@ -197,19 +197,19 @@
       "pc_score": "68.0",
       "songs": [
         {
-          "title": "Cinderella",
+          "name": "Cinderella",
           "m": "207",
           "s": "201",
           "p": "209"
         },
         {
-          "title": "I'll Forget You",
+          "name": "I'll Forget You",
           "m": "203",
           "s": "203",
           "p": "201"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jamie Braham"
@@ -238,19 +238,19 @@
       "pc_score": "64.7",
       "songs": [
         {
-          "title": "Zip-A - Dee-Doodah",
+          "name": "Zip-A - Dee-Doodah",
           "m": "199",
           "s": "197",
           "p": "198"
         },
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "191",
           "s": "188",
           "p": "191"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Robert Gall"
@@ -279,19 +279,19 @@
       "pc_score": "60.0",
       "songs": [
         {
-          "title": "I Will Go Sailing No More",
+          "name": "I Will Go Sailing No More",
           "m": "186",
           "s": "173",
           "p": "187"
         },
         {
-          "title": "Swanee",
+          "name": "Swanee",
           "m": "183",
           "s": "181",
           "p": "170"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard Platt"

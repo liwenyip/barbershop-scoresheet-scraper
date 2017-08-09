@@ -1,0 +1,371 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2002-03-QF-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "HARROGATE",
+  "year": "2002/03",
+  "type": "q",
+  "date": "25/05/2003",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "John Grant"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow Parody",
+          "m": 231,
+          "p": 228,
+          "s": 237,
+          "tot_score": 696,
+          "pc_score": 77.3,
+          "m_pc": 77.0,
+          "p_pc": 76.0,
+          "s_pc": 79.0
+        },
+        {
+          "n": 1,
+          "name": "As Long As You're Not In Love With Anyone Else / Undecided ",
+          "m": 239,
+          "p": 232,
+          "s": 235,
+          "tot_score": 706,
+          "pc_score": 78.4,
+          "m_pc": 79.7,
+          "p_pc": 77.3,
+          "s_pc": 78.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 479.0,
+          "p": 485.0,
+          "s": 470.0,
+          "tot_score": 1434.0,
+          "pc_score": 79.7,
+          "m_pc": 79.8,
+          "p_pc": 80.8,
+          "s_pc": 78.3
+        }
+      ],
+      "n": 4,
+      "m": 949.0,
+      "m_pc": 79.1,
+      "p": 945.0,
+      "p_pc": 78.8,
+      "s": 942.0,
+      "s_pc": 78.5,
+      "tot_score": 2836.0,
+      "pc_score": 78.8
+    },
+    {
+      "rank": 2,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Pal Of My Cradle Days",
+          "m": 211,
+          "p": 207,
+          "s": 208,
+          "tot_score": 626,
+          "pc_score": 69.6,
+          "m_pc": 70.3,
+          "p_pc": 69.0,
+          "s_pc": 69.3
+        },
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 205,
+          "p": 213,
+          "s": 205,
+          "tot_score": 623,
+          "pc_score": 69.2,
+          "m_pc": 68.3,
+          "p_pc": 71.0,
+          "s_pc": 68.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 415.0,
+          "p": 436.0,
+          "s": 430.0,
+          "tot_score": 1281.0,
+          "pc_score": 71.2,
+          "m_pc": 69.2,
+          "p_pc": 72.7,
+          "s_pc": 71.7
+        }
+      ],
+      "n": 4,
+      "m": 831.0,
+      "m_pc": 69.3,
+      "p": 856.0,
+      "p_pc": 71.3,
+      "s": 843.0,
+      "s_pc": 70.3,
+      "tot_score": 2530.0,
+      "pc_score": 70.3
+    },
+    {
+      "rank": 3,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Smilin' Through",
+          "m": 210,
+          "p": 227,
+          "s": 204,
+          "tot_score": 641,
+          "pc_score": 71.2,
+          "m_pc": 70.0,
+          "p_pc": 75.7,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 217,
+          "p": 224,
+          "s": 209,
+          "tot_score": 650,
+          "pc_score": 72.2,
+          "m_pc": 72.3,
+          "p_pc": 74.7,
+          "s_pc": 69.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 403.0,
+          "p": 425.0,
+          "s": 408.0,
+          "tot_score": 1236.0,
+          "pc_score": 68.7,
+          "m_pc": 67.2,
+          "p_pc": 70.8,
+          "s_pc": 68.0
+        }
+      ],
+      "n": 4,
+      "m": 830.0,
+      "m_pc": 69.2,
+      "p": 876.0,
+      "p_pc": 73.0,
+      "s": 821.0,
+      "s_pc": 68.4,
+      "tot_score": 2527.0,
+      "pc_score": 70.2
+    },
+    {
+      "rank": 4,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When You Look In The Heart Of A Rose",
+          "m": 201,
+          "p": 213,
+          "s": 216,
+          "tot_score": 630,
+          "pc_score": 70.0,
+          "m_pc": 67.0,
+          "p_pc": 71.0,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "Star Medley",
+          "m": 202,
+          "p": 221,
+          "s": 208,
+          "tot_score": 631,
+          "pc_score": 70.1,
+          "m_pc": 67.3,
+          "p_pc": 73.7,
+          "s_pc": 69.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 394.0,
+          "p": 431.0,
+          "s": 430.0,
+          "tot_score": 1255.0,
+          "pc_score": 69.7,
+          "m_pc": 65.7,
+          "p_pc": 71.8,
+          "s_pc": 71.7
+        }
+      ],
+      "n": 4,
+      "m": 797.0,
+      "m_pc": 66.4,
+      "p": 865.0,
+      "p_pc": 72.1,
+      "s": 854.0,
+      "s_pc": 71.2,
+      "tot_score": 2516.0,
+      "pc_score": 69.9
+    },
+    {
+      "rank": 5,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 206,
+          "p": 201,
+          "s": 197,
+          "tot_score": 604,
+          "pc_score": 67.1,
+          "m_pc": 68.7,
+          "p_pc": 67.0,
+          "s_pc": 65.7
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 200,
+          "p": 208,
+          "s": 203,
+          "tot_score": 611,
+          "pc_score": 67.9,
+          "m_pc": 66.7,
+          "p_pc": 69.3,
+          "s_pc": 67.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 386.0,
+          "p": 419.0,
+          "s": 416.0,
+          "tot_score": 1221.0,
+          "pc_score": 67.8,
+          "m_pc": 64.3,
+          "p_pc": 69.8,
+          "s_pc": 69.3
+        }
+      ],
+      "n": 4,
+      "m": 792.0,
+      "m_pc": 66.0,
+      "p": 828.0,
+      "p_pc": 69.0,
+      "s": 816.0,
+      "s_pc": 68.0,
+      "tot_score": 2436.0,
+      "pc_score": 67.7
+    },
+    {
+      "rank": 6,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 201,
+          "p": 209,
+          "s": 197,
+          "tot_score": 607,
+          "pc_score": 67.4,
+          "m_pc": 67.0,
+          "p_pc": 69.7,
+          "s_pc": 65.7
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 194,
+          "p": 203,
+          "s": 197,
+          "tot_score": 594,
+          "pc_score": 66.0,
+          "m_pc": 64.7,
+          "p_pc": 67.7,
+          "s_pc": 65.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 390.0,
+          "p": 426.0,
+          "s": 406.0,
+          "tot_score": 1222.0,
+          "pc_score": 67.9,
+          "m_pc": 65.0,
+          "p_pc": 71.0,
+          "s_pc": 67.7
+        }
+      ],
+      "n": 4,
+      "m": 785.0,
+      "m_pc": 65.4,
+      "p": 838.0,
+      "p_pc": 69.8,
+      "s": 800.0,
+      "s_pc": 66.7,
+      "tot_score": 2423.0,
+      "pc_score": 67.3
+    }
+  ]
+}

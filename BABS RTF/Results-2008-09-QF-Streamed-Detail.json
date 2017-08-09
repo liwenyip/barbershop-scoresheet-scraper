@@ -1,0 +1,707 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2008-09-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "LLANDUDNO",
+  "year": "2008/09",
+  "type": "q",
+  "date": "24/05/2009",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Timm"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Smile Medley",
+          "m": 240,
+          "p": 237,
+          "s": 241,
+          "tot_score": 718,
+          "pc_score": 79.8,
+          "m_pc": 80.0,
+          "p_pc": 79.0,
+          "s_pc": 80.3
+        },
+        {
+          "n": 1,
+          "name": "Yesterday I Heard The Rain",
+          "m": 235,
+          "p": 236,
+          "s": 235,
+          "tot_score": 706,
+          "pc_score": 78.4,
+          "m_pc": 78.3,
+          "p_pc": 78.7,
+          "s_pc": 78.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 472.0,
+          "p": 465.0,
+          "s": 464.0,
+          "tot_score": 1401.0,
+          "pc_score": 77.8,
+          "m_pc": 78.7,
+          "p_pc": 77.5,
+          "s_pc": 77.3
+        }
+      ],
+      "n": 4,
+      "m": 947.0,
+      "m_pc": 78.9,
+      "p": 938.0,
+      "p_pc": 78.2,
+      "s": 940.0,
+      "s_pc": 78.3,
+      "tot_score": 2825.0,
+      "pc_score": 78.5
+    },
+    {
+      "rank": 2,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 469.0,
+          "p": 462.0,
+          "s": 464.0,
+          "tot_score": 1395.0,
+          "pc_score": 77.5,
+          "m_pc": 78.2,
+          "p_pc": 77.0,
+          "s_pc": 77.3
+        }
+      ],
+      "n": 2,
+      "m": 469.0,
+      "m_pc": 78.2,
+      "p": 462.0,
+      "p_pc": 77.0,
+      "s": 464.0,
+      "s_pc": 77.3,
+      "tot_score": 1395.0,
+      "pc_score": 77.5
+    },
+    {
+      "rank": 2,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 469.0,
+          "p": 462.0,
+          "s": 464.0,
+          "tot_score": 1395.0,
+          "pc_score": 77.5,
+          "m_pc": 78.2,
+          "p_pc": 77.0,
+          "s_pc": 77.3
+        }
+      ],
+      "n": 2,
+      "m": 469.0,
+      "m_pc": 78.2,
+      "p": 462.0,
+      "p_pc": 77.0,
+      "s": 464.0,
+      "s_pc": 77.3,
+      "tot_score": 1395.0,
+      "pc_score": 77.5
+    },
+    {
+      "rank": 2,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 232,
+          "p": 240,
+          "s": 236,
+          "tot_score": 708,
+          "pc_score": 78.7,
+          "m_pc": 77.3,
+          "p_pc": 80.0,
+          "s_pc": 78.7
+        },
+        {
+          "n": 1,
+          "name": "No No Nora",
+          "m": 234,
+          "p": 234,
+          "s": 236,
+          "tot_score": 704,
+          "pc_score": 78.2,
+          "m_pc": 78.0,
+          "p_pc": 78.0,
+          "s_pc": 78.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 469.0,
+          "p": 462.0,
+          "s": 464.0,
+          "tot_score": 1395.0,
+          "pc_score": 77.5,
+          "m_pc": 78.2,
+          "p_pc": 77.0,
+          "s_pc": 77.3
+        }
+      ],
+      "n": 4,
+      "m": 935.0,
+      "m_pc": 77.9,
+      "p": 936.0,
+      "p_pc": 78.0,
+      "s": 936.0,
+      "s_pc": 78.0,
+      "tot_score": 2807.0,
+      "pc_score": 78.0
+    },
+    {
+      "rank": 2,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 232,
+          "p": 240,
+          "s": 236,
+          "tot_score": 708,
+          "pc_score": 78.7,
+          "m_pc": 77.3,
+          "p_pc": 80.0,
+          "s_pc": 78.7
+        },
+        {
+          "n": 1,
+          "name": "No No Nora",
+          "m": 234,
+          "p": 234,
+          "s": 236,
+          "tot_score": 704,
+          "pc_score": 78.2,
+          "m_pc": 78.0,
+          "p_pc": 78.0,
+          "s_pc": 78.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 469.0,
+          "p": 462.0,
+          "s": 464.0,
+          "tot_score": 1395.0,
+          "pc_score": 77.5,
+          "m_pc": 78.2,
+          "p_pc": 77.0,
+          "s_pc": 77.3
+        }
+      ],
+      "n": 4,
+      "m": 935.0,
+      "m_pc": 77.9,
+      "p": 936.0,
+      "p_pc": 78.0,
+      "s": 936.0,
+      "s_pc": 78.0,
+      "tot_score": 2807.0,
+      "pc_score": 78.0
+    },
+    {
+      "rank": 3,
+      "name": "Steel",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Keith"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Slow Boat To China",
+          "m": 230,
+          "p": 230,
+          "s": 231,
+          "tot_score": 691,
+          "pc_score": 76.8,
+          "m_pc": 76.7,
+          "p_pc": 76.7,
+          "s_pc": 77.0
+        },
+        {
+          "n": 1,
+          "name": "If I Had My Way",
+          "m": 233,
+          "p": 238,
+          "s": 230,
+          "tot_score": 701,
+          "pc_score": 77.9,
+          "m_pc": 77.7,
+          "p_pc": 79.3,
+          "s_pc": 76.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 460.0,
+          "p": 460.0,
+          "s": 464.0,
+          "tot_score": 1384.0,
+          "pc_score": 76.9,
+          "m_pc": 76.7,
+          "p_pc": 76.7,
+          "s_pc": 77.3
+        }
+      ],
+      "n": 4,
+      "m": 923.0,
+      "m_pc": 76.9,
+      "p": 928.0,
+      "p_pc": 77.3,
+      "s": 925.0,
+      "s_pc": 77.1,
+      "tot_score": 2776.0,
+      "pc_score": 77.1
+    },
+    {
+      "rank": 4,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me",
+          "m": 202,
+          "p": 204,
+          "s": 215,
+          "tot_score": 621,
+          "pc_score": 69.0,
+          "m_pc": 67.3,
+          "p_pc": 68.0,
+          "s_pc": 71.7
+        },
+        {
+          "n": 1,
+          "name": "My Melancholy Baby",
+          "m": 203,
+          "p": 200,
+          "s": 212,
+          "tot_score": 615,
+          "pc_score": 68.3,
+          "m_pc": 67.7,
+          "p_pc": 66.7,
+          "s_pc": 70.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 413.0,
+          "p": 391.0,
+          "s": 403.0,
+          "tot_score": 1207.0,
+          "pc_score": 67.1,
+          "m_pc": 68.8,
+          "p_pc": 65.2,
+          "s_pc": 67.2
+        }
+      ],
+      "n": 4,
+      "m": 818.0,
+      "m_pc": 68.2,
+      "p": 795.0,
+      "p_pc": 66.3,
+      "s": 830.0,
+      "s_pc": 69.2,
+      "tot_score": 2443.0,
+      "pc_score": 67.9
+    },
+    {
+      "rank": 5,
+      "name": "Four Blokes Singin'",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Dale"
+        },
+        {
+          "part": "lead",
+          "name": "Glen"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 214,
+          "p": 207,
+          "s": 201,
+          "tot_score": 622,
+          "pc_score": 69.1,
+          "m_pc": 71.3,
+          "p_pc": 69.0,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "How Deep Is The Ocean",
+          "m": 205,
+          "p": 206,
+          "s": 202,
+          "tot_score": 613,
+          "pc_score": 68.1,
+          "m_pc": 68.3,
+          "p_pc": 68.7,
+          "s_pc": 67.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 394.0,
+          "p": 411.0,
+          "s": 396.0,
+          "tot_score": 1201.0,
+          "pc_score": 66.7,
+          "m_pc": 65.7,
+          "p_pc": 68.5,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 4,
+      "m": 813.0,
+      "m_pc": 67.8,
+      "p": 824.0,
+      "p_pc": 68.7,
+      "s": 799.0,
+      "s_pc": 66.6,
+      "tot_score": 2436.0,
+      "pc_score": 67.7
+    },
+    {
+      "rank": 6,
+      "name": "Qube",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sweet Adeline",
+          "m": 197,
+          "p": 209,
+          "s": 205,
+          "tot_score": 611,
+          "pc_score": 67.9,
+          "m_pc": 65.7,
+          "p_pc": 69.7,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 198,
+          "p": 211,
+          "s": 202,
+          "tot_score": 611,
+          "pc_score": 67.9,
+          "m_pc": 66.0,
+          "p_pc": 70.3,
+          "s_pc": 67.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 400.0,
+          "p": 392.0,
+          "s": 405.0,
+          "tot_score": 1197.0,
+          "pc_score": 66.5,
+          "m_pc": 66.7,
+          "p_pc": 65.3,
+          "s_pc": 67.5
+        }
+      ],
+      "n": 4,
+      "m": 795.0,
+      "m_pc": 66.3,
+      "p": 812.0,
+      "p_pc": 67.7,
+      "s": 812.0,
+      "s_pc": 67.7,
+      "tot_score": 2419.0,
+      "pc_score": 67.2
+    },
+    {
+      "rank": 7,
+      "name": "Retro",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wait Till The Sun Shines, Nellie",
+          "m": 186,
+          "p": 193,
+          "s": 187,
+          "tot_score": 566,
+          "pc_score": 62.9,
+          "m_pc": 62.0,
+          "p_pc": 64.3,
+          "s_pc": 62.3
+        },
+        {
+          "n": 1,
+          "name": "I Wanna Be Around",
+          "m": 179,
+          "p": 197,
+          "s": 179,
+          "tot_score": 555,
+          "pc_score": 61.7,
+          "m_pc": 59.7,
+          "p_pc": 65.7,
+          "s_pc": 59.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 385.0,
+          "p": 395.0,
+          "s": 394.0,
+          "tot_score": 1174.0,
+          "pc_score": 65.2,
+          "m_pc": 64.2,
+          "p_pc": 65.8,
+          "s_pc": 65.7
+        }
+      ],
+      "n": 4,
+      "m": 750.0,
+      "m_pc": 62.5,
+      "p": 785.0,
+      "p_pc": 65.4,
+      "s": 760.0,
+      "s_pc": 63.3,
+      "tot_score": 2295.0,
+      "pc_score": 63.8
+    }
+  ]
+}

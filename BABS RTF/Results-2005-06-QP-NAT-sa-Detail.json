@@ -1,0 +1,326 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2005-06-QP-NAT-sa-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NAT QUARTET PRELIM - SA",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2005/06",
+  "type": "q",
+  "date": "15/10/2005",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Andy Milner"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "dB4",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There Goes My Heart",
+          "m": 131,
+          "p": 127,
+          "s": 139,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 65.5,
+          "p_pc": 63.5,
+          "s_pc": 69.5
+        },
+        {
+          "n": 1,
+          "name": "If I Give My Heart To You",
+          "m": 130,
+          "p": 131,
+          "s": 141,
+          "tot_score": 402,
+          "pc_score": 67.0,
+          "m_pc": 65.0,
+          "p_pc": 65.5,
+          "s_pc": 70.5
+        }
+      ],
+      "n": 2,
+      "m": 261,
+      "m_pc": 65.3,
+      "p": 258,
+      "p_pc": 64.5,
+      "s": 280,
+      "s_pc": 70.0,
+      "tot_score": 799,
+      "pc_score": 66.6
+    },
+    {
+      "rank": 2,
+      "name": "This Way Up",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night On The Back Porch",
+          "m": 130,
+          "p": 134,
+          "s": 132,
+          "tot_score": 396,
+          "pc_score": 66.0,
+          "m_pc": 65.0,
+          "p_pc": 67.0,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 128,
+          "p": 135,
+          "s": 125,
+          "tot_score": 388,
+          "pc_score": 64.7,
+          "m_pc": 64.0,
+          "p_pc": 67.5,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 258,
+      "m_pc": 64.5,
+      "p": 269,
+      "p_pc": 67.3,
+      "s": 257,
+      "s_pc": 64.3,
+      "tot_score": 784,
+      "pc_score": 65.3
+    },
+    {
+      "rank": 3,
+      "name": "SHQ",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 129,
+          "p": 123,
+          "s": 122,
+          "tot_score": 374,
+          "pc_score": 62.3,
+          "m_pc": 64.5,
+          "p_pc": 61.5,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 133,
+          "p": 124,
+          "s": 119,
+          "tot_score": 376,
+          "pc_score": 62.7,
+          "m_pc": 66.5,
+          "p_pc": 62.0,
+          "s_pc": 59.5
+        }
+      ],
+      "n": 2,
+      "m": 262,
+      "m_pc": 65.5,
+      "p": 247,
+      "p_pc": 61.8,
+      "s": 241,
+      "s_pc": 60.3,
+      "tot_score": 750,
+      "pc_score": 62.5
+    },
+    {
+      "rank": 4,
+      "name": "Fourtune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 124,
+          "p": 117,
+          "s": 116,
+          "tot_score": 357,
+          "pc_score": 59.5,
+          "m_pc": 62.0,
+          "p_pc": 58.5,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "The Way You Look Tonight",
+          "m": 111,
+          "p": 114,
+          "s": 116,
+          "tot_score": 341,
+          "pc_score": 56.8,
+          "m_pc": 55.5,
+          "p_pc": 57.0,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 235,
+      "m_pc": 58.8,
+      "p": 231,
+      "p_pc": 57.8,
+      "s": 232,
+      "s_pc": 58.0,
+      "tot_score": 698,
+      "pc_score": 58.2
+    },
+    {
+      "rank": 5,
+      "name": "Retro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Love Me Really Love Me",
+          "m": 107,
+          "p": 115,
+          "s": 117,
+          "tot_score": 339,
+          "pc_score": 56.5,
+          "m_pc": 53.5,
+          "p_pc": 57.5,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 107,
+          "p": 113,
+          "s": 114,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 53.5,
+          "p_pc": 56.5,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 214,
+      "m_pc": 53.5,
+      "p": 228,
+      "p_pc": 57.0,
+      "s": 231,
+      "s_pc": 57.8,
+      "tot_score": 673,
+      "pc_score": 56.1
+    },
+    {
+      "rank": 6,
+      "name": "Four Across",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love To Hear That Old Barbershop Style",
+          "m": 112,
+          "p": 120,
+          "s": 112,
+          "tot_score": 344,
+          "pc_score": 57.3,
+          "m_pc": 56.0,
+          "p_pc": 60.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Paper Doll",
+          "m": 100,
+          "p": 117,
+          "s": 104,
+          "tot_score": 321,
+          "pc_score": 53.5,
+          "m_pc": 50.0,
+          "p_pc": 58.5,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 212,
+      "m_pc": 53.0,
+      "p": 237,
+      "p_pc": 59.3,
+      "s": 216,
+      "s_pc": 54.0,
+      "tot_score": 665,
+      "pc_score": 55.4
+    },
+    {
+      "rank": 7,
+      "name": "Joni Lobo",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Take You Home Again, Kathleen",
+          "m": 110,
+          "p": 98,
+          "s": 109,
+          "tot_score": 317,
+          "pc_score": 52.8,
+          "m_pc": 55.0,
+          "p_pc": 49.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "Paper Doll",
+          "m": 105,
+          "p": 105,
+          "s": 106,
+          "tot_score": 316,
+          "pc_score": 52.7,
+          "m_pc": 52.5,
+          "p_pc": 52.5,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 215,
+      "m_pc": 53.8,
+      "p": 203,
+      "p_pc": 50.8,
+      "s": 215,
+      "s_pc": 53.8,
+      "tot_score": 633,
+      "pc_score": 52.8
+    }
+  ]
+}

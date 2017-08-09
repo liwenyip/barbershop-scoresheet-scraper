@@ -1,0 +1,533 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1999-00-CP-NTH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NORTHERN CHORUS PRELIMS",
+  "location": "SHEFFIELD",
+  "year": "1999/00",
+  "type": "c",
+  "date": "20/11/1999",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Arthur Scott"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Hallmark Of Harmony",
+      "size": 66,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 146,
+          "p": 142,
+          "s": 145,
+          "tot_score": 433,
+          "pc_score": 72.2,
+          "m_pc": 73.0,
+          "p_pc": 71.0,
+          "s_pc": 72.5
+        },
+        {
+          "n": 1,
+          "name": "Liar Medley",
+          "m": 151,
+          "p": 153,
+          "s": 149,
+          "tot_score": 453,
+          "pc_score": 75.5,
+          "m_pc": 75.5,
+          "p_pc": 76.5,
+          "s_pc": 74.5
+        }
+      ],
+      "n": 2,
+      "m": 297,
+      "m_pc": 74.3,
+      "p": 295,
+      "p_pc": 73.8,
+      "s": 294,
+      "s_pc": 73.5,
+      "tot_score": 886,
+      "pc_score": 73.8
+    },
+    {
+      "rank": 2,
+      "name": "Grand Central Chorus",
+      "size": 55,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When Day Is Done",
+          "m": 153,
+          "p": 145,
+          "s": 148,
+          "tot_score": 446,
+          "pc_score": 74.3,
+          "m_pc": 76.5,
+          "p_pc": 72.5,
+          "s_pc": 74.0
+        },
+        {
+          "n": 1,
+          "name": "The Band Played On (Parody)",
+          "m": 137,
+          "p": 154,
+          "s": 145,
+          "tot_score": 436,
+          "pc_score": 72.7,
+          "m_pc": 68.5,
+          "p_pc": 77.0,
+          "s_pc": 72.5
+        }
+      ],
+      "n": 2,
+      "m": 290,
+      "m_pc": 72.5,
+      "p": 299,
+      "p_pc": 74.8,
+      "s": 293,
+      "s_pc": 73.3,
+      "tot_score": 882,
+      "pc_score": 73.5
+    },
+    {
+      "rank": 3,
+      "name": "Cotton Town Chorus",
+      "size": 51,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 140,
+          "p": 131,
+          "s": 132,
+          "tot_score": 403,
+          "pc_score": 67.2,
+          "m_pc": 70.0,
+          "p_pc": 65.5,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "The Old Piano Roll Blues",
+          "m": 142,
+          "p": 132,
+          "s": 132,
+          "tot_score": 406,
+          "pc_score": 67.7,
+          "m_pc": 71.0,
+          "p_pc": 66.0,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 2,
+      "m": 282,
+      "m_pc": 70.5,
+      "p": 263,
+      "p_pc": 65.8,
+      "s": 264,
+      "s_pc": 66.0,
+      "tot_score": 809,
+      "pc_score": 67.4
+    },
+    {
+      "rank": 4,
+      "name": "Spirit Of Harmony",
+      "size": 30,
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 124,
+          "p": 121,
+          "s": 127,
+          "tot_score": 372,
+          "pc_score": 62.0,
+          "m_pc": 62.0,
+          "p_pc": 60.5,
+          "s_pc": 63.5
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 127,
+          "p": 123,
+          "s": 121,
+          "tot_score": 371,
+          "pc_score": 61.8,
+          "m_pc": 63.5,
+          "p_pc": 61.5,
+          "s_pc": 60.5
+        }
+      ],
+      "n": 2,
+      "m": 251,
+      "m_pc": 62.8,
+      "p": 244,
+      "p_pc": 61.0,
+      "s": 248,
+      "s_pc": 62.0,
+      "tot_score": 743,
+      "pc_score": 61.9
+    },
+    {
+      "rank": 5,
+      "name": "The Red Rose Chorus",
+      "size": 35,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Always Chasing Rainbows",
+          "m": 120,
+          "p": 114,
+          "s": 125,
+          "tot_score": 359,
+          "pc_score": 59.8,
+          "m_pc": 60.0,
+          "p_pc": 57.0,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "On A Rainy Day - Medley",
+          "m": 123,
+          "p": 129,
+          "s": 124,
+          "tot_score": 376,
+          "pc_score": 62.7,
+          "m_pc": 61.5,
+          "p_pc": 64.5,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 243,
+      "m_pc": 60.8,
+      "p": 243,
+      "p_pc": 60.8,
+      "s": 249,
+      "s_pc": 62.3,
+      "tot_score": 735,
+      "pc_score": 61.3
+    },
+    {
+      "rank": 6,
+      "name": "Rainy City Chorus",
+      "size": 30,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 120,
+          "p": 117,
+          "s": 112,
+          "tot_score": 349,
+          "pc_score": 58.2,
+          "m_pc": 60.0,
+          "p_pc": 58.5,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Is There Sometime We Can Get Together?",
+          "m": 121,
+          "p": 114,
+          "s": 107,
+          "tot_score": 342,
+          "pc_score": 57.0,
+          "m_pc": 60.5,
+          "p_pc": 57.0,
+          "s_pc": 53.5
+        }
+      ],
+      "n": 2,
+      "m": 241,
+      "m_pc": 60.3,
+      "p": 231,
+      "p_pc": 57.8,
+      "s": 219,
+      "s_pc": 54.8,
+      "tot_score": 691,
+      "pc_score": 57.6
+    },
+    {
+      "rank": 7,
+      "name": "Clwyd Clippers",
+      "size": 32,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just An Old Time Love Song",
+          "m": 116,
+          "p": 107,
+          "s": 117,
+          "tot_score": 340,
+          "pc_score": 56.7,
+          "m_pc": 58.0,
+          "p_pc": 53.5,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 115,
+          "p": 116,
+          "s": 117,
+          "tot_score": 348,
+          "pc_score": 58.0,
+          "m_pc": 57.5,
+          "p_pc": 58.0,
+          "s_pc": 58.5
+        }
+      ],
+      "n": 2,
+      "m": 231,
+      "m_pc": 57.8,
+      "p": 223,
+      "p_pc": 55.8,
+      "s": 234,
+      "s_pc": 58.5,
+      "tot_score": 688,
+      "pc_score": 57.3
+    },
+    {
+      "rank": 8,
+      "name": "The Sound Of Three Spires",
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Stars Fell On Alabama",
+          "m": 111,
+          "p": 98,
+          "s": 95,
+          "tot_score": 304,
+          "pc_score": 50.7,
+          "m_pc": 55.5,
+          "p_pc": 49.0,
+          "s_pc": 47.5
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 112,
+          "p": 102,
+          "s": 99,
+          "tot_score": 313,
+          "pc_score": 52.2,
+          "m_pc": 56.0,
+          "p_pc": 51.0,
+          "s_pc": 49.5
+        }
+      ],
+      "n": 2,
+      "m": 223,
+      "m_pc": 55.8,
+      "p": 200,
+      "p_pc": 50.0,
+      "s": 194,
+      "s_pc": 48.5,
+      "tot_score": 617,
+      "pc_score": 51.4
+    },
+    {
+      "rank": 9,
+      "name": "Chelmsford Star Harmony",
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Gang That Sang 'Heart Of My Heart'",
+          "m": 107,
+          "p": 103,
+          "s": 98,
+          "tot_score": 308,
+          "pc_score": 51.3,
+          "m_pc": 53.5,
+          "p_pc": 51.5,
+          "s_pc": 49.0
+        },
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 99,
+          "p": 97,
+          "s": 97,
+          "tot_score": 293,
+          "pc_score": 48.8,
+          "m_pc": 49.5,
+          "p_pc": 48.5,
+          "s_pc": 48.5
+        }
+      ],
+      "n": 2,
+      "m": 206,
+      "m_pc": 51.5,
+      "p": 200,
+      "p_pc": 50.0,
+      "s": 195,
+      "s_pc": 48.8,
+      "tot_score": 601,
+      "pc_score": 50.1
+    },
+    {
+      "rank": 10,
+      "name": "The Big County Chorus",
+      "size": 34,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 92,
+          "p": 108,
+          "s": 96,
+          "tot_score": 296,
+          "pc_score": 49.3,
+          "m_pc": 46.0,
+          "p_pc": 54.0,
+          "s_pc": 48.0
+        },
+        {
+          "n": 1,
+          "name": "You Made Me Love You",
+          "m": 88,
+          "p": 108,
+          "s": 93,
+          "tot_score": 289,
+          "pc_score": 48.2,
+          "m_pc": 44.0,
+          "p_pc": 54.0,
+          "s_pc": 46.5
+        }
+      ],
+      "n": 2,
+      "m": 180,
+      "m_pc": 45.0,
+      "p": 216,
+      "p_pc": 54.0,
+      "s": 189,
+      "s_pc": 47.3,
+      "tot_score": 585,
+      "pc_score": 48.8
+    },
+    {
+      "rank": 11,
+      "name": "Anvil Chorus",
+      "size": 16,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 92,
+          "p": 98,
+          "s": 81,
+          "tot_score": 271,
+          "pc_score": 45.2,
+          "m_pc": 46.0,
+          "p_pc": 49.0,
+          "s_pc": 40.5
+        },
+        {
+          "n": 1,
+          "name": "There'll Be No New Tunes On This Old Piano",
+          "m": 88,
+          "p": 93,
+          "s": 84,
+          "tot_score": 265,
+          "pc_score": 44.2,
+          "m_pc": 44.0,
+          "p_pc": 46.5,
+          "s_pc": 42.0
+        }
+      ],
+      "n": 2,
+      "m": 180,
+      "m_pc": 45.0,
+      "p": 191,
+      "p_pc": 47.8,
+      "s": 165,
+      "s_pc": 41.3,
+      "tot_score": 536,
+      "pc_score": 44.7
+    },
+    {
+      "rank": 12,
+      "name": "The Riverside Chorus",
+      "size": 15,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Wonder Who's Kissing Her Now",
+          "m": 93,
+          "p": 98,
+          "s": 78,
+          "tot_score": 269,
+          "pc_score": 44.8,
+          "m_pc": 46.5,
+          "p_pc": 49.0,
+          "s_pc": 39.0
+        },
+        {
+          "n": 1,
+          "name": "Can You Tame Wild Wimmen'",
+          "m": 82,
+          "p": 94,
+          "s": 78,
+          "tot_score": 254,
+          "pc_score": 42.3,
+          "m_pc": 41.0,
+          "p_pc": 47.0,
+          "s_pc": 39.0
+        }
+      ],
+      "n": 2,
+      "m": 175,
+      "m_pc": 43.8,
+      "p": 192,
+      "p_pc": 48.0,
+      "s": 156,
+      "s_pc": 39.0,
+      "tot_score": 523,
+      "pc_score": 43.6
+    }
+  ]
+}

@@ -1,0 +1,1091 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2007-08-QP-NAT-SU-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NAT QUARTET PRELIM - SU",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2007/08",
+  "type": "q",
+  "date": "14/10/2007",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "a",
+      "name": "Samantha Roberts"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "No No Nora",
+          "m": 211,
+          "p": 212,
+          "s": 208,
+          "tot_score": 631,
+          "pc_score": 70.1,
+          "m_pc": 70.3,
+          "p_pc": 70.7,
+          "s_pc": 69.3
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 213,
+          "p": 207,
+          "s": 209,
+          "tot_score": 629,
+          "pc_score": 69.9,
+          "m_pc": 71.0,
+          "p_pc": 69.0,
+          "s_pc": 69.7
+        }
+      ],
+      "n": 2,
+      "m": 424,
+      "m_pc": 70.7,
+      "p": 419,
+      "p_pc": 69.8,
+      "s": 417,
+      "s_pc": 69.5,
+      "tot_score": 1260,
+      "pc_score": 70.0
+    },
+    {
+      "rank": 2,
+      "name": "Rough Cut",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Paul"
+        },
+        {
+          "part": "lead",
+          "name": "Mark"
+        },
+        {
+          "part": "bari",
+          "name": "Rich"
+        },
+        {
+          "part": "bass",
+          "name": "Martin"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When It Comes To Lovin' The Girls / They're All Sweeties Medley",
+          "m": 196,
+          "p": 207,
+          "s": 199,
+          "tot_score": 602,
+          "pc_score": 66.9,
+          "m_pc": 65.3,
+          "p_pc": 69.0,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 195,
+          "p": 200,
+          "s": 189,
+          "tot_score": 584,
+          "pc_score": 64.9,
+          "m_pc": 65.0,
+          "p_pc": 66.7,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 391,
+      "m_pc": 65.2,
+      "p": 407,
+      "p_pc": 67.8,
+      "s": 388,
+      "s_pc": 64.7,
+      "tot_score": 1186,
+      "pc_score": 65.9
+    },
+    {
+      "rank": 3,
+      "name": "dB4",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Martin"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Giles"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 199,
+          "p": 200,
+          "s": 193,
+          "tot_score": 592,
+          "pc_score": 65.8,
+          "m_pc": 66.3,
+          "p_pc": 66.7,
+          "s_pc": 64.3
+        },
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 197,
+          "p": 193,
+          "s": 187,
+          "tot_score": 577,
+          "pc_score": 64.1,
+          "m_pc": 65.7,
+          "p_pc": 64.3,
+          "s_pc": 62.3
+        }
+      ],
+      "n": 2,
+      "m": 396,
+      "m_pc": 66.0,
+      "p": 393,
+      "p_pc": 65.5,
+      "s": 380,
+      "s_pc": 63.3,
+      "tot_score": 1169,
+      "pc_score": 64.9
+    },
+    {
+      "rank": 4,
+      "name": "The Questionables",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Duncan"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Craig"
+        },
+        {
+          "part": "bass",
+          "name": "Carl"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "No No Nora",
+          "m": 197,
+          "p": 179,
+          "s": 190,
+          "tot_score": 566,
+          "pc_score": 62.9,
+          "m_pc": 65.7,
+          "p_pc": 59.7,
+          "s_pc": 63.3
+        },
+        {
+          "n": 1,
+          "name": "You Are The One I Love",
+          "m": 199,
+          "p": 185,
+          "s": 192,
+          "tot_score": 576,
+          "pc_score": 64.0,
+          "m_pc": 66.3,
+          "p_pc": 61.7,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 396,
+      "m_pc": 66.0,
+      "p": 364,
+      "p_pc": 60.7,
+      "s": 382,
+      "s_pc": 63.7,
+      "tot_score": 1142,
+      "pc_score": 63.4
+    },
+    {
+      "rank": 5,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 182,
+          "p": 192,
+          "s": 176,
+          "tot_score": 550,
+          "pc_score": 61.1,
+          "m_pc": 60.7,
+          "p_pc": 64.0,
+          "s_pc": 58.7
+        },
+        {
+          "n": 1,
+          "name": "South Rampart Street Parade",
+          "m": 178,
+          "p": 190,
+          "s": 184,
+          "tot_score": 552,
+          "pc_score": 61.3,
+          "m_pc": 59.3,
+          "p_pc": 63.3,
+          "s_pc": 61.3
+        }
+      ],
+      "n": 2,
+      "m": 360,
+      "m_pc": 60.0,
+      "p": 382,
+      "p_pc": 63.7,
+      "s": 360,
+      "s_pc": 60.0,
+      "tot_score": 1102,
+      "pc_score": 61.2
+    },
+    {
+      "rank": 6,
+      "name": "Four Blokes Singin'",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Chris"
+        },
+        {
+          "part": "lead",
+          "name": "Matthew"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 185,
+          "p": 177,
+          "s": 185,
+          "tot_score": 547,
+          "pc_score": 60.8,
+          "m_pc": 61.7,
+          "p_pc": 59.0,
+          "s_pc": 61.7
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 179,
+          "p": 176,
+          "s": 186,
+          "tot_score": 541,
+          "pc_score": 60.1,
+          "m_pc": 59.7,
+          "p_pc": 58.7,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 364,
+      "m_pc": 60.7,
+      "p": 353,
+      "p_pc": 58.8,
+      "s": 371,
+      "s_pc": 61.8,
+      "tot_score": 1088,
+      "pc_score": 60.4
+    },
+    {
+      "rank": 7,
+      "name": "Abacus",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Geoff"
+        },
+        {
+          "part": "lead",
+          "name": "Wayne"
+        },
+        {
+          "part": "bari",
+          "name": "Chris"
+        },
+        {
+          "part": "bass",
+          "name": "Mike"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "There's A Brand New Gang",
+          "m": 172,
+          "p": 175,
+          "s": 172,
+          "tot_score": 519,
+          "pc_score": 57.7,
+          "m_pc": 57.3,
+          "p_pc": 58.3,
+          "s_pc": 57.3
+        },
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 177,
+          "p": 172,
+          "s": 169,
+          "tot_score": 518,
+          "pc_score": 57.6,
+          "m_pc": 59.0,
+          "p_pc": 57.3,
+          "s_pc": 56.3
+        }
+      ],
+      "n": 2,
+      "m": 349,
+      "m_pc": 58.2,
+      "p": 347,
+      "p_pc": 57.8,
+      "s": 341,
+      "s_pc": 56.8,
+      "tot_score": 1037,
+      "pc_score": 57.6
+    },
+    {
+      "rank": 8,
+      "name": "Vocal Icing",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Dave"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Hugh"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 170,
+          "p": 167,
+          "s": 170,
+          "tot_score": 507,
+          "pc_score": 56.3,
+          "m_pc": 56.7,
+          "p_pc": 55.7,
+          "s_pc": 56.7
+        },
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 176,
+          "p": 168,
+          "s": 169,
+          "tot_score": 513,
+          "pc_score": 57.0,
+          "m_pc": 58.7,
+          "p_pc": 56.0,
+          "s_pc": 56.3
+        }
+      ],
+      "n": 2,
+      "m": 346,
+      "m_pc": 57.7,
+      "p": 335,
+      "p_pc": 55.8,
+      "s": 339,
+      "s_pc": 56.5,
+      "tot_score": 1020,
+      "pc_score": 56.7
+    },
+    {
+      "rank": 9,
+      "name": "Bianco",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "Terry"
+        },
+        {
+          "part": "bass",
+          "name": "Paul"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 176,
+          "p": 164,
+          "s": 169,
+          "tot_score": 509,
+          "pc_score": 56.6,
+          "m_pc": 58.7,
+          "p_pc": 54.7,
+          "s_pc": 56.3
+        },
+        {
+          "n": 1,
+          "name": "Five Foot Two",
+          "m": 176,
+          "p": 168,
+          "s": 163,
+          "tot_score": 507,
+          "pc_score": 56.3,
+          "m_pc": 58.7,
+          "p_pc": 56.0,
+          "s_pc": 54.3
+        }
+      ],
+      "n": 2,
+      "m": 352,
+      "m_pc": 58.7,
+      "p": 332,
+      "p_pc": 55.3,
+      "s": 332,
+      "s_pc": 55.3,
+      "tot_score": 1016,
+      "pc_score": 56.4
+    },
+    {
+      "rank": 10,
+      "name": "Music Hall International",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Mick"
+        },
+        {
+          "part": "bari",
+          "name": "Frank"
+        },
+        {
+          "part": "bass",
+          "name": "Geoff"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 170,
+          "p": 170,
+          "s": 174,
+          "tot_score": 514,
+          "pc_score": 57.1,
+          "m_pc": 56.7,
+          "p_pc": 56.7,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "Just In Time",
+          "m": 165,
+          "p": 164,
+          "s": 168,
+          "tot_score": 497,
+          "pc_score": 55.2,
+          "m_pc": 55.0,
+          "p_pc": 54.7,
+          "s_pc": 56.0
+        }
+      ],
+      "n": 2,
+      "m": 335,
+      "m_pc": 55.8,
+      "p": 334,
+      "p_pc": 55.7,
+      "s": 342,
+      "s_pc": 57.0,
+      "tot_score": 1011,
+      "pc_score": 56.2
+    },
+    {
+      "rank": 11,
+      "name": "Last Orders",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Bill"
+        },
+        {
+          "part": "bari",
+          "name": "Paul"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'd Love To Live In Loveland",
+          "m": 168,
+          "p": 169,
+          "s": 161,
+          "tot_score": 498,
+          "pc_score": 55.3,
+          "m_pc": 56.0,
+          "p_pc": 56.3,
+          "s_pc": 53.7
+        },
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 166,
+          "p": 174,
+          "s": 162,
+          "tot_score": 502,
+          "pc_score": 55.8,
+          "m_pc": 55.3,
+          "p_pc": 58.0,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 334,
+      "m_pc": 55.7,
+      "p": 343,
+      "p_pc": 57.2,
+      "s": 323,
+      "s_pc": 53.8,
+      "tot_score": 1000,
+      "pc_score": 55.6
+    },
+    {
+      "rank": 12,
+      "name": "Double Take",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alf"
+        },
+        {
+          "part": "lead",
+          "name": "Den"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Tony"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 169,
+          "p": 160,
+          "s": 160,
+          "tot_score": 489,
+          "pc_score": 54.3,
+          "m_pc": 56.3,
+          "p_pc": 53.3,
+          "s_pc": 53.3
+        },
+        {
+          "n": 1,
+          "name": "Recipe For Makin' Love",
+          "m": 168,
+          "p": 165,
+          "s": 163,
+          "tot_score": 496,
+          "pc_score": 55.1,
+          "m_pc": 56.0,
+          "p_pc": 55.0,
+          "s_pc": 54.3
+        }
+      ],
+      "n": 2,
+      "m": 337,
+      "m_pc": 56.2,
+      "p": 325,
+      "p_pc": 54.2,
+      "s": 323,
+      "s_pc": 53.8,
+      "tot_score": 985,
+      "pc_score": 54.7
+    },
+    {
+      "rank": 13,
+      "name": "Meltdown",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Michael"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Richard"
+        },
+        {
+          "part": "bass",
+          "name": "Paul"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Nice Work If You Can Get It",
+          "m": 161,
+          "p": 169,
+          "s": 160,
+          "tot_score": 490,
+          "pc_score": 54.4,
+          "m_pc": 53.7,
+          "p_pc": 56.3,
+          "s_pc": 53.3
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 157,
+          "p": 164,
+          "s": 154,
+          "tot_score": 475,
+          "pc_score": 52.8,
+          "m_pc": 52.3,
+          "p_pc": 54.7,
+          "s_pc": 51.3
+        }
+      ],
+      "n": 2,
+      "m": 318,
+      "m_pc": 53.0,
+      "p": 333,
+      "p_pc": 55.5,
+      "s": 314,
+      "s_pc": 52.3,
+      "tot_score": 965,
+      "pc_score": 53.6
+    },
+    {
+      "rank": 14,
+      "name": "Quadrahedron",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Tony"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 165,
+          "p": 157,
+          "s": 164,
+          "tot_score": 486,
+          "pc_score": 54.0,
+          "m_pc": 55.0,
+          "p_pc": 52.3,
+          "s_pc": 54.7
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 160,
+          "p": 155,
+          "s": 159,
+          "tot_score": 474,
+          "pc_score": 52.7,
+          "m_pc": 53.3,
+          "p_pc": 51.7,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 325,
+      "m_pc": 54.2,
+      "p": 312,
+      "p_pc": 52.0,
+      "s": 323,
+      "s_pc": 53.8,
+      "tot_score": 960,
+      "pc_score": 53.3
+    },
+    {
+      "rank": 15,
+      "name": "Free Spirit",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Terry"
+        },
+        {
+          "part": "lead",
+          "name": "Les"
+        },
+        {
+          "part": "bari",
+          "name": "Chris"
+        },
+        {
+          "part": "bass",
+          "name": "Keith"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 165,
+          "p": 169,
+          "s": 165,
+          "tot_score": 499,
+          "pc_score": 55.4,
+          "m_pc": 55.0,
+          "p_pc": 56.3,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "Who'll Take My Place When I'm Gone?",
+          "m": 144,
+          "p": 159,
+          "s": 150,
+          "tot_score": 453,
+          "pc_score": 50.3,
+          "m_pc": 48.0,
+          "p_pc": 53.0,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 309,
+      "m_pc": 51.5,
+      "p": 328,
+      "p_pc": 54.7,
+      "s": 315,
+      "s_pc": 52.5,
+      "tot_score": 952,
+      "pc_score": 52.9
+    },
+    {
+      "rank": 16,
+      "name": "Special Blend",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Mick"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Chris"
+        },
+        {
+          "part": "bass",
+          "name": "Ron"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 159,
+          "p": 159,
+          "s": 160,
+          "tot_score": 478,
+          "pc_score": 53.1,
+          "m_pc": 53.0,
+          "p_pc": 53.0,
+          "s_pc": 53.3
+        },
+        {
+          "n": 1,
+          "name": "Nice Work If You Can Get It",
+          "m": 158,
+          "p": 155,
+          "s": 152,
+          "tot_score": 465,
+          "pc_score": 51.7,
+          "m_pc": 52.7,
+          "p_pc": 51.7,
+          "s_pc": 50.7
+        }
+      ],
+      "n": 2,
+      "m": 317,
+      "m_pc": 52.8,
+      "p": 314,
+      "p_pc": 52.3,
+      "s": 312,
+      "s_pc": 52.0,
+      "tot_score": 943,
+      "pc_score": 52.4
+    },
+    {
+      "rank": 17,
+      "name": "Thunderbirds",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Tom"
+        },
+        {
+          "part": "bari",
+          "name": "Dan"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Good Luck Charm",
+          "m": 133,
+          "p": 164,
+          "s": 166,
+          "tot_score": 463,
+          "pc_score": 51.4,
+          "m_pc": 44.3,
+          "p_pc": 54.7,
+          "s_pc": 55.3
+        },
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 147,
+          "p": 157,
+          "s": 161,
+          "tot_score": 465,
+          "pc_score": 51.7,
+          "m_pc": 49.0,
+          "p_pc": 52.3,
+          "s_pc": 53.7
+        }
+      ],
+      "n": 2,
+      "m": 280,
+      "m_pc": 46.7,
+      "p": 321,
+      "p_pc": 53.5,
+      "s": 327,
+      "s_pc": 54.5,
+      "tot_score": 928,
+      "pc_score": 51.6
+    },
+    {
+      "rank": 18,
+      "name": "Four To One",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Godfrey"
+        },
+        {
+          "part": "lead",
+          "name": "Ian"
+        },
+        {
+          "part": "bari",
+          "name": "Keith"
+        },
+        {
+          "part": "bass",
+          "name": "John"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Back In The Old Routine",
+          "m": 126,
+          "p": 144,
+          "s": 138,
+          "tot_score": 408,
+          "pc_score": 45.3,
+          "m_pc": 42.0,
+          "p_pc": 48.0,
+          "s_pc": 46.0
+        },
+        {
+          "n": 1,
+          "name": "I'm Still Havin' Fun",
+          "m": 106,
+          "p": 134,
+          "s": 113,
+          "tot_score": 353,
+          "pc_score": 39.2,
+          "m_pc": 35.3,
+          "p_pc": 44.7,
+          "s_pc": 37.7
+        }
+      ],
+      "n": 2,
+      "m": 232,
+      "m_pc": 38.7,
+      "p": 278,
+      "p_pc": 46.3,
+      "s": 251,
+      "s_pc": 41.8,
+      "tot_score": 761,
+      "pc_score": 42.3
+    }
+  ]
+}

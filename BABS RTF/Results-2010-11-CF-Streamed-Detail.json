@@ -1,0 +1,1591 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2010-11-CF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "CHORUS FINAL",
+  "location": "LLANDUDNO",
+  "year": "2010/11",
+  "type": "c",
+  "date": "28/05/2011",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Debi Cox"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Jon Conway"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Cottontown Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "Neil Firth"
+        }
+      ],
+      "size": 54,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Mary Poppins Medley",
+          "m": 205,
+          "p": 244,
+          "s": 240,
+          "tot_score": 689,
+          "pc_score": 76.6,
+          "m_pc": 68.3,
+          "p_pc": 81.3,
+          "s_pc": 80.0
+        },
+        {
+          "n": 1,
+          "name": "Feed The Birds",
+          "m": 203,
+          "p": 234,
+          "s": 238,
+          "tot_score": 675,
+          "pc_score": 75.0,
+          "m_pc": 67.7,
+          "p_pc": 78.0,
+          "s_pc": 79.3
+        }
+      ],
+      "n": 2,
+      "m": 408,
+      "m_pc": 68.0,
+      "p": 478,
+      "p_pc": 79.7,
+      "s": 478,
+      "s_pc": 79.7,
+      "tot_score": 1364,
+      "pc_score": 75.8
+    },
+    {
+      "rank": 2,
+      "name": "Cambridge Chord Company",
+      "members": [
+        {
+          "part": "director",
+          "name": "Bob Croft"
+        }
+      ],
+      "size": 48,
+      "songs": [
+        {
+          "n": 1,
+          "name": "If I Love Again",
+          "m": 228,
+          "p": 227,
+          "s": 225,
+          "tot_score": 680,
+          "pc_score": 75.6,
+          "m_pc": 76.0,
+          "p_pc": 75.7,
+          "s_pc": 75.0
+        },
+        {
+          "n": 1,
+          "name": "Everybody's Stepping Out [medley]",
+          "m": 220,
+          "p": 228,
+          "s": 218,
+          "tot_score": 666,
+          "pc_score": 74.0,
+          "m_pc": 73.3,
+          "p_pc": 76.0,
+          "s_pc": 72.7
+        }
+      ],
+      "n": 2,
+      "m": 448,
+      "m_pc": 74.7,
+      "p": 455,
+      "p_pc": 75.8,
+      "s": 443,
+      "s_pc": 73.8,
+      "tot_score": 1346,
+      "pc_score": 74.8
+    },
+    {
+      "rank": 3,
+      "name": "Grand Central Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "John Grant"
+        }
+      ],
+      "size": 33,
+      "songs": [
+        {
+          "n": 1,
+          "name": "In The Wee Small Hours Of The Morning",
+          "m": 217,
+          "p": 222,
+          "s": 227,
+          "tot_score": 666,
+          "pc_score": 74.0,
+          "m_pc": 72.3,
+          "p_pc": 74.0,
+          "s_pc": 75.7
+        },
+        {
+          "n": 1,
+          "name": "Original Dixieland One - Step",
+          "m": 222,
+          "p": 217,
+          "s": 224,
+          "tot_score": 663,
+          "pc_score": 73.7,
+          "m_pc": 74.0,
+          "p_pc": 72.3,
+          "s_pc": 74.7
+        }
+      ],
+      "n": 2,
+      "m": 439,
+      "m_pc": 73.2,
+      "p": 439,
+      "p_pc": 73.2,
+      "s": 451,
+      "s_pc": 75.2,
+      "tot_score": 1329,
+      "pc_score": 73.8
+    },
+    {
+      "rank": 4,
+      "name": "Spirit Of Harmony",
+      "members": [
+        {
+          "part": "director",
+          "name": "Andy Salter"
+        }
+      ],
+      "size": 53,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Way You Look Tonight",
+          "m": 221,
+          "p": 213,
+          "s": 224,
+          "tot_score": 658,
+          "pc_score": 73.1,
+          "m_pc": 73.7,
+          "p_pc": 71.0,
+          "s_pc": 74.7
+        },
+        {
+          "n": 1,
+          "name": "I Can't Give You Anything But Love",
+          "m": 217,
+          "p": 225,
+          "s": 220,
+          "tot_score": 662,
+          "pc_score": 73.6,
+          "m_pc": 72.3,
+          "p_pc": 75.0,
+          "s_pc": 73.3
+        }
+      ],
+      "n": 2,
+      "m": 438,
+      "m_pc": 73.0,
+      "p": 438,
+      "p_pc": 73.0,
+      "s": 444,
+      "s_pc": 74.0,
+      "tot_score": 1320,
+      "pc_score": 73.3
+    },
+    {
+      "rank": 5,
+      "name": "The Royal Harmonics",
+      "members": [
+        {
+          "part": "director",
+          "name": "John Palmer"
+        }
+      ],
+      "size": 42,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Blue Skies",
+          "m": 196,
+          "p": 211,
+          "s": 216,
+          "tot_score": 623,
+          "pc_score": 69.2,
+          "m_pc": 65.3,
+          "p_pc": 70.3,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "The Way You Look Tonight",
+          "m": 208,
+          "p": 218,
+          "s": 216,
+          "tot_score": 642,
+          "pc_score": 71.3,
+          "m_pc": 69.3,
+          "p_pc": 72.7,
+          "s_pc": 72.0
+        }
+      ],
+      "n": 2,
+      "m": 404,
+      "m_pc": 67.3,
+      "p": 429,
+      "p_pc": 71.5,
+      "s": 432,
+      "s_pc": 72.0,
+      "tot_score": 1265,
+      "pc_score": 70.3
+    },
+    {
+      "rank": 6,
+      "name": "Thames Valley Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "Mark Grindall"
+        }
+      ],
+      "size": 59,
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Raining In My Heart",
+          "m": 202,
+          "p": 200,
+          "s": 211,
+          "tot_score": 613,
+          "pc_score": 68.1,
+          "m_pc": 67.3,
+          "p_pc": 66.7,
+          "s_pc": 70.3
+        },
+        {
+          "n": 1,
+          "name": "That's Life [parody]",
+          "m": 207,
+          "p": 210,
+          "s": 212,
+          "tot_score": 629,
+          "pc_score": 69.9,
+          "m_pc": 69.0,
+          "p_pc": 70.0,
+          "s_pc": 70.7
+        }
+      ],
+      "n": 2,
+      "m": 409,
+      "m_pc": 68.2,
+      "p": 410,
+      "p_pc": 68.3,
+      "s": 423,
+      "s_pc": 70.5,
+      "tot_score": 1242,
+      "pc_score": 69.0
+    },
+    {
+      "rank": 7,
+      "name": "The Telfordaires",
+      "members": [
+        {
+          "part": "director",
+          "name": "Dale Kynaston"
+        }
+      ],
+      "size": 51,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Give Me The Simple Life",
+          "m": 206,
+          "p": 204,
+          "s": 208,
+          "tot_score": 618,
+          "pc_score": 68.7,
+          "m_pc": 68.7,
+          "p_pc": 68.0,
+          "s_pc": 69.3
+        },
+        {
+          "n": 1,
+          "name": "If I Give My Heart To You",
+          "m": 206,
+          "p": 205,
+          "s": 209,
+          "tot_score": 620,
+          "pc_score": 68.9,
+          "m_pc": 68.7,
+          "p_pc": 68.3,
+          "s_pc": 69.7
+        }
+      ],
+      "n": 2,
+      "m": 412,
+      "m_pc": 68.7,
+      "p": 409,
+      "p_pc": 68.2,
+      "s": 417,
+      "s_pc": 69.5,
+      "tot_score": 1238,
+      "pc_score": 68.8
+    },
+    {
+      "rank": 8,
+      "name": "Anvil Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "Duncan Whinyates"
+        }
+      ],
+      "size": 32,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 200,
+          "p": 195,
+          "s": 202,
+          "tot_score": 597,
+          "pc_score": 66.3,
+          "m_pc": 66.7,
+          "p_pc": 65.0,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 202,
+          "p": 193,
+          "s": 203,
+          "tot_score": 598,
+          "pc_score": 66.4,
+          "m_pc": 67.3,
+          "p_pc": 64.3,
+          "s_pc": 67.7
+        }
+      ],
+      "n": 2,
+      "m": 402,
+      "m_pc": 67.0,
+      "p": 388,
+      "p_pc": 64.7,
+      "s": 405,
+      "s_pc": 67.5,
+      "tot_score": 1195,
+      "pc_score": 66.4
+    },
+    {
+      "rank": 9,
+      "name": "The Kentones",
+      "members": [
+        {
+          "part": "director",
+          "name": "Mike Corr"
+        }
+      ],
+      "size": 48,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lies [medley]",
+          "m": 190,
+          "p": 191,
+          "s": 191,
+          "tot_score": 572,
+          "pc_score": 63.6,
+          "m_pc": 63.3,
+          "p_pc": 63.7,
+          "s_pc": 63.7
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 194,
+          "p": 196,
+          "s": 193,
+          "tot_score": 583,
+          "pc_score": 64.8,
+          "m_pc": 64.7,
+          "p_pc": 65.3,
+          "s_pc": 64.3
+        }
+      ],
+      "n": 2,
+      "m": 384,
+      "m_pc": 64.0,
+      "p": 387,
+      "p_pc": 64.5,
+      "s": 384,
+      "s_pc": 64.0,
+      "tot_score": 1155,
+      "pc_score": 64.2
+    },
+    {
+      "rank": 10,
+      "name": "Hallmark Of Harmony",
+      "members": [
+        {
+          "part": "director",
+          "name": "Andy Allen"
+        }
+      ],
+      "size": 34,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Liar [medley]",
+          "m": 194,
+          "p": 194,
+          "s": 192,
+          "tot_score": 580,
+          "pc_score": 64.4,
+          "m_pc": 64.7,
+          "p_pc": 64.7,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "What Kind Of Fool Am I",
+          "m": 180,
+          "p": 198,
+          "s": 186,
+          "tot_score": 564,
+          "pc_score": 62.7,
+          "m_pc": 60.0,
+          "p_pc": 66.0,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 374,
+      "m_pc": 62.3,
+      "p": 392,
+      "p_pc": 65.3,
+      "s": 378,
+      "s_pc": 63.0,
+      "tot_score": 1144,
+      "pc_score": 63.6
+    },
+    {
+      "rank": 11,
+      "name": "Shannon Express",
+      "members": [
+        {
+          "part": "director",
+          "name": "Roger Chantrelle"
+        }
+      ],
+      "size": 47,
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 192,
+          "p": 186,
+          "s": 194,
+          "tot_score": 572,
+          "pc_score": 63.6,
+          "m_pc": 64.0,
+          "p_pc": 62.0,
+          "s_pc": 64.7
+        },
+        {
+          "n": 1,
+          "name": "If I Had My Way",
+          "m": 184,
+          "p": 190,
+          "s": 187,
+          "tot_score": 561,
+          "pc_score": 62.3,
+          "m_pc": 61.3,
+          "p_pc": 63.3,
+          "s_pc": 62.3
+        }
+      ],
+      "n": 2,
+      "m": 376,
+      "m_pc": 62.7,
+      "p": 376,
+      "p_pc": 62.7,
+      "s": 381,
+      "s_pc": 63.5,
+      "tot_score": 1133,
+      "pc_score": 62.9
+    },
+    {
+      "rank": 12,
+      "name": "The Sussex Harmonisers",
+      "members": [
+        {
+          "part": "director",
+          "name": "Zoe Pete"
+        }
+      ],
+      "size": 38,
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Don't Know Me",
+          "m": 187,
+          "p": 187,
+          "s": 189,
+          "tot_score": 563,
+          "pc_score": 62.6,
+          "m_pc": 62.3,
+          "p_pc": 62.3,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "Alexander's Band [medley]",
+          "m": 182,
+          "p": 184,
+          "s": 188,
+          "tot_score": 554,
+          "pc_score": 61.6,
+          "m_pc": 60.7,
+          "p_pc": 61.3,
+          "s_pc": 62.7
+        }
+      ],
+      "n": 2,
+      "m": 369,
+      "m_pc": 61.5,
+      "p": 371,
+      "p_pc": 61.8,
+      "s": 377,
+      "s_pc": 62.8,
+      "tot_score": 1117,
+      "pc_score": 62.1
+    },
+    {
+      "rank": 13,
+      "name": "The Major Oak Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "Joe Knight"
+        }
+      ],
+      "size": 37,
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 186,
+          "p": 175,
+          "s": 182,
+          "tot_score": 543,
+          "pc_score": 60.3,
+          "m_pc": 62.0,
+          "p_pc": 58.3,
+          "s_pc": 60.7
+        },
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 187,
+          "p": 186,
+          "s": 180,
+          "tot_score": 553,
+          "pc_score": 61.4,
+          "m_pc": 62.3,
+          "p_pc": 62.0,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 373,
+      "m_pc": 62.2,
+      "p": 361,
+      "p_pc": 60.2,
+      "s": 362,
+      "s_pc": 60.3,
+      "tot_score": 1096,
+      "pc_score": 60.9
+    },
+    {
+      "rank": 14,
+      "name": "Clwyd Clippers",
+      "members": [
+        {
+          "part": "director",
+          "name": "Rhiannon Owens-Hall"
+        }
+      ],
+      "size": 30,
+      "songs": [
+        {
+          "n": 1,
+          "name": "We'll Meet Again",
+          "m": 181,
+          "p": 183,
+          "s": 184,
+          "tot_score": 548,
+          "pc_score": 60.9,
+          "m_pc": 60.3,
+          "p_pc": 61.0,
+          "s_pc": 61.3
+        },
+        {
+          "n": 1,
+          "name": "That's Life",
+          "m": 178,
+          "p": 179,
+          "s": 179,
+          "tot_score": 536,
+          "pc_score": 59.6,
+          "m_pc": 59.3,
+          "p_pc": 59.7,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 359,
+      "m_pc": 59.8,
+      "p": 362,
+      "p_pc": 60.3,
+      "s": 363,
+      "s_pc": 60.5,
+      "tot_score": 1084,
+      "pc_score": 60.2
+    },
+    {
+      "rank": 15,
+      "name": "Harmony Lincs",
+      "members": [
+        {
+          "part": "director",
+          "name": "Richard Curtis"
+        }
+      ],
+      "size": 34,
+      "songs": [
+        {
+          "n": 1,
+          "name": "How Deep Is The Ocean",
+          "m": 175,
+          "p": 185,
+          "s": 193,
+          "tot_score": 553,
+          "pc_score": 61.4,
+          "m_pc": 58.3,
+          "p_pc": 61.7,
+          "s_pc": 64.3
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 168,
+          "p": 178,
+          "s": 182,
+          "tot_score": 528,
+          "pc_score": 58.7,
+          "m_pc": 56.0,
+          "p_pc": 59.3,
+          "s_pc": 60.7
+        }
+      ],
+      "n": 2,
+      "m": 343,
+      "m_pc": 57.2,
+      "p": 363,
+      "p_pc": 60.5,
+      "s": 375,
+      "s_pc": 62.5,
+      "tot_score": 1081,
+      "pc_score": 60.1
+    },
+    {
+      "rank": 15,
+      "name": "Knights Of Harmony",
+      "members": [
+        {
+          "part": "director",
+          "name": "Timm Barkworth"
+        }
+      ],
+      "size": 35,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 173,
+          "p": 183,
+          "s": 181,
+          "tot_score": 537,
+          "pc_score": 59.7,
+          "m_pc": 57.7,
+          "p_pc": 61.0,
+          "s_pc": 60.3
+        },
+        {
+          "n": 1,
+          "name": "You're Nobody 'Til Somebody Loves You",
+          "m": 178,
+          "p": 185,
+          "s": 181,
+          "tot_score": 544,
+          "pc_score": 60.4,
+          "m_pc": 59.3,
+          "p_pc": 61.7,
+          "s_pc": 60.3
+        }
+      ],
+      "n": 2,
+      "m": 351,
+      "m_pc": 58.5,
+      "p": 368,
+      "p_pc": 61.3,
+      "s": 362,
+      "s_pc": 60.3,
+      "tot_score": 1081,
+      "pc_score": 60.1
+    },
+    {
+      "rank": 17,
+      "name": "Southern Union",
+      "members": [
+        {
+          "part": "director",
+          "name": "Pete Hills"
+        }
+      ],
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's Life",
+          "m": 185,
+          "p": 180,
+          "s": 178,
+          "tot_score": 543,
+          "pc_score": 60.3,
+          "m_pc": 61.7,
+          "p_pc": 60.0,
+          "s_pc": 59.3
+        },
+        {
+          "n": 1,
+          "name": "Bring Me Sunshine",
+          "m": 178,
+          "p": 178,
+          "s": 179,
+          "tot_score": 535,
+          "pc_score": 59.4,
+          "m_pc": 59.3,
+          "p_pc": 59.3,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 363,
+      "m_pc": 60.5,
+      "p": 358,
+      "p_pc": 59.7,
+      "s": 357,
+      "s_pc": 59.5,
+      "tot_score": 1078,
+      "pc_score": 59.9
+    },
+    {
+      "rank": 18,
+      "name": "Capital Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "Aidan Brand"
+        }
+      ],
+      "size": 29,
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Don't Know Me",
+          "m": 181,
+          "p": 179,
+          "s": 178,
+          "tot_score": 538,
+          "pc_score": 59.8,
+          "m_pc": 60.3,
+          "p_pc": 59.7,
+          "s_pc": 59.3
+        },
+        {
+          "n": 1,
+          "name": "Darkness On The Delta",
+          "m": 182,
+          "p": 175,
+          "s": 178,
+          "tot_score": 535,
+          "pc_score": 59.4,
+          "m_pc": 60.7,
+          "p_pc": 58.3,
+          "s_pc": 59.3
+        }
+      ],
+      "n": 2,
+      "m": 363,
+      "m_pc": 60.5,
+      "p": 354,
+      "p_pc": 59.0,
+      "s": 356,
+      "s_pc": 59.3,
+      "tot_score": 1073,
+      "pc_score": 59.6
+    },
+    {
+      "rank": 19,
+      "name": "Granite City Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "Colin Reid"
+        }
+      ],
+      "size": 35,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Nobody Knows What A Red Head Mama Can Do",
+          "m": 177,
+          "p": 179,
+          "s": 180,
+          "tot_score": 536,
+          "pc_score": 59.6,
+          "m_pc": 59.0,
+          "p_pc": 59.7,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "When You And I Were Young, Maggie",
+          "m": 175,
+          "p": 179,
+          "s": 178,
+          "tot_score": 532,
+          "pc_score": 59.1,
+          "m_pc": 58.3,
+          "p_pc": 59.7,
+          "s_pc": 59.3
+        }
+      ],
+      "n": 2,
+      "m": 352,
+      "m_pc": 58.7,
+      "p": 358,
+      "p_pc": 59.7,
+      "s": 358,
+      "s_pc": 59.7,
+      "tot_score": 1068,
+      "pc_score": 59.3
+    },
+    {
+      "rank": 20,
+      "name": "Tuxedo Junction",
+      "members": [
+        {
+          "part": "director",
+          "name": "Rob Barber"
+        }
+      ],
+      "size": 13,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Moonlight Serenade",
+          "m": 128,
+          "p": 177,
+          "s": 188,
+          "tot_score": 493,
+          "pc_score": 54.8,
+          "m_pc": 42.7,
+          "p_pc": 59.0,
+          "s_pc": 62.7
+        },
+        {
+          "n": 1,
+          "name": "You Do Something To Me",
+          "m": 169,
+          "p": 190,
+          "s": 186,
+          "tot_score": 545,
+          "pc_score": 60.6,
+          "m_pc": 56.3,
+          "p_pc": 63.3,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 297,
+      "m_pc": 49.5,
+      "p": 367,
+      "p_pc": 61.2,
+      "s": 374,
+      "s_pc": 62.3,
+      "tot_score": 1038,
+      "pc_score": 57.7
+    },
+    {
+      "rank": 21,
+      "name": "The Rivertones",
+      "members": [
+        {
+          "part": "director",
+          "name": "Peter Gover"
+        }
+      ],
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love To Hear That Old Barbershop Style",
+          "m": 174,
+          "p": 171,
+          "s": 177,
+          "tot_score": 522,
+          "pc_score": 58.0,
+          "m_pc": 58.0,
+          "p_pc": 57.0,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 170,
+          "p": 169,
+          "s": 171,
+          "tot_score": 510,
+          "pc_score": 56.7,
+          "m_pc": 56.7,
+          "p_pc": 56.3,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 344,
+      "m_pc": 57.3,
+      "p": 340,
+      "p_pc": 56.7,
+      "s": 348,
+      "s_pc": 58.0,
+      "tot_score": 1032,
+      "pc_score": 57.3
+    },
+    {
+      "rank": 22,
+      "name": "Wight Harmony",
+      "members": [
+        {
+          "part": "director",
+          "name": "Dave Bryant"
+        }
+      ],
+      "size": 33,
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 168,
+          "p": 173,
+          "s": 169,
+          "tot_score": 510,
+          "pc_score": 56.7,
+          "m_pc": 56.0,
+          "p_pc": 57.7,
+          "s_pc": 56.3
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 169,
+          "p": 176,
+          "s": 173,
+          "tot_score": 518,
+          "pc_score": 57.6,
+          "m_pc": 56.3,
+          "p_pc": 58.7,
+          "s_pc": 57.7
+        }
+      ],
+      "n": 2,
+      "m": 337,
+      "m_pc": 56.2,
+      "p": 349,
+      "p_pc": 58.2,
+      "s": 342,
+      "s_pc": 57.0,
+      "tot_score": 1028,
+      "pc_score": 57.1
+    },
+    {
+      "rank": 23,
+      "name": "Fine City Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "Carol Logan"
+        }
+      ],
+      "size": 16,
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 166,
+          "p": 166,
+          "s": 159,
+          "tot_score": 491,
+          "pc_score": 54.6,
+          "m_pc": 55.3,
+          "p_pc": 55.3,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "Sentimental Gentleman From Georgia",
+          "m": 169,
+          "p": 168,
+          "s": 159,
+          "tot_score": 496,
+          "pc_score": 55.1,
+          "m_pc": 56.3,
+          "p_pc": 56.0,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 335,
+      "m_pc": 55.8,
+      "p": 334,
+      "p_pc": 55.7,
+      "s": 318,
+      "s_pc": 53.0,
+      "tot_score": 987,
+      "pc_score": 54.8
+    },
+    {
+      "rank": 24,
+      "name": "5ways",
+      "members": [
+        {
+          "part": "director",
+          "name": "Shanna Wells"
+        }
+      ],
+      "size": 14,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Darktown Strutter's Ball",
+          "m": 155,
+          "p": 166,
+          "s": 148,
+          "tot_score": 469,
+          "pc_score": 52.1,
+          "m_pc": 51.7,
+          "p_pc": 55.3,
+          "s_pc": 49.3
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 165,
+          "p": 178,
+          "s": 158,
+          "tot_score": 501,
+          "pc_score": 55.7,
+          "m_pc": 55.0,
+          "p_pc": 59.3,
+          "s_pc": 52.7
+        }
+      ],
+      "n": 2,
+      "m": 320,
+      "m_pc": 53.3,
+      "p": 344,
+      "p_pc": 57.3,
+      "s": 306,
+      "s_pc": 51.0,
+      "tot_score": 970,
+      "pc_score": 53.9
+    },
+    {
+      "rank": 25,
+      "name": "Western Approach",
+      "members": [
+        {
+          "part": "director",
+          "name": "Dick Knight"
+        }
+      ],
+      "size": 22,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Recipe For Makin' Love",
+          "m": 169,
+          "p": 155,
+          "s": 166,
+          "tot_score": 490,
+          "pc_score": 54.4,
+          "m_pc": 56.3,
+          "p_pc": 51.7,
+          "s_pc": 55.3
+        },
+        {
+          "n": 1,
+          "name": "Time After Time",
+          "m": 153,
+          "p": 152,
+          "s": 164,
+          "tot_score": 469,
+          "pc_score": 52.1,
+          "m_pc": 51.0,
+          "p_pc": 50.7,
+          "s_pc": 54.7
+        }
+      ],
+      "n": 2,
+      "m": 322,
+      "m_pc": 53.7,
+      "p": 307,
+      "p_pc": 51.2,
+      "s": 330,
+      "s_pc": 55.0,
+      "tot_score": 959,
+      "pc_score": 53.3
+    },
+    {
+      "rank": 26,
+      "name": "The Peers Of Harmony",
+      "members": [
+        {
+          "part": "director",
+          "name": "Susan Jones"
+        }
+      ],
+      "size": 27,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Midnight Rose",
+          "m": 161,
+          "p": 150,
+          "s": 151,
+          "tot_score": 462,
+          "pc_score": 51.3,
+          "m_pc": 53.7,
+          "p_pc": 50.0,
+          "s_pc": 50.3
+        },
+        {
+          "n": 1,
+          "name": "Meet Me In Rosetime Rosie",
+          "m": 168,
+          "p": 161,
+          "s": 156,
+          "tot_score": 485,
+          "pc_score": 53.9,
+          "m_pc": 56.0,
+          "p_pc": 53.7,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 329,
+      "m_pc": 54.8,
+      "p": 311,
+      "p_pc": 51.8,
+      "s": 307,
+      "s_pc": 51.2,
+      "tot_score": 947,
+      "pc_score": 52.6
+    },
+    {
+      "rank": 27,
+      "name": "Harmony Revival",
+      "members": [
+        {
+          "part": "director",
+          "name": "Sue Ward"
+        }
+      ],
+      "size": 28,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 156,
+          "p": 161,
+          "s": 151,
+          "tot_score": 468,
+          "pc_score": 52.0,
+          "m_pc": 52.0,
+          "p_pc": 53.7,
+          "s_pc": 50.3
+        },
+        {
+          "n": 1,
+          "name": "Sweet And Lovely [parody]",
+          "m": 145,
+          "p": 176,
+          "s": 152,
+          "tot_score": 473,
+          "pc_score": 52.6,
+          "m_pc": 48.3,
+          "p_pc": 58.7,
+          "s_pc": 50.7
+        }
+      ],
+      "n": 2,
+      "m": 301,
+      "m_pc": 50.2,
+      "p": 337,
+      "p_pc": 56.2,
+      "s": 303,
+      "s_pc": 50.5,
+      "tot_score": 941,
+      "pc_score": 52.3
+    },
+    {
+      "rank": 28,
+      "name": "The Sound Of Three Spires",
+      "members": [
+        {
+          "part": "director",
+          "name": "John Riseborough"
+        }
+      ],
+      "size": 35,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Feed The Birds",
+          "m": 134,
+          "p": 165,
+          "s": 177,
+          "tot_score": 476,
+          "pc_score": 52.9,
+          "m_pc": 44.7,
+          "p_pc": 55.0,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "Chim Chim Cheree / Step In Time",
+          "m": 126,
+          "p": 160,
+          "s": 169,
+          "tot_score": 455,
+          "pc_score": 50.6,
+          "m_pc": 42.0,
+          "p_pc": 53.3,
+          "s_pc": 56.3
+        }
+      ],
+      "n": 2,
+      "m": 260,
+      "m_pc": 43.3,
+      "p": 325,
+      "p_pc": 54.2,
+      "s": 346,
+      "s_pc": 57.7,
+      "tot_score": 931,
+      "pc_score": 51.7
+    },
+    {
+      "rank": 29,
+      "name": "The Red Rose Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "Paul Walters"
+        }
+      ],
+      "size": 17,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 152,
+          "p": 150,
+          "s": 154,
+          "tot_score": 456,
+          "pc_score": 50.7,
+          "m_pc": 50.7,
+          "p_pc": 50.0,
+          "s_pc": 51.3
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 153,
+          "p": 154,
+          "s": 156,
+          "tot_score": 463,
+          "pc_score": 51.4,
+          "m_pc": 51.0,
+          "p_pc": 51.3,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 305,
+      "m_pc": 50.8,
+      "p": 304,
+      "p_pc": 50.7,
+      "s": 310,
+      "s_pc": 51.7,
+      "tot_score": 919,
+      "pc_score": 51.1
+    },
+    {
+      "rank": 30,
+      "name": "Ocean Harmony",
+      "members": [
+        {
+          "part": "director",
+          "name": "David Wood"
+        }
+      ],
+      "size": 19,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 150,
+          "p": 155,
+          "s": 149,
+          "tot_score": 454,
+          "pc_score": 50.4,
+          "m_pc": 50.0,
+          "p_pc": 51.7,
+          "s_pc": 49.7
+        },
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 153,
+          "p": 158,
+          "s": 150,
+          "tot_score": 461,
+          "pc_score": 51.2,
+          "m_pc": 51.0,
+          "p_pc": 52.7,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 303,
+      "m_pc": 50.5,
+      "p": 313,
+      "p_pc": 52.2,
+      "s": 299,
+      "s_pc": 49.8,
+      "tot_score": 915,
+      "pc_score": 50.8
+    },
+    {
+      "rank": 31,
+      "name": "Hereward Harmony",
+      "members": [
+        {
+          "part": "director",
+          "name": "Jeremy Curtis"
+        }
+      ],
+      "size": 15,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Sunshine Of Your Smile",
+          "m": 144,
+          "p": 140,
+          "s": 142,
+          "tot_score": 426,
+          "pc_score": 47.3,
+          "m_pc": 48.0,
+          "p_pc": 46.7,
+          "s_pc": 47.3
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 141,
+          "p": 146,
+          "s": 141,
+          "tot_score": 428,
+          "pc_score": 47.6,
+          "m_pc": 47.0,
+          "p_pc": 48.7,
+          "s_pc": 47.0
+        }
+      ],
+      "n": 2,
+      "m": 285,
+      "m_pc": 47.5,
+      "p": 286,
+      "p_pc": 47.7,
+      "s": 283,
+      "s_pc": 47.2,
+      "tot_score": 854,
+      "pc_score": 47.4
+    },
+    {
+      "rank": 32,
+      "name": "Mk Acappella",
+      "members": [
+        {
+          "part": "director",
+          "name": "Eddie Kidby"
+        },
+        {
+          "part": "director",
+          "name": "Chris Large"
+        }
+      ],
+      "size": 19,
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 140,
+          "p": 140,
+          "s": 150,
+          "tot_score": 430,
+          "pc_score": 47.8,
+          "m_pc": 46.7,
+          "p_pc": 46.7,
+          "s_pc": 50.0
+        },
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 136,
+          "p": 135,
+          "s": 146,
+          "tot_score": 417,
+          "pc_score": 46.3,
+          "m_pc": 45.3,
+          "p_pc": 45.0,
+          "s_pc": 48.7
+        }
+      ],
+      "n": 2,
+      "m": 276,
+      "m_pc": 46.0,
+      "p": 275,
+      "p_pc": 45.8,
+      "s": 296,
+      "s_pc": 49.3,
+      "tot_score": 847,
+      "pc_score": 47.1
+    },
+    {
+      "rank": 33,
+      "name": "Heart Of England Chorus",
+      "members": [
+        {
+          "part": "director",
+          "name": "David Codd"
+        }
+      ],
+      "size": 28,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 139,
+          "p": 138,
+          "s": 133,
+          "tot_score": 410,
+          "pc_score": 45.6,
+          "m_pc": 46.3,
+          "p_pc": 46.0,
+          "s_pc": 44.3
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 115,
+          "p": 132,
+          "s": 125,
+          "tot_score": 372,
+          "pc_score": 41.3,
+          "m_pc": 38.3,
+          "p_pc": 44.0,
+          "s_pc": 41.7
+        }
+      ],
+      "n": 2,
+      "m": 254,
+      "m_pc": 42.3,
+      "p": 270,
+      "p_pc": 45.0,
+      "s": 258,
+      "s_pc": 43.0,
+      "tot_score": 782,
+      "pc_score": 43.4
+    }
+  ]
+}

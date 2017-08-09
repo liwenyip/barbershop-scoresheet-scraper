@@ -30,23 +30,23 @@
       "name": "Nicky Salt"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     }
   ],
@@ -62,19 +62,19 @@
       "pc_score": "75.0",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "152",
           "s": "151",
           "p": "152"
         },
         {
-          "title": "You Are The Girl I Love",
+          "name": "You Are The Girl I Love",
           "m": "149",
           "s": "149",
           "p": "147"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex"
@@ -103,19 +103,19 @@
       "pc_score": "71.5",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "146",
           "s": "141",
           "p": "146"
         },
         {
-          "title": "My Melancholy Baby",
+          "name": "My Melancholy Baby",
           "m": "146",
           "s": "141",
           "p": "138"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon"
@@ -144,19 +144,19 @@
       "pc_score": "69.5",
       "songs": [
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "137",
           "s": "141",
           "p": "141"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "147",
           "s": "134",
           "p": "134"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter"
@@ -185,19 +185,19 @@
       "pc_score": "67.2",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "141",
           "s": "130",
           "p": "135"
         },
         {
-          "title": "When Day Is Done",
+          "name": "When Day Is Done",
           "m": "131",
           "s": "133",
           "p": "136"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris"
@@ -226,19 +226,19 @@
       "pc_score": "67.2",
       "songs": [
         {
-          "title": "If I Had My Way",
+          "name": "If I Had My Way",
           "m": "144",
           "s": "133",
           "p": "136"
         },
         {
-          "title": "That Old Piano Of Mine",
+          "name": "That Old Piano Of Mine",
           "m": "130",
           "s": "130",
           "p": "133"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
@@ -267,19 +267,19 @@
       "pc_score": "64.5",
       "songs": [
         {
-          "title": "Basin Street Blues",
+          "name": "Basin Street Blues",
           "m": "138",
           "s": "123",
           "p": "131"
         },
         {
-          "title": "Somebody Stole My Gal / Five Foot Two Eyes Of Blue Medley",
+          "name": "Somebody Stole My Gal / Five Foot Two Eyes Of Blue Medley",
           "m": "125",
           "s": "125",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon"
@@ -308,19 +308,19 @@
       "pc_score": "64.4",
       "songs": [
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "128",
           "s": "132",
           "p": "123"
         },
         {
-          "title": "From The First Hello To The Last Goodbye",
+          "name": "From The First Hello To The Last Goodbye",
           "m": "137",
           "s": "127",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "David"
@@ -349,19 +349,19 @@
       "pc_score": "64.0",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "131",
           "s": "129",
           "p": "124"
         },
         {
-          "title": "Lover Come Back",
+          "name": "Lover Come Back",
           "m": "132",
           "s": "124",
           "p": "128"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Paul"
@@ -390,19 +390,19 @@
       "pc_score": "62.8",
       "songs": [
         {
-          "title": "From The First Hello To The Last Goodbye",
+          "name": "From The First Hello To The Last Goodbye",
           "m": "127",
           "s": "123",
           "p": "132"
         },
         {
-          "title": "I'm Beginning To See The Light",
+          "name": "I'm Beginning To See The Light",
           "m": "120",
           "s": "130",
           "p": "122"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tim"
@@ -431,19 +431,19 @@
       "pc_score": "62.0",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "128",
           "s": "117",
           "p": "129"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "121",
           "s": "125",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrew"
@@ -472,19 +472,19 @@
       "pc_score": "61.3",
       "songs": [
         {
-          "title": "Liar Medley",
+          "name": "Liar Medley",
           "m": "129",
           "s": "123",
           "p": "133"
         },
         {
-          "title": "How Deep Is The Ocean",
+          "name": "How Deep Is The Ocean",
           "m": "130",
           "s": "119",
           "p": "102"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick"
@@ -513,19 +513,19 @@
       "pc_score": "60.6",
       "songs": [
         {
-          "title": "Each Time I Fall In Love",
+          "name": "Each Time I Fall In Love",
           "m": "129",
           "s": "118",
           "p": "123"
         },
         {
-          "title": "Row, Row, Row",
+          "name": "Row, Row, Row",
           "m": "121",
           "s": "117",
           "p": "119"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter"
@@ -554,19 +554,19 @@
       "pc_score": "60.3",
       "songs": [
         {
-          "title": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
           "m": "130",
           "s": "115",
           "p": "124"
         },
         {
-          "title": "Among My Souvenirs",
+          "name": "Among My Souvenirs",
           "m": "115",
           "s": "116",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Giles"
@@ -591,23 +591,64 @@
       "rank_s": "13",
       "rank_p": "14",
       "rank": "14",
-      "name": "The Whole Nine Yards 58.5 675 Ain't Misbehavin' If You Were The Only Girl In The World 108 106 122 119 113 107 16 11 15 Category rankings: 15: Quadzilla",
-      "pc_score": "56.3",
+      "name": "The Whole Nine Yards",
+      "pc_score": "58.5",
       "songs": [
         {
-          "title": "My Honey's Lovin' Arms",
+          "name": "My Honey's Lovin' Arms",
           "m": "120",
           "s": "114",
           "p": "127"
         },
         {
-          "title": "Girls Medley",
+          "name": "Girls Medley",
           "m": "117",
           "s": "111",
           "p": "113"
         }
       ],
-      "singers": [
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
+        }
+      ]
+    },
+    {
+      "tot_score": "675",
+      "rank_m": "16",
+      "rank_s": "15",
+      "rank_p": "11",
+      "rank": "15",
+      "name": "Quadzilla",
+      "pc_score": "56.3",
+      "songs": [
+        {
+          "name": "Ain't Misbehavin'",
+          "m": "108",
+          "s": "122",
+          "p": "106"
+        },
+        {
+          "name": "If You Were The Only Girl In The World",
+          "m": "119",
+          "s": "107",
+          "p": "113"
+        }
+      ],
+      "members": [
         {
           "part": "tenor",
           "name": "Joe"

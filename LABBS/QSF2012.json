@@ -42,23 +42,23 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "78.4",
       "songs": [
         {
-          "title": "Look At Me Now",
+          "name": "Look At Me Now",
           "m": "233",
           "s": "234",
           "p": "235"
         },
         {
-          "title": "If Ever I Would Leave You",
+          "name": "If Ever I Would Leave You",
           "m": "240",
           "s": "237",
           "p": "232"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrea Day"
@@ -115,19 +115,19 @@
       "pc_score": "73.2",
       "songs": [
         {
-          "title": "Angry / Bill Bailey Medley",
+          "name": "Angry / Bill Bailey Medley",
           "m": "213",
           "s": "225",
           "p": "209"
         },
         {
-          "title": "If We Can't Be The Same Old Sweethearts",
+          "name": "If We Can't Be The Same Old Sweethearts",
           "m": "226",
           "s": "224",
           "p": "221"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -156,19 +156,19 @@
       "pc_score": "69.5",
       "songs": [
         {
-          "title": "I Didn't Wanna Fall",
+          "name": "I Didn't Wanna Fall",
           "m": "209",
           "s": "211",
           "p": "206"
         },
         {
-          "title": "Little Lady Make Believe",
+          "name": "Little Lady Make Believe",
           "m": "209",
           "s": "209",
           "p": "207"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -197,19 +197,19 @@
       "pc_score": "69.1",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "210",
           "s": "210",
           "p": "209"
         },
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "209",
           "s": "203",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -238,19 +238,19 @@
       "pc_score": "66.7",
       "songs": [
         {
-          "title": "Flirty Eyes",
+          "name": "Flirty Eyes",
           "m": "195",
           "s": "197",
           "p": "202"
         },
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "201",
           "s": "204",
           "p": "201"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Josephine Wilson"
@@ -279,19 +279,19 @@
       "pc_score": "65.9",
       "songs": [
         {
-          "title": "I Never Meant To Fall In Love",
+          "name": "I Never Meant To Fall In Love",
           "m": "195",
           "s": "195",
           "p": "194"
         },
         {
-          "title": "Orange Coloured Sky",
+          "name": "Orange Coloured Sky",
           "m": "191",
           "s": "204",
           "p": "208"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Jones"
@@ -320,19 +320,19 @@
       "pc_score": "65.3",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "174",
           "s": "202",
           "p": "181"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "208",
           "s": "207",
           "p": "204"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Beth Daley"
@@ -361,19 +361,19 @@
       "pc_score": "64.9",
       "songs": [
         {
-          "title": "Undecided Medley",
+          "name": "Undecided Medley",
           "m": "184",
           "s": "197",
           "p": "189"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "204",
           "s": "198",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Anne Kearney"
@@ -402,19 +402,19 @@
       "pc_score": "64.7",
       "songs": [
         {
-          "title": "I'm Beginning To Like It",
+          "name": "I'm Beginning To Like It",
           "m": "191",
           "s": "198",
           "p": "187"
         },
         {
-          "title": "Are You Lonesome Tonight?",
+          "name": "Are You Lonesome Tonight?",
           "m": "196",
           "s": "196",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hooker"
@@ -443,19 +443,19 @@
       "pc_score": "64.4",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "186",
           "s": "192",
           "p": "189"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "194",
           "s": "198",
           "p": "200"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Leigh Holden"
@@ -484,19 +484,19 @@
       "pc_score": "63.3",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "189",
           "s": "189",
           "p": "190"
         },
         {
-          "title": "Sweet Georgia Brown",
+          "name": "Sweet Georgia Brown",
           "m": "189",
           "s": "190",
           "p": "192"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Irene Knight"
@@ -525,19 +525,19 @@
       "pc_score": "63.0",
       "songs": [
         {
-          "title": "Good Luck Charm",
+          "name": "Good Luck Charm",
           "m": "177",
           "s": "188",
           "p": "188"
         },
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "189",
           "s": "197",
           "p": "195"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tina Ruggles"
@@ -566,19 +566,19 @@
       "pc_score": "62.7",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "191",
           "s": "183",
           "p": "190"
         },
         {
-          "title": "Heart Of My Heart",
+          "name": "Heart Of My Heart",
           "m": "188",
           "s": "189",
           "p": "188"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jane Wright"
@@ -607,19 +607,19 @@
       "pc_score": "61.7",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "178",
           "s": "187",
           "p": "181"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "190",
           "s": "187",
           "p": "187"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Juliet Erskine"
@@ -648,19 +648,19 @@
       "pc_score": "58.1",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "174",
           "s": "169",
           "p": "178"
         },
         {
-          "title": "Each Time I Fall In Love",
+          "name": "Each Time I Fall In Love",
           "m": "173",
           "s": "177",
           "p": "175"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Urja Patel"

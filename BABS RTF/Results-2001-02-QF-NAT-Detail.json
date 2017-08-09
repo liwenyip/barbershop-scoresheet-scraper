@@ -1,0 +1,422 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2001-02-QF-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "BOURNEMOUTH",
+  "year": "2001/02",
+  "type": "q",
+  "date": "24/05/2002",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Matrix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 248,
+          "p": 240,
+          "s": 225,
+          "tot_score": 713,
+          "pc_score": 79.2,
+          "m_pc": 82.7,
+          "p_pc": 80.0,
+          "s_pc": 75.0
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 255,
+          "p": 244,
+          "s": 226,
+          "tot_score": 725,
+          "pc_score": 80.6,
+          "m_pc": 85.0,
+          "p_pc": 81.3,
+          "s_pc": 75.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 475.0,
+          "p": 472.0,
+          "s": 458.0,
+          "tot_score": 1405.0,
+          "pc_score": 78.1,
+          "m_pc": 79.2,
+          "p_pc": 78.7,
+          "s_pc": 76.3
+        }
+      ],
+      "n": 4,
+      "m": 978.0,
+      "m_pc": 81.5,
+      "p": 956.0,
+      "p_pc": 79.7,
+      "s": 909.0,
+      "s_pc": 75.8,
+      "tot_score": 2843.0,
+      "pc_score": 79.0
+    },
+    {
+      "rank": 2,
+      "name": "The Light Industrial Choral Society",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Take You Home Again, Kathleen",
+          "m": 233,
+          "p": 239,
+          "s": 226,
+          "tot_score": 698,
+          "pc_score": 77.6,
+          "m_pc": 77.7,
+          "p_pc": 79.7,
+          "s_pc": 75.3
+        },
+        {
+          "n": 1,
+          "name": "Fit As A Fiddle / For Me And My Gal Medley",
+          "m": 237,
+          "p": 236,
+          "s": 231,
+          "tot_score": 704,
+          "pc_score": 78.2,
+          "m_pc": 79.0,
+          "p_pc": 78.7,
+          "s_pc": 77.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 462.0,
+          "p": 467.0,
+          "s": 438.0,
+          "tot_score": 1367.0,
+          "pc_score": 75.9,
+          "m_pc": 77.0,
+          "p_pc": 77.8,
+          "s_pc": 73.0
+        }
+      ],
+      "n": 4,
+      "m": 932.0,
+      "m_pc": 77.7,
+      "p": 942.0,
+      "p_pc": 78.5,
+      "s": 895.0,
+      "s_pc": 74.6,
+      "tot_score": 2769.0,
+      "pc_score": 76.9
+    },
+    {
+      "rank": 3,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Got Rhythm",
+          "m": 233,
+          "p": 247,
+          "s": 219,
+          "tot_score": 699,
+          "pc_score": 77.7,
+          "m_pc": 77.7,
+          "p_pc": 82.3,
+          "s_pc": 73.0
+        },
+        {
+          "n": 1,
+          "name": "(You're The Flower Of My Heart,) Sweet Adeline",
+          "m": 229,
+          "p": 243,
+          "s": 217,
+          "tot_score": 689,
+          "pc_score": 76.6,
+          "m_pc": 76.3,
+          "p_pc": 81.0,
+          "s_pc": 72.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 462.0,
+          "p": 476.0,
+          "s": 431.0,
+          "tot_score": 1369.0,
+          "pc_score": 76.1,
+          "m_pc": 77.0,
+          "p_pc": 79.3,
+          "s_pc": 71.8
+        }
+      ],
+      "n": 4,
+      "m": 924.0,
+      "m_pc": 77.0,
+      "p": 966.0,
+      "p_pc": 80.5,
+      "s": 867.0,
+      "s_pc": 72.3,
+      "tot_score": 2757.0,
+      "pc_score": 76.6
+    },
+    {
+      "rank": 4,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Smilin' Through",
+          "m": 219,
+          "p": 219,
+          "s": 218,
+          "tot_score": 656,
+          "pc_score": 72.9,
+          "m_pc": 73.0,
+          "p_pc": 73.0,
+          "s_pc": 72.7
+        },
+        {
+          "n": 1,
+          "name": "Make 'Em Laugh",
+          "m": 217,
+          "p": 218,
+          "s": 215,
+          "tot_score": 650,
+          "pc_score": 72.2,
+          "m_pc": 72.3,
+          "p_pc": 72.7,
+          "s_pc": 71.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 444.0,
+          "p": 435.0,
+          "s": 420.0,
+          "tot_score": 1299.0,
+          "pc_score": 72.2,
+          "m_pc": 74.0,
+          "p_pc": 72.5,
+          "s_pc": 70.0
+        }
+      ],
+      "n": 4,
+      "m": 880.0,
+      "m_pc": 73.3,
+      "p": 872.0,
+      "p_pc": 72.7,
+      "s": 853.0,
+      "s_pc": 71.1,
+      "tot_score": 2605.0,
+      "pc_score": 72.4
+    },
+    {
+      "rank": 5,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Beautiful Dreamer",
+          "m": 227,
+          "p": 219,
+          "s": 211,
+          "tot_score": 657,
+          "pc_score": 73.0,
+          "m_pc": 75.7,
+          "p_pc": 73.0,
+          "s_pc": 70.3
+        },
+        {
+          "n": 1,
+          "name": "Star Medley",
+          "m": 220,
+          "p": 222,
+          "s": 207,
+          "tot_score": 649,
+          "pc_score": 72.1,
+          "m_pc": 73.3,
+          "p_pc": 74.0,
+          "s_pc": 69.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 421.0,
+          "p": 428.0,
+          "s": 401.0,
+          "tot_score": 1250.0,
+          "pc_score": 69.4,
+          "m_pc": 70.2,
+          "p_pc": 71.3,
+          "s_pc": 66.8
+        }
+      ],
+      "n": 4,
+      "m": 868.0,
+      "m_pc": 72.3,
+      "p": 869.0,
+      "p_pc": 72.4,
+      "s": 819.0,
+      "s_pc": 68.3,
+      "tot_score": 2556.0,
+      "pc_score": 71.0
+    },
+    {
+      "rank": 6,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 197,
+          "p": 208,
+          "s": 208,
+          "tot_score": 613,
+          "pc_score": 68.1,
+          "m_pc": 65.7,
+          "p_pc": 69.3,
+          "s_pc": 69.3
+        },
+        {
+          "n": 1,
+          "name": "Pal Of My Cradle Days",
+          "m": 204,
+          "p": 211,
+          "s": 211,
+          "tot_score": 626,
+          "pc_score": 69.6,
+          "m_pc": 68.0,
+          "p_pc": 70.3,
+          "s_pc": 70.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 392.0,
+          "p": 416.0,
+          "s": 410.0,
+          "tot_score": 1218.0,
+          "pc_score": 67.7,
+          "m_pc": 65.3,
+          "p_pc": 69.3,
+          "s_pc": 68.3
+        }
+      ],
+      "n": 4,
+      "m": 793.0,
+      "m_pc": 66.1,
+      "p": 835.0,
+      "p_pc": 69.6,
+      "s": 829.0,
+      "s_pc": 69.1,
+      "tot_score": 2457.0,
+      "pc_score": 68.3
+    },
+    {
+      "rank": 7,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Be A Clown",
+          "m": 186,
+          "p": 208,
+          "s": 202,
+          "tot_score": 596,
+          "pc_score": 66.2,
+          "m_pc": 62.0,
+          "p_pc": 69.3,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Heart Of A Clown",
+          "m": 195,
+          "p": 203,
+          "s": 201,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 65.0,
+          "p_pc": 67.7,
+          "s_pc": 67.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 389.0,
+          "p": 410.0,
+          "s": 406.0,
+          "tot_score": 1205.0,
+          "pc_score": 66.9,
+          "m_pc": 64.8,
+          "p_pc": 68.3,
+          "s_pc": 67.7
+        }
+      ],
+      "n": 4,
+      "m": 770.0,
+      "m_pc": 64.2,
+      "p": 821.0,
+      "p_pc": 68.4,
+      "s": 809.0,
+      "s_pc": 67.4,
+      "tot_score": 2400.0,
+      "pc_score": 66.7
+    }
+  ]
+}

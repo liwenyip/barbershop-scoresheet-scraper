@@ -1,0 +1,170 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1999-00-QF-INT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "INTERNATIONAL QUARTET FINALS",
+  "location": "SHEFFIELD",
+  "year": "1999/00",
+  "type": "q",
+  "date": "20/11/1999",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Savannah",
+      "songs": [
+        {
+          "n": 1,
+          "name": "All The World Will Be Jealous Of Me",
+          "m": 134,
+          "p": 134,
+          "s": 120,
+          "tot_score": 388,
+          "pc_score": 64.7,
+          "m_pc": 67.0,
+          "p_pc": 67.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 128,
+          "p": 139,
+          "s": 118,
+          "tot_score": 385,
+          "pc_score": 64.2,
+          "m_pc": 64.0,
+          "p_pc": 69.5,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 262,
+      "m_pc": 65.5,
+      "p": 273,
+      "p_pc": 68.3,
+      "s": 238,
+      "s_pc": 59.5,
+      "tot_score": 773,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 2,
+      "name": "Wheel Of Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 121,
+          "p": 126,
+          "s": 120,
+          "tot_score": 367,
+          "pc_score": 61.2,
+          "m_pc": 60.5,
+          "p_pc": 63.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 139,
+          "p": 139,
+          "s": 122,
+          "tot_score": 400,
+          "pc_score": 66.7,
+          "m_pc": 69.5,
+          "p_pc": 69.5,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 260,
+      "m_pc": 65.0,
+      "p": 265,
+      "p_pc": 66.3,
+      "s": 242,
+      "s_pc": 60.5,
+      "tot_score": 767,
+      "pc_score": 63.9
+    },
+    {
+      "rank": 3,
+      "name": "Midlife Crisis",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Tell Me The Same Things Over Again",
+          "m": 107,
+          "p": 118,
+          "s": 109,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 53.5,
+          "p_pc": 59.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 117,
+          "p": 117,
+          "s": 108,
+          "tot_score": 342,
+          "pc_score": 57.0,
+          "m_pc": 58.5,
+          "p_pc": 58.5,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 224,
+      "m_pc": 56.0,
+      "p": 235,
+      "p_pc": 58.8,
+      "s": 217,
+      "s_pc": 54.3,
+      "tot_score": 676,
+      "pc_score": 56.3
+    }
+  ]
+}

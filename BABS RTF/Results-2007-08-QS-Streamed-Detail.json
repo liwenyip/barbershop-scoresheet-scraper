@@ -1,0 +1,955 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2007-08-QS-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET SEMI-FINAL",
+  "location": "CHELTENHAM",
+  "year": "2007/08",
+  "type": "q",
+  "date": "23/05/2008",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 229,
+          "p": 228,
+          "s": 232,
+          "tot_score": 689,
+          "pc_score": 76.6,
+          "m_pc": 76.3,
+          "p_pc": 76.0,
+          "s_pc": 77.3
+        },
+        {
+          "n": 1,
+          "name": "No No Nora",
+          "m": 236,
+          "p": 226,
+          "s": 230,
+          "tot_score": 692,
+          "pc_score": 76.9,
+          "m_pc": 78.7,
+          "p_pc": 75.3,
+          "s_pc": 76.7
+        }
+      ],
+      "n": 2,
+      "m": 465,
+      "m_pc": 77.5,
+      "p": 454,
+      "p_pc": 75.7,
+      "s": 462,
+      "s_pc": 77.0,
+      "tot_score": 1381,
+      "pc_score": 76.7
+    },
+    {
+      "rank": 2,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Way You Look Tonight",
+          "m": 224,
+          "p": 224,
+          "s": 226,
+          "tot_score": 674,
+          "pc_score": 74.9,
+          "m_pc": 74.7,
+          "p_pc": 74.7,
+          "s_pc": 75.3
+        },
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 224,
+          "p": 223,
+          "s": 227,
+          "tot_score": 674,
+          "pc_score": 74.9,
+          "m_pc": 74.7,
+          "p_pc": 74.3,
+          "s_pc": 75.7
+        }
+      ],
+      "n": 2,
+      "m": 448,
+      "m_pc": 74.7,
+      "p": 447,
+      "p_pc": 74.5,
+      "s": 453,
+      "s_pc": 75.5,
+      "tot_score": 1348,
+      "pc_score": 74.9
+    },
+    {
+      "rank": 3,
+      "name": "dB4",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Martin"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Giles"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "If I Give My Heart To You",
+          "m": 212,
+          "p": 213,
+          "s": 217,
+          "tot_score": 642,
+          "pc_score": 71.3,
+          "m_pc": 70.7,
+          "p_pc": 71.0,
+          "s_pc": 72.3
+        },
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 209,
+          "p": 215,
+          "s": 213,
+          "tot_score": 637,
+          "pc_score": 70.8,
+          "m_pc": 69.7,
+          "p_pc": 71.7,
+          "s_pc": 71.0
+        }
+      ],
+      "n": 2,
+      "m": 421,
+      "m_pc": 70.2,
+      "p": 428,
+      "p_pc": 71.3,
+      "s": 430,
+      "s_pc": 71.7,
+      "tot_score": 1279,
+      "pc_score": 71.1
+    },
+    {
+      "rank": 4,
+      "name": "Qube",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Dave"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 209,
+          "p": 209,
+          "s": 217,
+          "tot_score": 635,
+          "pc_score": 70.6,
+          "m_pc": 69.7,
+          "p_pc": 69.7,
+          "s_pc": 72.3
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 216,
+          "p": 202,
+          "s": 214,
+          "tot_score": 632,
+          "pc_score": 70.2,
+          "m_pc": 72.0,
+          "p_pc": 67.3,
+          "s_pc": 71.3
+        }
+      ],
+      "n": 2,
+      "m": 425,
+      "m_pc": 70.8,
+      "p": 411,
+      "p_pc": 68.5,
+      "s": 431,
+      "s_pc": 71.8,
+      "tot_score": 1267,
+      "pc_score": 70.4
+    },
+    {
+      "rank": 5,
+      "name": "Four Blokes Singin'",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Chris"
+        },
+        {
+          "part": "lead",
+          "name": "Matthew"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Yes Sir, That's My Baby",
+          "m": 203,
+          "p": 203,
+          "s": 206,
+          "tot_score": 612,
+          "pc_score": 68.0,
+          "m_pc": 67.7,
+          "p_pc": 67.7,
+          "s_pc": 68.7
+        },
+        {
+          "n": 1,
+          "name": "How Deep Is The Ocean",
+          "m": 195,
+          "p": 194,
+          "s": 199,
+          "tot_score": 588,
+          "pc_score": 65.3,
+          "m_pc": 65.0,
+          "p_pc": 64.7,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 398,
+      "m_pc": 66.3,
+      "p": 397,
+      "p_pc": 66.2,
+      "s": 405,
+      "s_pc": 67.5,
+      "tot_score": 1200,
+      "pc_score": 66.7
+    },
+    {
+      "rank": 6,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 196,
+          "p": 204,
+          "s": 208,
+          "tot_score": 608,
+          "pc_score": 67.6,
+          "m_pc": 65.3,
+          "p_pc": 68.0,
+          "s_pc": 69.3
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 183,
+          "p": 196,
+          "s": 194,
+          "tot_score": 573,
+          "pc_score": 63.7,
+          "m_pc": 61.0,
+          "p_pc": 65.3,
+          "s_pc": 64.7
+        }
+      ],
+      "n": 2,
+      "m": 379,
+      "m_pc": 63.2,
+      "p": 400,
+      "p_pc": 66.7,
+      "s": 402,
+      "s_pc": 67.0,
+      "tot_score": 1181,
+      "pc_score": 65.6
+    },
+    {
+      "rank": 7,
+      "name": "Figaro",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Richard"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Aidan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 189,
+          "p": 204,
+          "s": 199,
+          "tot_score": 592,
+          "pc_score": 65.8,
+          "m_pc": 63.0,
+          "p_pc": 68.0,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "Moonlight Becomes You",
+          "m": 190,
+          "p": 202,
+          "s": 195,
+          "tot_score": 587,
+          "pc_score": 65.2,
+          "m_pc": 63.3,
+          "p_pc": 67.3,
+          "s_pc": 65.0
+        }
+      ],
+      "n": 2,
+      "m": 379,
+      "m_pc": 63.2,
+      "p": 406,
+      "p_pc": 67.7,
+      "s": 394,
+      "s_pc": 65.7,
+      "tot_score": 1179,
+      "pc_score": 65.5
+    },
+    {
+      "rank": 8,
+      "name": "Cadence",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "How Deep Is The Ocean",
+          "m": 181,
+          "p": 198,
+          "s": 202,
+          "tot_score": 581,
+          "pc_score": 64.6,
+          "m_pc": 60.3,
+          "p_pc": 66.0,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Midnight Rose",
+          "m": 180,
+          "p": 192,
+          "s": 201,
+          "tot_score": 573,
+          "pc_score": 63.7,
+          "m_pc": 60.0,
+          "p_pc": 64.0,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 2,
+      "m": 361,
+      "m_pc": 60.2,
+      "p": 390,
+      "p_pc": 65.0,
+      "s": 403,
+      "s_pc": 67.2,
+      "tot_score": 1154,
+      "pc_score": 64.1
+    },
+    {
+      "rank": 9,
+      "name": "Sharp Practice",
+      "members": [
+        {
+          "part": "director",
+          "name": "James"
+        },
+        {
+          "part": "director",
+          "name": "Steve"
+        },
+        {
+          "part": "director",
+          "name": "Nigel. Keith"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wonderful Day Medley",
+          "m": 176,
+          "p": 184,
+          "s": 185,
+          "tot_score": 545,
+          "pc_score": 60.6,
+          "m_pc": 58.7,
+          "p_pc": 61.3,
+          "s_pc": 61.7
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 187,
+          "p": 186,
+          "s": 184,
+          "tot_score": 557,
+          "pc_score": 61.9,
+          "m_pc": 62.3,
+          "p_pc": 62.0,
+          "s_pc": 61.3
+        }
+      ],
+      "n": 2,
+      "m": 363,
+      "m_pc": 60.5,
+      "p": 370,
+      "p_pc": 61.7,
+      "s": 369,
+      "s_pc": 61.5,
+      "tot_score": 1102,
+      "pc_score": 61.2
+    },
+    {
+      "rank": 10,
+      "name": "Retro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night On The Back Porch",
+          "m": 177,
+          "p": 181,
+          "s": 173,
+          "tot_score": 531,
+          "pc_score": 59.0,
+          "m_pc": 59.0,
+          "p_pc": 60.3,
+          "s_pc": 57.7
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 185,
+          "p": 181,
+          "s": 179,
+          "tot_score": 545,
+          "pc_score": 60.6,
+          "m_pc": 61.7,
+          "p_pc": 60.3,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 362,
+      "m_pc": 60.3,
+      "p": 362,
+      "p_pc": 60.3,
+      "s": 352,
+      "s_pc": 58.7,
+      "tot_score": 1076,
+      "pc_score": 59.8
+    },
+    {
+      "rank": 11,
+      "name": "Doghouse",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "Matthew"
+        },
+        {
+          "part": "bass",
+          "name": "Timm"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 167,
+          "p": 181,
+          "s": 181,
+          "tot_score": 529,
+          "pc_score": 58.8,
+          "m_pc": 55.7,
+          "p_pc": 60.3,
+          "s_pc": 60.3
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 174,
+          "p": 183,
+          "s": 177,
+          "tot_score": 534,
+          "pc_score": 59.3,
+          "m_pc": 58.0,
+          "p_pc": 61.0,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 341,
+      "m_pc": 56.8,
+      "p": 364,
+      "p_pc": 60.7,
+      "s": 358,
+      "s_pc": 59.7,
+      "tot_score": 1063,
+      "pc_score": 59.1
+    },
+    {
+      "rank": 12,
+      "name": "Abacus",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Geoff"
+        },
+        {
+          "part": "lead",
+          "name": "Wayne"
+        },
+        {
+          "part": "bari",
+          "name": "Chris"
+        },
+        {
+          "part": "bass",
+          "name": "Mike"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "There's A Brand New Gang",
+          "m": 169,
+          "p": 193,
+          "s": 169,
+          "tot_score": 531,
+          "pc_score": 59.0,
+          "m_pc": 56.3,
+          "p_pc": 64.3,
+          "s_pc": 56.3
+        },
+        {
+          "n": 1,
+          "name": "I'll Take You Home Again, Kathleen",
+          "m": 170,
+          "p": 187,
+          "s": 168,
+          "tot_score": 525,
+          "pc_score": 58.3,
+          "m_pc": 56.7,
+          "p_pc": 62.3,
+          "s_pc": 56.0
+        }
+      ],
+      "n": 2,
+      "m": 339,
+      "m_pc": 56.5,
+      "p": 380,
+      "p_pc": 63.3,
+      "s": 337,
+      "s_pc": 56.2,
+      "tot_score": 1056,
+      "pc_score": 58.7
+    },
+    {
+      "rank": 13,
+      "name": "Vocal Icing",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Dave"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Hugh"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 166,
+          "p": 178,
+          "s": 177,
+          "tot_score": 521,
+          "pc_score": 57.9,
+          "m_pc": 55.3,
+          "p_pc": 59.3,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 171,
+          "p": 179,
+          "s": 174,
+          "tot_score": 524,
+          "pc_score": 58.2,
+          "m_pc": 57.0,
+          "p_pc": 59.7,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 337,
+      "m_pc": 56.2,
+      "p": 357,
+      "p_pc": 59.5,
+      "s": 351,
+      "s_pc": 58.5,
+      "tot_score": 1045,
+      "pc_score": 58.1
+    },
+    {
+      "rank": 14,
+      "name": "Catch 22",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "John"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 169,
+          "p": 177,
+          "s": 173,
+          "tot_score": 519,
+          "pc_score": 57.7,
+          "m_pc": 56.3,
+          "p_pc": 59.0,
+          "s_pc": 57.7
+        },
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 174,
+          "p": 174,
+          "s": 174,
+          "tot_score": 522,
+          "pc_score": 58.0,
+          "m_pc": 58.0,
+          "p_pc": 58.0,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 343,
+      "m_pc": 57.2,
+      "p": 351,
+      "p_pc": 58.5,
+      "s": 347,
+      "s_pc": 57.8,
+      "tot_score": 1041,
+      "pc_score": 57.8
+    },
+    {
+      "rank": 14,
+      "name": "Fraggle Rock",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Carl"
+        },
+        {
+          "part": "bari",
+          "name": "Eddie"
+        },
+        {
+          "part": "bass",
+          "name": "Dale"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 168,
+          "p": 178,
+          "s": 172,
+          "tot_score": 518,
+          "pc_score": 57.6,
+          "m_pc": 56.0,
+          "p_pc": 59.3,
+          "s_pc": 57.3
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 168,
+          "p": 183,
+          "s": 172,
+          "tot_score": 523,
+          "pc_score": 58.1,
+          "m_pc": 56.0,
+          "p_pc": 61.0,
+          "s_pc": 57.3
+        }
+      ],
+      "n": 2,
+      "m": 336,
+      "m_pc": 56.0,
+      "p": 361,
+      "p_pc": 60.2,
+      "s": 344,
+      "s_pc": 57.3,
+      "tot_score": 1041,
+      "pc_score": 57.8
+    },
+    {
+      "rank": 16,
+      "name": "Bianco",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "Terry"
+        },
+        {
+          "part": "bass",
+          "name": "Paul"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 155,
+          "p": 175,
+          "s": 161,
+          "tot_score": 491,
+          "pc_score": 54.6,
+          "m_pc": 51.7,
+          "p_pc": 58.3,
+          "s_pc": 53.7
+        },
+        {
+          "n": 1,
+          "name": "Five Foot Two",
+          "m": 152,
+          "p": 171,
+          "s": 160,
+          "tot_score": 483,
+          "pc_score": 53.7,
+          "m_pc": 50.7,
+          "p_pc": 57.0,
+          "s_pc": 53.3
+        }
+      ],
+      "n": 2,
+      "m": 307,
+      "m_pc": 51.2,
+      "p": 346,
+      "p_pc": 57.7,
+      "s": 321,
+      "s_pc": 53.5,
+      "tot_score": 974,
+      "pc_score": 54.1
+    }
+  ]
+}

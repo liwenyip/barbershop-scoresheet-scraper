@@ -1,0 +1,625 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1996-97-CP-STH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "SOUTHERN CHORUS PRELIMS",
+  "location": "BRIGHTON",
+  "year": "1996/97",
+  "type": "c",
+  "date": "30/11/1996",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "m",
+      "name": "Avg. Music"
+    },
+    {
+      "cat": "p",
+      "name": "Jonathan Hershman"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "p",
+      "name": "Avg. Pres"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "s",
+      "name": "Avg. Singing"
+    },
+    {
+      "cat": "a",
+      "name": "Stuart Wineberg"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    },
+    {
+      "cat": "a",
+      "name": "John Smytherman"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Great Western Chorus",
+      "size": 80,
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 216,
+          "p": 231,
+          "s": 219,
+          "tot_score": 666,
+          "pc_score": 74.0,
+          "m_pc": 72.0,
+          "p_pc": 77.0,
+          "s_pc": 73.0
+        },
+        {
+          "n": 1,
+          "name": "Get Me To The Church Medley",
+          "m": 231,
+          "p": 237,
+          "s": 219,
+          "tot_score": 687,
+          "pc_score": 76.3,
+          "m_pc": 77.0,
+          "p_pc": 79.0,
+          "s_pc": 73.0
+        }
+      ],
+      "n": 2,
+      "m": 447,
+      "m_pc": 74.5,
+      "p": 468,
+      "p_pc": 78.0,
+      "s": 438,
+      "s_pc": 73.0,
+      "tot_score": 1353,
+      "pc_score": 75.2
+    },
+    {
+      "rank": 2,
+      "name": "Solent City Chorus",
+      "size": 44,
+      "songs": [
+        {
+          "n": 1,
+          "name": "World War 1 Medley",
+          "m": 203,
+          "p": 223,
+          "s": 195,
+          "tot_score": 621,
+          "pc_score": 69.0,
+          "m_pc": 67.7,
+          "p_pc": 74.3,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 177,
+          "p": 225,
+          "s": 192,
+          "tot_score": 594,
+          "pc_score": 66.0,
+          "m_pc": 59.0,
+          "p_pc": 75.0,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 380,
+      "m_pc": 63.3,
+      "p": 448,
+      "p_pc": 74.7,
+      "s": 387,
+      "s_pc": 64.5,
+      "tot_score": 1215,
+      "pc_score": 67.5
+    },
+    {
+      "rank": 3,
+      "name": "Crawley Chordsmen",
+      "size": 40,
+      "songs": [
+        {
+          "n": 1,
+          "name": "At The End Of A Cobblestone Road",
+          "m": 186,
+          "p": 210,
+          "s": 195,
+          "tot_score": 591,
+          "pc_score": 65.7,
+          "m_pc": 62.0,
+          "p_pc": 70.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Alabama Jubilee / Down Under Medley",
+          "m": 204,
+          "p": 216,
+          "s": 191,
+          "tot_score": 611,
+          "pc_score": 67.9,
+          "m_pc": 68.0,
+          "p_pc": 72.0,
+          "s_pc": 63.7
+        }
+      ],
+      "n": 2,
+      "m": 390,
+      "m_pc": 65.0,
+      "p": 426,
+      "p_pc": 71.0,
+      "s": 386,
+      "s_pc": 64.3,
+      "tot_score": 1202,
+      "pc_score": 66.8
+    },
+    {
+      "rank": 4,
+      "name": "The Pilgrimaires",
+      "size": 56,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Dry Your Tears When You Cry?",
+          "m": 204,
+          "p": 210,
+          "s": 187,
+          "tot_score": 601,
+          "pc_score": 66.8,
+          "m_pc": 68.0,
+          "p_pc": 70.0,
+          "s_pc": 62.3
+        },
+        {
+          "n": 1,
+          "name": "Toot Toot Tootsie Goodbye",
+          "m": 203,
+          "p": 213,
+          "s": 183,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 67.7,
+          "p_pc": 71.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 407,
+      "m_pc": 67.8,
+      "p": 423,
+      "p_pc": 70.5,
+      "s": 370,
+      "s_pc": 61.7,
+      "tot_score": 1200,
+      "pc_score": 66.7
+    },
+    {
+      "rank": 5,
+      "name": "White Horse Harmony",
+      "size": 29,
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 183,
+          "p": 190,
+          "s": 176,
+          "tot_score": 549,
+          "pc_score": 61.0,
+          "m_pc": 61.0,
+          "p_pc": 63.3,
+          "s_pc": 58.7
+        },
+        {
+          "n": 1,
+          "name": "Give Me A Barbershop Song",
+          "m": 179,
+          "p": 192,
+          "s": 165,
+          "tot_score": 536,
+          "pc_score": 59.6,
+          "m_pc": 59.7,
+          "p_pc": 64.0,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 362,
+      "m_pc": 60.3,
+      "p": 382,
+      "p_pc": 63.7,
+      "s": 341,
+      "s_pc": 56.8,
+      "tot_score": 1085,
+      "pc_score": 60.3
+    },
+    {
+      "rank": 6,
+      "name": "Capital Chorus",
+      "size": 20,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Little Boy",
+          "m": 170,
+          "p": 172,
+          "s": 186,
+          "tot_score": 528,
+          "pc_score": 58.7,
+          "m_pc": 56.7,
+          "p_pc": 57.3,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "I'm Sitting On Top Of The World",
+          "m": 174,
+          "p": 177,
+          "s": 180,
+          "tot_score": 531,
+          "pc_score": 59.0,
+          "m_pc": 58.0,
+          "p_pc": 59.0,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 344,
+      "m_pc": 57.3,
+      "p": 349,
+      "p_pc": 58.2,
+      "s": 366,
+      "s_pc": 61.0,
+      "tot_score": 1059,
+      "pc_score": 58.8
+    },
+    {
+      "rank": 7,
+      "name": "The Kentones",
+      "size": 36,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Sunshine Of Your Smile",
+          "m": 171,
+          "p": 180,
+          "s": 180,
+          "tot_score": 531,
+          "pc_score": 59.0,
+          "m_pc": 57.0,
+          "p_pc": 60.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 165,
+          "p": 180,
+          "s": 167,
+          "tot_score": 512,
+          "pc_score": 56.9,
+          "m_pc": 55.0,
+          "p_pc": 60.0,
+          "s_pc": 55.7
+        }
+      ],
+      "n": 2,
+      "m": 336,
+      "m_pc": 56.0,
+      "p": 360,
+      "p_pc": 60.0,
+      "s": 347,
+      "s_pc": 57.8,
+      "tot_score": 1043,
+      "pc_score": 57.9
+    },
+    {
+      "rank": 8,
+      "name": "Southern Union",
+      "size": 40,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sing Me That Song Again",
+          "m": 171,
+          "p": 180,
+          "s": 170,
+          "tot_score": 521,
+          "pc_score": 57.9,
+          "m_pc": 57.0,
+          "p_pc": 60.0,
+          "s_pc": 56.7
+        },
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 177,
+          "p": 180,
+          "s": 160,
+          "tot_score": 517,
+          "pc_score": 57.4,
+          "m_pc": 59.0,
+          "p_pc": 60.0,
+          "s_pc": 53.3
+        }
+      ],
+      "n": 2,
+      "m": 348,
+      "m_pc": 58.0,
+      "p": 360,
+      "p_pc": 60.0,
+      "s": 330,
+      "s_pc": 55.0,
+      "tot_score": 1038,
+      "pc_score": 57.7
+    },
+    {
+      "rank": 9,
+      "name": "The Highwaymen",
+      "size": 30,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 171,
+          "p": 190,
+          "s": 168,
+          "tot_score": 529,
+          "pc_score": 58.8,
+          "m_pc": 57.0,
+          "p_pc": 63.3,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 155,
+          "p": 188,
+          "s": 160,
+          "tot_score": 503,
+          "pc_score": 55.9,
+          "m_pc": 51.7,
+          "p_pc": 62.7,
+          "s_pc": 53.3
+        }
+      ],
+      "n": 2,
+      "m": 326,
+      "m_pc": 54.3,
+      "p": 378,
+      "p_pc": 63.0,
+      "s": 328,
+      "s_pc": 54.7,
+      "tot_score": 1032,
+      "pc_score": 57.3
+    },
+    {
+      "rank": 10,
+      "name": "Chelmsford Star Harmony",
+      "size": 27,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When I Lost You",
+          "m": 171,
+          "p": 168,
+          "s": 174,
+          "tot_score": 513,
+          "pc_score": 57.0,
+          "m_pc": 57.0,
+          "p_pc": 56.0,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "Alexander's Ragtime Band / Living A Ragtime Medley",
+          "m": 170,
+          "p": 168,
+          "s": 160,
+          "tot_score": 498,
+          "pc_score": 55.3,
+          "m_pc": 56.7,
+          "p_pc": 56.0,
+          "s_pc": 53.3
+        }
+      ],
+      "n": 2,
+      "m": 341,
+      "m_pc": 56.8,
+      "p": 336,
+      "p_pc": 56.0,
+      "s": 334,
+      "s_pc": 55.7,
+      "tot_score": 1011,
+      "pc_score": 56.2
+    },
+    {
+      "rank": 11,
+      "name": "Surrey Fringe",
+      "size": 26,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Darktown Strutter's Ball",
+          "m": 171,
+          "p": 174,
+          "s": 163,
+          "tot_score": 508,
+          "pc_score": 56.4,
+          "m_pc": 57.0,
+          "p_pc": 58.0,
+          "s_pc": 54.3
+        },
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 167,
+          "p": 168,
+          "s": 164,
+          "tot_score": 499,
+          "pc_score": 55.4,
+          "m_pc": 55.7,
+          "p_pc": 56.0,
+          "s_pc": 54.7
+        }
+      ],
+      "n": 2,
+      "m": 338,
+      "m_pc": 56.3,
+      "p": 342,
+      "p_pc": 57.0,
+      "s": 327,
+      "s_pc": 54.5,
+      "tot_score": 1007,
+      "pc_score": 55.9
+    },
+    {
+      "rank": 12,
+      "name": "Kings Of Herts",
+      "size": 44,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Alone Because I Love You",
+          "m": 158,
+          "p": 161,
+          "s": 168,
+          "tot_score": 487,
+          "pc_score": 54.1,
+          "m_pc": 52.7,
+          "p_pc": 53.7,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 166,
+          "p": 165,
+          "s": 166,
+          "tot_score": 497,
+          "pc_score": 55.2,
+          "m_pc": 55.3,
+          "p_pc": 55.0,
+          "s_pc": 55.3
+        }
+      ],
+      "n": 2,
+      "m": 324,
+      "m_pc": 54.0,
+      "p": 326,
+      "p_pc": 54.3,
+      "s": 334,
+      "s_pc": 55.7,
+      "tot_score": 984,
+      "pc_score": 54.7
+    },
+    {
+      "rank": 13,
+      "name": "Vale Harmony",
+      "size": 17,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Dry Your Tears When You Cry?",
+          "m": 156,
+          "p": 156,
+          "s": 161,
+          "tot_score": 473,
+          "pc_score": 52.6,
+          "m_pc": 52.0,
+          "p_pc": 52.0,
+          "s_pc": 53.7
+        },
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 167,
+          "p": 157,
+          "s": 166,
+          "tot_score": 490,
+          "pc_score": 54.4,
+          "m_pc": 55.7,
+          "p_pc": 52.3,
+          "s_pc": 55.3
+        }
+      ],
+      "n": 2,
+      "m": 323,
+      "m_pc": 53.8,
+      "p": 313,
+      "p_pc": 52.2,
+      "s": 327,
+      "s_pc": 54.5,
+      "tot_score": 963,
+      "pc_score": 53.5
+    },
+    {
+      "rank": 14,
+      "name": "Harmony Exe",
+      "size": 26,
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Want A Girl (Just Like The Girl That Married Dear Old Dad)",
+          "m": 159,
+          "p": 168,
+          "s": 149,
+          "tot_score": 476,
+          "pc_score": 52.9,
+          "m_pc": 53.0,
+          "p_pc": 56.0,
+          "s_pc": 49.7
+        },
+        {
+          "n": 1,
+          "name": "When I Lost You",
+          "m": 165,
+          "p": 165,
+          "s": 153,
+          "tot_score": 483,
+          "pc_score": 53.7,
+          "m_pc": 55.0,
+          "p_pc": 55.0,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 324,
+      "m_pc": 54.0,
+      "p": 333,
+      "p_pc": 55.5,
+      "s": 302,
+      "s_pc": 50.3,
+      "tot_score": 959,
+      "pc_score": 53.3
+    }
+  ]
+}

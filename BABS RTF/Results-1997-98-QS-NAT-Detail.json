@@ -1,0 +1,685 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-QS-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET SEMI-FINALS",
+  "location": "HARROGATE",
+  "year": "1997/98",
+  "type": "q",
+  "date": "22/05/1998",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Chordial Exchange",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When I See All The Loving They Waste On Babies",
+          "m": 209,
+          "p": 216,
+          "s": 220,
+          "tot_score": 645,
+          "pc_score": 71.7,
+          "m_pc": 69.7,
+          "p_pc": 72.0,
+          "s_pc": 73.3
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Together For One More Old Song",
+          "m": 214,
+          "p": 221,
+          "s": 223,
+          "tot_score": 658,
+          "pc_score": 73.1,
+          "m_pc": 71.3,
+          "p_pc": 73.7,
+          "s_pc": 74.3
+        }
+      ],
+      "n": 2,
+      "m": 423,
+      "m_pc": 70.5,
+      "p": 437,
+      "p_pc": 72.8,
+      "s": 443,
+      "s_pc": 73.8,
+      "tot_score": 1303,
+      "pc_score": 72.4
+    },
+    {
+      "rank": 2,
+      "name": "High Fidelity",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Each Time I Fall In Love",
+          "m": 204,
+          "p": 214,
+          "s": 204,
+          "tot_score": 622,
+          "pc_score": 69.1,
+          "m_pc": 68.0,
+          "p_pc": 71.3,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 205,
+          "p": 215,
+          "s": 206,
+          "tot_score": 626,
+          "pc_score": 69.6,
+          "m_pc": 68.3,
+          "p_pc": 71.7,
+          "s_pc": 68.7
+        }
+      ],
+      "n": 2,
+      "m": 409,
+      "m_pc": 68.2,
+      "p": 429,
+      "p_pc": 71.5,
+      "s": 410,
+      "s_pc": 68.3,
+      "tot_score": 1248,
+      "pc_score": 69.3
+    },
+    {
+      "rank": 3,
+      "name": "T.v.q",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Gone",
+          "m": 207,
+          "p": 201,
+          "s": 202,
+          "tot_score": 610,
+          "pc_score": 67.8,
+          "m_pc": 69.0,
+          "p_pc": 67.0,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 197,
+          "p": 205,
+          "s": 197,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 65.7,
+          "p_pc": 68.3,
+          "s_pc": 65.7
+        }
+      ],
+      "n": 2,
+      "m": 404,
+      "m_pc": 67.3,
+      "p": 406,
+      "p_pc": 67.7,
+      "s": 399,
+      "s_pc": 66.5,
+      "tot_score": 1209,
+      "pc_score": 67.2
+    },
+    {
+      "rank": 4,
+      "name": "Nickelodeon",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Alone Because I Love You",
+          "m": 197,
+          "p": 199,
+          "s": 199,
+          "tot_score": 595,
+          "pc_score": 66.1,
+          "m_pc": 65.7,
+          "p_pc": 66.3,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 199,
+          "p": 208,
+          "s": 198,
+          "tot_score": 605,
+          "pc_score": 67.2,
+          "m_pc": 66.3,
+          "p_pc": 69.3,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 2,
+      "m": 396,
+      "m_pc": 66.0,
+      "p": 407,
+      "p_pc": 67.8,
+      "s": 397,
+      "s_pc": 66.2,
+      "tot_score": 1200,
+      "pc_score": 66.7
+    },
+    {
+      "rank": 5,
+      "name": "Close Encounters",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When I Leave The World Behind",
+          "m": 202,
+          "p": 203,
+          "s": 194,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 67.3,
+          "p_pc": 67.7,
+          "s_pc": 64.7
+        },
+        {
+          "n": 1,
+          "name": "Swanee",
+          "m": 188,
+          "p": 205,
+          "s": 189,
+          "tot_score": 582,
+          "pc_score": 64.7,
+          "m_pc": 62.7,
+          "p_pc": 68.3,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 390,
+      "m_pc": 65.0,
+      "p": 408,
+      "p_pc": 68.0,
+      "s": 383,
+      "s_pc": 63.8,
+      "tot_score": 1181,
+      "pc_score": 65.6
+    },
+    {
+      "rank": 6,
+      "name": "The Likely Lads",
+      "songs": [
+        {
+          "n": 1,
+          "name": "At The End Of The Day With You",
+          "m": 192,
+          "p": 194,
+          "s": 196,
+          "tot_score": 582,
+          "pc_score": 64.7,
+          "m_pc": 64.0,
+          "p_pc": 64.7,
+          "s_pc": 65.3
+        },
+        {
+          "n": 1,
+          "name": "Whipoorwill / You Dear Medley",
+          "m": 191,
+          "p": 193,
+          "s": 196,
+          "tot_score": 580,
+          "pc_score": 64.4,
+          "m_pc": 63.7,
+          "p_pc": 64.3,
+          "s_pc": 65.3
+        }
+      ],
+      "n": 2,
+      "m": 383,
+      "m_pc": 63.8,
+      "p": 387,
+      "p_pc": 64.5,
+      "s": 392,
+      "s_pc": 65.3,
+      "tot_score": 1162,
+      "pc_score": 64.6
+    },
+    {
+      "rank": 7,
+      "name": "Wheel Of Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 190,
+          "p": 188,
+          "s": 189,
+          "tot_score": 567,
+          "pc_score": 63.0,
+          "m_pc": 63.3,
+          "p_pc": 62.7,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "I'm In Love Again / Them There Eyes",
+          "m": 191,
+          "p": 201,
+          "s": 188,
+          "tot_score": 580,
+          "pc_score": 64.4,
+          "m_pc": 63.7,
+          "p_pc": 67.0,
+          "s_pc": 62.7
+        }
+      ],
+      "n": 2,
+      "m": 381,
+      "m_pc": 63.5,
+      "p": 389,
+      "p_pc": 64.8,
+      "s": 377,
+      "s_pc": 62.8,
+      "tot_score": 1147,
+      "pc_score": 63.7
+    },
+    {
+      "rank": 8,
+      "name": "Flying High",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Kiss Me One More Time",
+          "m": 192,
+          "p": 189,
+          "s": 192,
+          "tot_score": 573,
+          "pc_score": 63.7,
+          "m_pc": 64.0,
+          "p_pc": 63.0,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 190,
+          "p": 190,
+          "s": 189,
+          "tot_score": 569,
+          "pc_score": 63.2,
+          "m_pc": 63.3,
+          "p_pc": 63.3,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 382,
+      "m_pc": 63.7,
+      "p": 379,
+      "p_pc": 63.2,
+      "s": 381,
+      "s_pc": 63.5,
+      "tot_score": 1142,
+      "pc_score": 63.4
+    },
+    {
+      "rank": 9,
+      "name": "Serenade",
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Ray - Ray - Raining",
+          "m": 183,
+          "p": 190,
+          "s": 185,
+          "tot_score": 558,
+          "pc_score": 62.0,
+          "m_pc": 61.0,
+          "p_pc": 63.3,
+          "s_pc": 61.7
+        },
+        {
+          "n": 1,
+          "name": "Memories",
+          "m": 188,
+          "p": 191,
+          "s": 180,
+          "tot_score": 559,
+          "pc_score": 62.1,
+          "m_pc": 62.7,
+          "p_pc": 63.7,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 371,
+      "m_pc": 61.8,
+      "p": 381,
+      "p_pc": 63.5,
+      "s": 365,
+      "s_pc": 60.8,
+      "tot_score": 1117,
+      "pc_score": 62.1
+    },
+    {
+      "rank": 10,
+      "name": "Bagatelle",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Forgive Me",
+          "m": 184,
+          "p": 183,
+          "s": 179,
+          "tot_score": 546,
+          "pc_score": 60.7,
+          "m_pc": 61.3,
+          "p_pc": 61.0,
+          "s_pc": 59.7
+        },
+        {
+          "n": 1,
+          "name": "Give Me The Moonlight Medley",
+          "m": 186,
+          "p": 193,
+          "s": 181,
+          "tot_score": 560,
+          "pc_score": 62.2,
+          "m_pc": 62.0,
+          "p_pc": 64.3,
+          "s_pc": 60.3
+        }
+      ],
+      "n": 2,
+      "m": 370,
+      "m_pc": 61.7,
+      "p": 376,
+      "p_pc": 62.7,
+      "s": 360,
+      "s_pc": 60.0,
+      "tot_score": 1106,
+      "pc_score": 61.4
+    },
+    {
+      "rank": 11,
+      "name": "Steppin' Out",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 184,
+          "p": 185,
+          "s": 181,
+          "tot_score": 550,
+          "pc_score": 61.1,
+          "m_pc": 61.3,
+          "p_pc": 61.7,
+          "s_pc": 60.3
+        },
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 186,
+          "p": 189,
+          "s": 174,
+          "tot_score": 549,
+          "pc_score": 61.0,
+          "m_pc": 62.0,
+          "p_pc": 63.0,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 370,
+      "m_pc": 61.7,
+      "p": 374,
+      "p_pc": 62.3,
+      "s": 355,
+      "s_pc": 59.2,
+      "tot_score": 1099,
+      "pc_score": 61.1
+    },
+    {
+      "rank": 12,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wrap Your Troubles In Dreams",
+          "m": 174,
+          "p": 187,
+          "s": 183,
+          "tot_score": 544,
+          "pc_score": 60.4,
+          "m_pc": 58.0,
+          "p_pc": 62.3,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "Who'll Take My Place When I'm Gone?",
+          "m": 158,
+          "p": 186,
+          "s": 180,
+          "tot_score": 524,
+          "pc_score": 58.2,
+          "m_pc": 52.7,
+          "p_pc": 62.0,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 332,
+      "m_pc": 55.3,
+      "p": 373,
+      "p_pc": 62.2,
+      "s": 363,
+      "s_pc": 60.5,
+      "tot_score": 1068,
+      "pc_score": 59.3
+    },
+    {
+      "rank": 13,
+      "name": "Midlife Crisis",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Must Have Been A Beautiful Baby",
+          "m": 181,
+          "p": 176,
+          "s": 181,
+          "tot_score": 538,
+          "pc_score": 59.8,
+          "m_pc": 60.3,
+          "p_pc": 58.7,
+          "s_pc": 60.3
+        },
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 142,
+          "p": 176,
+          "s": 183,
+          "tot_score": 501,
+          "pc_score": 55.7,
+          "m_pc": 47.3,
+          "p_pc": 58.7,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 323,
+      "m_pc": 53.8,
+      "p": 352,
+      "p_pc": 58.7,
+      "s": 364,
+      "s_pc": 60.7,
+      "tot_score": 1039,
+      "pc_score": 57.7
+    },
+    {
+      "rank": 14,
+      "name": "2 B 4",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 181,
+          "p": 174,
+          "s": 184,
+          "tot_score": 539,
+          "pc_score": 59.9,
+          "m_pc": 60.3,
+          "p_pc": 58.0,
+          "s_pc": 61.3
+        },
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 144,
+          "p": 173,
+          "s": 179,
+          "tot_score": 496,
+          "pc_score": 55.1,
+          "m_pc": 48.0,
+          "p_pc": 57.7,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 325,
+      "m_pc": 54.2,
+      "p": 347,
+      "p_pc": 57.8,
+      "s": 363,
+      "s_pc": 60.5,
+      "tot_score": 1035,
+      "pc_score": 57.5
+    },
+    {
+      "rank": 15,
+      "name": "Chordite",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Take Me Out To The Ball Game",
+          "m": 163,
+          "p": 175,
+          "s": 153,
+          "tot_score": 491,
+          "pc_score": 54.6,
+          "m_pc": 54.3,
+          "p_pc": 58.3,
+          "s_pc": 51.0
+        },
+        {
+          "n": 1,
+          "name": "I'm Still Havin' Fun",
+          "m": 170,
+          "p": 186,
+          "s": 160,
+          "tot_score": 516,
+          "pc_score": 57.3,
+          "m_pc": 56.7,
+          "p_pc": 62.0,
+          "s_pc": 53.3
+        }
+      ],
+      "n": 2,
+      "m": 333,
+      "m_pc": 55.5,
+      "p": 361,
+      "p_pc": 60.2,
+      "s": 313,
+      "s_pc": 52.2,
+      "tot_score": 1007,
+      "pc_score": 55.9
+    },
+    {
+      "rank": 16,
+      "name": "Free Spirit",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 159,
+          "p": 177,
+          "s": 166,
+          "tot_score": 502,
+          "pc_score": 55.8,
+          "m_pc": 53.0,
+          "p_pc": 59.0,
+          "s_pc": 55.3
+        },
+        {
+          "n": 1,
+          "name": "For Me And My Gal",
+          "m": 157,
+          "p": 175,
+          "s": 154,
+          "tot_score": 486,
+          "pc_score": 54.0,
+          "m_pc": 52.3,
+          "p_pc": 58.3,
+          "s_pc": 51.3
+        }
+      ],
+      "n": 2,
+      "m": 316,
+      "m_pc": 52.7,
+      "p": 352,
+      "p_pc": 58.7,
+      "s": 320,
+      "s_pc": 53.3,
+      "tot_score": 988,
+      "pc_score": 54.9
+    }
+  ]
+}

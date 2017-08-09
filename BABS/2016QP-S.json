@@ -42,27 +42,27 @@
       "name": "Cherry Hartshorn"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     }
   ],
@@ -78,19 +78,19 @@
       "pc_score": "66.9",
       "songs": [
         {
-          "title": "Old Cape Cod",
+          "name": "Old Cape Cod",
           "m": "201",
           "s": "203",
           "p": "196"
         },
         {
-          "title": "If I Loved You",
+          "name": "If I Loved You",
           "m": "202",
           "s": "199",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Gary Roussak"
@@ -119,19 +119,19 @@
       "pc_score": "66.7",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "196",
           "s": "200",
           "p": "200"
         },
         {
-          "title": "Make 'Em Laugh",
+          "name": "Make 'Em Laugh",
           "m": "204",
           "s": "201",
           "p": "199"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Paul Jeffrey"
@@ -160,19 +160,19 @@
       "pc_score": "65.2",
       "songs": [
         {
-          "title": "Birth Of The Blues",
+          "name": "Birth Of The Blues",
           "m": "193",
           "s": "197",
           "p": "194"
         },
         {
-          "title": "One For My Baby",
+          "name": "One For My Baby",
           "m": "204",
           "s": "191",
           "p": "195"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michael Zefferman"
@@ -201,19 +201,19 @@
       "pc_score": "63.9",
       "songs": [
         {
-          "title": "Anything Goes",
+          "name": "Anything Goes",
           "m": "191",
           "s": "190",
           "p": "192"
         },
         {
-          "title": "Do You Really Love Me",
+          "name": "Do You Really Love Me",
           "m": "192",
           "s": "191",
           "p": "194"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Devine"
@@ -242,19 +242,19 @@
       "pc_score": "62.3",
       "songs": [
         {
-          "title": "The Chordbuster March",
+          "name": "The Chordbuster March",
           "m": "190",
           "s": "191",
           "p": "182"
         },
         {
-          "title": "Zing! Went The Strings Of My Heart",
+          "name": "Zing! Went The Strings Of My Heart",
           "m": "186",
           "s": "186",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martin Proctor"
@@ -283,19 +283,19 @@
       "pc_score": "58.8",
       "songs": [
         {
-          "title": "A Wink And A Smile",
+          "name": "A Wink And A Smile",
           "m": "172",
           "s": "183",
           "p": "171"
         },
         {
-          "title": "Let The Rest Of The World Go By",
+          "name": "Let The Rest Of The World Go By",
           "m": "179",
           "s": "175",
           "p": "178"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joe Dod"
@@ -324,19 +324,19 @@
       "pc_score": "57.8",
       "songs": [
         {
-          "title": "If I Loved You",
+          "name": "If I Loved You",
           "m": "173",
           "s": "173",
           "p": "174"
         },
         {
-          "title": "I Love To Hear That Old Barbershop Style",
+          "name": "I Love To Hear That Old Barbershop Style",
           "m": "173",
           "s": "173",
           "p": "175"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick Hill"

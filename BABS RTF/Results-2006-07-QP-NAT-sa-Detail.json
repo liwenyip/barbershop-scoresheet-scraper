@@ -1,0 +1,482 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2006-07-QP-NAT-sa-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NAT QUARTET PRELIM - SA",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2006/07",
+  "type": "q",
+  "date": "14/10/2006",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Andy Milner"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "This Way Up",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Nobody's Sweetheart",
+          "m": 143,
+          "p": 136,
+          "s": 135,
+          "tot_score": 414,
+          "pc_score": 69.0,
+          "m_pc": 71.5,
+          "p_pc": 68.0,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "You Are My Sunshine",
+          "m": 144,
+          "p": 142,
+          "s": 138,
+          "tot_score": 424,
+          "pc_score": 70.7,
+          "m_pc": 72.0,
+          "p_pc": 71.0,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 287,
+      "m_pc": 71.8,
+      "p": 278,
+      "p_pc": 69.5,
+      "s": 273,
+      "s_pc": 68.3,
+      "tot_score": 838,
+      "pc_score": 69.8
+    },
+    {
+      "rank": 2,
+      "name": "Figaro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 122,
+          "p": 116,
+          "s": 123,
+          "tot_score": 361,
+          "pc_score": 60.2,
+          "m_pc": 61.0,
+          "p_pc": 58.0,
+          "s_pc": 61.5
+        },
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 128,
+          "p": 116,
+          "s": 123,
+          "tot_score": 367,
+          "pc_score": 61.2,
+          "m_pc": 64.0,
+          "p_pc": 58.0,
+          "s_pc": 61.5
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 232,
+      "p_pc": 58.0,
+      "s": 246,
+      "s_pc": 61.5,
+      "tot_score": 728,
+      "pc_score": 60.7
+    },
+    {
+      "rank": 3,
+      "name": "Four Across",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 118,
+          "p": 121,
+          "s": 120,
+          "tot_score": 359,
+          "pc_score": 59.8,
+          "m_pc": 59.0,
+          "p_pc": 60.5,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 116,
+          "p": 127,
+          "s": 121,
+          "tot_score": 364,
+          "pc_score": 60.7,
+          "m_pc": 58.0,
+          "p_pc": 63.5,
+          "s_pc": 60.5
+        }
+      ],
+      "n": 2,
+      "m": 234,
+      "m_pc": 58.5,
+      "p": 248,
+      "p_pc": 62.0,
+      "s": 241,
+      "s_pc": 60.3,
+      "tot_score": 723,
+      "pc_score": 60.3
+    },
+    {
+      "rank": 4,
+      "name": "Cadence",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 113,
+          "p": 121,
+          "s": 120,
+          "tot_score": 354,
+          "pc_score": 59.0,
+          "m_pc": 56.5,
+          "p_pc": 60.5,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 122,
+          "p": 124,
+          "s": 115,
+          "tot_score": 361,
+          "pc_score": 60.2,
+          "m_pc": 61.0,
+          "p_pc": 62.0,
+          "s_pc": 57.5
+        }
+      ],
+      "n": 2,
+      "m": 235,
+      "m_pc": 58.8,
+      "p": 245,
+      "p_pc": 61.3,
+      "s": 235,
+      "s_pc": 58.8,
+      "tot_score": 715,
+      "pc_score": 59.6
+    },
+    {
+      "rank": 5,
+      "name": "Retro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Recipe For Makin' Love",
+          "m": 111,
+          "p": 128,
+          "s": 115,
+          "tot_score": 354,
+          "pc_score": 59.0,
+          "m_pc": 55.5,
+          "p_pc": 64.0,
+          "s_pc": 57.5
+        },
+        {
+          "n": 1,
+          "name": "When It Comes To Loving The Girls / They're All Sweeties Medley",
+          "m": 108,
+          "p": 126,
+          "s": 105,
+          "tot_score": 339,
+          "pc_score": 56.5,
+          "m_pc": 54.0,
+          "p_pc": 63.0,
+          "s_pc": 52.5
+        }
+      ],
+      "n": 2,
+      "m": 219,
+      "m_pc": 54.8,
+      "p": 254,
+      "p_pc": 63.5,
+      "s": 220,
+      "s_pc": 55.0,
+      "tot_score": 693,
+      "pc_score": 57.8
+    },
+    {
+      "rank": 6,
+      "name": "Lavirra",
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 116,
+          "p": 120,
+          "s": 105,
+          "tot_score": 341,
+          "pc_score": 56.8,
+          "m_pc": 58.0,
+          "p_pc": 60.0,
+          "s_pc": 52.5
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 111,
+          "p": 127,
+          "s": 103,
+          "tot_score": 341,
+          "pc_score": 56.8,
+          "m_pc": 55.5,
+          "p_pc": 63.5,
+          "s_pc": 51.5
+        }
+      ],
+      "n": 2,
+      "m": 227,
+      "m_pc": 56.8,
+      "p": 247,
+      "p_pc": 61.8,
+      "s": 208,
+      "s_pc": 52.0,
+      "tot_score": 682,
+      "pc_score": 56.8
+    },
+    {
+      "rank": 7,
+      "name": "Fourtune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "So Long, Mother",
+          "m": 123,
+          "p": 110,
+          "s": 114,
+          "tot_score": 347,
+          "pc_score": 57.8,
+          "m_pc": 61.5,
+          "p_pc": 55.0,
+          "s_pc": 57.0
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 121,
+          "p": 106,
+          "s": 109,
+          "tot_score": 336,
+          "pc_score": 56.0,
+          "m_pc": 60.5,
+          "p_pc": 53.0,
+          "s_pc": 54.5
+        }
+      ],
+      "n": 2,
+      "m": 244,
+      "m_pc": 61.0,
+      "p": 216,
+      "p_pc": 54.0,
+      "s": 223,
+      "s_pc": 55.8,
+      "tot_score": 683,
+      "pc_score": 56.9
+    },
+    {
+      "rank": 8,
+      "name": "Abacus",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Heart Of My Heart Medley",
+          "m": 111,
+          "p": 110,
+          "s": 104,
+          "tot_score": 325,
+          "pc_score": 54.2,
+          "m_pc": 55.5,
+          "p_pc": 55.0,
+          "s_pc": 52.0
+        },
+        {
+          "n": 1,
+          "name": "There's A Brand New Gang",
+          "m": 107,
+          "p": 109,
+          "s": 101,
+          "tot_score": 317,
+          "pc_score": 52.8,
+          "m_pc": 53.5,
+          "p_pc": 54.5,
+          "s_pc": 50.5
+        }
+      ],
+      "n": 2,
+      "m": 218,
+      "m_pc": 54.5,
+      "p": 219,
+      "p_pc": 54.8,
+      "s": 205,
+      "s_pc": 51.3,
+      "tot_score": 642,
+      "pc_score": 53.5
+    },
+    {
+      "rank": 9,
+      "name": "Black Velvet",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Sunny Day",
+          "m": 108,
+          "p": 103,
+          "s": 109,
+          "tot_score": 320,
+          "pc_score": 53.3,
+          "m_pc": 54.0,
+          "p_pc": 51.5,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 105,
+          "p": 100,
+          "s": 104,
+          "tot_score": 309,
+          "pc_score": 51.5,
+          "m_pc": 52.5,
+          "p_pc": 50.0,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 213,
+      "m_pc": 53.3,
+      "p": 203,
+      "p_pc": 50.8,
+      "s": 213,
+      "s_pc": 53.3,
+      "tot_score": 629,
+      "pc_score": 52.4
+    },
+    {
+      "rank": 10,
+      "name": "Special Blend",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 103,
+          "p": 100,
+          "s": 105,
+          "tot_score": 308,
+          "pc_score": 51.3,
+          "m_pc": 51.5,
+          "p_pc": 50.0,
+          "s_pc": 52.5
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 108,
+          "p": 99,
+          "s": 99,
+          "tot_score": 306,
+          "pc_score": 51.0,
+          "m_pc": 54.0,
+          "p_pc": 49.5,
+          "s_pc": 49.5
+        }
+      ],
+      "n": 2,
+      "m": 211,
+      "m_pc": 52.8,
+      "p": 199,
+      "p_pc": 49.8,
+      "s": 204,
+      "s_pc": 51.0,
+      "tot_score": 614,
+      "pc_score": 51.2
+    },
+    {
+      "rank": 11,
+      "name": "Soundsfun",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 94,
+          "p": 110,
+          "s": 108,
+          "tot_score": 312,
+          "pc_score": 52.0,
+          "m_pc": 47.0,
+          "p_pc": 55.0,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 84,
+          "p": 112,
+          "s": 102,
+          "tot_score": 298,
+          "pc_score": 49.7,
+          "m_pc": 42.0,
+          "p_pc": 56.0,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 178,
+      "m_pc": 44.5,
+      "p": 222,
+      "p_pc": 55.5,
+      "s": 210,
+      "s_pc": 52.5,
+      "tot_score": 610,
+      "pc_score": 50.8
+    }
+  ]
+}

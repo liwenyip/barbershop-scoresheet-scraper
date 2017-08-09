@@ -42,23 +42,23 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "79.2",
       "songs": [
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "247",
           "s": "239",
           "p": "239"
         },
         {
-          "title": "I've Got A Feeling I'm Falling",
+          "name": "I've Got A Feeling I'm Falling",
           "m": "232",
           "s": "234",
           "p": "235"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Kim Potter"
@@ -115,19 +115,19 @@
       "pc_score": "75.7",
       "songs": [
         {
-          "title": "Wizard Of Oz Medley",
+          "name": "Wizard Of Oz Medley",
           "m": "223",
           "s": "228",
           "p": "231"
         },
         {
-          "title": "If I Only Had A Brain",
+          "name": "If I Only Had A Brain",
           "m": "226",
           "s": "228",
           "p": "226"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Astrid Shepherd"

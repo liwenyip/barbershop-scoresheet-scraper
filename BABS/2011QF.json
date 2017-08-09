@@ -42,31 +42,31 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1375",
-      "final_tot_score": "2751",
+      "prev_tot_score": "1375",
+      "tot_score": "2751",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -75,25 +75,25 @@
       "pc_score": "76.4",
       "songs": [
         {
-          "title": "Cheer Up Charlie",
+          "name": "Cheer Up Charlie",
           "m": "226",
           "s": "229",
           "p": "231"
         },
         {
-          "title": "They Can't Take That Away From Me",
+          "name": "They Can't Take That Away From Me",
           "m": "227",
           "s": "233",
           "p": "229"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "459",
           "s": "457",
           "p": "460"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian"
@@ -113,8 +113,8 @@
       ]
     },
     {
-      "tot_score": "1238",
-      "final_tot_score": "2498",
+      "prev_tot_score": "1238",
+      "tot_score": "2498",
       "rank_m": "2",
       "rank_s": "2",
       "rank_p": "4",
@@ -123,25 +123,25 @@
       "pc_score": "69.4",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "204",
           "s": "209",
           "p": "206"
         },
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "206",
           "s": "208",
           "p": "205"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "428",
           "s": "424",
           "p": "408"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon"
@@ -161,8 +161,8 @@
       ]
     },
     {
-      "tot_score": "1247",
-      "final_tot_score": "2471",
+      "prev_tot_score": "1247",
+      "tot_score": "2471",
       "rank_m": "3",
       "rank_s": "3",
       "rank_p": "6",
@@ -171,25 +171,25 @@
       "pc_score": "68.6",
       "songs": [
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "210",
           "s": "209",
           "p": "208"
         },
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "208",
           "s": "206",
           "p": "206"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "410",
           "s": "416",
           "p": "398"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard"
@@ -209,8 +209,8 @@
       ]
     },
     {
-      "tot_score": "1227",
-      "final_tot_score": "2455",
+      "prev_tot_score": "1227",
+      "tot_score": "2455",
       "rank_m": "4",
       "rank_s": "5",
       "rank_p": "5",
@@ -219,25 +219,25 @@
       "pc_score": "68.2",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "202",
           "s": "202",
           "p": "204"
         },
         {
-          "title": "There's A New Gang On The Corner",
+          "name": "There's A New Gang On The Corner",
           "m": "208",
           "s": "207",
           "p": "204"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "418",
           "s": "403",
           "p": "407"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James"
@@ -257,8 +257,8 @@
       ]
     },
     {
-      "tot_score": "1257",
-      "final_tot_score": "2454",
+      "prev_tot_score": "1257",
+      "tot_score": "2454",
       "rank_m": "5",
       "rank_s": "4",
       "rank_p": "3",
@@ -267,25 +267,25 @@
       "pc_score": "68.2",
       "songs": [
         {
-          "title": "If I Had My Way",
+          "name": "If I Had My Way",
           "m": "212",
           "s": "213",
           "p": "208"
         },
         {
-          "title": "That Old Piano Of Mine",
+          "name": "That Old Piano Of Mine",
           "m": "214",
           "s": "204",
           "p": "206"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "385",
           "s": "409",
           "p": "403"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
@@ -305,8 +305,8 @@
       ]
     },
     {
-      "tot_score": "1224",
-      "final_tot_score": "2438",
+      "prev_tot_score": "1224",
+      "tot_score": "2438",
       "rank_m": "6",
       "rank_s": "7",
       "rank_p": "2",
@@ -315,25 +315,25 @@
       "pc_score": "67.7",
       "songs": [
         {
-          "title": "Stayin At Home",
+          "name": "Stayin At Home",
           "m": "203",
           "s": "209",
           "p": "201"
         },
         {
-          "title": "Birth Of The Blues",
+          "name": "Birth Of The Blues",
           "m": "210",
           "s": "200",
           "p": "201"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "398",
           "s": "400",
           "p": "416"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard"
@@ -353,8 +353,8 @@
       ]
     },
     {
-      "tot_score": "1202",
-      "final_tot_score": "2399",
+      "prev_tot_score": "1202",
+      "tot_score": "2399",
       "rank_m": "7",
       "rank_s": "6",
       "rank_p": "8",
@@ -363,25 +363,25 @@
       "pc_score": "66.6",
       "songs": [
         {
-          "title": "Jeannie With The Light Brown Hair",
+          "name": "Jeannie With The Light Brown Hair",
           "m": "199",
           "s": "200",
           "p": "199"
         },
         {
-          "title": "Just In Time",
+          "name": "Just In Time",
           "m": "201",
           "s": "201",
           "p": "202"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "397",
           "s": "400",
           "p": "400"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian"
@@ -401,8 +401,8 @@
       ]
     },
     {
-      "tot_score": "1160",
-      "final_tot_score": "2357",
+      "prev_tot_score": "1160",
+      "tot_score": "2357",
       "rank_m": "8",
       "rank_s": "8",
       "rank_p": "7",
@@ -411,25 +411,25 @@
       "pc_score": "65.5",
       "songs": [
         {
-          "title": "Lover Come Back",
+          "name": "Lover Come Back",
           "m": "208",
           "s": "208",
           "p": "173"
         },
         {
-          "title": "Cruella De Ville",
+          "name": "Cruella De Ville",
           "m": "195",
           "s": "176",
           "p": "200"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "389",
           "s": "399",
           "p": "409"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"

@@ -42,39 +42,39 @@
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Katie Dew"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     }
   ],
@@ -87,21 +87,26 @@
       "rank_p": "1",
       "rank": "1",
       "name": "Cheshire Chord Company",
-      "director": "Jo Braham",
       "size": "66",
       "pc_score": "81.9",
       "songs": [
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "241",
           "s": "241",
           "p": "248"
         },
         {
-          "title": "Get Me To The Church On Time",
+          "name": "Get Me To The Church On Time",
           "m": "249",
           "s": "248",
           "p": "247"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Jo Braham"
         }
       ]
     },
@@ -112,21 +117,26 @@
       "rank_p": "2",
       "rank": "2",
       "name": "Amersham A Cappella",
-      "director": "Helen Lappert",
       "size": "52",
       "pc_score": "81.2",
       "songs": [
         {
-          "title": "Some Enchanted Evening",
+          "name": "Some Enchanted Evening",
           "m": "244",
           "s": "242",
           "p": "242"
         },
         {
-          "title": "Save The Last Dance For Me / Sway Medley",
+          "name": "Save The Last Dance For Me / Sway Medley",
           "m": "243",
           "s": "244",
           "p": "247"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Helen Lappert"
         }
       ]
     },
@@ -137,21 +147,26 @@
       "rank_p": "3",
       "rank": "3",
       "name": "Signature",
-      "director": "Stuart Sides",
       "size": "25",
       "pc_score": "76.6",
       "songs": [
         {
-          "title": "Deed I Do",
+          "name": "Deed I Do",
           "m": "220",
           "s": "227",
           "p": "225"
         },
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "233",
           "s": "237",
           "p": "236"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Stuart Sides"
         }
       ]
     },
@@ -162,21 +177,26 @@
       "rank_p": "4",
       "rank": "4",
       "name": "Crystal Chords",
-      "director": "Monica Funnell",
       "size": "59",
       "pc_score": "74.4",
       "songs": [
         {
-          "title": "I Have Dreamed",
+          "name": "I Have Dreamed",
           "m": "219",
           "s": "222",
           "p": "219"
         },
         {
-          "title": "Pennies From Heaven",
+          "name": "Pennies From Heaven",
           "m": "229",
           "s": "225",
           "p": "226"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Monica Funnell"
         }
       ]
     },
@@ -187,21 +207,26 @@
       "rank_p": "5",
       "rank": "5",
       "name": "Affinity Show Chorus",
-      "director": "Andrew Walker",
       "size": "46",
       "pc_score": "73.6",
       "songs": [
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "220",
           "s": "222",
           "p": "217"
         },
         {
-          "title": "My Honey's Lovin' Arms",
+          "name": "My Honey's Lovin' Arms",
           "m": "222",
           "s": "221",
           "p": "223"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Andrew Walker"
         }
       ]
     },
@@ -212,21 +237,26 @@
       "rank_p": "6",
       "rank": "6",
       "name": "Capital Connection",
-      "director": "Debi Cox",
       "size": "42",
       "pc_score": "73.0",
       "songs": [
         {
-          "title": "If Ever I Would Leave You",
+          "name": "If Ever I Would Leave You",
           "m": "220",
           "s": "220",
           "p": "216"
         },
         {
-          "title": "Oh Lonesome Me",
+          "name": "Oh Lonesome Me",
           "m": "219",
           "s": "217",
           "p": "222"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Debi Cox"
         }
       ]
     },
@@ -237,21 +267,26 @@
       "rank_p": "7",
       "rank": "7",
       "name": "Fascinating Rhythm",
-      "director": "Jo Dean",
       "size": "54",
       "pc_score": "72.3",
       "songs": [
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "215",
           "s": "218",
           "p": "211"
         },
         {
-          "title": "Tramp Medley",
+          "name": "Tramp Medley",
           "m": "220",
           "s": "217",
           "p": "220"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Jo Dean"
         }
       ]
     },
@@ -262,21 +297,26 @@
       "rank_p": "10",
       "rank": "8",
       "name": "Belles Of Three Spires",
-      "director": "Lucy Guess",
       "size": "53",
       "pc_score": "69.1",
       "songs": [
         {
-          "title": "On The Street Where You Live",
+          "name": "On The Street Where You Live",
           "m": "199",
           "s": "208",
           "p": "206"
         },
         {
-          "title": "Get Me To The Church On Time",
+          "name": "Get Me To The Church On Time",
           "m": "209",
           "s": "209",
           "p": "212"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lucy Guess"
         }
       ]
     },
@@ -287,21 +327,26 @@
       "rank_p": "8",
       "rank": "8",
       "name": "Green Street Blues",
-      "director": "Mark Grindall",
       "size": "25",
       "pc_score": "69.1",
       "songs": [
         {
-          "title": "I Have Dreamed",
+          "name": "I Have Dreamed",
           "m": "202",
           "s": "212",
           "p": "195"
         },
         {
-          "title": "Can't Buy Me Love",
+          "name": "Can't Buy Me Love",
           "m": "216",
           "s": "209",
           "p": "209"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Mark Grindall"
         }
       ]
     },
@@ -312,21 +357,26 @@
       "rank_p": "12",
       "rank": "10",
       "name": "Silver Lining",
-      "director": "Sara Jackson",
       "size": "39",
       "pc_score": "68.9",
       "songs": [
         {
-          "title": "If I Love Again",
+          "name": "If I Love Again",
           "m": "201",
           "s": "203",
           "p": "204"
         },
         {
-          "title": "Lonely Nights Medley",
+          "name": "Lonely Nights Medley",
           "m": "206",
           "s": "212",
           "p": "215"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Sara Jackson"
         }
       ]
     },
@@ -337,21 +387,26 @@
       "rank_p": "9",
       "rank": "11",
       "name": "Bristol Fashion",
-      "director": "Craig Kehoe",
       "size": "51",
       "pc_score": "68.9",
       "songs": [
         {
-          "title": "What Kind Of Fool Am I?",
+          "name": "What Kind Of Fool Am I?",
           "m": "208",
           "s": "208",
           "p": "202"
         },
         {
-          "title": "Let's Burn Up The Town",
+          "name": "Let's Burn Up The Town",
           "m": "210",
           "s": "204",
           "p": "208"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Craig Kehoe"
         }
       ]
     },
@@ -362,21 +417,26 @@
       "rank_p": "11",
       "rank": "12",
       "name": "Red Rosettes",
-      "director": "Katy Phillips",
       "size": "37",
       "pc_score": "68.6",
       "songs": [
         {
-          "title": "Swanee",
+          "name": "Swanee",
           "m": "203",
           "s": "208",
           "p": "200"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "205",
           "s": "212",
           "p": "207"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Katy Phillips"
         }
       ]
     },
@@ -387,21 +447,26 @@
       "rank_p": "14",
       "rank": "12",
       "name": "Second City Sound",
-      "director": "Rod Butcher",
       "size": "47",
       "pc_score": "68.6",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "210",
           "s": "197",
           "p": "208"
         },
         {
-          "title": "You Brought A New Kind Of Love To Me",
+          "name": "You Brought A New Kind Of Love To Me",
           "m": "197",
           "s": "210",
           "p": "213"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Rod Butcher"
         }
       ]
     },
@@ -412,21 +477,26 @@
       "rank_p": "13",
       "rank": "14",
       "name": "Chorus Iceni",
-      "director": "Ian and Nickie James",
       "size": "49",
       "pc_score": "66.2",
       "songs": [
         {
-          "title": "Yesterday I Heard The Rain",
+          "name": "Yesterday I Heard The Rain",
           "m": "194",
           "s": "199",
           "p": "196"
         },
         {
-          "title": "Diamonds Medley",
+          "name": "Diamonds Medley",
           "m": "201",
           "s": "197",
           "p": "204"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Ian and Nickie James"
         }
       ]
     },
@@ -437,21 +507,26 @@
       "rank_p": "15",
       "rank": "15",
       "name": "Pennine Chimes",
-      "director": "Beth Connolly",
       "size": "30",
       "pc_score": "61.3",
       "songs": [
         {
-          "title": "Little Patch Of Heaven",
+          "name": "Little Patch Of Heaven",
           "m": "180",
           "s": "189",
           "p": "177"
         },
         {
-          "title": "You Gotta Have Heart",
+          "name": "You Gotta Have Heart",
           "m": "187",
           "s": "185",
           "p": "186"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Beth Connolly"
         }
       ]
     },
@@ -462,21 +537,26 @@
       "rank_p": "17",
       "rank": "16",
       "name": "Norwich Harmony",
-      "director": "Alison Thompson",
       "size": "36",
       "pc_score": "61.1",
       "songs": [
         {
-          "title": "If I Had You",
+          "name": "If I Had You",
           "m": "181",
           "s": "183",
           "p": "185"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "185",
           "s": "181",
           "p": "184"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Alison Thompson"
         }
       ]
     },
@@ -487,21 +567,26 @@
       "rank_p": "18",
       "rank": "17",
       "name": "Welwyn Harmony",
-      "director": "Viv Garner",
       "size": "34",
       "pc_score": "60.7",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "179",
           "s": "186",
           "p": "182"
         },
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "181",
           "s": "184",
           "p": "180"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Viv Garner"
         }
       ]
     },
@@ -512,21 +597,26 @@
       "rank_p": "19",
       "rank": "18",
       "name": "Main Street Sound",
-      "director": "Terry Adamson",
       "size": "43",
       "pc_score": "59.7",
       "songs": [
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "177",
           "s": "182",
           "p": "174"
         },
         {
-          "title": "Good Luck Charm",
+          "name": "Good Luck Charm",
           "m": "182",
           "s": "179",
           "p": "181"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Terry Adamson"
         }
       ]
     },
@@ -537,21 +627,26 @@
       "rank_p": "16",
       "rank": "19",
       "name": "Wessex Harmony",
-      "director": "Dyrck Lamble",
       "size": "38",
       "pc_score": "59.6",
       "songs": [
         {
-          "title": "The Bandstand In Central Park",
+          "name": "The Bandstand In Central Park",
           "m": "167",
           "s": "184",
           "p": "174"
         },
         {
-          "title": "The Original Dixieland One-Step",
+          "name": "The Original Dixieland One-Step",
           "m": "186",
           "s": "182",
           "p": "179"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Dyrck Lamble"
         }
       ]
     },
@@ -562,21 +657,26 @@
       "rank_p": "20",
       "rank": "20",
       "name": "Junction 14",
-      "director": "Hannah Washington",
       "size": "39",
       "pc_score": "58.7",
       "songs": [
         {
-          "title": "Over The Rainbow",
+          "name": "Over The Rainbow",
           "m": "170",
           "s": "178",
           "p": "170"
         },
         {
-          "title": "Orange Coloured Sky",
+          "name": "Orange Coloured Sky",
           "m": "180",
           "s": "177",
           "p": "181"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Hannah Washington"
         }
       ]
     },
@@ -587,21 +687,26 @@
       "rank_p": "22",
       "rank": "21",
       "name": "The Chordettes",
-      "director": "Jane Barry",
       "size": "43",
       "pc_score": "58.2",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "174",
           "s": "173",
           "p": "177"
         },
         {
-          "title": "The Night Has A Thousand Eyes",
+          "name": "The Night Has A Thousand Eyes",
           "m": "180",
           "s": "171",
           "p": "173"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Jane Barry"
         }
       ]
     },
@@ -612,21 +717,26 @@
       "rank_p": "20",
       "rank": "22",
       "name": "The Pitchpipers",
-      "director": "Marilyn Penketh",
       "size": "27",
       "pc_score": "55.8",
       "songs": [
         {
-          "title": "It's Hallowe'en",
+          "name": "It's Hallowe'en",
           "m": "163",
           "s": "181",
           "p": "161"
         },
         {
-          "title": "T'aint No Sin",
+          "name": "T'aint No Sin",
           "m": "177",
           "s": "161",
           "p": "162"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Marilyn Penketh"
         }
       ]
     },
@@ -637,21 +747,26 @@
       "rank_p": "23",
       "rank": "23",
       "name": "Harmony InSpires",
-      "director": "Peter Cookson",
       "size": "37",
       "pc_score": "55.7",
       "songs": [
         {
-          "title": "When I Grow Too Old To Dream",
+          "name": "When I Grow Too Old To Dream",
           "m": "172",
           "s": "160",
           "p": "166"
         },
         {
-          "title": "As Long As He Needs Me",
+          "name": "As Long As He Needs Me",
           "m": "168",
           "s": "169",
           "p": "168"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Peter Cookson"
         }
       ]
     },
@@ -662,21 +777,26 @@
       "rank_p": "24",
       "rank": "24",
       "name": "River City",
-      "director": "Carole Locke",
       "size": "26",
       "pc_score": "55.3",
       "songs": [
         {
-          "title": "Stars Fell On Alabama",
+          "name": "Stars Fell On Alabama",
           "m": "166",
           "s": "162",
           "p": "168"
         },
         {
-          "title": "Deed I Do Medley",
+          "name": "Deed I Do Medley",
           "m": "164",
           "s": "166",
           "p": "170"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Carole Locke"
         }
       ]
     },
@@ -687,21 +807,26 @@
       "rank_p": "25",
       "rank": "25",
       "name": "Spirit Of The South",
-      "director": "Lucy van de Ven",
       "size": "24",
       "pc_score": "52.8",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "154",
           "s": "160",
           "p": "159"
         },
         {
-          "title": "My Baby Just Cares For Me",
+          "name": "My Baby Just Cares For Me",
           "m": "164",
           "s": "156",
           "p": "158"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lucy van de Ven"
         }
       ]
     },
@@ -712,21 +837,26 @@
       "rank_p": "26",
       "rank": "26",
       "name": "Avon Harmony",
-      "director": "Alex de Bruin",
       "size": "18",
       "pc_score": "52.3",
       "songs": [
         {
-          "title": "In The Wee Small Hours Of The Morning",
+          "name": "In The Wee Small Hours Of The Morning",
           "m": "161",
           "s": "153",
           "p": "161"
         },
         {
-          "title": "Make Someone Happy",
+          "name": "Make Someone Happy",
           "m": "154",
           "s": "154",
           "p": "158"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Alex de Bruin"
         }
       ]
     },
@@ -737,21 +867,26 @@
       "rank_p": "27",
       "rank": "27",
       "name": "Soundwaves",
-      "director": "Samantha Roberts",
       "size": "28",
       "pc_score": "48.4",
       "songs": [
         {
-          "title": "Second Hand Rose",
+          "name": "Second Hand Rose",
           "m": "146",
           "s": "150",
           "p": "144"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "144",
           "s": "146",
           "p": "142"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Samantha Roberts"
         }
       ]
     }

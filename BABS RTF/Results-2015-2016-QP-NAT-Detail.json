@@ -1,0 +1,1818 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2015-2016-QP-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET PRELIMS",
+  "location": "RNCM MANCHESTER",
+  "year": "2015/2016",
+  "type": "q",
+  "date": "10/10/2015",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Helen Brown"
+    },
+    {
+      "cat": "m",
+      "name": "Rob Campbell"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Andy Funnell"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Cherry Hartshorn"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Yvonne Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Finest Hour",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "James Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Eddie Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Williams"
+        },
+        {
+          "part": "bass",
+          "name": "Phil Cuthbert"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You're The Girl I Love",
+          "m": 236,
+          "p": 242,
+          "s": 236,
+          "tot_score": 714,
+          "pc_score": 79.3,
+          "m_pc": 78.7,
+          "p_pc": 80.7,
+          "s_pc": 78.7
+        },
+        {
+          "n": 1,
+          "name": "I Got Rhythm",
+          "m": 242,
+          "p": 243,
+          "s": 241,
+          "tot_score": 726,
+          "pc_score": 80.7,
+          "m_pc": 80.7,
+          "p_pc": 81.0,
+          "s_pc": 80.3
+        }
+      ],
+      "n": 2,
+      "m": 478,
+      "m_pc": 79.7,
+      "p": 485,
+      "p_pc": 80.8,
+      "s": 477,
+      "s_pc": 79.5,
+      "tot_score": 1440,
+      "pc_score": 80.0
+    },
+    {
+      "rank": 2,
+      "name": "The Brit Pack",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alex Sanctuary"
+        },
+        {
+          "part": "lead",
+          "name": "Keith Rees"
+        },
+        {
+          "part": "bari",
+          "name": "Peter Nugent"
+        },
+        {
+          "part": "bass",
+          "name": "Jon Dawson"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Break The Heart That Loves You",
+          "m": 229,
+          "p": 220,
+          "s": 222,
+          "tot_score": 671,
+          "pc_score": 74.6,
+          "m_pc": 76.3,
+          "p_pc": 73.3,
+          "s_pc": 74.0
+        },
+        {
+          "n": 1,
+          "name": "How Deep Is The Ocean",
+          "m": 229,
+          "p": 224,
+          "s": 223,
+          "tot_score": 676,
+          "pc_score": 75.1,
+          "m_pc": 76.3,
+          "p_pc": 74.7,
+          "s_pc": 74.3
+        }
+      ],
+      "n": 2,
+      "m": 458,
+      "m_pc": 76.3,
+      "p": 444,
+      "p_pc": 74.0,
+      "s": 445,
+      "s_pc": 74.2,
+      "tot_score": 1347,
+      "pc_score": 74.8
+    },
+    {
+      "rank": 3,
+      "name": "Hustle",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Neil Firth"
+        },
+        {
+          "part": "lead",
+          "name": "Giovanni Arsciwals"
+        },
+        {
+          "part": "bari",
+          "name": "Scott Tatton"
+        },
+        {
+          "part": "bass",
+          "name": "Dale Thompson"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 223,
+          "p": 224,
+          "s": 226,
+          "tot_score": 673,
+          "pc_score": 74.8,
+          "m_pc": 74.3,
+          "p_pc": 74.7,
+          "s_pc": 75.3
+        },
+        {
+          "n": 1,
+          "name": "Ain't That A Kick In The Head",
+          "m": 223,
+          "p": 223,
+          "s": 226,
+          "tot_score": 672,
+          "pc_score": 74.7,
+          "m_pc": 74.3,
+          "p_pc": 74.3,
+          "s_pc": 75.3
+        }
+      ],
+      "n": 2,
+      "m": 446,
+      "m_pc": 74.3,
+      "p": 447,
+      "p_pc": 74.5,
+      "s": 452,
+      "s_pc": 75.3,
+      "tot_score": 1345,
+      "pc_score": 74.7
+    },
+    {
+      "rank": 4,
+      "name": "The Locksmiths",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard Fisher"
+        },
+        {
+          "part": "lead",
+          "name": "Simon Lubkowski"
+        },
+        {
+          "part": "bari",
+          "name": "Zac Booles"
+        },
+        {
+          "part": "bass",
+          "name": "Andrew Walker"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Drivin' Me Crazy",
+          "m": 219,
+          "p": 214,
+          "s": 222,
+          "tot_score": 655,
+          "pc_score": 72.8,
+          "m_pc": 73.0,
+          "p_pc": 71.3,
+          "s_pc": 74.0
+        },
+        {
+          "n": 1,
+          "name": "I Won't Send Roses",
+          "m": 223,
+          "p": 217,
+          "s": 224,
+          "tot_score": 664,
+          "pc_score": 73.8,
+          "m_pc": 74.3,
+          "p_pc": 72.3,
+          "s_pc": 74.7
+        }
+      ],
+      "n": 2,
+      "m": 442,
+      "m_pc": 73.7,
+      "p": 431,
+      "p_pc": 71.8,
+      "s": 446,
+      "s_pc": 74.3,
+      "tot_score": 1319,
+      "pc_score": 73.3
+    },
+    {
+      "rank": 5,
+      "name": "Trailblazers",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alex Sanctuary"
+        },
+        {
+          "part": "lead",
+          "name": "Alastair Hay-Plumb"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Jones"
+        },
+        {
+          "part": "bass",
+          "name": "Simon Arnott"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Can't Give You Anything But Love",
+          "m": 222,
+          "p": 224,
+          "s": 220,
+          "tot_score": 666,
+          "pc_score": 74.0,
+          "m_pc": 74.0,
+          "p_pc": 74.7,
+          "s_pc": 73.3
+        },
+        {
+          "n": 1,
+          "name": "Goodbye Yellow Brick Road",
+          "m": 214,
+          "p": 222,
+          "s": 208,
+          "tot_score": 644,
+          "pc_score": 71.6,
+          "m_pc": 71.3,
+          "p_pc": 74.0,
+          "s_pc": 69.3
+        }
+      ],
+      "n": 2,
+      "m": 436,
+      "m_pc": 72.7,
+      "p": 446,
+      "p_pc": 74.3,
+      "s": 428,
+      "s_pc": 71.3,
+      "tot_score": 1310,
+      "pc_score": 72.8
+    },
+    {
+      "rank": 6,
+      "name": "Blueprint",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alex Edwards"
+        },
+        {
+          "part": "lead",
+          "name": "Dave Brown"
+        },
+        {
+          "part": "bari",
+          "name": "Tim Braham"
+        },
+        {
+          "part": "bass",
+          "name": "Timm Barkworth"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 215,
+          "p": 216,
+          "s": 217,
+          "tot_score": 648,
+          "pc_score": 72.0,
+          "m_pc": 71.7,
+          "p_pc": 72.0,
+          "s_pc": 72.3
+        },
+        {
+          "n": 1,
+          "name": "Five Foot Two",
+          "m": 216,
+          "p": 220,
+          "s": 213,
+          "tot_score": 649,
+          "pc_score": 72.1,
+          "m_pc": 72.0,
+          "p_pc": 73.3,
+          "s_pc": 71.0
+        }
+      ],
+      "n": 2,
+      "m": 431,
+      "m_pc": 71.8,
+      "p": 436,
+      "p_pc": 72.7,
+      "s": 430,
+      "s_pc": 71.7,
+      "tot_score": 1297,
+      "pc_score": 72.1
+    },
+    {
+      "rank": 7,
+      "name": "Harmonopoly",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Joseph Spratt"
+        },
+        {
+          "part": "lead",
+          "name": "Christopher Littlewood"
+        },
+        {
+          "part": "bari",
+          "name": "Oliver Gildea"
+        },
+        {
+          "part": "bass",
+          "name": "Tim Bagley"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Cuddle Up A Little Closer, Lovey Mine",
+          "m": 211,
+          "p": 207,
+          "s": 220,
+          "tot_score": 638,
+          "pc_score": 70.9,
+          "m_pc": 70.3,
+          "p_pc": 69.0,
+          "s_pc": 73.3
+        },
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 217,
+          "p": 214,
+          "s": 223,
+          "tot_score": 654,
+          "pc_score": 72.7,
+          "m_pc": 72.3,
+          "p_pc": 71.3,
+          "s_pc": 74.3
+        }
+      ],
+      "n": 2,
+      "m": 428,
+      "m_pc": 71.3,
+      "p": 421,
+      "p_pc": 70.2,
+      "s": 443,
+      "s_pc": 73.8,
+      "tot_score": 1292,
+      "pc_score": 71.8
+    },
+    {
+      "rank": 8,
+      "name": "The Perfect Pitchers",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Luke Freeney"
+        },
+        {
+          "part": "lead",
+          "name": "Danny Gortler"
+        },
+        {
+          "part": "bari",
+          "name": "Josh Betley"
+        },
+        {
+          "part": "bass",
+          "name": "Joe O'Leary"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Cruella De Vil",
+          "m": 221,
+          "p": 218,
+          "s": 203,
+          "tot_score": 642,
+          "pc_score": 71.3,
+          "m_pc": 73.7,
+          "p_pc": 72.7,
+          "s_pc": 67.7
+        },
+        {
+          "n": 1,
+          "name": "Lucky Old Sun",
+          "m": 210,
+          "p": 211,
+          "s": 196,
+          "tot_score": 617,
+          "pc_score": 68.6,
+          "m_pc": 70.0,
+          "p_pc": 70.3,
+          "s_pc": 65.3
+        }
+      ],
+      "n": 2,
+      "m": 431,
+      "m_pc": 71.8,
+      "p": 429,
+      "p_pc": 71.5,
+      "s": 399,
+      "s_pc": 66.5,
+      "tot_score": 1259,
+      "pc_score": 69.9
+    },
+    {
+      "rank": 9,
+      "name": "South Parade",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy Salter"
+        },
+        {
+          "part": "lead",
+          "name": "Dean Whitehouse"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Grier"
+        },
+        {
+          "part": "bass",
+          "name": "Peter Blackeby"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 204,
+          "p": 208,
+          "s": 208,
+          "tot_score": 620,
+          "pc_score": 68.9,
+          "m_pc": 68.0,
+          "p_pc": 69.3,
+          "s_pc": 69.3
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 207,
+          "p": 210,
+          "s": 206,
+          "tot_score": 623,
+          "pc_score": 69.2,
+          "m_pc": 69.0,
+          "p_pc": 70.0,
+          "s_pc": 68.7
+        }
+      ],
+      "n": 2,
+      "m": 411,
+      "m_pc": 68.5,
+      "p": 418,
+      "p_pc": 69.7,
+      "s": 414,
+      "s_pc": 69.0,
+      "tot_score": 1243,
+      "pc_score": 69.1
+    },
+    {
+      "rank": 10,
+      "name": "Three 'n' Easy",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Gary Roussak"
+        },
+        {
+          "part": "lead",
+          "name": "Paul Gidney"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Tatton"
+        },
+        {
+          "part": "bass",
+          "name": "John Clarke"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old Cape Cod",
+          "m": 208,
+          "p": 209,
+          "s": 203,
+          "tot_score": 620,
+          "pc_score": 68.9,
+          "m_pc": 69.3,
+          "p_pc": 69.7,
+          "s_pc": 67.7
+        },
+        {
+          "n": 1,
+          "name": "There's A Brand New Gang",
+          "m": 204,
+          "p": 211,
+          "s": 202,
+          "tot_score": 617,
+          "pc_score": 68.6,
+          "m_pc": 68.0,
+          "p_pc": 70.3,
+          "s_pc": 67.3
+        }
+      ],
+      "n": 2,
+      "m": 412,
+      "m_pc": 68.7,
+      "p": 420,
+      "p_pc": 70.0,
+      "s": 405,
+      "s_pc": 67.5,
+      "tot_score": 1237,
+      "pc_score": 68.7
+    },
+    {
+      "rank": 11,
+      "name": "The Grand Dads",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Mick Barnacle"
+        },
+        {
+          "part": "lead",
+          "name": "Rob Parnham"
+        },
+        {
+          "part": "bari",
+          "name": "Dave Hughes"
+        },
+        {
+          "part": "bass",
+          "name": "Bob Taylor"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Gold Turns To Grey",
+          "m": 208,
+          "p": 215,
+          "s": 204,
+          "tot_score": 627,
+          "pc_score": 69.7,
+          "m_pc": 69.3,
+          "p_pc": 71.7,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "We Kinda Miss Those Good Old Songs",
+          "m": 200,
+          "p": 206,
+          "s": 197,
+          "tot_score": 603,
+          "pc_score": 67.0,
+          "m_pc": 66.7,
+          "p_pc": 68.7,
+          "s_pc": 65.7
+        }
+      ],
+      "n": 2,
+      "m": 408,
+      "m_pc": 68.0,
+      "p": 421,
+      "p_pc": 70.2,
+      "s": 401,
+      "s_pc": 66.8,
+      "tot_score": 1230,
+      "pc_score": 68.3
+    },
+    {
+      "rank": 12,
+      "name": "The Travellers",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy Woolley"
+        },
+        {
+          "part": "lead",
+          "name": "Tony Parton"
+        },
+        {
+          "part": "bari",
+          "name": "Derek Harris"
+        },
+        {
+          "part": "bass",
+          "name": "John Kenny"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "All The Way",
+          "m": 209,
+          "p": 207,
+          "s": 200,
+          "tot_score": 616,
+          "pc_score": 68.4,
+          "m_pc": 69.7,
+          "p_pc": 69.0,
+          "s_pc": 66.7
+        },
+        {
+          "n": 1,
+          "name": "With A Wink And A Smile",
+          "m": 208,
+          "p": 203,
+          "s": 199,
+          "tot_score": 610,
+          "pc_score": 67.8,
+          "m_pc": 69.3,
+          "p_pc": 67.7,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 417,
+      "m_pc": 69.5,
+      "p": 410,
+      "p_pc": 68.3,
+      "s": 399,
+      "s_pc": 66.5,
+      "tot_score": 1226,
+      "pc_score": 68.1
+    },
+    {
+      "rank": 13,
+      "name": "4 On Demand",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Jamie Braham"
+        },
+        {
+          "part": "lead",
+          "name": "Peter Bryant"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Bryant"
+        },
+        {
+          "part": "bass",
+          "name": "Calvin Laverick"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Cinderella",
+          "m": 207,
+          "p": 201,
+          "s": 201,
+          "tot_score": 609,
+          "pc_score": 67.7,
+          "m_pc": 69.0,
+          "p_pc": 67.0,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "I'll Forget You",
+          "m": 209,
+          "p": 203,
+          "s": 203,
+          "tot_score": 615,
+          "pc_score": 68.3,
+          "m_pc": 69.7,
+          "p_pc": 67.7,
+          "s_pc": 67.7
+        }
+      ],
+      "n": 2,
+      "m": 416,
+      "m_pc": 69.3,
+      "p": 404,
+      "p_pc": 67.3,
+      "s": 404,
+      "s_pc": 67.3,
+      "tot_score": 1224,
+      "pc_score": 68.0
+    },
+    {
+      "rank": 14,
+      "name": "Tonic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alex Sanctuary"
+        },
+        {
+          "part": "lead",
+          "name": "Alex De Bruin"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Hargest"
+        },
+        {
+          "part": "bass",
+          "name": "Ian Maslen"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Hello My Baby",
+          "m": 201,
+          "p": 203,
+          "s": 199,
+          "tot_score": 603,
+          "pc_score": 67.0,
+          "m_pc": 67.0,
+          "p_pc": 67.7,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "The Sunshine Of Your Smile",
+          "m": 197,
+          "p": 203,
+          "s": 199,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 65.7,
+          "p_pc": 67.7,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 398,
+      "m_pc": 66.3,
+      "p": 406,
+      "p_pc": 67.7,
+      "s": 398,
+      "s_pc": 66.3,
+      "tot_score": 1202,
+      "pc_score": 66.8
+    },
+    {
+      "rank": 15,
+      "name": "Frank'nSense'nMirth",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Chris Blatchford"
+        },
+        {
+          "part": "lead",
+          "name": "Peter Walters"
+        },
+        {
+          "part": "bari",
+          "name": "Dave Hughes"
+        },
+        {
+          "part": "bass",
+          "name": "Frank Salter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 197,
+          "p": 201,
+          "s": 202,
+          "tot_score": 600,
+          "pc_score": 66.7,
+          "m_pc": 65.7,
+          "p_pc": 67.0,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Last Night On The Back Porch",
+          "m": 194,
+          "p": 200,
+          "s": 197,
+          "tot_score": 591,
+          "pc_score": 65.7,
+          "m_pc": 64.7,
+          "p_pc": 66.7,
+          "s_pc": 65.7
+        }
+      ],
+      "n": 2,
+      "m": 391,
+      "m_pc": 65.2,
+      "p": 401,
+      "p_pc": 66.8,
+      "s": 399,
+      "s_pc": 66.5,
+      "tot_score": 1191,
+      "pc_score": 66.2
+    },
+    {
+      "rank": 15,
+      "name": "The Need For Swede",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
+          "m": 200,
+          "p": 202,
+          "s": 193,
+          "tot_score": 595,
+          "pc_score": 66.1,
+          "m_pc": 66.7,
+          "p_pc": 67.3,
+          "s_pc": 64.3
+        },
+        {
+          "n": 1,
+          "name": "You Brought A New Kind Of Love To Me",
+          "m": 198,
+          "p": 204,
+          "s": 194,
+          "tot_score": 596,
+          "pc_score": 66.2,
+          "m_pc": 66.0,
+          "p_pc": 68.0,
+          "s_pc": 64.7
+        }
+      ],
+      "n": 2,
+      "m": 398,
+      "m_pc": 66.3,
+      "p": 406,
+      "p_pc": 67.7,
+      "s": 387,
+      "s_pc": 64.5,
+      "tot_score": 1191,
+      "pc_score": 66.2
+    },
+    {
+      "rank": 17,
+      "name": "EQ",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andrew Edgley"
+        },
+        {
+          "part": "lead",
+          "name": "Mark Gooch"
+        },
+        {
+          "part": "bari",
+          "name": "Nigel Smith"
+        },
+        {
+          "part": "bass",
+          "name": "John Williams"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "All The Way",
+          "m": 192,
+          "p": 204,
+          "s": 198,
+          "tot_score": 594,
+          "pc_score": 66.0,
+          "m_pc": 64.0,
+          "p_pc": 68.0,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 190,
+          "p": 205,
+          "s": 196,
+          "tot_score": 591,
+          "pc_score": 65.7,
+          "m_pc": 63.3,
+          "p_pc": 68.3,
+          "s_pc": 65.3
+        }
+      ],
+      "n": 2,
+      "m": 382,
+      "m_pc": 63.7,
+      "p": 409,
+      "p_pc": 68.2,
+      "s": 394,
+      "s_pc": 65.7,
+      "tot_score": 1185,
+      "pc_score": 65.8
+    },
+    {
+      "rank": 18,
+      "name": "GSOH",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Peter Sayer"
+        },
+        {
+          "part": "lead",
+          "name": "David Tanner"
+        },
+        {
+          "part": "bari",
+          "name": "Mark Soave"
+        },
+        {
+          "part": "bass",
+          "name": "John Riseborough"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Cinderella",
+          "m": 197,
+          "p": 201,
+          "s": 197,
+          "tot_score": 595,
+          "pc_score": 66.1,
+          "m_pc": 65.7,
+          "p_pc": 67.0,
+          "s_pc": 65.7
+        },
+        {
+          "n": 1,
+          "name": "Sweet, Sweet Roses Of Morn",
+          "m": 196,
+          "p": 195,
+          "s": 194,
+          "tot_score": 585,
+          "pc_score": 65.0,
+          "m_pc": 65.3,
+          "p_pc": 65.0,
+          "s_pc": 64.7
+        }
+      ],
+      "n": 2,
+      "m": 393,
+      "m_pc": 65.5,
+      "p": 396,
+      "p_pc": 66.0,
+      "s": 391,
+      "s_pc": 65.2,
+      "tot_score": 1180,
+      "pc_score": 65.6
+    },
+    {
+      "rank": 19,
+      "name": "Northern Quarter",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Robert Gall"
+        },
+        {
+          "part": "lead",
+          "name": "Ciaran Wilson"
+        },
+        {
+          "part": "bari",
+          "name": "Seb Marshall"
+        },
+        {
+          "part": "bass",
+          "name": "Matt Thomas"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Zip - A - Dee - Doo - Dah",
+          "m": 199,
+          "p": 197,
+          "s": 191,
+          "tot_score": 587,
+          "pc_score": 65.2,
+          "m_pc": 66.3,
+          "p_pc": 65.7,
+          "s_pc": 63.7
+        },
+        {
+          "n": 1,
+          "name": "I Won't Send Roses",
+          "m": 198,
+          "p": 191,
+          "s": 188,
+          "tot_score": 577,
+          "pc_score": 64.1,
+          "m_pc": 66.0,
+          "p_pc": 63.7,
+          "s_pc": 62.7
+        }
+      ],
+      "n": 2,
+      "m": 397,
+      "m_pc": 66.2,
+      "p": 388,
+      "p_pc": 64.7,
+      "s": 379,
+      "s_pc": 63.2,
+      "tot_score": 1164,
+      "pc_score": 64.7
+    },
+    {
+      "rank": 20,
+      "name": "YOUTHLESS",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Martin Procter"
+        },
+        {
+          "part": "lead",
+          "name": "Alan Hill"
+        },
+        {
+          "part": "bari",
+          "name": "Peter Leverett"
+        },
+        {
+          "part": "bass",
+          "name": "Brian Callaghan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wife The Dancer",
+          "m": 198,
+          "p": 197,
+          "s": 182,
+          "tot_score": 577,
+          "pc_score": 64.1,
+          "m_pc": 66.0,
+          "p_pc": 65.7,
+          "s_pc": 60.7
+        },
+        {
+          "n": 1,
+          "name": "Jazz Came Up The River From New Orleans",
+          "m": 196,
+          "p": 198,
+          "s": 183,
+          "tot_score": 577,
+          "pc_score": 64.1,
+          "m_pc": 65.3,
+          "p_pc": 66.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 394,
+      "m_pc": 65.7,
+      "p": 395,
+      "p_pc": 65.8,
+      "s": 365,
+      "s_pc": 60.8,
+      "tot_score": 1154,
+      "pc_score": 64.1
+    },
+    {
+      "rank": 21,
+      "name": "The Quadranauts",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Martyn Lapworth"
+        },
+        {
+          "part": "lead",
+          "name": "Bill Payne"
+        },
+        {
+          "part": "bari",
+          "name": "Andy Douglas"
+        },
+        {
+          "part": "bass",
+          "name": "Tom Jeffries"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "A Sunday Kind Of Love",
+          "m": 192,
+          "p": 196,
+          "s": 186,
+          "tot_score": 574,
+          "pc_score": 63.8,
+          "m_pc": 64.0,
+          "p_pc": 65.3,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "Love Me",
+          "m": 189,
+          "p": 195,
+          "s": 189,
+          "tot_score": 573,
+          "pc_score": 63.7,
+          "m_pc": 63.0,
+          "p_pc": 65.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 381,
+      "m_pc": 63.5,
+      "p": 391,
+      "p_pc": 65.2,
+      "s": 375,
+      "s_pc": 62.5,
+      "tot_score": 1147,
+      "pc_score": 63.7
+    },
+    {
+      "rank": 22,
+      "name": "Alias",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Nigel Kearney"
+        },
+        {
+          "part": "lead",
+          "name": "Nick Jones"
+        },
+        {
+          "part": "bari",
+          "name": "John Kelsey"
+        },
+        {
+          "part": "bass",
+          "name": "Jake Waghorn"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 190,
+          "p": 195,
+          "s": 191,
+          "tot_score": 576,
+          "pc_score": 64.0,
+          "m_pc": 63.3,
+          "p_pc": 65.0,
+          "s_pc": 63.7
+        },
+        {
+          "n": 1,
+          "name": "All The Way",
+          "m": 186,
+          "p": 189,
+          "s": 179,
+          "tot_score": 554,
+          "pc_score": 61.6,
+          "m_pc": 62.0,
+          "p_pc": 63.0,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 376,
+      "m_pc": 62.7,
+      "p": 384,
+      "p_pc": 64.0,
+      "s": 370,
+      "s_pc": 61.7,
+      "tot_score": 1130,
+      "pc_score": 62.8
+    },
+    {
+      "rank": 23,
+      "name": "Stepping Out",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Brian Shorrocks"
+        },
+        {
+          "part": "lead",
+          "name": "David Ellwood"
+        },
+        {
+          "part": "bari",
+          "name": "Nigel Green"
+        },
+        {
+          "part": "bass",
+          "name": "John Higgins"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me",
+          "m": 181,
+          "p": 192,
+          "s": 188,
+          "tot_score": 561,
+          "pc_score": 62.3,
+          "m_pc": 60.3,
+          "p_pc": 64.0,
+          "s_pc": 62.7
+        },
+        {
+          "n": 1,
+          "name": "You Don't Know Me",
+          "m": 182,
+          "p": 190,
+          "s": 181,
+          "tot_score": 553,
+          "pc_score": 61.4,
+          "m_pc": 60.7,
+          "p_pc": 63.3,
+          "s_pc": 60.3
+        }
+      ],
+      "n": 2,
+      "m": 363,
+      "m_pc": 60.5,
+      "p": 382,
+      "p_pc": 63.7,
+      "s": 369,
+      "s_pc": 61.5,
+      "tot_score": 1114,
+      "pc_score": 61.9
+    },
+    {
+      "rank": 24,
+      "name": "Apocappella",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "John Beesley"
+        },
+        {
+          "part": "lead",
+          "name": "Greg Nixon"
+        },
+        {
+          "part": "bari",
+          "name": "Khusro Ali Khan"
+        },
+        {
+          "part": "bass",
+          "name": "Dave Howe"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 182,
+          "p": 187,
+          "s": 178,
+          "tot_score": 547,
+          "pc_score": 60.8,
+          "m_pc": 60.7,
+          "p_pc": 62.3,
+          "s_pc": 59.3
+        },
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 182,
+          "p": 185,
+          "s": 183,
+          "tot_score": 550,
+          "pc_score": 61.1,
+          "m_pc": 60.7,
+          "p_pc": 61.7,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 364,
+      "m_pc": 60.7,
+      "p": 372,
+      "p_pc": 62.0,
+      "s": 361,
+      "s_pc": 60.2,
+      "tot_score": 1097,
+      "pc_score": 60.9
+    },
+    {
+      "rank": 25,
+      "name": "Routemasters",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tom Fitch"
+        },
+        {
+          "part": "lead",
+          "name": "Li-Wen Yip"
+        },
+        {
+          "part": "bari",
+          "name": "Aidan Brand"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart Butchers"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When She Loved Me",
+          "m": 187,
+          "p": 186,
+          "s": 176,
+          "tot_score": 549,
+          "pc_score": 61.0,
+          "m_pc": 62.3,
+          "p_pc": 62.0,
+          "s_pc": 58.7
+        },
+        {
+          "n": 1,
+          "name": "It Had To Be You",
+          "m": 183,
+          "p": 177,
+          "s": 171,
+          "tot_score": 531,
+          "pc_score": 59.0,
+          "m_pc": 61.0,
+          "p_pc": 59.0,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 370,
+      "m_pc": 61.7,
+      "p": 363,
+      "p_pc": 60.5,
+      "s": 347,
+      "s_pc": 57.8,
+      "tot_score": 1080,
+      "pc_score": 60.0
+    },
+    {
+      "rank": 25,
+      "name": "Student Unison",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard Platt"
+        },
+        {
+          "part": "lead",
+          "name": "Andy Davies"
+        },
+        {
+          "part": "bari",
+          "name": "Tomos Gwyn"
+        },
+        {
+          "part": "bass",
+          "name": "Peter Shipway"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Will Go Sailing No More",
+          "m": 186,
+          "p": 173,
+          "s": 170,
+          "tot_score": 529,
+          "pc_score": 58.8,
+          "m_pc": 62.0,
+          "p_pc": 57.7,
+          "s_pc": 56.7
+        },
+        {
+          "n": 1,
+          "name": "Swanee",
+          "m": 187,
+          "p": 183,
+          "s": 181,
+          "tot_score": 551,
+          "pc_score": 61.2,
+          "m_pc": 62.3,
+          "p_pc": 61.0,
+          "s_pc": 60.3
+        }
+      ],
+      "n": 2,
+      "m": 373,
+      "m_pc": 62.2,
+      "p": 356,
+      "p_pc": 59.3,
+      "s": 351,
+      "s_pc": 58.5,
+      "tot_score": 1080,
+      "pc_score": 60.0
+    },
+    {
+      "rank": 27,
+      "name": "Johnski Goes To Hollywood",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Bob Devine"
+        },
+        {
+          "part": "lead",
+          "name": "Andy Coan"
+        },
+        {
+          "part": "bari",
+          "name": "John Andrzejowski"
+        },
+        {
+          "part": "bass",
+          "name": "Julian Pieters"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Mona Lisa",
+          "m": 185,
+          "p": 176,
+          "s": 177,
+          "tot_score": 538,
+          "pc_score": 59.8,
+          "m_pc": 61.7,
+          "p_pc": 58.7,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "Sweet And Lovely",
+          "m": 179,
+          "p": 176,
+          "s": 174,
+          "tot_score": 529,
+          "pc_score": 58.8,
+          "m_pc": 59.7,
+          "p_pc": 58.7,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 364,
+      "m_pc": 60.7,
+      "p": 352,
+      "p_pc": 58.7,
+      "s": 351,
+      "s_pc": 58.5,
+      "tot_score": 1067,
+      "pc_score": 59.3
+    },
+    {
+      "rank": 28,
+      "name": "Open Road",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Colin Howarth"
+        },
+        {
+          "part": "lead",
+          "name": "Andy Sinclair"
+        },
+        {
+          "part": "bari",
+          "name": "Richard Morrison"
+        },
+        {
+          "part": "bass",
+          "name": "Joe Jobling"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 173,
+          "p": 169,
+          "s": 174,
+          "tot_score": 516,
+          "pc_score": 57.3,
+          "m_pc": 57.7,
+          "p_pc": 56.3,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "When She Loved Me",
+          "m": 171,
+          "p": 172,
+          "s": 174,
+          "tot_score": 517,
+          "pc_score": 57.4,
+          "m_pc": 57.0,
+          "p_pc": 57.3,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 344,
+      "m_pc": 57.3,
+      "p": 341,
+      "p_pc": 56.8,
+      "s": 348,
+      "s_pc": 58.0,
+      "tot_score": 1033,
+      "pc_score": 57.4
+    },
+    {
+      "rank": 29,
+      "name": "Four Shades Of Grey",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Barclay Marshall"
+        },
+        {
+          "part": "lead",
+          "name": "Graham Lake"
+        },
+        {
+          "part": "bari",
+          "name": "Richard Barley"
+        },
+        {
+          "part": "bass",
+          "name": "Ken Miles"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When You Wore A Tulip",
+          "m": 172,
+          "p": 165,
+          "s": 168,
+          "tot_score": 505,
+          "pc_score": 56.1,
+          "m_pc": 57.3,
+          "p_pc": 55.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 168,
+          "p": 162,
+          "s": 159,
+          "tot_score": 489,
+          "pc_score": 54.3,
+          "m_pc": 56.0,
+          "p_pc": 54.0,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 340,
+      "m_pc": 56.7,
+      "p": 327,
+      "p_pc": 54.5,
+      "s": 327,
+      "s_pc": 54.5,
+      "tot_score": 994,
+      "pc_score": 55.2
+    },
+    {
+      "rank": 30,
+      "name": "Cabin Crew",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "John Dunning"
+        },
+        {
+          "part": "lead",
+          "name": "Dudley Stone"
+        },
+        {
+          "part": "bari",
+          "name": "Jason Foxwell"
+        },
+        {
+          "part": "bass",
+          "name": "Hugh Sainsbury"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You're Nobody 'Til Somebody Loves You",
+          "m": 168,
+          "p": 166,
+          "s": 166,
+          "tot_score": 500,
+          "pc_score": 55.6,
+          "m_pc": 56.0,
+          "p_pc": 55.3,
+          "s_pc": 55.3
+        },
+        {
+          "n": 1,
+          "name": "For Sale, One Broken Heart",
+          "m": 163,
+          "p": 162,
+          "s": 161,
+          "tot_score": 486,
+          "pc_score": 54.0,
+          "m_pc": 54.3,
+          "p_pc": 54.0,
+          "s_pc": 53.7
+        }
+      ],
+      "n": 2,
+      "m": 331,
+      "m_pc": 55.2,
+      "p": 328,
+      "p_pc": 54.7,
+      "s": 327,
+      "s_pc": 54.5,
+      "tot_score": 986,
+      "pc_score": 54.8
+    },
+    {
+      "rank": 31,
+      "name": "Jack The Cat",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Colin Howart"
+        },
+        {
+          "part": "lead",
+          "name": "Walter Dods"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff Stockham"
+        },
+        {
+          "part": "bass",
+          "name": "Dougie Brown"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 162,
+          "p": 150,
+          "s": 155,
+          "tot_score": 467,
+          "pc_score": 51.9,
+          "m_pc": 54.0,
+          "p_pc": 50.0,
+          "s_pc": 51.7
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 165,
+          "p": 147,
+          "s": 152,
+          "tot_score": 464,
+          "pc_score": 51.6,
+          "m_pc": 55.0,
+          "p_pc": 49.0,
+          "s_pc": 50.7
+        }
+      ],
+      "n": 2,
+      "m": 327,
+      "m_pc": 54.5,
+      "p": 297,
+      "p_pc": 49.5,
+      "s": 307,
+      "s_pc": 51.2,
+      "tot_score": 931,
+      "pc_score": 51.7
+    }
+  ]
+}

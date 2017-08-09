@@ -42,35 +42,35 @@
       "name": "Nancy Kelsall"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1337",
-      "final_tot_score": "2680",
+      "prev_tot_score": "1337",
+      "tot_score": "2680",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -79,25 +79,25 @@
       "pc_score": "74.4",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "220",
           "s": "226",
           "p": "219"
         },
         {
-          "title": "Undecided / Medley",
+          "name": "Undecided / Medley",
           "m": "224",
           "s": "224",
           "p": "224"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "450",
           "s": "445",
           "p": "448"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Veryan Zimber"
@@ -117,8 +117,8 @@
       ]
     },
     {
-      "tot_score": "1238",
-      "final_tot_score": "2496",
+      "prev_tot_score": "1238",
+      "tot_score": "2496",
       "rank_m": "2",
       "rank_s": "3",
       "rank_p": "2",
@@ -127,25 +127,25 @@
       "pc_score": "69.3",
       "songs": [
         {
-          "title": "No, No, Norman (No, No Nora)",
+          "name": "No, No, Norman (No, No Nora)",
           "m": "210",
           "s": "203",
           "p": "204"
         },
         {
-          "title": "He Was There",
+          "name": "He Was There",
           "m": "206",
           "s": "205",
           "p": "210"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "418",
           "s": "429",
           "p": "411"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lucy Edmonds"
@@ -165,8 +165,8 @@
       ]
     },
     {
-      "tot_score": "1251",
-      "final_tot_score": "2483",
+      "prev_tot_score": "1251",
+      "tot_score": "2483",
       "rank_m": "3",
       "rank_s": "2",
       "rank_p": "4",
@@ -175,25 +175,25 @@
       "pc_score": "69.0",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "212",
           "s": "205",
           "p": "208"
         },
         {
-          "title": "I Can't Give You Anything But Love / Flying Sinatra / Medley",
+          "name": "I Can't Give You Anything But Love / Flying Sinatra / Medley",
           "m": "203",
           "s": "211",
           "p": "212"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "405",
           "s": "426",
           "p": "401"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emma McManus"
@@ -213,8 +213,8 @@
       ]
     },
     {
-      "tot_score": "1231",
-      "final_tot_score": "2458",
+      "prev_tot_score": "1231",
+      "tot_score": "2458",
       "rank_m": "4",
       "rank_s": "4",
       "rank_p": "2",
@@ -223,25 +223,25 @@
       "pc_score": "68.3",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "202",
           "s": "205",
           "p": "207"
         },
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "208",
           "s": "206",
           "p": "203"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "411",
           "s": "409",
           "p": "407"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -261,8 +261,8 @@
       ]
     },
     {
-      "tot_score": "1209",
-      "final_tot_score": "2410",
+      "prev_tot_score": "1209",
+      "tot_score": "2410",
       "rank_m": "5",
       "rank_s": "5",
       "rank_p": "5",
@@ -271,25 +271,25 @@
       "pc_score": "66.9",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "200",
           "s": "197",
           "p": "202"
         },
         {
-          "title": "Time After Time",
+          "name": "Time After Time",
           "m": "203",
           "s": "204",
           "p": "203"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "403",
           "s": "394",
           "p": "404"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Leigh Holden"
@@ -309,8 +309,8 @@
       ]
     },
     {
-      "tot_score": "1165",
-      "final_tot_score": "2374",
+      "prev_tot_score": "1165",
+      "tot_score": "2374",
       "rank_m": "6",
       "rank_s": "6",
       "rank_p": "6",
@@ -319,25 +319,25 @@
       "pc_score": "65.9",
       "songs": [
         {
-          "title": "Roses Of Yesterday",
+          "name": "Roses Of Yesterday",
           "m": "189",
           "s": "194",
           "p": "192"
         },
         {
-          "title": "I Didn't Wanna Fall",
+          "name": "I Didn't Wanna Fall",
           "m": "199",
           "s": "198",
           "p": "193"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "402",
           "s": "409",
           "p": "398"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"

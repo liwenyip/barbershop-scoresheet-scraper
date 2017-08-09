@@ -42,23 +42,23 @@
       "name": "James Northen"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "76.8",
       "songs": [
         {
-          "title": "Don't Break The Heart That Loves You",
+          "name": "Don't Break The Heart That Loves You",
           "m": "232",
           "s": "230",
           "p": "229"
         },
         {
-          "title": "You Keep Coming Back Like A Song",
+          "name": "You Keep Coming Back Like A Song",
           "m": "227",
           "s": "230",
           "p": "235"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy"
@@ -115,19 +115,19 @@
       "pc_score": "75.1",
       "songs": [
         {
-          "title": "You`re Nobody Till Somebody Loves You",
+          "name": "You`re Nobody Till Somebody Loves You",
           "m": "227",
           "s": "225",
           "p": "223"
         },
         {
-          "title": "You Are My Sunshine",
+          "name": "You Are My Sunshine",
           "m": "224",
           "s": "226",
           "p": "227"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian"
@@ -156,19 +156,19 @@
       "pc_score": "66.9",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "200",
           "s": "203",
           "p": "201"
         },
         {
-          "title": "Till There Was You",
+          "name": "Till There Was You",
           "m": "199",
           "s": "197",
           "p": "204"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy"
@@ -197,19 +197,19 @@
       "pc_score": "65.9",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "197",
           "s": "196",
           "p": "201"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "195",
           "s": "198",
           "p": "199"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard"
@@ -238,19 +238,19 @@
       "pc_score": "65.7",
       "songs": [
         {
-          "title": "Midnight Rose",
+          "name": "Midnight Rose",
           "m": "199",
           "s": "196",
           "p": "200"
         },
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "202",
           "s": "193",
           "p": "192"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
@@ -279,19 +279,19 @@
       "pc_score": "65.6",
       "songs": [
         {
-          "title": "That`s Life",
+          "name": "That`s Life",
           "m": "192",
           "s": "203",
           "p": "190"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "195",
           "s": "197",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon"
@@ -320,19 +320,19 @@
       "pc_score": "65.4",
       "songs": [
         {
-          "title": "Friends To The End",
+          "name": "Friends To The End",
           "m": "196",
           "s": "210",
           "p": "192"
         },
         {
-          "title": "You Took Advantage Of Me",
+          "name": "You Took Advantage Of Me",
           "m": "206",
           "s": "186",
           "p": "187"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard"
@@ -361,19 +361,19 @@
       "pc_score": "63.3",
       "songs": [
         {
-          "title": "When My Baby Smiles At Me",
+          "name": "When My Baby Smiles At Me",
           "m": "185",
           "s": "194",
           "p": "191"
         },
         {
-          "title": "I Didn't Want To Fall",
+          "name": "I Didn't Want To Fall",
           "m": "194",
           "s": "186",
           "p": "189"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris"
@@ -402,19 +402,19 @@
       "pc_score": "62.9",
       "songs": [
         {
-          "title": "Walkin' My Baby Back Home",
+          "name": "Walkin' My Baby Back Home",
           "m": "184",
           "s": "187",
           "p": "189"
         },
         {
-          "title": "Just The Way You Look Tonight",
+          "name": "Just The Way You Look Tonight",
           "m": "194",
           "s": "190",
           "p": "189"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Greg"
@@ -443,19 +443,19 @@
       "pc_score": "62.7",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "182",
           "s": "192",
           "p": "185"
         },
         {
-          "title": "Just In Time",
+          "name": "Just In Time",
           "m": "190",
           "s": "188",
           "p": "191"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Paul"
@@ -484,19 +484,19 @@
       "pc_score": "62.3",
       "songs": [
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "182",
           "s": "185",
           "p": "188"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "191",
           "s": "188",
           "p": "187"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian"
@@ -525,19 +525,19 @@
       "pc_score": "61.1",
       "songs": [
         {
-          "title": "If You Love Me",
+          "name": "If You Love Me",
           "m": "182",
           "s": "179",
           "p": "184"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "182",
           "s": "185",
           "p": "188"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter"
@@ -566,19 +566,19 @@
       "pc_score": "60.4",
       "songs": [
         {
-          "title": "Recipe For Makin' Love",
+          "name": "Recipe For Makin' Love",
           "m": "175",
           "s": "184",
           "p": "176"
         },
         {
-          "title": "Lover Come Back",
+          "name": "Lover Come Back",
           "m": "188",
           "s": "181",
           "p": "184"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James"
@@ -607,19 +607,19 @@
       "pc_score": "58.7",
       "songs": [
         {
-          "title": "It`s True Dear Medly",
+          "name": "It`s True Dear Medly",
           "m": "159",
           "s": "173",
           "p": "187"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "192",
           "s": "180",
           "p": "165"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Phil"
@@ -648,19 +648,19 @@
       "pc_score": "56.8",
       "songs": [
         {
-          "title": "Good Luck Charm",
+          "name": "Good Luck Charm",
           "m": "156",
           "s": "179",
           "p": "159"
         },
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "176",
           "s": "173",
           "p": "179"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dan"
@@ -689,19 +689,19 @@
       "pc_score": "56.6",
       "songs": [
         {
-          "title": "Walkin' My Baby Back Home",
+          "name": "Walkin' My Baby Back Home",
           "m": "164",
           "s": "176",
           "p": "164"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "176",
           "s": "170",
           "p": "169"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michael"

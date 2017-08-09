@@ -1,0 +1,422 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2003-04-QF-INT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "INTERNATIONAL QUARTET FINALS",
+  "location": "HARROGATE",
+  "year": "2003/04",
+  "type": "q",
+  "date": "30/05/2004",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Iseger"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Matrix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Sunshine Of Your Smile",
+          "m": 222,
+          "p": 220,
+          "s": 212,
+          "tot_score": 654,
+          "pc_score": 72.7,
+          "m_pc": 74.0,
+          "p_pc": 73.3,
+          "s_pc": 70.7
+        },
+        {
+          "n": 1,
+          "name": "You're Nobody 'Til Somebody Loves You",
+          "m": 217,
+          "p": 221,
+          "s": 204,
+          "tot_score": 642,
+          "pc_score": 71.3,
+          "m_pc": 72.3,
+          "p_pc": 73.7,
+          "s_pc": 68.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 468.0,
+          "p": 448.0,
+          "s": 445.0,
+          "tot_score": 1361.0,
+          "pc_score": 75.6,
+          "m_pc": 78.0,
+          "p_pc": 74.7,
+          "s_pc": 74.2
+        }
+      ],
+      "n": 4,
+      "m": 907.0,
+      "m_pc": 75.6,
+      "p": 889.0,
+      "p_pc": 74.1,
+      "s": 861.0,
+      "s_pc": 71.8,
+      "tot_score": 2657.0,
+      "pc_score": 73.8
+    },
+    {
+      "rank": 2,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There Goes My Heart",
+          "m": 227,
+          "p": 231,
+          "s": 207,
+          "tot_score": 665,
+          "pc_score": 73.9,
+          "m_pc": 75.7,
+          "p_pc": 77.0,
+          "s_pc": 69.0
+        },
+        {
+          "n": 1,
+          "name": "Fit As A Fiddle / Me And My Girl Medley",
+          "m": 227,
+          "p": 227,
+          "s": 208,
+          "tot_score": 662,
+          "pc_score": 73.6,
+          "m_pc": 75.7,
+          "p_pc": 75.7,
+          "s_pc": 69.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 459.0,
+          "p": 438.0,
+          "s": 412.0,
+          "tot_score": 1309.0,
+          "pc_score": 72.7,
+          "m_pc": 76.5,
+          "p_pc": 73.0,
+          "s_pc": 68.7
+        }
+      ],
+      "n": 4,
+      "m": 913.0,
+      "m_pc": 76.1,
+      "p": 896.0,
+      "p_pc": 74.7,
+      "s": 827.0,
+      "s_pc": 68.9,
+      "tot_score": 2636.0,
+      "pc_score": 73.2
+    },
+    {
+      "rank": 3,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 228,
+          "p": 220,
+          "s": 210,
+          "tot_score": 658,
+          "pc_score": 73.1,
+          "m_pc": 76.0,
+          "p_pc": 73.3,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "When It Comes To Lovin' The Girls",
+          "m": 221,
+          "p": 217,
+          "s": 199,
+          "tot_score": 637,
+          "pc_score": 70.8,
+          "m_pc": 73.7,
+          "p_pc": 72.3,
+          "s_pc": 66.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 443.0,
+          "p": 440.0,
+          "s": 412.0,
+          "tot_score": 1295.0,
+          "pc_score": 71.9,
+          "m_pc": 73.8,
+          "p_pc": 73.3,
+          "s_pc": 68.7
+        }
+      ],
+      "n": 4,
+      "m": 892.0,
+      "m_pc": 74.3,
+      "p": 877.0,
+      "p_pc": 73.1,
+      "s": 821.0,
+      "s_pc": 68.4,
+      "tot_score": 2590.0,
+      "pc_score": 71.9
+    },
+    {
+      "rank": 4,
+      "name": "Gentleman Jack",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Basin Street Blues / Lazy River Medley",
+          "m": 218,
+          "p": 218,
+          "s": 205,
+          "tot_score": 641,
+          "pc_score": 71.2,
+          "m_pc": 72.7,
+          "p_pc": 72.7,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "You're Nobody 'Til Somebody Loves You",
+          "m": 217,
+          "p": 221,
+          "s": 208,
+          "tot_score": 646,
+          "pc_score": 71.8,
+          "m_pc": 72.3,
+          "p_pc": 73.7,
+          "s_pc": 69.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 440.0,
+          "p": 434.0,
+          "s": 415.0,
+          "tot_score": 1289.0,
+          "pc_score": 71.6,
+          "m_pc": 73.3,
+          "p_pc": 72.3,
+          "s_pc": 69.2
+        }
+      ],
+      "n": 4,
+      "m": 875.0,
+      "m_pc": 72.9,
+      "p": 873.0,
+      "p_pc": 72.8,
+      "s": 828.0,
+      "s_pc": 69.0,
+      "tot_score": 2576.0,
+      "pc_score": 71.6
+    },
+    {
+      "rank": 5,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 219,
+          "p": 218,
+          "s": 214,
+          "tot_score": 651,
+          "pc_score": 72.3,
+          "m_pc": 73.0,
+          "p_pc": 72.7,
+          "s_pc": 71.3
+        },
+        {
+          "n": 1,
+          "name": "It's Raining In My Heart",
+          "m": 207,
+          "p": 213,
+          "s": 210,
+          "tot_score": 630,
+          "pc_score": 70.0,
+          "m_pc": 69.0,
+          "p_pc": 71.0,
+          "s_pc": 70.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 441.0,
+          "p": 425.0,
+          "s": 424.0,
+          "tot_score": 1290.0,
+          "pc_score": 71.7,
+          "m_pc": 73.5,
+          "p_pc": 70.8,
+          "s_pc": 70.7
+        }
+      ],
+      "n": 4,
+      "m": 867.0,
+      "m_pc": 72.3,
+      "p": 856.0,
+      "p_pc": 71.3,
+      "s": 848.0,
+      "s_pc": 70.7,
+      "tot_score": 2571.0,
+      "pc_score": 71.4
+    },
+    {
+      "rank": 6,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 192,
+          "p": 204,
+          "s": 197,
+          "tot_score": 593,
+          "pc_score": 65.9,
+          "m_pc": 64.0,
+          "p_pc": 68.0,
+          "s_pc": 65.7
+        },
+        {
+          "n": 1,
+          "name": "Back In Boston Common Days",
+          "m": 194,
+          "p": 206,
+          "s": 191,
+          "tot_score": 591,
+          "pc_score": 65.7,
+          "m_pc": 64.7,
+          "p_pc": 68.7,
+          "s_pc": 63.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 425.0,
+          "p": 421.0,
+          "s": 385.0,
+          "tot_score": 1231.0,
+          "pc_score": 68.4,
+          "m_pc": 70.8,
+          "p_pc": 70.2,
+          "s_pc": 64.2
+        }
+      ],
+      "n": 4,
+      "m": 811.0,
+      "m_pc": 67.6,
+      "p": 831.0,
+      "p_pc": 69.3,
+      "s": 773.0,
+      "s_pc": 64.4,
+      "tot_score": 2415.0,
+      "pc_score": 67.1
+    },
+    {
+      "rank": 7,
+      "name": "Figaro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Have You Ever Been Lonely?",
+          "m": 188,
+          "p": 195,
+          "s": 186,
+          "tot_score": 569,
+          "pc_score": 63.2,
+          "m_pc": 62.7,
+          "p_pc": 65.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "Side By Side Parody",
+          "m": 186,
+          "p": 192,
+          "s": 172,
+          "tot_score": 550,
+          "pc_score": 61.1,
+          "m_pc": 62.0,
+          "p_pc": 64.0,
+          "s_pc": 57.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 387.0,
+          "p": 393.0,
+          "s": 361.0,
+          "tot_score": 1141.0,
+          "pc_score": 63.4,
+          "m_pc": 64.5,
+          "p_pc": 65.5,
+          "s_pc": 60.2
+        }
+      ],
+      "n": 4,
+      "m": 761.0,
+      "m_pc": 63.4,
+      "p": 780.0,
+      "p_pc": 65.0,
+      "s": 719.0,
+      "s_pc": 59.9,
+      "tot_score": 2260.0,
+      "pc_score": 62.8
+    }
+  ]
+}

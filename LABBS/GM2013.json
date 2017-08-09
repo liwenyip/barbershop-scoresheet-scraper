@@ -42,31 +42,31 @@
       "name": "Sng Avg 1"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     }
   ],
@@ -82,19 +82,19 @@
       "pc_score": "81.7",
       "songs": [
         {
-          "title": "You Turned The Tables On Me (3)",
+          "name": "You Turned The Tables On Me (3)",
           "m": "246",
           "s": "238",
           "p": "247"
         },
         {
-          "title": "Package",
+          "name": "Package",
           "m": "242",
           "s": "241",
           "p": "257"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Owen"
@@ -123,19 +123,19 @@
       "pc_score": "81.4",
       "songs": [
         {
-          "title": "Razzle Dazzle (1)",
+          "name": "Razzle Dazzle (1)",
           "m": "238",
           "s": "247",
           "p": "245"
         },
         {
-          "title": "Package",
+          "name": "Package",
           "m": "253",
           "s": "241",
           "p": "241"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrea Day"
@@ -164,19 +164,19 @@
       "pc_score": "78.1",
       "songs": [
         {
-          "title": "I Love Jazz Medley (1)",
+          "name": "I Love Jazz Medley (1)",
           "m": "231",
           "s": "233",
           "p": "236"
         },
         {
-          "title": "Package",
+          "name": "Package",
           "m": "233",
           "s": "234",
           "p": "239"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Astrid Shepherd"

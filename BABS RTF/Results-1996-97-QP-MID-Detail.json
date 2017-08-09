@@ -1,0 +1,299 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1996-97-QP-MID-Detail.txt",
+  "assoc": "BABS",
+  "contest": "MIDLANDS QUARTET PRELIMS",
+  "location": "DERBY",
+  "year": "1996/97",
+  "type": "q",
+  "date": "26/10/1996",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bernie Cureton"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "p",
+      "name": "Avg. Pres"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Cambridge Blues",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 191,
+          "p": 195,
+          "s": 185,
+          "tot_score": 571,
+          "pc_score": 63.4,
+          "m_pc": 63.7,
+          "p_pc": 65.0,
+          "s_pc": 61.7
+        },
+        {
+          "n": 1,
+          "name": "\"Liar\" Medley",
+          "m": 204,
+          "p": 202,
+          "s": 185,
+          "tot_score": 591,
+          "pc_score": 65.7,
+          "m_pc": 68.0,
+          "p_pc": 67.3,
+          "s_pc": 61.7
+        }
+      ],
+      "n": 2,
+      "m": 395,
+      "m_pc": 65.8,
+      "p": 397,
+      "p_pc": 66.2,
+      "s": 370,
+      "s_pc": 61.7,
+      "tot_score": 1162,
+      "pc_score": 64.6
+    },
+    {
+      "rank": 2,
+      "name": "Rapport",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Used To Call Her Baby",
+          "m": 198,
+          "p": 198,
+          "s": 186,
+          "tot_score": 582,
+          "pc_score": 64.7,
+          "m_pc": 66.0,
+          "p_pc": 66.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "Old Songs Are Just Like Old Friends",
+          "m": 174,
+          "p": 197,
+          "s": 172,
+          "tot_score": 543,
+          "pc_score": 60.3,
+          "m_pc": 58.0,
+          "p_pc": 65.7,
+          "s_pc": 57.3
+        }
+      ],
+      "n": 2,
+      "m": 372,
+      "m_pc": 62.0,
+      "p": 395,
+      "p_pc": 65.8,
+      "s": 358,
+      "s_pc": 59.7,
+      "tot_score": 1125,
+      "pc_score": 62.5
+    },
+    {
+      "rank": 3,
+      "name": "Intermezzo",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just A Cottage Small",
+          "m": 191,
+          "p": 192,
+          "s": 176,
+          "tot_score": 559,
+          "pc_score": 62.1,
+          "m_pc": 63.7,
+          "p_pc": 64.0,
+          "s_pc": 58.7
+        },
+        {
+          "n": 1,
+          "name": "Just Because / Shine - Medley",
+          "m": 184,
+          "p": 186,
+          "s": 172,
+          "tot_score": 542,
+          "pc_score": 60.2,
+          "m_pc": 61.3,
+          "p_pc": 62.0,
+          "s_pc": 57.3
+        }
+      ],
+      "n": 2,
+      "m": 375,
+      "m_pc": 62.5,
+      "p": 378,
+      "p_pc": 63.0,
+      "s": 348,
+      "s_pc": 58.0,
+      "tot_score": 1101,
+      "pc_score": 61.2
+    },
+    {
+      "rank": 4,
+      "name": "Music Hall",
+      "songs": [
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 195,
+          "p": 195,
+          "s": 159,
+          "tot_score": 549,
+          "pc_score": 61.0,
+          "m_pc": 65.0,
+          "p_pc": 65.0,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 183,
+          "p": 200,
+          "s": 164,
+          "tot_score": 547,
+          "pc_score": 60.8,
+          "m_pc": 61.0,
+          "p_pc": 66.7,
+          "s_pc": 54.7
+        }
+      ],
+      "n": 2,
+      "m": 378,
+      "m_pc": 63.0,
+      "p": 395,
+      "p_pc": 65.8,
+      "s": 323,
+      "s_pc": 53.8,
+      "tot_score": 1096,
+      "pc_score": 60.9
+    },
+    {
+      "rank": 5,
+      "name": "Spontaneous Combustion",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sing Me That Song Again",
+          "m": 167,
+          "p": 167,
+          "s": 154,
+          "tot_score": 488,
+          "pc_score": 54.2,
+          "m_pc": 55.7,
+          "p_pc": 55.7,
+          "s_pc": 51.3
+        },
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 160,
+          "p": 166,
+          "s": 147,
+          "tot_score": 473,
+          "pc_score": 52.6,
+          "m_pc": 53.3,
+          "p_pc": 55.3,
+          "s_pc": 49.0
+        }
+      ],
+      "n": 2,
+      "m": 327,
+      "m_pc": 54.5,
+      "p": 333,
+      "p_pc": 55.5,
+      "s": 301,
+      "s_pc": 50.2,
+      "tot_score": 961,
+      "pc_score": 53.4
+    },
+    {
+      "rank": 6,
+      "name": "Lynx",
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Had All The World And Its Gold",
+          "m": 102,
+          "p": 126,
+          "s": 121,
+          "tot_score": 349,
+          "pc_score": 38.8,
+          "m_pc": 34.0,
+          "p_pc": 42.0,
+          "s_pc": 40.3
+        },
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 116,
+          "p": 123,
+          "s": 124,
+          "tot_score": 363,
+          "pc_score": 40.3,
+          "m_pc": 38.7,
+          "p_pc": 41.0,
+          "s_pc": 41.3
+        }
+      ],
+      "n": 2,
+      "m": 218,
+      "m_pc": 36.3,
+      "p": 249,
+      "p_pc": 41.5,
+      "s": 245,
+      "s_pc": 40.8,
+      "tot_score": 712,
+      "pc_score": 39.6
+    }
+  ]
+}

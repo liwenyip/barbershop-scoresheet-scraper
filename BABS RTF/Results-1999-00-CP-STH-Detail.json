@@ -1,0 +1,693 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1999-00-CP-STH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "SOUTHERN CHORUS PRELIMS",
+  "location": "READING",
+  "year": "1999/00",
+  "type": "c",
+  "date": "04/12/1999",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Arthur Scott"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Thames Valley Chorus",
+      "size": 61,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 134,
+          "p": 144,
+          "s": 139,
+          "tot_score": 417,
+          "pc_score": 69.5,
+          "m_pc": 67.0,
+          "p_pc": 72.0,
+          "s_pc": 69.5
+        },
+        {
+          "n": 1,
+          "name": "Always",
+          "m": 138,
+          "p": 143,
+          "s": 137,
+          "tot_score": 418,
+          "pc_score": 69.7,
+          "m_pc": 69.0,
+          "p_pc": 71.5,
+          "s_pc": 68.5
+        }
+      ],
+      "n": 2,
+      "m": 272,
+      "m_pc": 68.0,
+      "p": 287,
+      "p_pc": 71.8,
+      "s": 276,
+      "s_pc": 69.0,
+      "tot_score": 835,
+      "pc_score": 69.6
+    },
+    {
+      "rank": 2,
+      "name": "Great Western Chorus",
+      "size": 64,
+      "songs": [
+        {
+          "n": 1,
+          "name": "All Alone",
+          "m": 140,
+          "p": 131,
+          "s": 121,
+          "tot_score": 392,
+          "pc_score": 65.3,
+          "m_pc": 70.0,
+          "p_pc": 65.5,
+          "s_pc": 60.5
+        },
+        {
+          "n": 1,
+          "name": "My Little Miss Right Medley",
+          "m": 138,
+          "p": 131,
+          "s": 116,
+          "tot_score": 385,
+          "pc_score": 64.2,
+          "m_pc": 69.0,
+          "p_pc": 65.5,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 278,
+      "m_pc": 69.5,
+      "p": 262,
+      "p_pc": 65.5,
+      "s": 237,
+      "s_pc": 59.3,
+      "tot_score": 777,
+      "pc_score": 64.8
+    },
+    {
+      "rank": 3,
+      "name": "Solent City Chorus",
+      "size": 30,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Pal Of My Cradle Days",
+          "m": 130,
+          "p": 133,
+          "s": 126,
+          "tot_score": 389,
+          "pc_score": 64.8,
+          "m_pc": 65.0,
+          "p_pc": 66.5,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 131,
+          "p": 132,
+          "s": 121,
+          "tot_score": 384,
+          "pc_score": 64.0,
+          "m_pc": 65.5,
+          "p_pc": 66.0,
+          "s_pc": 60.5
+        }
+      ],
+      "n": 2,
+      "m": 261,
+      "m_pc": 65.3,
+      "p": 265,
+      "p_pc": 66.3,
+      "s": 247,
+      "s_pc": 61.8,
+      "tot_score": 773,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 4,
+      "name": "Crawley Chordsmen",
+      "size": 30,
+      "songs": [
+        {
+          "n": 1,
+          "name": "At The End Of A Cobblestone Road",
+          "m": 122,
+          "p": 126,
+          "s": 120,
+          "tot_score": 368,
+          "pc_score": 61.3,
+          "m_pc": 61.0,
+          "p_pc": 63.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Macnamara's Band",
+          "m": 131,
+          "p": 135,
+          "s": 118,
+          "tot_score": 384,
+          "pc_score": 64.0,
+          "m_pc": 65.5,
+          "p_pc": 67.5,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 253,
+      "m_pc": 63.3,
+      "p": 261,
+      "p_pc": 65.3,
+      "s": 238,
+      "s_pc": 59.5,
+      "tot_score": 752,
+      "pc_score": 62.7
+    },
+    {
+      "rank": 5,
+      "name": "Southern Union",
+      "size": 44,
+      "songs": [
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 128,
+          "p": 127,
+          "s": 116,
+          "tot_score": 371,
+          "pc_score": 61.8,
+          "m_pc": 64.0,
+          "p_pc": 63.5,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "You Made Me Love You",
+          "m": 121,
+          "p": 124,
+          "s": 111,
+          "tot_score": 356,
+          "pc_score": 59.3,
+          "m_pc": 60.5,
+          "p_pc": 62.0,
+          "s_pc": 55.5
+        }
+      ],
+      "n": 2,
+      "m": 249,
+      "m_pc": 62.3,
+      "p": 251,
+      "p_pc": 62.8,
+      "s": 227,
+      "s_pc": 56.8,
+      "tot_score": 727,
+      "pc_score": 60.6
+    },
+    {
+      "rank": 6,
+      "name": "The Pilgrimaires",
+      "size": 49,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Girl Of My Dreams",
+          "m": 130,
+          "p": 122,
+          "s": 112,
+          "tot_score": 364,
+          "pc_score": 60.7,
+          "m_pc": 65.0,
+          "p_pc": 61.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 123,
+          "p": 124,
+          "s": 109,
+          "tot_score": 356,
+          "pc_score": 59.3,
+          "m_pc": 61.5,
+          "p_pc": 62.0,
+          "s_pc": 54.5
+        }
+      ],
+      "n": 2,
+      "m": 253,
+      "m_pc": 63.3,
+      "p": 246,
+      "p_pc": 61.5,
+      "s": 221,
+      "s_pc": 55.3,
+      "tot_score": 720,
+      "pc_score": 60.0
+    },
+    {
+      "rank": 7,
+      "name": "The Kentones",
+      "size": 33,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 119,
+          "p": 127,
+          "s": 110,
+          "tot_score": 356,
+          "pc_score": 59.3,
+          "m_pc": 59.5,
+          "p_pc": 63.5,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "There'll Be Some Changes Made / Who's Sorry / After You've ",
+          "m": 125,
+          "p": 128,
+          "s": 110,
+          "tot_score": 363,
+          "pc_score": 60.5,
+          "m_pc": 62.5,
+          "p_pc": 64.0,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 244,
+      "m_pc": 61.0,
+      "p": 255,
+      "p_pc": 63.8,
+      "s": 220,
+      "s_pc": 55.0,
+      "tot_score": 719,
+      "pc_score": 59.9
+    },
+    {
+      "rank": 8,
+      "name": "Capital Chorus",
+      "size": 18,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 114,
+          "p": 119,
+          "s": 107,
+          "tot_score": 340,
+          "pc_score": 56.7,
+          "m_pc": 57.0,
+          "p_pc": 59.5,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 122,
+          "p": 116,
+          "s": 110,
+          "tot_score": 348,
+          "pc_score": 58.0,
+          "m_pc": 61.0,
+          "p_pc": 58.0,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 236,
+      "m_pc": 59.0,
+      "p": 235,
+      "p_pc": 58.8,
+      "s": 217,
+      "s_pc": 54.3,
+      "tot_score": 688,
+      "pc_score": 57.3
+    },
+    {
+      "rank": 8,
+      "name": "Kings Of Herts",
+      "size": 40,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sing Me That Song Again",
+          "m": 127,
+          "p": 118,
+          "s": 106,
+          "tot_score": 351,
+          "pc_score": 58.5,
+          "m_pc": 63.5,
+          "p_pc": 59.0,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 123,
+          "p": 113,
+          "s": 101,
+          "tot_score": 337,
+          "pc_score": 56.2,
+          "m_pc": 61.5,
+          "p_pc": 56.5,
+          "s_pc": 50.5
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 231,
+      "p_pc": 57.8,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 688,
+      "pc_score": 57.3
+    },
+    {
+      "rank": 10,
+      "name": "The Telfordaires",
+      "size": 23,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Showboat Came To Town",
+          "m": 125,
+          "p": 103,
+          "s": 104,
+          "tot_score": 332,
+          "pc_score": 55.3,
+          "m_pc": 62.5,
+          "p_pc": 51.5,
+          "s_pc": 52.0
+        },
+        {
+          "n": 1,
+          "name": "Who'll Take My Place When I'm Gone?",
+          "m": 124,
+          "p": 106,
+          "s": 103,
+          "tot_score": 333,
+          "pc_score": 55.5,
+          "m_pc": 62.0,
+          "p_pc": 53.0,
+          "s_pc": 51.5
+        }
+      ],
+      "n": 2,
+      "m": 249,
+      "m_pc": 62.3,
+      "p": 209,
+      "p_pc": 52.3,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 665,
+      "pc_score": 55.4
+    },
+    {
+      "rank": 11,
+      "name": "Knights Of Harmony",
+      "size": 22,
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 117,
+          "p": 121,
+          "s": 107,
+          "tot_score": 345,
+          "pc_score": 57.5,
+          "m_pc": 58.5,
+          "p_pc": 60.5,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "Basin Street Blues",
+          "m": 90,
+          "p": 125,
+          "s": 100,
+          "tot_score": 315,
+          "pc_score": 52.5,
+          "m_pc": 45.0,
+          "p_pc": 62.5,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 207,
+      "m_pc": 51.8,
+      "p": 246,
+      "p_pc": 61.5,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 660,
+      "pc_score": 55.0
+    },
+    {
+      "rank": 12,
+      "name": "The Rivertones",
+      "size": 16,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 111,
+          "p": 98,
+          "s": 100,
+          "tot_score": 309,
+          "pc_score": 51.5,
+          "m_pc": 55.5,
+          "p_pc": 49.0,
+          "s_pc": 50.0
+        },
+        {
+          "n": 1,
+          "name": "Aura Lee / Love Me Tender Medley",
+          "m": 111,
+          "p": 105,
+          "s": 109,
+          "tot_score": 325,
+          "pc_score": 54.2,
+          "m_pc": 55.5,
+          "p_pc": 52.5,
+          "s_pc": 54.5
+        }
+      ],
+      "n": 2,
+      "m": 222,
+      "m_pc": 55.5,
+      "p": 203,
+      "p_pc": 50.8,
+      "s": 209,
+      "s_pc": 52.3,
+      "tot_score": 634,
+      "pc_score": 52.8
+    },
+    {
+      "rank": 13,
+      "name": "Surrey Fringe",
+      "size": 21,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 124,
+          "p": 95,
+          "s": 110,
+          "tot_score": 329,
+          "pc_score": 54.8,
+          "m_pc": 62.0,
+          "p_pc": 47.5,
+          "s_pc": 55.0
+        },
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 121,
+          "p": 96,
+          "s": 87,
+          "tot_score": 304,
+          "pc_score": 50.7,
+          "m_pc": 60.5,
+          "p_pc": 48.0,
+          "s_pc": 43.5
+        }
+      ],
+      "n": 2,
+      "m": 245,
+      "m_pc": 61.3,
+      "p": 191,
+      "p_pc": 47.8,
+      "s": 197,
+      "s_pc": 49.3,
+      "tot_score": 633,
+      "pc_score": 52.8
+    },
+    {
+      "rank": 14,
+      "name": "Harmony Exe",
+      "size": 19,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When I Lost You",
+          "m": 103,
+          "p": 85,
+          "s": 84,
+          "tot_score": 272,
+          "pc_score": 45.3,
+          "m_pc": 51.5,
+          "p_pc": 42.5,
+          "s_pc": 42.0
+        },
+        {
+          "n": 1,
+          "name": "I Want A Girl (Just Like The Girl That Married Dear Old Dad)",
+          "m": 98,
+          "p": 88,
+          "s": 87,
+          "tot_score": 273,
+          "pc_score": 45.5,
+          "m_pc": 49.0,
+          "p_pc": 44.0,
+          "s_pc": 43.5
+        }
+      ],
+      "n": 2,
+      "m": 201,
+      "m_pc": 50.3,
+      "p": 173,
+      "p_pc": 43.3,
+      "s": 171,
+      "s_pc": 42.8,
+      "tot_score": 545,
+      "pc_score": 45.4
+    },
+    {
+      "rank": 15,
+      "name": "Fine City Chorus",
+      "size": 19,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old Fashioned Girl (In A Gingham Gown)",
+          "m": 101,
+          "p": 84,
+          "s": 76,
+          "tot_score": 261,
+          "pc_score": 43.5,
+          "m_pc": 50.5,
+          "p_pc": 42.0,
+          "s_pc": 38.0
+        },
+        {
+          "n": 1,
+          "name": "Five Foot Two",
+          "m": 103,
+          "p": 84,
+          "s": 75,
+          "tot_score": 262,
+          "pc_score": 43.7,
+          "m_pc": 51.5,
+          "p_pc": 42.0,
+          "s_pc": 37.5
+        }
+      ],
+      "n": 2,
+      "m": 204,
+      "m_pc": 51.0,
+      "p": 168,
+      "p_pc": 42.0,
+      "s": 151,
+      "s_pc": 37.8,
+      "tot_score": 523,
+      "pc_score": 43.6
+    },
+    {
+      "rank": 16,
+      "name": "Carshalton Conchords",
+      "size": 13,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 86,
+          "p": 74,
+          "s": 56,
+          "tot_score": 216,
+          "pc_score": 36.0,
+          "m_pc": 43.0,
+          "p_pc": 37.0,
+          "s_pc": 28.0
+        },
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 92,
+          "p": 80,
+          "s": 74,
+          "tot_score": 246,
+          "pc_score": 41.0,
+          "m_pc": 46.0,
+          "p_pc": 40.0,
+          "s_pc": 37.0
+        }
+      ],
+      "n": 2,
+      "m": 178,
+      "m_pc": 44.5,
+      "p": 154,
+      "p_pc": 38.5,
+      "s": 130,
+      "s_pc": 32.5,
+      "tot_score": 462,
+      "pc_score": 38.5
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2016-2017-OMVCC-Detail.txt",
+  "assoc": "BABS",
+  "contest": "MIXED CHORUS CONTEST",
+  "location": "BOURNEMOUTH",
+  "year": "2016/2017",
+  "type": "c",
+  "date": "29/05/2017",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Boo De Bruin"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Neil Brinkworth"
+    },
+    {
+      "cat": "s",
+      "name": "Cherry Hartshorn"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Yvonne Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Samantha Roberts"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "EQMC",
+      "members": [
+        {
+          "part": "director",
+          "name": "Dick Knight"
+        }
+      ],
+      "size": 63,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Letters",
+          "m": 148,
+          "p": 143,
+          "s": 144,
+          "tot_score": 435,
+          "pc_score": 72.5,
+          "m_pc": 74.0,
+          "p_pc": 71.5,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "I've Got The World On A String",
+          "m": 150,
+          "p": 143,
+          "s": 140,
+          "tot_score": 433,
+          "pc_score": 72.2,
+          "m_pc": 75.0,
+          "p_pc": 71.5,
+          "s_pc": 70.0
+        }
+      ],
+      "n": 2,
+      "m": 298,
+      "m_pc": 74.5,
+      "p": 286,
+      "p_pc": 71.5,
+      "s": 284,
+      "s_pc": 71.0,
+      "tot_score": 868,
+      "pc_score": 72.3
+    },
+    {
+      "rank": 2,
+      "name": "Southern Acappella",
+      "members": [
+        {
+          "part": "director",
+          "name": "Andrew Edgley"
+        }
+      ],
+      "size": 24,
+      "songs": [
+        {
+          "n": 1,
+          "name": "If I Had My Way",
+          "m": 140,
+          "p": 137,
+          "s": 144,
+          "tot_score": 421,
+          "pc_score": 70.2,
+          "m_pc": 70.0,
+          "p_pc": 68.5,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 146,
+          "p": 143,
+          "s": 141,
+          "tot_score": 430,
+          "pc_score": 71.7,
+          "m_pc": 73.0,
+          "p_pc": 71.5,
+          "s_pc": 70.5
+        }
+      ],
+      "n": 2,
+      "m": 286,
+      "m_pc": 71.5,
+      "p": 280,
+      "p_pc": 70.0,
+      "s": 285,
+      "s_pc": 71.3,
+      "tot_score": 851,
+      "pc_score": 70.9
+    },
+    {
+      "rank": 3,
+      "name": "Bristol A Cappella",
+      "members": [
+        {
+          "part": "director",
+          "name": "Iain Hallam"
+        }
+      ],
+      "size": 30,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Can't Buy Me Love",
+          "m": 145,
+          "p": 136,
+          "s": 136,
+          "tot_score": 417,
+          "pc_score": 69.5,
+          "m_pc": 72.5,
+          "p_pc": 68.0,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "He Ain't Heavy",
+          "m": 152,
+          "p": 135,
+          "s": 140,
+          "tot_score": 427,
+          "pc_score": 71.2,
+          "m_pc": 76.0,
+          "p_pc": 67.5,
+          "s_pc": 70.0
+        }
+      ],
+      "n": 2,
+      "m": 297,
+      "m_pc": 74.3,
+      "p": 271,
+      "p_pc": 67.8,
+      "s": 276,
+      "s_pc": 69.0,
+      "tot_score": 844,
+      "pc_score": 70.3
+    },
+    {
+      "rank": 4,
+      "name": "Sing It!",
+      "members": [
+        {
+          "part": "director",
+          "name": "Gina Hallums"
+        }
+      ],
+      "size": 25,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Beautiful Things",
+          "m": 133,
+          "p": 137,
+          "s": 132,
+          "tot_score": 402,
+          "pc_score": 67.0,
+          "m_pc": 66.5,
+          "p_pc": 68.5,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "Talk To The Animals",
+          "m": 131,
+          "p": 134,
+          "s": 128,
+          "tot_score": 393,
+          "pc_score": 65.5,
+          "m_pc": 65.5,
+          "p_pc": 67.0,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 264,
+      "m_pc": 66.0,
+      "p": 271,
+      "p_pc": 67.8,
+      "s": 260,
+      "s_pc": 65.0,
+      "tot_score": 795,
+      "pc_score": 66.3
+    }
+  ]
+}

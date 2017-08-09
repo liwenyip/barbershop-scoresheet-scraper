@@ -30,19 +30,19 @@
       "name": "Mike Taylor"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     }
   ],
@@ -58,19 +58,19 @@
       "pc_score": "77.7",
       "songs": [
         {
-          "title": "Love Letters",
+          "name": "Love Letters",
           "m": "156",
           "s": "157",
           "p": "157"
         },
         {
-          "title": "There I've Said It Again",
+          "name": "There I've Said It Again",
           "m": "157",
           "s": "154",
           "p": "151"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian James"
@@ -99,19 +99,19 @@
       "pc_score": "73.5",
       "songs": [
         {
-          "title": "There's A Brand New Gang",
+          "name": "There's A Brand New Gang",
           "m": "150",
           "s": "146",
           "p": "152"
         },
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "149",
           "s": "142",
           "p": "143"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Edwards"
@@ -140,19 +140,19 @@
       "pc_score": "67.7",
       "songs": [
         {
-          "title": "When The Gold Turns To Grey",
+          "name": "When The Gold Turns To Grey",
           "m": "137",
           "s": "139",
           "p": "135"
         },
         {
-          "title": "Bring Back Those Good Old Days",
+          "name": "Bring Back Those Good Old Days",
           "m": "136",
           "s": "132",
           "p": "133"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick Barnacle"
@@ -181,19 +181,19 @@
       "pc_score": "67.1",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "129",
           "s": "138",
           "p": "135"
         },
         {
-          "title": "Sweet Lorraine",
+          "name": "Sweet Lorraine",
           "m": "139",
           "s": "132",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Paul Jeffrey"
@@ -222,19 +222,19 @@
       "pc_score": "66.6",
       "songs": [
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "132",
           "s": "133",
           "p": "133"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "136",
           "s": "131",
           "p": "134"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Salter"
@@ -263,19 +263,19 @@
       "pc_score": "65.9",
       "songs": [
         {
-          "title": "Each Time I Fall In Love",
+          "name": "Each Time I Fall In Love",
           "m": "125",
           "s": "134",
           "p": "131"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "137",
           "s": "132",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Devine"
@@ -304,19 +304,19 @@
       "pc_score": "65.2",
       "songs": [
         {
-          "title": "I'll Be Seeing You",
+          "name": "I'll Be Seeing You",
           "m": "133",
           "s": "129",
           "p": "130"
         },
         {
-          "title": "I'm Beginning To See The Light",
+          "name": "I'm Beginning To See The Light",
           "m": "126",
           "s": "130",
           "p": "134"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris Blatchford"
@@ -345,19 +345,19 @@
       "pc_score": "64.8",
       "songs": [
         {
-          "title": "Chances Are",
+          "name": "Chances Are",
           "m": "125",
           "s": "130",
           "p": "127"
         },
         {
-          "title": "Almost Like Being In Love",
+          "name": "Almost Like Being In Love",
           "m": "131",
           "s": "131",
           "p": "134"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mark Constable"
@@ -386,19 +386,19 @@
       "pc_score": "64.4",
       "songs": [
         {
-          "title": "Darktown Strutters' Ball",
+          "name": "Darktown Strutters' Ball",
           "m": "127",
           "s": "128",
           "p": "133"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "133",
           "s": "128",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Woolley"
@@ -427,19 +427,19 @@
       "pc_score": "64.0",
       "songs": [
         {
-          "title": "Everyone's Wrong But Me",
+          "name": "Everyone's Wrong But Me",
           "m": "123",
           "s": "136",
           "p": "119"
         },
         {
-          "title": "Something About Ya",
+          "name": "Something About Ya",
           "m": "135",
           "s": "127",
           "p": "128"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nigel Kearney"
@@ -468,19 +468,19 @@
       "pc_score": "63.8",
       "songs": [
         {
-          "title": "Jazz Came Up The River From New Orleans",
+          "name": "Jazz Came Up The River From New Orleans",
           "m": "129",
           "s": "132",
           "p": "132"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "134",
           "s": "119",
           "p": "119"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martin Procter"
@@ -509,19 +509,19 @@
       "pc_score": "63.3",
       "songs": [
         {
-          "title": "Nevertheless",
+          "name": "Nevertheless",
           "m": "120",
           "s": "134",
           "p": "125"
         },
         {
-          "title": "All Dressed Up With A Broken Heart",
+          "name": "All Dressed Up With A Broken Heart",
           "m": "131",
           "s": "127",
           "p": "123"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Geoff Unwin"
@@ -550,19 +550,19 @@
       "pc_score": "62.3",
       "songs": [
         {
-          "title": "My Old Kentucky Home",
+          "name": "My Old Kentucky Home",
           "m": "127",
           "s": "121",
           "p": "131"
         },
         {
-          "title": "Recipe For Makin' Love",
+          "name": "Recipe For Makin' Love",
           "m": "127",
           "s": "123",
           "p": "119"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Devine"
@@ -591,19 +591,19 @@
       "pc_score": "62.0",
       "songs": [
         {
-          "title": "Last Night Was The End Of The World",
+          "name": "Last Night Was The End Of The World",
           "m": "122",
           "s": "119",
           "p": "129"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "118",
           "s": "128",
           "p": "128"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Brian Shorrocks"
@@ -632,19 +632,19 @@
       "pc_score": "61.3",
       "songs": [
         {
-          "title": "When She Loved Me",
+          "name": "When She Loved Me",
           "m": "124",
           "s": "121",
           "p": "129"
         },
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "125",
           "s": "120",
           "p": "116"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tom Fitch"
@@ -673,19 +673,19 @@
       "pc_score": "61.2",
       "songs": [
         {
-          "title": "When She Loved Me",
+          "name": "When She Loved Me",
           "m": "122",
           "s": "124",
           "p": "128"
         },
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "120",
           "s": "120",
           "p": "120"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "John Beesley"
@@ -714,19 +714,19 @@
       "pc_score": "60.7",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "128",
           "s": "122",
           "p": "126"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "121",
           "s": "115",
           "p": "116"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Izaac Stanley"
@@ -755,19 +755,19 @@
       "pc_score": "60.2",
       "songs": [
         {
-          "title": "Drivin' Me Crazy",
+          "name": "Drivin' Me Crazy",
           "m": "123",
           "s": "124",
           "p": "120"
         },
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "124",
           "s": "114",
           "p": "117"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alf Fisher"
@@ -796,19 +796,19 @@
       "pc_score": "59.5",
       "songs": [
         {
-          "title": "Daddy's Little Girl",
+          "name": "Daddy's Little Girl",
           "m": "113",
           "s": "131",
           "p": "112"
         },
         {
-          "title": "The Gang That Sang 'Heart Of My Heart'",
+          "name": "The Gang That Sang 'Heart Of My Heart'",
           "m": "130",
           "s": "114",
           "p": "114"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Milner"
@@ -837,19 +837,19 @@
       "pc_score": "55.2",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "115",
           "s": "109",
           "p": "114"
         },
         {
-          "title": "My Old Kentucky Home",
+          "name": "My Old Kentucky Home",
           "m": "106",
           "s": "108",
           "p": "110"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Neil Carrier"

@@ -1,0 +1,690 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2010-11-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "LLANDUDNO",
+  "year": "2010/11",
+  "type": "q",
+  "date": "29/05/2011",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Crossfire",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Andrew"
+        },
+        {
+          "part": "bass",
+          "name": "Neil"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Cheer Up Charlie",
+          "m": 226,
+          "p": 229,
+          "s": 229,
+          "tot_score": 684,
+          "pc_score": 76.0,
+          "m_pc": 75.3,
+          "p_pc": 76.3,
+          "s_pc": 76.3
+        },
+        {
+          "n": 1,
+          "name": "They Can't Take That Away From Me",
+          "m": 231,
+          "p": 227,
+          "s": 233,
+          "tot_score": 691,
+          "pc_score": 76.8,
+          "m_pc": 77.0,
+          "p_pc": 75.7,
+          "s_pc": 77.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 459.0,
+          "p": 460.0,
+          "s": 457.0,
+          "tot_score": 1376.0,
+          "pc_score": 76.4,
+          "m_pc": 76.5,
+          "p_pc": 76.7,
+          "s_pc": 76.2
+        }
+      ],
+      "n": 4,
+      "m": 916.0,
+      "m_pc": 76.3,
+      "p": 916.0,
+      "p_pc": 76.3,
+      "s": 919.0,
+      "s_pc": 76.6,
+      "tot_score": 2751.0,
+      "pc_score": 76.4
+    },
+    {
+      "rank": 2,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Timm"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Pal",
+          "m": 227,
+          "p": 232,
+          "s": 230,
+          "tot_score": 689,
+          "pc_score": 76.6,
+          "m_pc": 75.7,
+          "p_pc": 77.3,
+          "s_pc": 76.7
+        },
+        {
+          "n": 1,
+          "name": "Hello My Baby",
+          "m": 226,
+          "p": 230,
+          "s": 226,
+          "tot_score": 682,
+          "pc_score": 75.8,
+          "m_pc": 75.3,
+          "p_pc": 76.7,
+          "s_pc": 75.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 456.0,
+          "p": 455.0,
+          "s": 448.0,
+          "tot_score": 1359.0,
+          "pc_score": 75.5,
+          "m_pc": 76.0,
+          "p_pc": 75.8,
+          "s_pc": 74.7
+        }
+      ],
+      "n": 4,
+      "m": 909.0,
+      "m_pc": 75.8,
+      "p": 917.0,
+      "p_pc": 76.4,
+      "s": 904.0,
+      "s_pc": 75.3,
+      "tot_score": 2730.0,
+      "pc_score": 75.8
+    },
+    {
+      "rank": 3,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 204,
+          "p": 209,
+          "s": 205,
+          "tot_score": 618,
+          "pc_score": 68.7,
+          "m_pc": 68.0,
+          "p_pc": 69.7,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 206,
+          "p": 206,
+          "s": 208,
+          "tot_score": 620,
+          "pc_score": 68.9,
+          "m_pc": 68.7,
+          "p_pc": 68.7,
+          "s_pc": 69.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 428.0,
+          "p": 408.0,
+          "s": 424.0,
+          "tot_score": 1260.0,
+          "pc_score": 70.0,
+          "m_pc": 71.3,
+          "p_pc": 68.0,
+          "s_pc": 70.7
+        }
+      ],
+      "n": 4,
+      "m": 838.0,
+      "m_pc": 69.8,
+      "p": 823.0,
+      "p_pc": 68.6,
+      "s": 837.0,
+      "s_pc": 69.8,
+      "tot_score": 2498.0,
+      "pc_score": 69.4
+    },
+    {
+      "rank": 4,
+      "name": "Vox",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Graham"
+        },
+        {
+          "part": "bass",
+          "name": "Mark"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 210,
+          "p": 209,
+          "s": 206,
+          "tot_score": 625,
+          "pc_score": 69.4,
+          "m_pc": 70.0,
+          "p_pc": 69.7,
+          "s_pc": 68.7
+        },
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 208,
+          "p": 208,
+          "s": 206,
+          "tot_score": 622,
+          "pc_score": 69.1,
+          "m_pc": 69.3,
+          "p_pc": 69.3,
+          "s_pc": 68.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 410.0,
+          "p": 398.0,
+          "s": 416.0,
+          "tot_score": 1224.0,
+          "pc_score": 68.0,
+          "m_pc": 68.3,
+          "p_pc": 66.3,
+          "s_pc": 69.3
+        }
+      ],
+      "n": 4,
+      "m": 828.0,
+      "m_pc": 69.0,
+      "p": 815.0,
+      "p_pc": 67.9,
+      "s": 828.0,
+      "s_pc": 69.0,
+      "tot_score": 2471.0,
+      "pc_score": 68.6
+    },
+    {
+      "rank": 5,
+      "name": "4getmenots",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "James"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Colin"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Hello My Baby",
+          "m": 202,
+          "p": 202,
+          "s": 204,
+          "tot_score": 608,
+          "pc_score": 67.6,
+          "m_pc": 67.3,
+          "p_pc": 67.3,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "There's A New Gang On The Corner",
+          "m": 204,
+          "p": 208,
+          "s": 207,
+          "tot_score": 619,
+          "pc_score": 68.8,
+          "m_pc": 68.0,
+          "p_pc": 69.3,
+          "s_pc": 69.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 418.0,
+          "p": 407.0,
+          "s": 403.0,
+          "tot_score": 1228.0,
+          "pc_score": 68.2,
+          "m_pc": 69.7,
+          "p_pc": 67.8,
+          "s_pc": 67.2
+        }
+      ],
+      "n": 4,
+      "m": 824.0,
+      "m_pc": 68.7,
+      "p": 817.0,
+      "p_pc": 68.1,
+      "s": 814.0,
+      "s_pc": 67.8,
+      "tot_score": 2455.0,
+      "pc_score": 68.2
+    },
+    {
+      "rank": 6,
+      "name": "Reunion",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Giles"
+        },
+        {
+          "part": "bass",
+          "name": "Martin"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "If I Had My Way",
+          "m": 212,
+          "p": 213,
+          "s": 206,
+          "tot_score": 631,
+          "pc_score": 70.1,
+          "m_pc": 70.7,
+          "p_pc": 71.0,
+          "s_pc": 68.7
+        },
+        {
+          "n": 1,
+          "name": "There'll Be No New Tunes On This Old Piano",
+          "m": 208,
+          "p": 214,
+          "s": 204,
+          "tot_score": 626,
+          "pc_score": 69.6,
+          "m_pc": 69.3,
+          "p_pc": 71.3,
+          "s_pc": 68.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 385.0,
+          "p": 403.0,
+          "s": 409.0,
+          "tot_score": 1197.0,
+          "pc_score": 66.5,
+          "m_pc": 64.2,
+          "p_pc": 67.2,
+          "s_pc": 68.2
+        }
+      ],
+      "n": 4,
+      "m": 805.0,
+      "m_pc": 67.1,
+      "p": 830.0,
+      "p_pc": 69.2,
+      "s": 819.0,
+      "s_pc": 68.3,
+      "tot_score": 2454.0,
+      "pc_score": 68.2
+    },
+    {
+      "rank": 7,
+      "name": "The Serious Chord Squad",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Frank"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Bob"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Stayin' Home",
+          "m": 203,
+          "p": 209,
+          "s": 201,
+          "tot_score": 613,
+          "pc_score": 68.1,
+          "m_pc": 67.7,
+          "p_pc": 69.7,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "Birth Of The Blues",
+          "m": 201,
+          "p": 210,
+          "s": 200,
+          "tot_score": 611,
+          "pc_score": 67.9,
+          "m_pc": 67.0,
+          "p_pc": 70.0,
+          "s_pc": 66.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 398.0,
+          "p": 416.0,
+          "s": 400.0,
+          "tot_score": 1214.0,
+          "pc_score": 67.4,
+          "m_pc": 66.3,
+          "p_pc": 69.3,
+          "s_pc": 66.7
+        }
+      ],
+      "n": 4,
+      "m": 802.0,
+      "m_pc": 66.8,
+      "p": 835.0,
+      "p_pc": 69.6,
+      "s": 801.0,
+      "s_pc": 66.8,
+      "tot_score": 2438.0,
+      "pc_score": 67.7
+    },
+    {
+      "rank": 8,
+      "name": "Quadrahedron",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
+          "m": 199,
+          "p": 200,
+          "s": 202,
+          "tot_score": 601,
+          "pc_score": 66.8,
+          "m_pc": 66.3,
+          "p_pc": 66.7,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Just In Time",
+          "m": 199,
+          "p": 201,
+          "s": 201,
+          "tot_score": 601,
+          "pc_score": 66.8,
+          "m_pc": 66.3,
+          "p_pc": 67.0,
+          "s_pc": 67.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 397.0,
+          "p": 400.0,
+          "s": 400.0,
+          "tot_score": 1197.0,
+          "pc_score": 66.5,
+          "m_pc": 66.2,
+          "p_pc": 66.7,
+          "s_pc": 66.7
+        }
+      ],
+      "n": 4,
+      "m": 795.0,
+      "m_pc": 66.3,
+      "p": 801.0,
+      "p_pc": 66.8,
+      "s": 803.0,
+      "s_pc": 66.9,
+      "tot_score": 2399.0,
+      "pc_score": 66.6
+    },
+    {
+      "rank": 9,
+      "name": "Cadence",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 208,
+          "p": 208,
+          "s": 200,
+          "tot_score": 616,
+          "pc_score": 68.4,
+          "m_pc": 69.3,
+          "p_pc": 69.3,
+          "s_pc": 66.7
+        },
+        {
+          "n": 1,
+          "name": "Cruella De Vil",
+          "m": 173,
+          "p": 195,
+          "s": 176,
+          "tot_score": 544,
+          "pc_score": 60.4,
+          "m_pc": 57.7,
+          "p_pc": 65.0,
+          "s_pc": 58.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 389.0,
+          "p": 409.0,
+          "s": 399.0,
+          "tot_score": 1197.0,
+          "pc_score": 66.5,
+          "m_pc": 64.8,
+          "p_pc": 68.2,
+          "s_pc": 66.5
+        }
+      ],
+      "n": 4,
+      "m": 770.0,
+      "m_pc": 64.2,
+      "p": 812.0,
+      "p_pc": 67.7,
+      "s": 775.0,
+      "s_pc": 64.6,
+      "tot_score": 2357.0,
+      "pc_score": 65.5
+    }
+  ]
+}

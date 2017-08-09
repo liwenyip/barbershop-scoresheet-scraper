@@ -30,23 +30,23 @@
       "name": "Mike Taylor"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
@@ -62,19 +62,19 @@
       "pc_score": "75.3",
       "songs": [
         {
-          "title": "I Only Have Eyes For You",
+          "name": "I Only Have Eyes For You",
           "m": "145",
           "s": "146",
           "p": "153"
         },
         {
-          "title": "I Didn't Wanna Fall",
+          "name": "I Didn't Wanna Fall",
           "m": "155",
           "s": "152",
           "p": "152"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jacqui Foetu"
@@ -103,19 +103,19 @@
       "pc_score": "73.1",
       "songs": [
         {
-          "title": "The Little Boy",
+          "name": "The Little Boy",
           "m": "142",
           "s": "144",
           "p": "144"
         },
         {
-          "title": "The Bass Part",
+          "name": "The Bass Part",
           "m": "147",
           "s": "147",
           "p": "153"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Delyth Knight"
@@ -144,19 +144,19 @@
       "pc_score": "72.2",
       "songs": [
         {
-          "title": "Love Letters",
+          "name": "Love Letters",
           "m": "147",
           "s": "143",
           "p": "146"
         },
         {
-          "title": "Just In Time",
+          "name": "Just In Time",
           "m": "144",
           "s": "145",
           "p": "141"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Cherie Morgan"
@@ -185,19 +185,19 @@
       "pc_score": "70.8",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "138",
           "s": "141",
           "p": "144"
         },
         {
-          "title": "What Kind Of Fool Am I?",
+          "name": "What Kind Of Fool Am I?",
           "m": "141",
           "s": "142",
           "p": "143"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Veryan Zimber"
@@ -226,19 +226,19 @@
       "pc_score": "65.8",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "135",
           "s": "132",
           "p": "130"
         },
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "126",
           "s": "132",
           "p": "134"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Stanley"
@@ -267,19 +267,19 @@
       "pc_score": "60.9",
       "songs": [
         {
-          "title": "Among My Souvenirs",
+          "name": "Among My Souvenirs",
           "m": "126",
           "s": "120",
           "p": "118"
         },
         {
-          "title": "Love Eyes Medley",
+          "name": "Love Eyes Medley",
           "m": "123",
           "s": "123",
           "p": "121"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris Wheatley"
@@ -308,19 +308,19 @@
       "pc_score": "59.4",
       "songs": [
         {
-          "title": "When I Leave The World Behind",
+          "name": "When I Leave The World Behind",
           "m": "124",
           "s": "116",
           "p": "115"
         },
         {
-          "title": "Can't Buy Me Love",
+          "name": "Can't Buy Me Love",
           "m": "122",
           "s": "115",
           "p": "121"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Angharad Owens"

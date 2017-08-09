@@ -42,31 +42,31 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1446",
-      "final_tot_score": "2857",
+      "prev_tot_score": "1446",
+      "tot_score": "2857",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -75,25 +75,25 @@
       "pc_score": "79.4",
       "songs": [
         {
-          "title": "Razzle Dazzle",
+          "name": "Razzle Dazzle",
           "m": "244",
           "s": "245",
           "p": "240"
         },
         {
-          "title": "When You Wish Upon A Star",
+          "name": "When You Wish Upon A Star",
           "m": "241",
           "s": "239",
           "p": "237"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "468",
           "s": "469",
           "p": "474"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrea Day"
@@ -113,8 +113,8 @@
       ]
     },
     {
-      "tot_score": "1247",
-      "final_tot_score": "2491",
+      "prev_tot_score": "1247",
+      "tot_score": "2491",
       "rank_m": "2",
       "rank_s": "5",
       "rank_p": "2",
@@ -123,25 +123,25 @@
       "pc_score": "69.2",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "212",
           "s": "211",
           "p": "207"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "209",
           "s": "205",
           "p": "203"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "419",
           "s": "406",
           "p": "419"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -161,8 +161,8 @@
       ]
     },
     {
-      "tot_score": "1203",
-      "final_tot_score": "2454",
+      "prev_tot_score": "1203",
+      "tot_score": "2454",
       "rank_m": "3",
       "rank_s": "3",
       "rank_p": "3",
@@ -171,25 +171,25 @@
       "pc_score": "68.2",
       "songs": [
         {
-          "title": "I Will Love You 'Til The End Of Time",
+          "name": "I Will Love You 'Til The End Of Time",
           "m": "197",
           "s": "196",
           "p": "201"
         },
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "194",
           "s": "208",
           "p": "207"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "415",
           "s": "416",
           "p": "420"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -209,8 +209,8 @@
       ]
     },
     {
-      "tot_score": "1208",
-      "final_tot_score": "2395",
+      "prev_tot_score": "1208",
+      "tot_score": "2395",
       "rank_m": "6",
       "rank_s": "4",
       "rank_p": "5",
@@ -219,25 +219,25 @@
       "pc_score": "66.5",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "198",
           "s": "197",
           "p": "200"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "201",
           "s": "207",
           "p": "205"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "389",
           "s": "412",
           "p": "386"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Jones"
@@ -257,8 +257,8 @@
       ]
     },
     {
-      "tot_score": "1184",
-      "final_tot_score": "2384",
+      "prev_tot_score": "1184",
+      "tot_score": "2384",
       "rank_m": "5",
       "rank_s": "6",
       "rank_p": "4",
@@ -267,25 +267,25 @@
       "pc_score": "66.2",
       "songs": [
         {
-          "title": "Stars Fell On Alabama",
+          "name": "Stars Fell On Alabama",
           "m": "197",
           "s": "195",
           "p": "198"
         },
         {
-          "title": "Please Don't Talk About Me When I'm Gone",
+          "name": "Please Don't Talk About Me When I'm Gone",
           "m": "198",
           "s": "200",
           "p": "196"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "397",
           "s": "405",
           "p": "398"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Josephine Wilson"
@@ -305,8 +305,8 @@
       ]
     },
     {
-      "tot_score": "1045",
-      "final_tot_score": "2363",
+      "prev_tot_score": "1045",
+      "tot_score": "2363",
       "rank_m": "4",
       "rank_s": "2",
       "rank_p": "6",
@@ -315,25 +315,25 @@
       "pc_score": "65.6",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "202",
           "s": "132",
           "p": "177"
         },
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "122",
           "s": "195",
           "p": "217"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "422",
           "s": "445",
           "p": "451"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"

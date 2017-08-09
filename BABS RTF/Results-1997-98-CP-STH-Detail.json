@@ -1,0 +1,489 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-CP-STH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "SOUTHERN CHORUS PRELIMS",
+  "location": "BREAN SANDS",
+  "year": "1997/98",
+  "type": "c",
+  "date": "06/12/1997",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "p",
+      "name": "Jonathan Hershman"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Stuart Wineberg"
+    },
+    {
+      "cat": "a",
+      "name": "Arthur Scott"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Thames Valley Chorus",
+      "size": 61,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sonny Boy",
+          "m": 138,
+          "p": 152,
+          "s": 140,
+          "tot_score": 430,
+          "pc_score": 71.7,
+          "m_pc": 69.0,
+          "p_pc": 76.0,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "Jolson Medley",
+          "m": 147,
+          "p": 151,
+          "s": 139,
+          "tot_score": 437,
+          "pc_score": 72.8,
+          "m_pc": 73.5,
+          "p_pc": 75.5,
+          "s_pc": 69.5
+        }
+      ],
+      "n": 2,
+      "m": 285,
+      "m_pc": 71.3,
+      "p": 303,
+      "p_pc": 75.8,
+      "s": 279,
+      "s_pc": 69.8,
+      "tot_score": 867,
+      "pc_score": 72.3
+    },
+    {
+      "rank": 2,
+      "name": "Solent City Chorus",
+      "size": 37,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Pal Of My Cradle Days",
+          "m": 131,
+          "p": 145,
+          "s": 129,
+          "tot_score": 405,
+          "pc_score": 67.5,
+          "m_pc": 65.5,
+          "p_pc": 72.5,
+          "s_pc": 64.5
+        },
+        {
+          "n": 1,
+          "name": "Sing Me That Song Again",
+          "m": 134,
+          "p": 141,
+          "s": 132,
+          "tot_score": 407,
+          "pc_score": 67.8,
+          "m_pc": 67.0,
+          "p_pc": 70.5,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 2,
+      "m": 265,
+      "m_pc": 66.3,
+      "p": 286,
+      "p_pc": 71.5,
+      "s": 261,
+      "s_pc": 65.3,
+      "tot_score": 812,
+      "pc_score": 67.7
+    },
+    {
+      "rank": 3,
+      "name": "The Pilgrimaires",
+      "size": 59,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 136,
+          "p": 131,
+          "s": 135,
+          "tot_score": 402,
+          "pc_score": 67.0,
+          "m_pc": 68.0,
+          "p_pc": 65.5,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "Please Don't Talk About Me When I'm Gone",
+          "m": 131,
+          "p": 134,
+          "s": 130,
+          "tot_score": 395,
+          "pc_score": 65.8,
+          "m_pc": 65.5,
+          "p_pc": 67.0,
+          "s_pc": 65.0
+        }
+      ],
+      "n": 2,
+      "m": 267,
+      "m_pc": 66.8,
+      "p": 265,
+      "p_pc": 66.3,
+      "s": 265,
+      "s_pc": 66.3,
+      "tot_score": 797,
+      "pc_score": 66.4
+    },
+    {
+      "rank": 4,
+      "name": "Crawley Chordsmen",
+      "size": 33,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Give My Regards To Broadway",
+          "m": 126,
+          "p": 135,
+          "s": 117,
+          "tot_score": 378,
+          "pc_score": 63.0,
+          "m_pc": 63.0,
+          "p_pc": 67.5,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "You Made Me Love You / It Had To Be You Medley",
+          "m": 132,
+          "p": 131,
+          "s": 114,
+          "tot_score": 377,
+          "pc_score": 62.8,
+          "m_pc": 66.0,
+          "p_pc": 65.5,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 258,
+      "m_pc": 64.5,
+      "p": 266,
+      "p_pc": 66.5,
+      "s": 231,
+      "s_pc": 57.8,
+      "tot_score": 755,
+      "pc_score": 62.9
+    },
+    {
+      "rank": 5,
+      "name": "Surrey Fringe",
+      "size": 23,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 117,
+          "p": 122,
+          "s": 112,
+          "tot_score": 351,
+          "pc_score": 58.5,
+          "m_pc": 58.5,
+          "p_pc": 61.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 122,
+          "p": 122,
+          "s": 108,
+          "tot_score": 352,
+          "pc_score": 58.7,
+          "m_pc": 61.0,
+          "p_pc": 61.0,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 239,
+      "m_pc": 59.8,
+      "p": 244,
+      "p_pc": 61.0,
+      "s": 220,
+      "s_pc": 55.0,
+      "tot_score": 703,
+      "pc_score": 58.6
+    },
+    {
+      "rank": 6,
+      "name": "Capital Chorus",
+      "size": 20,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 117,
+          "p": 118,
+          "s": 113,
+          "tot_score": 348,
+          "pc_score": 58.0,
+          "m_pc": 58.5,
+          "p_pc": 59.0,
+          "s_pc": 56.5
+        },
+        {
+          "n": 1,
+          "name": "Who's Sorry Now?",
+          "m": 113,
+          "p": 123,
+          "s": 108,
+          "tot_score": 344,
+          "pc_score": 57.3,
+          "m_pc": 56.5,
+          "p_pc": 61.5,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 230,
+      "m_pc": 57.5,
+      "p": 241,
+      "p_pc": 60.3,
+      "s": 221,
+      "s_pc": 55.3,
+      "tot_score": 692,
+      "pc_score": 57.7
+    },
+    {
+      "rank": 7,
+      "name": "The Kentones",
+      "size": 41,
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Sunshine Of Your Smile",
+          "m": 116,
+          "p": 119,
+          "s": 109,
+          "tot_score": 344,
+          "pc_score": 57.3,
+          "m_pc": 58.0,
+          "p_pc": 59.5,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "Oh! You Beautiful Doll",
+          "m": 114,
+          "p": 117,
+          "s": 111,
+          "tot_score": 342,
+          "pc_score": 57.0,
+          "m_pc": 57.0,
+          "p_pc": 58.5,
+          "s_pc": 55.5
+        }
+      ],
+      "n": 2,
+      "m": 230,
+      "m_pc": 57.5,
+      "p": 236,
+      "p_pc": 59.0,
+      "s": 220,
+      "s_pc": 55.0,
+      "tot_score": 686,
+      "pc_score": 57.2
+    },
+    {
+      "rank": 8,
+      "name": "Southern Union",
+      "size": 43,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Aura Lee / Love Me Tender Medley",
+          "m": 116,
+          "p": 109,
+          "s": 116,
+          "tot_score": 341,
+          "pc_score": 56.8,
+          "m_pc": 58.0,
+          "p_pc": 54.5,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "They Wrote 'Em In The Good Old Days",
+          "m": 97,
+          "p": 117,
+          "s": 111,
+          "tot_score": 325,
+          "pc_score": 54.2,
+          "m_pc": 48.5,
+          "p_pc": 58.5,
+          "s_pc": 55.5
+        }
+      ],
+      "n": 2,
+      "m": 213,
+      "m_pc": 53.3,
+      "p": 226,
+      "p_pc": 56.5,
+      "s": 227,
+      "s_pc": 56.8,
+      "tot_score": 666,
+      "pc_score": 55.5
+    },
+    {
+      "rank": 9,
+      "name": "White Horse Harmony",
+      "size": 29,
+      "songs": [
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 110,
+          "p": 107,
+          "s": 107,
+          "tot_score": 324,
+          "pc_score": 54.0,
+          "m_pc": 55.0,
+          "p_pc": 53.5,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "Ride The Railroad Tonight",
+          "m": 116,
+          "p": 107,
+          "s": 103,
+          "tot_score": 326,
+          "pc_score": 54.3,
+          "m_pc": 58.0,
+          "p_pc": 53.5,
+          "s_pc": 51.5
+        }
+      ],
+      "n": 2,
+      "m": 226,
+      "m_pc": 56.5,
+      "p": 214,
+      "p_pc": 53.5,
+      "s": 210,
+      "s_pc": 52.5,
+      "tot_score": 650,
+      "pc_score": 54.2
+    },
+    {
+      "rank": 10,
+      "name": "The Rivertones",
+      "size": 20,
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Dry Your Tears When You Cry?",
+          "m": 96,
+          "p": 99,
+          "s": 97,
+          "tot_score": 292,
+          "pc_score": 48.7,
+          "m_pc": 48.0,
+          "p_pc": 49.5,
+          "s_pc": 48.5
+        },
+        {
+          "n": 1,
+          "name": "How Could You Believe Me / Its A Sin To Tell A Lie Medley",
+          "m": 105,
+          "p": 100,
+          "s": 91,
+          "tot_score": 296,
+          "pc_score": 49.3,
+          "m_pc": 52.5,
+          "p_pc": 50.0,
+          "s_pc": 45.5
+        }
+      ],
+      "n": 2,
+      "m": 201,
+      "m_pc": 50.3,
+      "p": 199,
+      "p_pc": 49.8,
+      "s": 188,
+      "s_pc": 47.0,
+      "tot_score": 588,
+      "pc_score": 49.0
+    },
+    {
+      "rank": 11,
+      "name": "Harmony Exe",
+      "size": 23,
+      "songs": [
+        {
+          "n": 1,
+          "name": "When I Lost You",
+          "m": 94,
+          "p": 87,
+          "s": 102,
+          "tot_score": 283,
+          "pc_score": 47.2,
+          "m_pc": 47.0,
+          "p_pc": 43.5,
+          "s_pc": 51.0
+        },
+        {
+          "n": 1,
+          "name": "Dearie",
+          "m": 89,
+          "p": 89,
+          "s": 94,
+          "tot_score": 272,
+          "pc_score": 45.3,
+          "m_pc": 44.5,
+          "p_pc": 44.5,
+          "s_pc": 47.0
+        }
+      ],
+      "n": 2,
+      "m": 183,
+      "m_pc": 45.8,
+      "p": 176,
+      "p_pc": 44.0,
+      "s": 196,
+      "s_pc": 49.0,
+      "tot_score": 555,
+      "pc_score": 46.3
+    }
+  ]
+}

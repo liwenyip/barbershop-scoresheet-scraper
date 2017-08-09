@@ -1,0 +1,367 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1997-98-QF-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "HARROGATE",
+  "year": "1997/98",
+  "type": "q",
+  "date": "24/05/1998",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davis"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Chordial Exchange",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Can Be My Baby",
+          "m": 211,
+          "p": 222,
+          "s": 214,
+          "tot_score": 647,
+          "pc_score": 71.9,
+          "m_pc": 70.3,
+          "p_pc": 74.0,
+          "s_pc": 71.3
+        },
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 217,
+          "p": 222,
+          "s": 219,
+          "tot_score": 658,
+          "pc_score": 73.1,
+          "m_pc": 72.3,
+          "p_pc": 74.0,
+          "s_pc": 73.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 423.0,
+          "p": 437.0,
+          "s": 443.0,
+          "tot_score": 1303.0,
+          "pc_score": 72.4,
+          "m_pc": 70.5,
+          "p_pc": 72.8,
+          "s_pc": 73.8
+        }
+      ],
+      "n": 4,
+      "m": 851.0,
+      "m_pc": 70.9,
+      "p": 881.0,
+      "p_pc": 73.4,
+      "s": 876.0,
+      "s_pc": 73.0,
+      "tot_score": 2608.0,
+      "pc_score": 72.4
+    },
+    {
+      "rank": 2,
+      "name": "High Fidelity",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Keep The Home Fires Burning",
+          "m": 201,
+          "p": 212,
+          "s": 198,
+          "tot_score": 611,
+          "pc_score": 67.9,
+          "m_pc": 67.0,
+          "p_pc": 70.7,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "It's A Long Way To Tipperary / Pack Up Your Troubles Medley",
+          "m": 201,
+          "p": 216,
+          "s": 188,
+          "tot_score": 605,
+          "pc_score": 67.2,
+          "m_pc": 67.0,
+          "p_pc": 72.0,
+          "s_pc": 62.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 409.0,
+          "p": 429.0,
+          "s": 410.0,
+          "tot_score": 1248.0,
+          "pc_score": 69.3,
+          "m_pc": 68.2,
+          "p_pc": 71.5,
+          "s_pc": 68.3
+        }
+      ],
+      "n": 4,
+      "m": 811.0,
+      "m_pc": 67.6,
+      "p": 857.0,
+      "p_pc": 71.4,
+      "s": 796.0,
+      "s_pc": 66.3,
+      "tot_score": 2464.0,
+      "pc_score": 68.4
+    },
+    {
+      "rank": 3,
+      "name": "Nickelodeon",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Sweetest Story Ever Told",
+          "m": 196,
+          "p": 207,
+          "s": 201,
+          "tot_score": 604,
+          "pc_score": 67.1,
+          "m_pc": 65.3,
+          "p_pc": 69.0,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "Gotta Be On My Way",
+          "m": 192,
+          "p": 207,
+          "s": 197,
+          "tot_score": 596,
+          "pc_score": 66.2,
+          "m_pc": 64.0,
+          "p_pc": 69.0,
+          "s_pc": 65.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 396.0,
+          "p": 407.0,
+          "s": 397.0,
+          "tot_score": 1200.0,
+          "pc_score": 66.7,
+          "m_pc": 66.0,
+          "p_pc": 67.8,
+          "s_pc": 66.2
+        }
+      ],
+      "n": 4,
+      "m": 784.0,
+      "m_pc": 65.3,
+      "p": 821.0,
+      "p_pc": 68.4,
+      "s": 795.0,
+      "s_pc": 66.3,
+      "tot_score": 2400.0,
+      "pc_score": 66.7
+    },
+    {
+      "rank": 4,
+      "name": "The Likely Lads",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 202,
+          "p": 215,
+          "s": 199,
+          "tot_score": 616,
+          "pc_score": 68.4,
+          "m_pc": 67.3,
+          "p_pc": 71.7,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 198,
+          "p": 217,
+          "s": 195,
+          "tot_score": 610,
+          "pc_score": 67.8,
+          "m_pc": 66.0,
+          "p_pc": 72.3,
+          "s_pc": 65.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 383.0,
+          "p": 387.0,
+          "s": 392.0,
+          "tot_score": 1162.0,
+          "pc_score": 64.6,
+          "m_pc": 63.8,
+          "p_pc": 64.5,
+          "s_pc": 65.3
+        }
+      ],
+      "n": 4,
+      "m": 783.0,
+      "m_pc": 65.3,
+      "p": 819.0,
+      "p_pc": 68.3,
+      "s": 786.0,
+      "s_pc": 65.5,
+      "tot_score": 2388.0,
+      "pc_score": 66.3
+    },
+    {
+      "rank": 5,
+      "name": "T.v.q",
+      "songs": [
+        {
+          "n": 1,
+          "name": "For The Sake Of Auld Lang Syne",
+          "m": 195,
+          "p": 192,
+          "s": 196,
+          "tot_score": 583,
+          "pc_score": 64.8,
+          "m_pc": 65.0,
+          "p_pc": 64.0,
+          "s_pc": 65.3
+        },
+        {
+          "n": 1,
+          "name": "When It's Night Time In Dixie Land",
+          "m": 197,
+          "p": 198,
+          "s": 191,
+          "tot_score": 586,
+          "pc_score": 65.1,
+          "m_pc": 65.7,
+          "p_pc": 66.0,
+          "s_pc": 63.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 404.0,
+          "p": 406.0,
+          "s": 399.0,
+          "tot_score": 1209.0,
+          "pc_score": 67.2,
+          "m_pc": 67.3,
+          "p_pc": 67.7,
+          "s_pc": 66.5
+        }
+      ],
+      "n": 4,
+      "m": 796.0,
+      "m_pc": 66.3,
+      "p": 796.0,
+      "p_pc": 66.3,
+      "s": 786.0,
+      "s_pc": 65.5,
+      "tot_score": 2378.0,
+      "pc_score": 66.1
+    },
+    {
+      "rank": 6,
+      "name": "Close Encounters",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 203,
+          "p": 205,
+          "s": 189,
+          "tot_score": 597,
+          "pc_score": 66.3,
+          "m_pc": 67.7,
+          "p_pc": 68.3,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "I'm Looking Over A Four Leaf Clover",
+          "m": 194,
+          "p": 201,
+          "s": 181,
+          "tot_score": 576,
+          "pc_score": 64.0,
+          "m_pc": 64.7,
+          "p_pc": 67.0,
+          "s_pc": 60.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 390.0,
+          "p": 408.0,
+          "s": 383.0,
+          "tot_score": 1181.0,
+          "pc_score": 65.6,
+          "m_pc": 65.0,
+          "p_pc": 68.0,
+          "s_pc": 63.8
+        }
+      ],
+      "n": 4,
+      "m": 787.0,
+      "m_pc": 65.6,
+      "p": 814.0,
+      "p_pc": 67.8,
+      "s": 753.0,
+      "s_pc": 62.8,
+      "tot_score": 2354.0,
+      "pc_score": 65.4
+    }
+  ]
+}

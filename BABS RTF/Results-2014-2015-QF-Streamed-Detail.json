@@ -1,0 +1,617 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2014-2015-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "LLANDUDNO",
+  "year": "2014/2015",
+  "type": "q",
+  "date": "24/05/2015",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Jon Conway"
+    },
+    {
+      "cat": "s",
+      "name": "Rhiannon Owens-Hall"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Alastair Taylor-Payne"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "RECKLESS",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy Foster"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan Whinyates"
+        },
+        {
+          "part": "bari",
+          "name": "Dale Kynaston"
+        },
+        {
+          "part": "bass",
+          "name": "Andy Funnell"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Rain Or Come Shine",
+          "m": 238,
+          "p": 240,
+          "s": 240,
+          "tot_score": 718,
+          "pc_score": 79.8,
+          "m_pc": 79.3,
+          "p_pc": 80.0,
+          "s_pc": 80.0
+        },
+        {
+          "n": 1,
+          "name": "Stormy Weather",
+          "m": 243,
+          "p": 239,
+          "s": 238,
+          "tot_score": 720,
+          "pc_score": 80.0,
+          "m_pc": 81.0,
+          "p_pc": 79.7,
+          "s_pc": 79.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 493.0,
+          "p": 490.0,
+          "s": 482.0,
+          "tot_score": 1465.0,
+          "pc_score": 81.4,
+          "m_pc": 82.2,
+          "p_pc": 81.7,
+          "s_pc": 80.3
+        }
+      ],
+      "n": 4,
+      "m": 974.0,
+      "m_pc": 81.2,
+      "p": 969.0,
+      "p_pc": 80.8,
+      "s": 960.0,
+      "s_pc": 80.0,
+      "tot_score": 2903.0,
+      "pc_score": 80.6
+    },
+    {
+      "rank": 2,
+      "name": "Tagline",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ben Ferguson"
+        },
+        {
+          "part": "lead",
+          "name": "James Gower-Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Chris Langworthy"
+        },
+        {
+          "part": "bass",
+          "name": "Rob Foot"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Nearness Of You",
+          "m": 225,
+          "p": 239,
+          "s": 234,
+          "tot_score": 698,
+          "pc_score": 77.6,
+          "m_pc": 75.0,
+          "p_pc": 79.7,
+          "s_pc": 78.0
+        },
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 235,
+          "p": 237,
+          "s": 233,
+          "tot_score": 705,
+          "pc_score": 78.3,
+          "m_pc": 78.3,
+          "p_pc": 79.0,
+          "s_pc": 77.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 479.0,
+          "p": 488.0,
+          "s": 476.0,
+          "tot_score": 1443.0,
+          "pc_score": 80.2,
+          "m_pc": 79.8,
+          "p_pc": 81.3,
+          "s_pc": 79.3
+        }
+      ],
+      "n": 4,
+      "m": 939.0,
+      "m_pc": 78.3,
+      "p": 964.0,
+      "p_pc": 80.3,
+      "s": 943.0,
+      "s_pc": 78.6,
+      "tot_score": 2846.0,
+      "pc_score": 79.1
+    },
+    {
+      "rank": 3,
+      "name": "Portobello Road",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian James"
+        },
+        {
+          "part": "lead",
+          "name": "Brian Schofield"
+        },
+        {
+          "part": "bari",
+          "name": "Steve Emery"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart Owen"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wouldn't It Be Loverly",
+          "m": 240,
+          "p": 237,
+          "s": 230,
+          "tot_score": 707,
+          "pc_score": 78.6,
+          "m_pc": 80.0,
+          "p_pc": 79.0,
+          "s_pc": 76.7
+        },
+        {
+          "n": 1,
+          "name": "Mr. Success",
+          "m": 240,
+          "p": 239,
+          "s": 228,
+          "tot_score": 707,
+          "pc_score": 78.6,
+          "m_pc": 80.0,
+          "p_pc": 79.7,
+          "s_pc": 76.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 483.0,
+          "p": 479.0,
+          "s": 461.0,
+          "tot_score": 1423.0,
+          "pc_score": 79.1,
+          "m_pc": 80.5,
+          "p_pc": 79.8,
+          "s_pc": 76.8
+        }
+      ],
+      "n": 4,
+      "m": 963.0,
+      "m_pc": 80.3,
+      "p": 955.0,
+      "p_pc": 79.6,
+      "s": 919.0,
+      "s_pc": 76.6,
+      "tot_score": 2837.0,
+      "pc_score": 78.8
+    },
+    {
+      "rank": 4,
+      "name": "Finest Hour",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "James Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Eddie Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Williams"
+        },
+        {
+          "part": "bass",
+          "name": "Phil Cuthbert"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 235,
+          "p": 235,
+          "s": 231,
+          "tot_score": 701,
+          "pc_score": 77.9,
+          "m_pc": 78.3,
+          "p_pc": 78.3,
+          "s_pc": 77.0
+        },
+        {
+          "n": 1,
+          "name": "Georgia May",
+          "m": 242,
+          "p": 242,
+          "s": 230,
+          "tot_score": 714,
+          "pc_score": 79.3,
+          "m_pc": 80.7,
+          "p_pc": 80.7,
+          "s_pc": 76.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 472.0,
+          "p": 472.0,
+          "s": 469.0,
+          "tot_score": 1413.0,
+          "pc_score": 78.5,
+          "m_pc": 78.7,
+          "p_pc": 78.7,
+          "s_pc": 78.2
+        }
+      ],
+      "n": 4,
+      "m": 949.0,
+      "m_pc": 79.1,
+      "p": 949.0,
+      "p_pc": 79.1,
+      "s": 930.0,
+      "s_pc": 77.5,
+      "tot_score": 2828.0,
+      "pc_score": 78.6
+    },
+    {
+      "rank": 5,
+      "name": "Park Street",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Lawrence Hasson"
+        },
+        {
+          "part": "lead",
+          "name": "Alastair Hay-Plumb"
+        },
+        {
+          "part": "bari",
+          "name": "David Foot"
+        },
+        {
+          "part": "bass",
+          "name": "Simon Arnott"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Letters",
+          "m": 227,
+          "p": 231,
+          "s": 229,
+          "tot_score": 687,
+          "pc_score": 76.3,
+          "m_pc": 75.7,
+          "p_pc": 77.0,
+          "s_pc": 76.3
+        },
+        {
+          "n": 1,
+          "name": "Let's Do It (Let's Fall In Love)",
+          "m": 233,
+          "p": 234,
+          "s": 227,
+          "tot_score": 694,
+          "pc_score": 77.1,
+          "m_pc": 77.7,
+          "p_pc": 78.0,
+          "s_pc": 75.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 466.0,
+          "p": 465.0,
+          "s": 465.0,
+          "tot_score": 1396.0,
+          "pc_score": 77.6,
+          "m_pc": 77.7,
+          "p_pc": 77.5,
+          "s_pc": 77.5
+        }
+      ],
+      "n": 4,
+      "m": 926.0,
+      "m_pc": 77.2,
+      "p": 930.0,
+      "p_pc": 77.5,
+      "s": 921.0,
+      "s_pc": 76.8,
+      "tot_score": 2777.0,
+      "pc_score": 77.1
+    },
+    {
+      "rank": 6,
+      "name": "The Locksmiths",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard Fisher"
+        },
+        {
+          "part": "lead",
+          "name": "Simon Lubkowski"
+        },
+        {
+          "part": "bari",
+          "name": "Zac Booles"
+        },
+        {
+          "part": "bass",
+          "name": "Andrew Walker"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love Being Here With You",
+          "m": 235,
+          "p": 229,
+          "s": 233,
+          "tot_score": 697,
+          "pc_score": 77.4,
+          "m_pc": 78.3,
+          "p_pc": 76.3,
+          "s_pc": 77.7
+        },
+        {
+          "n": 1,
+          "name": "Brother, Can You Spare A Dime?",
+          "m": 237,
+          "p": 231,
+          "s": 226,
+          "tot_score": 694,
+          "pc_score": 77.1,
+          "m_pc": 79.0,
+          "p_pc": 77.0,
+          "s_pc": 75.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 461.0,
+          "p": 443.0,
+          "s": 463.0,
+          "tot_score": 1367.0,
+          "pc_score": 75.9,
+          "m_pc": 76.8,
+          "p_pc": 73.8,
+          "s_pc": 77.2
+        }
+      ],
+      "n": 4,
+      "m": 933.0,
+      "m_pc": 77.8,
+      "p": 903.0,
+      "p_pc": 75.3,
+      "s": 922.0,
+      "s_pc": 76.8,
+      "tot_score": 2758.0,
+      "pc_score": 76.6
+    },
+    {
+      "rank": 7,
+      "name": "Hustle",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Neil Firth"
+        },
+        {
+          "part": "lead",
+          "name": "Giovanni Arsciwals"
+        },
+        {
+          "part": "bari",
+          "name": "Scott Tatton"
+        },
+        {
+          "part": "bass",
+          "name": "Dale Thompson"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "On The Street Where You Live",
+          "m": 217,
+          "p": 225,
+          "s": 216,
+          "tot_score": 658,
+          "pc_score": 73.1,
+          "m_pc": 72.3,
+          "p_pc": 75.0,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "Fly Me To The Moon",
+          "m": 215,
+          "p": 224,
+          "s": 217,
+          "tot_score": 656,
+          "pc_score": 72.9,
+          "m_pc": 71.7,
+          "p_pc": 74.7,
+          "s_pc": 72.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 440.0,
+          "p": 454.0,
+          "s": 434.0,
+          "tot_score": 1328.0,
+          "pc_score": 73.8,
+          "m_pc": 73.3,
+          "p_pc": 75.7,
+          "s_pc": 72.3
+        }
+      ],
+      "n": 4,
+      "m": 872.0,
+      "m_pc": 72.7,
+      "p": 903.0,
+      "p_pc": 75.3,
+      "s": 867.0,
+      "s_pc": 72.3,
+      "tot_score": 2642.0,
+      "pc_score": 73.4
+    },
+    {
+      "rank": 8,
+      "name": "Blueprint",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alex Edwards"
+        },
+        {
+          "part": "lead",
+          "name": "Dave Brown"
+        },
+        {
+          "part": "bari",
+          "name": "Paul Grier"
+        },
+        {
+          "part": "bass",
+          "name": "Timm Barkworth"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sweet Adeline",
+          "m": 214,
+          "p": 213,
+          "s": 213,
+          "tot_score": 640,
+          "pc_score": 71.1,
+          "m_pc": 71.3,
+          "p_pc": 71.0,
+          "s_pc": 71.0
+        },
+        {
+          "n": 1,
+          "name": "Daydream Believer",
+          "m": 221,
+          "p": 213,
+          "s": 214,
+          "tot_score": 648,
+          "pc_score": 72.0,
+          "m_pc": 73.7,
+          "p_pc": 71.0,
+          "s_pc": 71.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 461.0,
+          "p": 432.0,
+          "s": 450.0,
+          "tot_score": 1343.0,
+          "pc_score": 74.6,
+          "m_pc": 76.8,
+          "p_pc": 72.0,
+          "s_pc": 75.0
+        }
+      ],
+      "n": 4,
+      "m": 896.0,
+      "m_pc": 74.7,
+      "p": 858.0,
+      "p_pc": 71.5,
+      "s": 877.0,
+      "s_pc": 73.1,
+      "tot_score": 2631.0,
+      "pc_score": 73.1
+    }
+  ]
+}

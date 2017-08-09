@@ -42,19 +42,19 @@
       "name": "Mike Taylor"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
@@ -70,19 +70,19 @@
       "pc_score": "79.2",
       "songs": [
         {
-          "title": "Don't Be A Baby, Baby",
+          "name": "Don't Be A Baby, Baby",
           "m": "238",
           "s": "234",
           "p": "244"
         },
         {
-          "title": "Stormy Weather",
+          "name": "Stormy Weather",
           "m": "242",
           "s": "235",
           "p": "232"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Foster"
@@ -111,19 +111,19 @@
       "pc_score": "78.9",
       "songs": [
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "242",
           "s": "229",
           "p": "247"
         },
         {
-          "title": "Make 'Em Laugh",
+          "name": "Make 'Em Laugh",
           "m": "231",
           "s": "234",
           "p": "237"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jordi Forcadell"
@@ -152,19 +152,19 @@
       "pc_score": "77.9",
       "songs": [
         {
-          "title": "Oh, Look At Me Now",
+          "name": "Oh, Look At Me Now",
           "m": "239",
           "s": "233",
           "p": "236"
         },
         {
-          "title": "Just A Cottage Small",
+          "name": "Just A Cottage Small",
           "m": "234",
           "s": "231",
           "p": "230"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Laurence Hasso"
@@ -193,19 +193,19 @@
       "pc_score": "77.9",
       "songs": [
         {
-          "title": "Wouldn't It Be Lovely",
+          "name": "Wouldn't It Be Lovely",
           "m": "235",
           "s": "233",
           "p": "233"
         },
         {
-          "title": "There, I've Said It Again",
+          "name": "There, I've Said It Again",
           "m": "233",
           "s": "234",
           "p": "235"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian James"
@@ -234,19 +234,19 @@
       "pc_score": "76.8",
       "songs": [
         {
-          "title": "Their Hearts Were Full Of Spring",
+          "name": "Their Hearts Were Full Of Spring",
           "m": "241",
           "s": "227",
           "p": "229"
         },
         {
-          "title": "Mr. Success",
+          "name": "Mr. Success",
           "m": "230",
           "s": "229",
           "p": "227"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Antoine Kaiserman"
@@ -275,19 +275,19 @@
       "pc_score": "74.0",
       "songs": [
         {
-          "title": "Honey Medley",
+          "name": "Honey Medley",
           "m": "225",
           "s": "223",
           "p": "221"
         },
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "226",
           "s": "215",
           "p": "222"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James Williams"
@@ -316,19 +316,19 @@
       "pc_score": "72.9",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "213",
           "s": "218",
           "p": "228"
         },
         {
-          "title": "All Aboard For Dixie Land",
+          "name": "All Aboard For Dixie Land",
           "m": "224",
           "s": "217",
           "p": "213"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Graham Harper"
@@ -357,19 +357,19 @@
       "pc_score": "72.6",
       "songs": [
         {
-          "title": "Walkin' My Baby Back Home",
+          "name": "Walkin' My Baby Back Home",
           "m": "216",
           "s": "215",
           "p": "224"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "220",
           "s": "217",
           "p": "215"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon Hunt"
@@ -398,19 +398,19 @@
       "pc_score": "72.5",
       "songs": [
         {
-          "title": "My Romance",
+          "name": "My Romance",
           "m": "228",
           "s": "213",
           "p": "216"
         },
         {
-          "title": "Everybody Needs A Best Friend",
+          "name": "Everybody Needs A Best Friend",
           "m": "212",
           "s": "215",
           "p": "221"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ben Ferguson"
@@ -439,19 +439,19 @@
       "pc_score": "67.9",
       "songs": [
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "207",
           "s": "209",
           "p": "208"
         },
         {
-          "title": "Oh! Look At Me Now",
+          "name": "Oh! Look At Me Now",
           "m": "206",
           "s": "196",
           "p": "196"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nick Pawley"
@@ -480,19 +480,19 @@
       "pc_score": "66.9",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "202",
           "s": "204",
           "p": "198"
         },
         {
-          "title": "It Happened In Monterey",
+          "name": "It Happened In Monterey",
           "m": "200",
           "s": "195",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alan Wright"
@@ -521,19 +521,19 @@
       "pc_score": "66.2",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "204",
           "s": "203",
           "p": "196"
         },
         {
-          "title": "The Little Boy",
+          "name": "The Little Boy",
           "m": "202",
           "s": "192",
           "p": "194"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Paul Jeffrey"
@@ -562,19 +562,19 @@
       "pc_score": "65.1",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "202",
           "s": "196",
           "p": "205"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "196",
           "s": "184",
           "p": "189"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve Cox"
@@ -603,19 +603,19 @@
       "pc_score": "64.9",
       "songs": [
         {
-          "title": "Old St. Louis",
+          "name": "Old St. Louis",
           "m": "190",
           "s": "200",
           "p": "194"
         },
         {
-          "title": "Beautiful Dreamer",
+          "name": "Beautiful Dreamer",
           "m": "204",
           "s": "189",
           "p": "191"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Aidan Brand"
@@ -644,19 +644,19 @@
       "pc_score": "64.8",
       "songs": [
         {
-          "title": "When The Gold Turns To Grey",
+          "name": "When The Gold Turns To Grey",
           "m": "199",
           "s": "204",
           "p": "195"
         },
         {
-          "title": "Bring Back Those Good Old Days",
+          "name": "Bring Back Those Good Old Days",
           "m": "197",
           "s": "185",
           "p": "187"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick Barnacle"
@@ -685,19 +685,19 @@
       "pc_score": "64.6",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "195",
           "s": "191",
           "p": "201"
         },
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "188",
           "s": "192",
           "p": "195"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Callum Rickard"
@@ -726,19 +726,19 @@
       "pc_score": "64.2",
       "songs": [
         {
-          "title": "The Masquerade Is Over",
+          "name": "The Masquerade Is Over",
           "m": "194",
           "s": "196",
           "p": "197"
         },
         {
-          "title": "Undecided Medley",
+          "name": "Undecided Medley",
           "m": "195",
           "s": "187",
           "p": "187"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Vaughan Dooley"
@@ -767,19 +767,19 @@
       "pc_score": "62.5",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "190",
           "s": "198",
           "p": "183"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "195",
           "s": "177",
           "p": "182"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nick Howell"
@@ -808,19 +808,19 @@
       "pc_score": "62.1",
       "songs": [
         {
-          "title": "They Say It's Wonderful",
+          "name": "They Say It's Wonderful",
           "m": "190",
           "s": "196",
           "p": "179"
         },
         {
-          "title": "Almost Like Being In Love",
+          "name": "Almost Like Being In Love",
           "m": "190",
           "s": "180",
           "p": "183"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Hayden Cole"

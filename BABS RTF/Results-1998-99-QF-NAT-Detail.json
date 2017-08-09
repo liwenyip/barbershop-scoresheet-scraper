@@ -1,0 +1,587 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1998-99-QF-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "BLACKPOOL",
+  "year": "1998/99",
+  "type": "q",
+  "date": "02/05/1999",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "p",
+      "name": "Howard Myers"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Shockwave",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Girls Medley",
+          "m": 287,
+          "p": 290,
+          "s": 271,
+          "tot_score": 848,
+          "pc_score": 70.7,
+          "m_pc": 71.8,
+          "p_pc": 72.5,
+          "s_pc": 67.8
+        },
+        {
+          "n": 1,
+          "name": "Just A Cottage Small",
+          "m": 305,
+          "p": 292,
+          "s": 277,
+          "tot_score": 874,
+          "pc_score": 72.8,
+          "m_pc": 76.3,
+          "p_pc": 73.0,
+          "s_pc": 69.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 579.0,
+          "p": 573.0,
+          "s": 564.0,
+          "tot_score": 1716.0,
+          "pc_score": 71.5,
+          "m_pc": 72.4,
+          "p_pc": 71.6,
+          "s_pc": 70.5
+        }
+      ],
+      "n": 4,
+      "m": 1171.0,
+      "m_pc": 73.2,
+      "p": 1155.0,
+      "p_pc": 72.2,
+      "s": 1112.0,
+      "s_pc": 69.5,
+      "tot_score": 3438.0,
+      "pc_score": 71.6
+    },
+    {
+      "rank": 2,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Dry Your Tears Parody",
+          "m": 273,
+          "p": 291,
+          "s": 274,
+          "tot_score": 838,
+          "pc_score": 69.8,
+          "m_pc": 68.3,
+          "p_pc": 72.8,
+          "s_pc": 68.5
+        },
+        {
+          "n": 1,
+          "name": "Mistakes Parody",
+          "m": 287,
+          "p": 315,
+          "s": 271,
+          "tot_score": 873,
+          "pc_score": 72.8,
+          "m_pc": 71.8,
+          "p_pc": 78.8,
+          "s_pc": 67.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 539.0,
+          "p": 609.0,
+          "s": 556.0,
+          "tot_score": 1704.0,
+          "pc_score": 71.0,
+          "m_pc": 67.4,
+          "p_pc": 76.1,
+          "s_pc": 69.5
+        }
+      ],
+      "n": 4,
+      "m": 1099.0,
+      "m_pc": 68.7,
+      "p": 1215.0,
+      "p_pc": 75.9,
+      "s": 1101.0,
+      "s_pc": 68.8,
+      "tot_score": 3415.0,
+      "pc_score": 71.1
+    },
+    {
+      "rank": 3,
+      "name": "The Likely Lads",
+      "songs": [
+        {
+          "n": 1,
+          "name": "This Little Piggy",
+          "m": 281,
+          "p": 290,
+          "s": 268,
+          "tot_score": 839,
+          "pc_score": 69.9,
+          "m_pc": 70.3,
+          "p_pc": 72.5,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "Peg O' My Heart",
+          "m": 274,
+          "p": 296,
+          "s": 265,
+          "tot_score": 835,
+          "pc_score": 69.6,
+          "m_pc": 68.5,
+          "p_pc": 74.0,
+          "s_pc": 66.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 553.0,
+          "p": 570.0,
+          "s": 544.0,
+          "tot_score": 1667.0,
+          "pc_score": 69.5,
+          "m_pc": 69.1,
+          "p_pc": 71.3,
+          "s_pc": 68.0
+        }
+      ],
+      "n": 4,
+      "m": 1108.0,
+      "m_pc": 69.3,
+      "p": 1156.0,
+      "p_pc": 72.3,
+      "s": 1077.0,
+      "s_pc": 67.3,
+      "tot_score": 3341.0,
+      "pc_score": 69.6
+    },
+    {
+      "rank": 4,
+      "name": "High Fidelity",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Basin Street Blues",
+          "m": 268,
+          "p": 308,
+          "s": 259,
+          "tot_score": 835,
+          "pc_score": 69.6,
+          "m_pc": 67.0,
+          "p_pc": 77.0,
+          "s_pc": 64.8
+        },
+        {
+          "n": 1,
+          "name": "Slow Boat To China / Shanghai Medley",
+          "m": 257,
+          "p": 303,
+          "s": 254,
+          "tot_score": 814,
+          "pc_score": 67.8,
+          "m_pc": 64.3,
+          "p_pc": 75.8,
+          "s_pc": 63.5
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 540.0,
+          "p": 590.0,
+          "s": 542.0,
+          "tot_score": 1672.0,
+          "pc_score": 69.7,
+          "m_pc": 67.5,
+          "p_pc": 73.8,
+          "s_pc": 67.8
+        }
+      ],
+      "n": 4,
+      "m": 1065.0,
+      "m_pc": 66.6,
+      "p": 1201.0,
+      "p_pc": 75.1,
+      "s": 1055.0,
+      "s_pc": 65.9,
+      "tot_score": 3321.0,
+      "pc_score": 69.2
+    },
+    {
+      "rank": 5,
+      "name": "Wheel Of Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Little Boy",
+          "m": 264,
+          "p": 292,
+          "s": 260,
+          "tot_score": 816,
+          "pc_score": 68.0,
+          "m_pc": 66.0,
+          "p_pc": 73.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Nobody's Sweetheart",
+          "m": 269,
+          "p": 287,
+          "s": 257,
+          "tot_score": 813,
+          "pc_score": 67.8,
+          "m_pc": 67.3,
+          "p_pc": 71.8,
+          "s_pc": 64.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 541.0,
+          "p": 588.0,
+          "s": 532.0,
+          "tot_score": 1661.0,
+          "pc_score": 69.2,
+          "m_pc": 67.6,
+          "p_pc": 73.5,
+          "s_pc": 66.5
+        }
+      ],
+      "n": 4,
+      "m": 1074.0,
+      "m_pc": 67.1,
+      "p": 1167.0,
+      "p_pc": 72.9,
+      "s": 1049.0,
+      "s_pc": 65.6,
+      "tot_score": 3290.0,
+      "pc_score": 68.5
+    },
+    {
+      "rank": 6,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Smilin' Through",
+          "m": 250,
+          "p": 273,
+          "s": 262,
+          "tot_score": 785,
+          "pc_score": 65.4,
+          "m_pc": 62.5,
+          "p_pc": 68.3,
+          "s_pc": 65.5
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 244,
+          "p": 278,
+          "s": 247,
+          "tot_score": 769,
+          "pc_score": 64.1,
+          "m_pc": 61.0,
+          "p_pc": 69.5,
+          "s_pc": 61.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 515.0,
+          "p": 618.0,
+          "s": 532.0,
+          "tot_score": 1665.0,
+          "pc_score": 69.4,
+          "m_pc": 64.4,
+          "p_pc": 77.3,
+          "s_pc": 66.5
+        }
+      ],
+      "n": 4,
+      "m": 1009.0,
+      "m_pc": 63.1,
+      "p": 1169.0,
+      "p_pc": 73.1,
+      "s": 1041.0,
+      "s_pc": 65.1,
+      "tot_score": 3219.0,
+      "pc_score": 67.1
+    },
+    {
+      "rank": 7,
+      "name": "Classified",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 275,
+          "p": 270,
+          "s": 270,
+          "tot_score": 815,
+          "pc_score": 67.9,
+          "m_pc": 68.8,
+          "p_pc": 67.5,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "New Orleans Medley",
+          "m": 258,
+          "p": 272,
+          "s": 257,
+          "tot_score": 787,
+          "pc_score": 65.6,
+          "m_pc": 64.5,
+          "p_pc": 68.0,
+          "s_pc": 64.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 536.0,
+          "p": 544.0,
+          "s": 523.0,
+          "tot_score": 1603.0,
+          "pc_score": 66.8,
+          "m_pc": 67.0,
+          "p_pc": 68.0,
+          "s_pc": 65.4
+        }
+      ],
+      "n": 4,
+      "m": 1069.0,
+      "m_pc": 66.8,
+      "p": 1086.0,
+      "p_pc": 67.9,
+      "s": 1050.0,
+      "s_pc": 65.6,
+      "tot_score": 3205.0,
+      "pc_score": 66.8
+    },
+    {
+      "rank": 8,
+      "name": "Cutting Edge",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People Parody",
+          "m": 258,
+          "p": 292,
+          "s": 247,
+          "tot_score": 797,
+          "pc_score": 66.4,
+          "m_pc": 64.5,
+          "p_pc": 73.0,
+          "s_pc": 61.8
+        },
+        {
+          "n": 1,
+          "name": "Who'll Take My Place When I'm Gone Parody",
+          "m": 265,
+          "p": 301,
+          "s": 245,
+          "tot_score": 811,
+          "pc_score": 67.6,
+          "m_pc": 66.3,
+          "p_pc": 75.3,
+          "s_pc": 61.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 533.0,
+          "p": 529.0,
+          "s": 515.0,
+          "tot_score": 1577.0,
+          "pc_score": 65.7,
+          "m_pc": 66.6,
+          "p_pc": 66.1,
+          "s_pc": 64.4
+        }
+      ],
+      "n": 4,
+      "m": 1056.0,
+      "m_pc": 66.0,
+      "p": 1122.0,
+      "p_pc": 70.1,
+      "s": 1007.0,
+      "s_pc": 62.9,
+      "tot_score": 3185.0,
+      "pc_score": 66.4
+    },
+    {
+      "rank": 8,
+      "name": "T.v.q",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Gone",
+          "m": 262,
+          "p": 265,
+          "s": 250,
+          "tot_score": 777,
+          "pc_score": 64.8,
+          "m_pc": 65.5,
+          "p_pc": 66.3,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "Bring Back Those Days Of The Song And Dance Man",
+          "m": 270,
+          "p": 268,
+          "s": 244,
+          "tot_score": 782,
+          "pc_score": 65.2,
+          "m_pc": 67.5,
+          "p_pc": 67.0,
+          "s_pc": 61.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 523.0,
+          "p": 575.0,
+          "s": 528.0,
+          "tot_score": 1626.0,
+          "pc_score": 67.8,
+          "m_pc": 65.4,
+          "p_pc": 71.9,
+          "s_pc": 66.0
+        }
+      ],
+      "n": 4,
+      "m": 1055.0,
+      "m_pc": 65.9,
+      "p": 1108.0,
+      "p_pc": 69.3,
+      "s": 1022.0,
+      "s_pc": 63.9,
+      "tot_score": 3185.0,
+      "pc_score": 66.4
+    },
+    {
+      "rank": 10,
+      "name": "Easy Street",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 264,
+          "p": 249,
+          "s": 265,
+          "tot_score": 778,
+          "pc_score": 64.8,
+          "m_pc": 66.0,
+          "p_pc": 62.3,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "I Can't Give You Anything But Love",
+          "m": 257,
+          "p": 260,
+          "s": 265,
+          "tot_score": 782,
+          "pc_score": 65.2,
+          "m_pc": 64.3,
+          "p_pc": 65.0,
+          "s_pc": 66.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 528.0,
+          "p": 516.0,
+          "s": 552.0,
+          "tot_score": 1596.0,
+          "pc_score": 66.5,
+          "m_pc": 66.0,
+          "p_pc": 64.5,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 4,
+      "m": 1049.0,
+      "m_pc": 65.6,
+      "p": 1025.0,
+      "p_pc": 64.1,
+      "s": 1082.0,
+      "s_pc": 67.6,
+      "tot_score": 3156.0,
+      "pc_score": 65.8
+    }
+  ]
+}

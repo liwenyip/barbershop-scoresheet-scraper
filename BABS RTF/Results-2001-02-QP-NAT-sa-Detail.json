@@ -1,0 +1,755 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2001-02-QP-NAT-sa-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET PRELIM - SATURDAY",
+  "location": "DARTMOUTH HIGH SCHOOL",
+  "year": "2001/02",
+  "type": "q",
+  "date": "13/10/2001",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Pru  van de Bilt"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Light Industrial Choral Society",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Happy Go Lucky Lane",
+          "m": 151,
+          "p": 149,
+          "s": 151,
+          "tot_score": 451,
+          "pc_score": 75.2,
+          "m_pc": 75.5,
+          "p_pc": 74.5,
+          "s_pc": 75.5
+        },
+        {
+          "n": 1,
+          "name": "Beautiful Dreamer",
+          "m": 148,
+          "p": 145,
+          "s": 148,
+          "tot_score": 441,
+          "pc_score": 73.5,
+          "m_pc": 74.0,
+          "p_pc": 72.5,
+          "s_pc": 74.0
+        }
+      ],
+      "n": 2,
+      "m": 299,
+      "m_pc": 74.8,
+      "p": 294,
+      "p_pc": 73.5,
+      "s": 299,
+      "s_pc": 74.8,
+      "tot_score": 892,
+      "pc_score": 74.3
+    },
+    {
+      "rank": 2,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 143,
+          "p": 137,
+          "s": 147,
+          "tot_score": 427,
+          "pc_score": 71.2,
+          "m_pc": 71.5,
+          "p_pc": 68.5,
+          "s_pc": 73.5
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 147,
+          "p": 148,
+          "s": 142,
+          "tot_score": 437,
+          "pc_score": 72.8,
+          "m_pc": 73.5,
+          "p_pc": 74.0,
+          "s_pc": 71.0
+        }
+      ],
+      "n": 2,
+      "m": 290,
+      "m_pc": 72.5,
+      "p": 285,
+      "p_pc": 71.3,
+      "s": 289,
+      "s_pc": 72.3,
+      "tot_score": 864,
+      "pc_score": 72.0
+    },
+    {
+      "rank": 3,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Beautiful Dreamer",
+          "m": 145,
+          "p": 141,
+          "s": 137,
+          "tot_score": 423,
+          "pc_score": 70.5,
+          "m_pc": 72.5,
+          "p_pc": 70.5,
+          "s_pc": 68.5
+        },
+        {
+          "n": 1,
+          "name": "Just Because / Shine Medley",
+          "m": 142,
+          "p": 148,
+          "s": 133,
+          "tot_score": 423,
+          "pc_score": 70.5,
+          "m_pc": 71.0,
+          "p_pc": 74.0,
+          "s_pc": 66.5
+        }
+      ],
+      "n": 2,
+      "m": 287,
+      "m_pc": 71.8,
+      "p": 289,
+      "p_pc": 72.3,
+      "s": 270,
+      "s_pc": 67.5,
+      "tot_score": 846,
+      "pc_score": 70.5
+    },
+    {
+      "rank": 4,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 146,
+          "p": 137,
+          "s": 137,
+          "tot_score": 420,
+          "pc_score": 70.0,
+          "m_pc": 73.0,
+          "p_pc": 68.5,
+          "s_pc": 68.5
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 147,
+          "p": 138,
+          "s": 136,
+          "tot_score": 421,
+          "pc_score": 70.2,
+          "m_pc": 73.5,
+          "p_pc": 69.0,
+          "s_pc": 68.0
+        }
+      ],
+      "n": 2,
+      "m": 293,
+      "m_pc": 73.3,
+      "p": 275,
+      "p_pc": 68.8,
+      "s": 273,
+      "s_pc": 68.3,
+      "tot_score": 841,
+      "pc_score": 70.1
+    },
+    {
+      "rank": 5,
+      "name": "The Stunt Monkeys",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 141,
+          "p": 127,
+          "s": 143,
+          "tot_score": 411,
+          "pc_score": 68.5,
+          "m_pc": 70.5,
+          "p_pc": 63.5,
+          "s_pc": 71.5
+        },
+        {
+          "n": 1,
+          "name": "I Can't Give You Anything But Love",
+          "m": 142,
+          "p": 138,
+          "s": 142,
+          "tot_score": 422,
+          "pc_score": 70.3,
+          "m_pc": 71.0,
+          "p_pc": 69.0,
+          "s_pc": 71.0
+        }
+      ],
+      "n": 2,
+      "m": 283,
+      "m_pc": 70.8,
+      "p": 265,
+      "p_pc": 66.3,
+      "s": 285,
+      "s_pc": 71.3,
+      "tot_score": 833,
+      "pc_score": 69.4
+    },
+    {
+      "rank": 6,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Tie Me To Your Apron Strings Again",
+          "m": 139,
+          "p": 133,
+          "s": 132,
+          "tot_score": 404,
+          "pc_score": 67.3,
+          "m_pc": 69.5,
+          "p_pc": 66.5,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "So Long, Mother",
+          "m": 135,
+          "p": 143,
+          "s": 131,
+          "tot_score": 409,
+          "pc_score": 68.2,
+          "m_pc": 67.5,
+          "p_pc": 71.5,
+          "s_pc": 65.5
+        }
+      ],
+      "n": 2,
+      "m": 274,
+      "m_pc": 68.5,
+      "p": 276,
+      "p_pc": 69.0,
+      "s": 263,
+      "s_pc": 65.8,
+      "tot_score": 813,
+      "pc_score": 67.8
+    },
+    {
+      "rank": 7,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "This Joint Is Jumpin'",
+          "m": 132,
+          "p": 135,
+          "s": 130,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 66.0,
+          "p_pc": 67.5,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "In The Wee Small Hours Of The Morning",
+          "m": 126,
+          "p": 135,
+          "s": 128,
+          "tot_score": 389,
+          "pc_score": 64.8,
+          "m_pc": 63.0,
+          "p_pc": 67.5,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 258,
+      "m_pc": 64.5,
+      "p": 270,
+      "p_pc": 67.5,
+      "s": 258,
+      "s_pc": 64.5,
+      "tot_score": 786,
+      "pc_score": 65.5
+    },
+    {
+      "rank": 8,
+      "name": "Rhapsody",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wife Is On A Diet",
+          "m": 132,
+          "p": 122,
+          "s": 119,
+          "tot_score": 373,
+          "pc_score": 62.2,
+          "m_pc": 66.0,
+          "p_pc": 61.0,
+          "s_pc": 59.5
+        },
+        {
+          "n": 1,
+          "name": "My Melancholy Baby",
+          "m": 129,
+          "p": 120,
+          "s": 119,
+          "tot_score": 368,
+          "pc_score": 61.3,
+          "m_pc": 64.5,
+          "p_pc": 60.0,
+          "s_pc": 59.5
+        }
+      ],
+      "n": 2,
+      "m": 261,
+      "m_pc": 65.3,
+      "p": 242,
+      "p_pc": 60.5,
+      "s": 238,
+      "s_pc": 59.5,
+      "tot_score": 741,
+      "pc_score": 61.8
+    },
+    {
+      "rank": 9,
+      "name": "Good Fortune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sing Me That Song Again",
+          "m": 130,
+          "p": 118,
+          "s": 121,
+          "tot_score": 369,
+          "pc_score": 61.5,
+          "m_pc": 65.0,
+          "p_pc": 59.0,
+          "s_pc": 60.5
+        },
+        {
+          "n": 1,
+          "name": "For Me And My Gal",
+          "m": 130,
+          "p": 117,
+          "s": 123,
+          "tot_score": 370,
+          "pc_score": 61.7,
+          "m_pc": 65.0,
+          "p_pc": 58.5,
+          "s_pc": 61.5
+        }
+      ],
+      "n": 2,
+      "m": 260,
+      "m_pc": 65.0,
+      "p": 235,
+      "p_pc": 58.8,
+      "s": 244,
+      "s_pc": 61.0,
+      "tot_score": 739,
+      "pc_score": 61.6
+    },
+    {
+      "rank": 10,
+      "name": "Four Across",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Over The Rainbow",
+          "m": 128,
+          "p": 114,
+          "s": 95,
+          "tot_score": 337,
+          "pc_score": 56.2,
+          "m_pc": 64.0,
+          "p_pc": 57.0,
+          "s_pc": 47.5
+        },
+        {
+          "n": 1,
+          "name": "Slippery Sal, And Dirty Dan The Oyster Man",
+          "m": 121,
+          "p": 109,
+          "s": 101,
+          "tot_score": 331,
+          "pc_score": 55.2,
+          "m_pc": 60.5,
+          "p_pc": 54.5,
+          "s_pc": 50.5
+        }
+      ],
+      "n": 2,
+      "m": 249,
+      "m_pc": 62.3,
+      "p": 223,
+      "p_pc": 55.8,
+      "s": 196,
+      "s_pc": 49.0,
+      "tot_score": 668,
+      "pc_score": 55.7
+    },
+    {
+      "rank": 11,
+      "name": "Sound Byte",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 111,
+          "p": 109,
+          "s": 108,
+          "tot_score": 328,
+          "pc_score": 54.7,
+          "m_pc": 55.5,
+          "p_pc": 54.5,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "In My Brand New Automobile",
+          "m": 112,
+          "p": 114,
+          "s": 108,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 56.0,
+          "p_pc": 57.0,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 223,
+      "m_pc": 55.8,
+      "p": 223,
+      "p_pc": 55.8,
+      "s": 216,
+      "s_pc": 54.0,
+      "tot_score": 662,
+      "pc_score": 55.2
+    },
+    {
+      "rank": 12,
+      "name": "Southern Brand",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ma, She's Making Eyes At Me",
+          "m": 120,
+          "p": 105,
+          "s": 109,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 60.0,
+          "p_pc": 52.5,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "That Old Quartet Of Mine",
+          "m": 113,
+          "p": 103,
+          "s": 108,
+          "tot_score": 324,
+          "pc_score": 54.0,
+          "m_pc": 56.5,
+          "p_pc": 51.5,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 233,
+      "m_pc": 58.3,
+      "p": 208,
+      "p_pc": 52.0,
+      "s": 217,
+      "s_pc": 54.3,
+      "tot_score": 658,
+      "pc_score": 54.8
+    },
+    {
+      "rank": 13,
+      "name": "Equinox",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Made Me Love You / It Had To Be You Medley",
+          "m": 113,
+          "p": 106,
+          "s": 94,
+          "tot_score": 313,
+          "pc_score": 52.2,
+          "m_pc": 56.5,
+          "p_pc": 53.0,
+          "s_pc": 47.0
+        },
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 106,
+          "p": 102,
+          "s": 97,
+          "tot_score": 305,
+          "pc_score": 50.8,
+          "m_pc": 53.0,
+          "p_pc": 51.0,
+          "s_pc": 48.5
+        }
+      ],
+      "n": 2,
+      "m": 219,
+      "m_pc": 54.8,
+      "p": 208,
+      "p_pc": 52.0,
+      "s": 191,
+      "s_pc": 47.8,
+      "tot_score": 618,
+      "pc_score": 51.5
+    },
+    {
+      "rank": 14,
+      "name": "Bostin' 4 A Pitch",
+      "songs": [
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 108,
+          "p": 92,
+          "s": 105,
+          "tot_score": 305,
+          "pc_score": 50.8,
+          "m_pc": 54.0,
+          "p_pc": 46.0,
+          "s_pc": 52.5
+        },
+        {
+          "n": 1,
+          "name": "There's A Rainbow Round My Shoulder",
+          "m": 100,
+          "p": 99,
+          "s": 104,
+          "tot_score": 303,
+          "pc_score": 50.5,
+          "m_pc": 50.0,
+          "p_pc": 49.5,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 208,
+      "m_pc": 52.0,
+      "p": 191,
+      "p_pc": 47.8,
+      "s": 209,
+      "s_pc": 52.3,
+      "tot_score": 608,
+      "pc_score": 50.7
+    },
+    {
+      "rank": 15,
+      "name": "Fourtune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Can Be My Baby",
+          "m": 100,
+          "p": 93,
+          "s": 108,
+          "tot_score": 301,
+          "pc_score": 50.2,
+          "m_pc": 50.0,
+          "p_pc": 46.5,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 101,
+          "p": 94,
+          "s": 105,
+          "tot_score": 300,
+          "pc_score": 50.0,
+          "m_pc": 50.5,
+          "p_pc": 47.0,
+          "s_pc": 52.5
+        }
+      ],
+      "n": 2,
+      "m": 201,
+      "m_pc": 50.3,
+      "p": 187,
+      "p_pc": 46.8,
+      "s": 213,
+      "s_pc": 53.3,
+      "tot_score": 601,
+      "pc_score": 50.1
+    },
+    {
+      "rank": 16,
+      "name": "The Marksmen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 109,
+          "p": 101,
+          "s": 80,
+          "tot_score": 290,
+          "pc_score": 48.3,
+          "m_pc": 54.5,
+          "p_pc": 50.5,
+          "s_pc": 40.0
+        },
+        {
+          "n": 1,
+          "name": "You Made Me Love You",
+          "m": 99,
+          "p": 92,
+          "s": 80,
+          "tot_score": 271,
+          "pc_score": 45.2,
+          "m_pc": 49.5,
+          "p_pc": 46.0,
+          "s_pc": 40.0
+        }
+      ],
+      "n": 2,
+      "m": 208,
+      "m_pc": 52.0,
+      "p": 193,
+      "p_pc": 48.3,
+      "s": 160,
+      "s_pc": 40.0,
+      "tot_score": 561,
+      "pc_score": 46.8
+    },
+    {
+      "rank": 17,
+      "name": "Jigsaw",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Mistakes",
+          "m": 97,
+          "p": 93,
+          "s": 81,
+          "tot_score": 271,
+          "pc_score": 45.2,
+          "m_pc": 48.5,
+          "p_pc": 46.5,
+          "s_pc": 40.5
+        },
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 102,
+          "p": 100,
+          "s": 84,
+          "tot_score": 286,
+          "pc_score": 47.7,
+          "m_pc": 51.0,
+          "p_pc": 50.0,
+          "s_pc": 42.0
+        }
+      ],
+      "n": 2,
+      "m": 199,
+      "m_pc": 49.8,
+      "p": 193,
+      "p_pc": 48.3,
+      "s": 165,
+      "s_pc": 41.3,
+      "tot_score": 557,
+      "pc_score": 46.4
+    },
+    {
+      "rank": 18,
+      "name": "Top C",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When You And I Were Young, Maggie",
+          "m": 95,
+          "p": 96,
+          "s": 98,
+          "tot_score": 289,
+          "pc_score": 48.2,
+          "m_pc": 47.5,
+          "p_pc": 48.0,
+          "s_pc": 49.0
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 62,
+          "p": 95,
+          "s": 97,
+          "tot_score": 254,
+          "pc_score": 42.3,
+          "m_pc": 31.0,
+          "p_pc": 47.5,
+          "s_pc": 48.5
+        }
+      ],
+      "n": 2,
+      "m": 157,
+      "m_pc": 39.3,
+      "p": 191,
+      "p_pc": 47.8,
+      "s": 195,
+      "s_pc": 48.8,
+      "tot_score": 543,
+      "pc_score": 45.3
+    }
+  ]
+}

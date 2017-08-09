@@ -1,0 +1,329 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2008-09-SQF-STREAMED-Detail.txt",
+  "assoc": "BABS",
+  "contest": "SENIORS QUARTET FINAL",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2008/09",
+  "type": "q",
+  "date": "12/10/2008",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "David Morehen"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "David King"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Double Take",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alf"
+        },
+        {
+          "part": "lead",
+          "name": "Den"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Rob"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "Marc Time",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ray"
+        },
+        {
+          "part": "lead",
+          "name": "Bill"
+        },
+        {
+          "part": "bari",
+          "name": "Cliff"
+        },
+        {
+          "part": "bass",
+          "name": "Alan"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "Pacemakers",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "David"
+        },
+        {
+          "part": "lead",
+          "name": "Robin"
+        },
+        {
+          "part": "bari",
+          "name": "Julian"
+        },
+        {
+          "part": "bass",
+          "name": "Charles"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "Rockaholix",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Brian"
+        },
+        {
+          "part": "bari",
+          "name": "Chris"
+        },
+        {
+          "part": "bass",
+          "name": "Roger"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "Spirit Fm",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Chris"
+        },
+        {
+          "part": "lead",
+          "name": "John"
+        },
+        {
+          "part": "bari",
+          "name": "Les"
+        },
+        {
+          "part": "bass",
+          "name": "Keith"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "The Cotton Buddies",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Nick"
+        },
+        {
+          "part": "lead",
+          "name": "Mike"
+        },
+        {
+          "part": "bari",
+          "name": "Jack"
+        },
+        {
+          "part": "bass",
+          "name": "Ken"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "The Late Shift",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Graham"
+        },
+        {
+          "part": "lead",
+          "name": "Derek"
+        },
+        {
+          "part": "bari",
+          "name": "Mike"
+        },
+        {
+          "part": "bass",
+          "name": "Henry"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    },
+    {
+      "rank": 1,
+      "name": "The Royal Males",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Michael"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "Richard"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ],
+      "songs": [],
+      "n": 0,
+      "m": 0,
+      "m_pc": 0,
+      "p": 0,
+      "p_pc": 0,
+      "s": 0,
+      "s_pc": 0,
+      "tot_score": 0,
+      "pc_score": 0
+    }
+  ]
+}

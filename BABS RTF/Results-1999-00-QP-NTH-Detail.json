@@ -1,0 +1,599 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1999-00-QP-NTH-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NORTHERN QUARTET PRELIMS",
+  "location": "SHEFFIELD",
+  "year": "1999/00",
+  "type": "q",
+  "date": "20/11/1999",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Likely Lads",
+      "songs": [
+        {
+          "n": 1,
+          "name": "This Little Piggy",
+          "m": 127,
+          "p": 137,
+          "s": 133,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 63.5,
+          "p_pc": 68.5,
+          "s_pc": 66.5
+        },
+        {
+          "n": 1,
+          "name": "When My Baby Smiles At Me",
+          "m": 124,
+          "p": 136,
+          "s": 127,
+          "tot_score": 387,
+          "pc_score": 64.5,
+          "m_pc": 62.0,
+          "p_pc": 68.0,
+          "s_pc": 63.5
+        }
+      ],
+      "n": 2,
+      "m": 251,
+      "m_pc": 62.8,
+      "p": 273,
+      "p_pc": 68.3,
+      "s": 260,
+      "s_pc": 65.0,
+      "tot_score": 784,
+      "pc_score": 65.3
+    },
+    {
+      "rank": 2,
+      "name": "Easy Street",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Gal Sal",
+          "m": 129,
+          "p": 132,
+          "s": 132,
+          "tot_score": 393,
+          "pc_score": 65.5,
+          "m_pc": 64.5,
+          "p_pc": 66.0,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "For Me And My Gal",
+          "m": 124,
+          "p": 132,
+          "s": 131,
+          "tot_score": 387,
+          "pc_score": 64.5,
+          "m_pc": 62.0,
+          "p_pc": 66.0,
+          "s_pc": 65.5
+        }
+      ],
+      "n": 2,
+      "m": 253,
+      "m_pc": 63.3,
+      "p": 264,
+      "p_pc": 66.0,
+      "s": 263,
+      "s_pc": 65.8,
+      "tot_score": 780,
+      "pc_score": 65.0
+    },
+    {
+      "rank": 3,
+      "name": "Close Encounters",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The One Rose (That's Left In My Heart)",
+          "m": 134,
+          "p": 130,
+          "s": 118,
+          "tot_score": 382,
+          "pc_score": 63.7,
+          "m_pc": 67.0,
+          "p_pc": 65.0,
+          "s_pc": 59.0
+        },
+        {
+          "n": 1,
+          "name": "Meet Me In Rosetime Rosie",
+          "m": 134,
+          "p": 132,
+          "s": 117,
+          "tot_score": 383,
+          "pc_score": 63.8,
+          "m_pc": 67.0,
+          "p_pc": 66.0,
+          "s_pc": 58.5
+        }
+      ],
+      "n": 2,
+      "m": 268,
+      "m_pc": 67.0,
+      "p": 262,
+      "p_pc": 65.5,
+      "s": 235,
+      "s_pc": 58.8,
+      "tot_score": 765,
+      "pc_score": 63.8
+    },
+    {
+      "rank": 4,
+      "name": "Rhapsody",
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 124,
+          "p": 121,
+          "s": 113,
+          "tot_score": 358,
+          "pc_score": 59.7,
+          "m_pc": 62.0,
+          "p_pc": 60.5,
+          "s_pc": 56.5
+        },
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 126,
+          "p": 123,
+          "s": 113,
+          "tot_score": 362,
+          "pc_score": 60.3,
+          "m_pc": 63.0,
+          "p_pc": 61.5,
+          "s_pc": 56.5
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 244,
+      "p_pc": 61.0,
+      "s": 226,
+      "s_pc": 56.5,
+      "tot_score": 720,
+      "pc_score": 60.0
+    },
+    {
+      "rank": 5,
+      "name": "Something For The Weekend",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Want A Girl (Just Like The Girl That Married Dear Old Dad)",
+          "m": 116,
+          "p": 126,
+          "s": 109,
+          "tot_score": 351,
+          "pc_score": 58.5,
+          "m_pc": 58.0,
+          "p_pc": 63.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "Till We Meet Again",
+          "m": 123,
+          "p": 130,
+          "s": 110,
+          "tot_score": 363,
+          "pc_score": 60.5,
+          "m_pc": 61.5,
+          "p_pc": 65.0,
+          "s_pc": 55.0
+        }
+      ],
+      "n": 2,
+      "m": 239,
+      "m_pc": 59.8,
+      "p": 256,
+      "p_pc": 64.0,
+      "s": 219,
+      "s_pc": 54.8,
+      "tot_score": 714,
+      "pc_score": 59.5
+    },
+    {
+      "rank": 6,
+      "name": "Bagatelle",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 117,
+          "p": 112,
+          "s": 112,
+          "tot_score": 341,
+          "pc_score": 56.8,
+          "m_pc": 58.5,
+          "p_pc": 56.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Why Not Say Goodbye The Way We Said Hello",
+          "m": 120,
+          "p": 113,
+          "s": 106,
+          "tot_score": 339,
+          "pc_score": 56.5,
+          "m_pc": 60.0,
+          "p_pc": 56.5,
+          "s_pc": 53.0
+        }
+      ],
+      "n": 2,
+      "m": 237,
+      "m_pc": 59.3,
+      "p": 225,
+      "p_pc": 56.3,
+      "s": 218,
+      "s_pc": 54.5,
+      "tot_score": 680,
+      "pc_score": 56.7
+    },
+    {
+      "rank": 7,
+      "name": "Midlife Crisis",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Tell Me The Same Things Over Again",
+          "m": 107,
+          "p": 118,
+          "s": 109,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 53.5,
+          "p_pc": 59.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby",
+          "m": 117,
+          "p": 117,
+          "s": 108,
+          "tot_score": 342,
+          "pc_score": 57.0,
+          "m_pc": 58.5,
+          "p_pc": 58.5,
+          "s_pc": 54.0
+        }
+      ],
+      "n": 2,
+      "m": 224,
+      "m_pc": 56.0,
+      "p": 235,
+      "p_pc": 58.8,
+      "s": 217,
+      "s_pc": 54.3,
+      "tot_score": 676,
+      "pc_score": 56.3
+    },
+    {
+      "rank": 8,
+      "name": "Free Spirit",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 127,
+          "p": 106,
+          "s": 107,
+          "tot_score": 340,
+          "pc_score": 56.7,
+          "m_pc": 63.5,
+          "p_pc": 53.0,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "I'll Change The Shadows To Sunshine",
+          "m": 115,
+          "p": 106,
+          "s": 99,
+          "tot_score": 320,
+          "pc_score": 53.3,
+          "m_pc": 57.5,
+          "p_pc": 53.0,
+          "s_pc": 49.5
+        }
+      ],
+      "n": 2,
+      "m": 242,
+      "m_pc": 60.5,
+      "p": 212,
+      "p_pc": 53.0,
+      "s": 206,
+      "s_pc": 51.5,
+      "tot_score": 660,
+      "pc_score": 55.0
+    },
+    {
+      "rank": 9,
+      "name": "4th Avenue",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just One More Chance",
+          "m": 113,
+          "p": 104,
+          "s": 106,
+          "tot_score": 323,
+          "pc_score": 53.8,
+          "m_pc": 56.5,
+          "p_pc": 52.0,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "Five Foot Two",
+          "m": 107,
+          "p": 101,
+          "s": 101,
+          "tot_score": 309,
+          "pc_score": 51.5,
+          "m_pc": 53.5,
+          "p_pc": 50.5,
+          "s_pc": 50.5
+        }
+      ],
+      "n": 2,
+      "m": 220,
+      "m_pc": 55.0,
+      "p": 205,
+      "p_pc": 51.3,
+      "s": 207,
+      "s_pc": 51.8,
+      "tot_score": 632,
+      "pc_score": 52.7
+    },
+    {
+      "rank": 10,
+      "name": "A Cappella Fellas",
+      "songs": [
+        {
+          "n": 1,
+          "name": "So Long, Mother",
+          "m": 116,
+          "p": 99,
+          "s": 100,
+          "tot_score": 315,
+          "pc_score": 52.5,
+          "m_pc": 58.0,
+          "p_pc": 49.5,
+          "s_pc": 50.0
+        },
+        {
+          "n": 1,
+          "name": "Rock Me To Sleep In An Old Rocking Chair",
+          "m": 109,
+          "p": 96,
+          "s": 98,
+          "tot_score": 303,
+          "pc_score": 50.5,
+          "m_pc": 54.5,
+          "p_pc": 48.0,
+          "s_pc": 49.0
+        }
+      ],
+      "n": 2,
+      "m": 225,
+      "m_pc": 56.3,
+      "p": 195,
+      "p_pc": 48.8,
+      "s": 198,
+      "s_pc": 49.5,
+      "tot_score": 618,
+      "pc_score": 51.5
+    },
+    {
+      "rank": 11,
+      "name": "Speculation",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 100,
+          "p": 104,
+          "s": 103,
+          "tot_score": 307,
+          "pc_score": 51.2,
+          "m_pc": 50.0,
+          "p_pc": 52.0,
+          "s_pc": 51.5
+        },
+        {
+          "n": 1,
+          "name": "I'd Give The World To Be In My Home Town",
+          "m": 103,
+          "p": 98,
+          "s": 102,
+          "tot_score": 303,
+          "pc_score": 50.5,
+          "m_pc": 51.5,
+          "p_pc": 49.0,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 203,
+      "m_pc": 50.8,
+      "p": 202,
+      "p_pc": 50.5,
+      "s": 205,
+      "s_pc": 51.3,
+      "tot_score": 610,
+      "pc_score": 50.8
+    },
+    {
+      "rank": 12,
+      "name": "Chordite",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Song For Mary",
+          "m": 105,
+          "p": 94,
+          "s": 92,
+          "tot_score": 291,
+          "pc_score": 48.5,
+          "m_pc": 52.5,
+          "p_pc": 47.0,
+          "s_pc": 46.0
+        },
+        {
+          "n": 1,
+          "name": "I'm Still Havin' Fun",
+          "m": 105,
+          "p": 89,
+          "s": 89,
+          "tot_score": 283,
+          "pc_score": 47.2,
+          "m_pc": 52.5,
+          "p_pc": 44.5,
+          "s_pc": 44.5
+        }
+      ],
+      "n": 2,
+      "m": 210,
+      "m_pc": 52.5,
+      "p": 183,
+      "p_pc": 45.8,
+      "s": 181,
+      "s_pc": 45.3,
+      "tot_score": 574,
+      "pc_score": 47.8
+    },
+    {
+      "rank": 13,
+      "name": "The Marksmen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love A Jolson Song",
+          "m": 102,
+          "p": 87,
+          "s": 79,
+          "tot_score": 268,
+          "pc_score": 44.7,
+          "m_pc": 51.0,
+          "p_pc": 43.5,
+          "s_pc": 39.5
+        },
+        {
+          "n": 1,
+          "name": "You Made Me Love You",
+          "m": 109,
+          "p": 87,
+          "s": 75,
+          "tot_score": 271,
+          "pc_score": 45.2,
+          "m_pc": 54.5,
+          "p_pc": 43.5,
+          "s_pc": 37.5
+        }
+      ],
+      "n": 2,
+      "m": 211,
+      "m_pc": 52.8,
+      "p": 174,
+      "p_pc": 43.5,
+      "s": 154,
+      "s_pc": 38.5,
+      "tot_score": 539,
+      "pc_score": 44.9
+    },
+    {
+      "rank": 14,
+      "name": "Top C",
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Knew Susie",
+          "m": 79,
+          "p": 90,
+          "s": 85,
+          "tot_score": 254,
+          "pc_score": 42.3,
+          "m_pc": 39.5,
+          "p_pc": 45.0,
+          "s_pc": 42.5
+        },
+        {
+          "n": 1,
+          "name": "Moonlight Bay",
+          "m": 78,
+          "p": 87,
+          "s": 81,
+          "tot_score": 246,
+          "pc_score": 41.0,
+          "m_pc": 39.0,
+          "p_pc": 43.5,
+          "s_pc": 40.5
+        }
+      ],
+      "n": 2,
+      "m": 157,
+      "m_pc": 39.3,
+      "p": 177,
+      "p_pc": 44.3,
+      "s": 166,
+      "s_pc": 41.5,
+      "tot_score": 500,
+      "pc_score": 41.7
+    }
+  ]
+}

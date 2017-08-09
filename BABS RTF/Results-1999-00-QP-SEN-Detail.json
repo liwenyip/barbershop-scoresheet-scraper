@@ -1,0 +1,209 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1999-00-QP-SEN-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL SENIORS QUARTET PRELIM",
+  "location": "SHEFFIELD",
+  "year": "1999/00",
+  "type": "q",
+  "date": "20/11/1999",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "p",
+      "name": "Ken Farmer"
+    },
+    {
+      "cat": "s",
+      "name": "John Batty"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Northern Heritage",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Too Old (Parody Of Too Young)",
+          "m": 101,
+          "p": 110,
+          "s": 109,
+          "tot_score": 320,
+          "pc_score": 53.3,
+          "m_pc": 50.5,
+          "p_pc": 55.0,
+          "s_pc": 54.5
+        },
+        {
+          "n": 1,
+          "name": "Nobody's Sweetheart",
+          "m": 98,
+          "p": 106,
+          "s": 94,
+          "tot_score": 298,
+          "pc_score": 49.7,
+          "m_pc": 49.0,
+          "p_pc": 53.0,
+          "s_pc": 47.0
+        }
+      ],
+      "n": 2,
+      "m": 199,
+      "m_pc": 49.8,
+      "p": 216,
+      "p_pc": 54.0,
+      "s": 203,
+      "s_pc": 50.8,
+      "tot_score": 618,
+      "pc_score": 51.5
+    },
+    {
+      "rank": 2,
+      "name": "The Marksmen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love A Jolson Song",
+          "m": 102,
+          "p": 87,
+          "s": 79,
+          "tot_score": 268,
+          "pc_score": 44.7,
+          "m_pc": 51.0,
+          "p_pc": 43.5,
+          "s_pc": 39.5
+        },
+        {
+          "n": 1,
+          "name": "You Made Me Love You",
+          "m": 109,
+          "p": 87,
+          "s": 75,
+          "tot_score": 271,
+          "pc_score": 45.2,
+          "m_pc": 54.5,
+          "p_pc": 43.5,
+          "s_pc": 37.5
+        }
+      ],
+      "n": 2,
+      "m": 211,
+      "m_pc": 52.8,
+      "p": 174,
+      "p_pc": 43.5,
+      "s": 154,
+      "s_pc": 38.5,
+      "tot_score": 539,
+      "pc_score": 44.9
+    },
+    {
+      "rank": 3,
+      "name": "Top C",
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Knew Susie",
+          "m": 79,
+          "p": 90,
+          "s": 85,
+          "tot_score": 254,
+          "pc_score": 42.3,
+          "m_pc": 39.5,
+          "p_pc": 45.0,
+          "s_pc": 42.5
+        },
+        {
+          "n": 1,
+          "name": "Moonlight Bay",
+          "m": 78,
+          "p": 87,
+          "s": 81,
+          "tot_score": 246,
+          "pc_score": 41.0,
+          "m_pc": 39.0,
+          "p_pc": 43.5,
+          "s_pc": 40.5
+        }
+      ],
+      "n": 2,
+      "m": 157,
+      "m_pc": 39.3,
+      "p": 177,
+      "p_pc": 44.3,
+      "s": 166,
+      "s_pc": 41.5,
+      "tot_score": 500,
+      "pc_score": 41.7
+    },
+    {
+      "rank": 4,
+      "name": "Sounds Easy",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love You The Best Of All",
+          "m": 81,
+          "p": 90,
+          "s": 76,
+          "tot_score": 247,
+          "pc_score": 41.2,
+          "m_pc": 40.5,
+          "p_pc": 45.0,
+          "s_pc": 38.0
+        },
+        {
+          "n": 1,
+          "name": "Give Me A Barbershop Song",
+          "m": 89,
+          "p": 86,
+          "s": 72,
+          "tot_score": 247,
+          "pc_score": 41.2,
+          "m_pc": 44.5,
+          "p_pc": 43.0,
+          "s_pc": 36.0
+        }
+      ],
+      "n": 2,
+      "m": 170,
+      "m_pc": 42.5,
+      "p": 176,
+      "p_pc": 44.0,
+      "s": 148,
+      "s_pc": 37.0,
+      "tot_score": 494,
+      "pc_score": 41.2
+    }
+  ]
+}

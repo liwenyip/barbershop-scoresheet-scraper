@@ -42,27 +42,27 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1367",
-      "final_tot_score": "2748",
+      "prev_tot_score": "1367",
+      "tot_score": "2748",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -71,25 +71,25 @@
       "pc_score": "76.3",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "233",
           "s": "227",
           "p": "232"
         },
         {
-          "title": "Put Your Arms Around Me Honey",
+          "name": "Put Your Arms Around Me Honey",
           "m": "222",
           "s": "227",
           "p": "226"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "462",
           "s": "457",
           "p": "462"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -109,8 +109,8 @@
       ]
     },
     {
-      "tot_score": "1383",
-      "final_tot_score": "2735",
+      "prev_tot_score": "1383",
+      "tot_score": "2735",
       "rank_m": "2",
       "rank_s": "2",
       "rank_p": "2",
@@ -119,25 +119,25 @@
       "pc_score": "76.0",
       "songs": [
         {
-          "title": "Ya Gotta Know How To Love / I Can't Give You Anything But Lov",
+          "name": "Ya Gotta Know How To Love / I Can't Give You Anything But Lov",
           "m": "237",
           "s": "230",
           "p": "231"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "229",
           "s": "228",
           "p": "228"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "455",
           "s": "448",
           "p": "449"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Kim Potter"
@@ -157,8 +157,8 @@
       ]
     },
     {
-      "tot_score": "1301",
-      "final_tot_score": "2611",
+      "prev_tot_score": "1301",
+      "tot_score": "2611",
       "rank_m": "3",
       "rank_s": "3",
       "rank_p": "3",
@@ -167,25 +167,25 @@
       "pc_score": "72.5",
       "songs": [
         {
-          "title": "You Don't Kinow Me",
+          "name": "You Don't Kinow Me",
           "m": "218",
           "s": "221",
           "p": "214"
         },
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "217",
           "s": "214",
           "p": "217"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "440",
           "s": "434",
           "p": "436"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -205,8 +205,8 @@
       ]
     },
     {
-      "tot_score": "1261",
-      "final_tot_score": "2560",
+      "prev_tot_score": "1261",
+      "tot_score": "2560",
       "rank_m": "5",
       "rank_s": "4",
       "rank_p": "4",
@@ -215,25 +215,25 @@
       "pc_score": "71.1",
       "songs": [
         {
-          "title": "Goody Goodbye",
+          "name": "Goody Goodbye",
           "m": "206",
           "s": "212",
           "p": "208"
         },
         {
-          "title": "From The First Hello To The Last Goodbye",
+          "name": "From The First Hello To The Last Goodbye",
           "m": "206",
           "s": "214",
           "p": "215"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "442",
           "s": "431",
           "p": "426"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Hannah Braham"
@@ -253,8 +253,8 @@
       ]
     },
     {
-      "tot_score": "1288",
-      "final_tot_score": "2550",
+      "prev_tot_score": "1288",
+      "tot_score": "2550",
       "rank_m": "4",
       "rank_s": "6",
       "rank_p": "7",
@@ -263,25 +263,25 @@
       "pc_score": "70.8",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "215",
           "s": "208",
           "p": "220"
         },
         {
-          "title": "The Lady Is A Tramp Medley",
+          "name": "The Lady Is A Tramp Medley",
           "m": "211",
           "s": "217",
           "p": "217"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "424",
           "s": "422",
           "p": "416"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Rebecca Fish"
@@ -301,8 +301,8 @@
       ]
     },
     {
-      "tot_score": "1272",
-      "final_tot_score": "2539",
+      "prev_tot_score": "1272",
+      "tot_score": "2539",
       "rank_m": "6",
       "rank_s": "5",
       "rank_p": "5",
@@ -311,25 +311,25 @@
       "pc_score": "70.5",
       "songs": [
         {
-          "title": "I Love Being Here With You",
+          "name": "I Love Being Here With You",
           "m": "207",
           "s": "206",
           "p": "210"
         },
         {
-          "title": "When You Wish Upon A Star",
+          "name": "When You Wish Upon A Star",
           "m": "214",
           "s": "218",
           "p": "217"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "425",
           "s": "422",
           "p": "420"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Astrid Shepherd"
@@ -349,8 +349,8 @@
       ]
     },
     {
-      "tot_score": "1249",
-      "final_tot_score": "2511",
+      "prev_tot_score": "1249",
+      "tot_score": "2511",
       "rank_m": "7",
       "rank_s": "7",
       "rank_p": "6",
@@ -359,25 +359,25 @@
       "pc_score": "69.8",
       "songs": [
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "205",
           "s": "205",
           "p": "205"
         },
         {
-          "title": "Diamonds Are A Girl's Best Friend",
+          "name": "Diamonds Are A Girl's Best Friend",
           "m": "209",
           "s": "214",
           "p": "211"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "417",
           "s": "420",
           "p": "425"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Myfanwy Beynon"

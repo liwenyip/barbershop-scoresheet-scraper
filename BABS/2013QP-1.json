@@ -30,19 +30,19 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Samantha Roberts"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     }
   ],
@@ -58,19 +58,19 @@
       "pc_score": "76.4",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "149",
           "s": "152",
           "p": "156"
         },
         {
-          "title": "There I've Said It Again",
+          "name": "There I've Said It Again",
           "m": "154",
           "s": "154",
           "p": "152"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian James"
@@ -99,19 +99,19 @@
       "pc_score": "72.1",
       "songs": [
         {
-          "title": "Beautiful Dreamer",
+          "name": "Beautiful Dreamer",
           "m": "148",
           "s": "142",
           "p": "147"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "141",
           "s": "144",
           "p": "143"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Aidan Brand"
@@ -140,19 +140,19 @@
       "pc_score": "68.1",
       "songs": [
         {
-          "title": "Wait Till The Sun Shines, Nellie",
+          "name": "Wait Till The Sun Shines, Nellie",
           "m": "136",
           "s": "136",
           "p": "135"
         },
         {
-          "title": "Zip-A - Dee-Doodah",
+          "name": "Zip-A - Dee-Doodah",
           "m": "131",
           "s": "138",
           "p": "141"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nigel Boucher"
@@ -181,19 +181,19 @@
       "pc_score": "67.3",
       "songs": [
         {
-          "title": "Sweet, Sweet Roses Of Morn",
+          "name": "Sweet, Sweet Roses Of Morn",
           "m": "136",
           "s": "132",
           "p": "135"
         },
         {
-          "title": "Sweet And Lovely",
+          "name": "Sweet And Lovely",
           "m": "133",
           "s": "135",
           "p": "137"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Hayden Cole"
@@ -222,19 +222,19 @@
       "pc_score": "67.2",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "141",
           "s": "131",
           "p": "141"
         },
         {
-          "title": "The Little Boy",
+          "name": "The Little Boy",
           "m": "130",
           "s": "131",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Paul Jeffrey"
@@ -263,19 +263,19 @@
       "pc_score": "66.8",
       "songs": [
         {
-          "title": "The Masquerade Is Over",
+          "name": "The Masquerade Is Over",
           "m": "133",
           "s": "133",
           "p": "137"
         },
         {
-          "title": "Undecided Medley",
+          "name": "Undecided Medley",
           "m": "136",
           "s": "130",
           "p": "132"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Vaugh Dooley"
@@ -304,19 +304,19 @@
       "pc_score": "64.7",
       "songs": [
         {
-          "title": "Bring Back Those Good Old Days",
+          "name": "Bring Back Those Good Old Days",
           "m": "133",
           "s": "127",
           "p": "133"
         },
         {
-          "title": "I'll Be Seeing You",
+          "name": "I'll Be Seeing You",
           "m": "129",
           "s": "129",
           "p": "125"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick Barnacle"
@@ -345,19 +345,19 @@
       "pc_score": "64.5",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "128",
           "s": "132",
           "p": "127"
         },
         {
-          "title": "My Old Kentucky Home",
+          "name": "My Old Kentucky Home",
           "m": "132",
           "s": "129",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nick Pawley"
@@ -386,19 +386,19 @@
       "pc_score": "63.8",
       "songs": [
         {
-          "title": "When My Baby Smiles At Me",
+          "name": "When My Baby Smiles At Me",
           "m": "128",
           "s": "126",
           "p": "133"
         },
         {
-          "title": "Lover Come Back",
+          "name": "Lover Come Back",
           "m": "132",
           "s": "123",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nick Howell"
@@ -427,19 +427,19 @@
       "pc_score": "62.5",
       "songs": [
         {
-          "title": "For All We Know",
+          "name": "For All We Know",
           "m": "124",
           "s": "126",
           "p": "128"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "126",
           "s": "122",
           "p": "124"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter Porter"
@@ -468,19 +468,19 @@
       "pc_score": "62.0",
       "songs": [
         {
-          "title": "If I Had My Way",
+          "name": "If I Had My Way",
           "m": "133",
           "s": "116",
           "p": "137"
         },
         {
-          "title": "Goodbye My Coney Island / We All Fall Medley",
+          "name": "Goodbye My Coney Island / We All Fall Medley",
           "m": "119",
           "s": "118",
           "p": "121"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris Blatchford"
@@ -509,19 +509,19 @@
       "pc_score": "61.8",
       "songs": [
         {
-          "title": "Let The Rest Of The World Go By",
+          "name": "Let The Rest Of The World Go By",
           "m": "127",
           "s": "118",
           "p": "126"
         },
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "121",
           "s": "124",
           "p": "126"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian Heald"
@@ -550,19 +550,19 @@
       "pc_score": "61.2",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "128",
           "s": "121",
           "p": "125"
         },
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "119",
           "s": "121",
           "p": "120"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lee White"
@@ -591,19 +591,19 @@
       "pc_score": "60.1",
       "songs": [
         {
-          "title": "The Moment I Saw Your Eyes",
+          "name": "The Moment I Saw Your Eyes",
           "m": "122",
           "s": "120",
           "p": "122"
         },
         {
-          "title": "Bright Was The Night",
+          "name": "Bright Was The Night",
           "m": "118",
           "s": "120",
           "p": "119"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chas Voss"
@@ -632,19 +632,19 @@
       "pc_score": "59.8",
       "songs": [
         {
-          "title": "Don't Tell Me The Same Things Over Again",
+          "name": "Don't Tell Me The Same Things Over Again",
           "m": "122",
           "s": "122",
           "p": "120"
         },
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "121",
           "s": "116",
           "p": "116"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Walker"
@@ -673,19 +673,19 @@
       "pc_score": "59.4",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "118",
           "s": "119",
           "p": "115"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "118",
           "s": "120",
           "p": "123"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tim Sowter"
@@ -714,19 +714,19 @@
       "pc_score": "58.8",
       "songs": [
         {
-          "title": "Midnight Rose",
+          "name": "Midnight Rose",
           "m": "123",
           "s": "114",
           "p": "122"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "116",
           "s": "113",
           "p": "117"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ed Carter"
@@ -755,19 +755,19 @@
       "pc_score": "58.2",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "124",
           "s": "116",
           "p": "125"
         },
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "114",
           "s": "109",
           "p": "110"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter Bannerman"
@@ -796,19 +796,19 @@
       "pc_score": "57.0",
       "songs": [
         {
-          "title": "The Gang That Sang 'Heart Of My Heart'",
+          "name": "The Gang That Sang 'Heart Of My Heart'",
           "m": "109",
           "s": "111",
           "p": "116"
         },
         {
-          "title": "When You And I Were Young, Maggie",
+          "name": "When You And I Were Young, Maggie",
           "m": "113",
           "s": "119",
           "p": "116"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Milner"
@@ -837,19 +837,19 @@
       "pc_score": "54.9",
       "songs": [
         {
-          "title": "A Wink And A Smile",
+          "name": "A Wink And A Smile",
           "m": "118",
           "s": "109",
           "p": "117"
         },
         {
-          "title": "Amongst My Souvenirs",
+          "name": "Amongst My Souvenirs",
           "m": "106",
           "s": "102",
           "p": "107"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Russell"
@@ -878,19 +878,19 @@
       "pc_score": "53.9",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "109",
           "s": "108",
           "p": "107"
         },
         {
-          "title": "Nevertheless",
+          "name": "Nevertheless",
           "m": "107",
           "s": "109",
           "p": "107"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jason Foxwell"
@@ -919,19 +919,19 @@
       "pc_score": "52.6",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "103",
           "s": "109",
           "p": "100"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "113",
           "s": "101",
           "p": "105"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian Dent"

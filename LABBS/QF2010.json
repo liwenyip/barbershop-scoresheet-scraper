@@ -42,35 +42,35 @@
       "name": "Paula Taylor-Williams"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Hari Birtles"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1328",
-      "final_tot_score": "2654",
+      "prev_tot_score": "1328",
+      "tot_score": "2654",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "1",
@@ -79,25 +79,25 @@
       "pc_score": "73.7",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "223",
           "s": "221",
           "p": "221"
         },
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "220",
           "s": "221",
           "p": "222"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "445",
           "s": "439",
           "p": "442"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Foster"
@@ -117,8 +117,8 @@
       ]
     },
     {
-      "tot_score": "1247",
-      "final_tot_score": "2473",
+      "prev_tot_score": "1247",
+      "tot_score": "2473",
       "rank_m": "2",
       "rank_s": "2",
       "rank_p": "2",
@@ -127,25 +127,25 @@
       "pc_score": "68.7",
       "songs": [
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "205",
           "s": "212",
           "p": "202"
         },
         {
-          "title": "How Many Hearts Have You Broken / Them There Eyes Medley",
+          "name": "How Many Hearts Have You Broken / Them There Eyes Medley",
           "m": "213",
           "s": "206",
           "p": "209"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "413",
           "s": "412",
           "p": "401"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lucy Edmonds"
@@ -165,8 +165,8 @@
       ]
     },
     {
-      "tot_score": "1179",
-      "final_tot_score": "2393",
+      "prev_tot_score": "1179",
+      "tot_score": "2393",
       "rank_m": "4",
       "rank_s": "4",
       "rank_p": "3",
@@ -175,25 +175,25 @@
       "pc_score": "66.5",
       "songs": [
         {
-          "title": "Deed I Do / Put Your Arms Around Me Honey Medley",
+          "name": "Deed I Do / Put Your Arms Around Me Honey Medley",
           "m": "188",
           "s": "201",
           "p": "192"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "197",
           "s": "199",
           "p": "202"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "401",
           "s": "394",
           "p": "419"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanne Lea"
@@ -213,8 +213,8 @@
       ]
     },
     {
-      "tot_score": "1165",
-      "final_tot_score": "2369",
+      "prev_tot_score": "1165",
+      "tot_score": "2369",
       "rank_m": "5",
       "rank_s": "3",
       "rank_p": "4",
@@ -223,25 +223,25 @@
       "pc_score": "65.8",
       "songs": [
         {
-          "title": "Because Of You",
+          "name": "Because Of You",
           "m": "191",
           "s": "194",
           "p": "191"
         },
         {
-          "title": "Mama's Gone / Goodbye Medley",
+          "name": "Mama's Gone / Goodbye Medley",
           "m": "193",
           "s": "198",
           "p": "198"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "396",
           "s": "405",
           "p": "403"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Karen Campbell"
@@ -261,8 +261,8 @@
       ]
     },
     {
-      "tot_score": "1159",
-      "final_tot_score": "2362",
+      "prev_tot_score": "1159",
+      "tot_score": "2362",
       "rank_m": "3",
       "rank_s": "5",
       "rank_p": "5",
@@ -271,25 +271,25 @@
       "pc_score": "65.6",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "194",
           "s": "188",
           "p": "196"
         },
         {
-          "title": "I Can't Give You Anything But Love / I'm Flying High Medley",
+          "name": "I Can't Give You Anything But Love / I'm Flying High Medley",
           "m": "193",
           "s": "198",
           "p": "190"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "406",
           "s": "405",
           "p": "392"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emma McManus"
@@ -309,8 +309,8 @@
       ]
     },
     {
-      "tot_score": "1105",
-      "final_tot_score": "2287",
+      "prev_tot_score": "1105",
+      "tot_score": "2287",
       "rank_m": "6",
       "rank_s": "6",
       "rank_p": "6",
@@ -319,25 +319,25 @@
       "pc_score": "63.5",
       "songs": [
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "177",
           "s": "181",
           "p": "184"
         },
         {
-          "title": "Let's Misbehave",
+          "name": "Let's Misbehave",
           "m": "182",
           "s": "192",
           "p": "189"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "380",
           "s": "400",
           "p": "402"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hooker"

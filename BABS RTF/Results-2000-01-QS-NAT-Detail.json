@@ -1,0 +1,689 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2000-01-QS-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET SEMI-FINALS",
+  "location": "GLASGOW",
+  "year": "2000/01",
+  "type": "q",
+  "date": "04/05/2001",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Isiger"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Light Industrial Choral Society",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Happy Go Lucky Lane",
+          "m": 245,
+          "p": 234,
+          "s": 226,
+          "tot_score": 705,
+          "pc_score": 78.3,
+          "m_pc": 81.7,
+          "p_pc": 78.0,
+          "s_pc": 75.3
+        },
+        {
+          "n": 1,
+          "name": "There's A New Gang On The Corner",
+          "m": 240,
+          "p": 237,
+          "s": 223,
+          "tot_score": 700,
+          "pc_score": 77.8,
+          "m_pc": 80.0,
+          "p_pc": 79.0,
+          "s_pc": 74.3
+        }
+      ],
+      "n": 2,
+      "m": 485,
+      "m_pc": 80.8,
+      "p": 471,
+      "p_pc": 78.5,
+      "s": 449,
+      "s_pc": 74.8,
+      "tot_score": 1405,
+      "pc_score": 78.1
+    },
+    {
+      "rank": 2,
+      "name": "Matrix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The End Of The World Come Tomorrow",
+          "m": 231,
+          "p": 220,
+          "s": 208,
+          "tot_score": 659,
+          "pc_score": 73.2,
+          "m_pc": 77.0,
+          "p_pc": 73.3,
+          "s_pc": 69.3
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 241,
+          "p": 221,
+          "s": 208,
+          "tot_score": 670,
+          "pc_score": 74.4,
+          "m_pc": 80.3,
+          "p_pc": 73.7,
+          "s_pc": 69.3
+        }
+      ],
+      "n": 2,
+      "m": 472,
+      "m_pc": 78.7,
+      "p": 441,
+      "p_pc": 73.5,
+      "s": 416,
+      "s_pc": 69.3,
+      "tot_score": 1329,
+      "pc_score": 73.8
+    },
+    {
+      "rank": 3,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love Parody",
+          "m": 224,
+          "p": 229,
+          "s": 188,
+          "tot_score": 641,
+          "pc_score": 71.2,
+          "m_pc": 74.7,
+          "p_pc": 76.3,
+          "s_pc": 62.7
+        },
+        {
+          "n": 1,
+          "name": "Together Parody",
+          "m": 215,
+          "p": 218,
+          "s": 185,
+          "tot_score": 618,
+          "pc_score": 68.7,
+          "m_pc": 71.7,
+          "p_pc": 72.7,
+          "s_pc": 61.7
+        }
+      ],
+      "n": 2,
+      "m": 439,
+      "m_pc": 73.2,
+      "p": 447,
+      "p_pc": 74.5,
+      "s": 373,
+      "s_pc": 62.2,
+      "tot_score": 1259,
+      "pc_score": 69.9
+    },
+    {
+      "rank": 4,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "A Song Like Daddy Used To Play",
+          "m": 214,
+          "p": 204,
+          "s": 195,
+          "tot_score": 613,
+          "pc_score": 68.1,
+          "m_pc": 71.3,
+          "p_pc": 68.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "In The Wee Small Hours Of The Morning",
+          "m": 217,
+          "p": 212,
+          "s": 193,
+          "tot_score": 622,
+          "pc_score": 69.1,
+          "m_pc": 72.3,
+          "p_pc": 70.7,
+          "s_pc": 64.3
+        }
+      ],
+      "n": 2,
+      "m": 431,
+      "m_pc": 71.8,
+      "p": 416,
+      "p_pc": 69.3,
+      "s": 388,
+      "s_pc": 64.7,
+      "tot_score": 1235,
+      "pc_score": 68.6
+    },
+    {
+      "rank": 5,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There Goes My Heart",
+          "m": 215,
+          "p": 200,
+          "s": 190,
+          "tot_score": 605,
+          "pc_score": 67.2,
+          "m_pc": 71.7,
+          "p_pc": 66.7,
+          "s_pc": 63.3
+        },
+        {
+          "n": 1,
+          "name": "Lulu's Back In Town",
+          "m": 209,
+          "p": 201,
+          "s": 185,
+          "tot_score": 595,
+          "pc_score": 66.1,
+          "m_pc": 69.7,
+          "p_pc": 67.0,
+          "s_pc": 61.7
+        }
+      ],
+      "n": 2,
+      "m": 424,
+      "m_pc": 70.7,
+      "p": 401,
+      "p_pc": 66.8,
+      "s": 375,
+      "s_pc": 62.5,
+      "tot_score": 1200,
+      "pc_score": 66.7
+    },
+    {
+      "rank": 6,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 195,
+          "p": 202,
+          "s": 199,
+          "tot_score": 596,
+          "pc_score": 66.2,
+          "m_pc": 65.0,
+          "p_pc": 67.3,
+          "s_pc": 66.3
+        },
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 194,
+          "p": 205,
+          "s": 195,
+          "tot_score": 594,
+          "pc_score": 66.0,
+          "m_pc": 64.7,
+          "p_pc": 68.3,
+          "s_pc": 65.0
+        }
+      ],
+      "n": 2,
+      "m": 389,
+      "m_pc": 64.8,
+      "p": 407,
+      "p_pc": 67.8,
+      "s": 394,
+      "s_pc": 65.7,
+      "tot_score": 1190,
+      "pc_score": 66.1
+    },
+    {
+      "rank": 7,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 188,
+          "p": 202,
+          "s": 187,
+          "tot_score": 577,
+          "pc_score": 64.1,
+          "m_pc": 62.7,
+          "p_pc": 67.3,
+          "s_pc": 62.3
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 198,
+          "p": 200,
+          "s": 185,
+          "tot_score": 583,
+          "pc_score": 64.8,
+          "m_pc": 66.0,
+          "p_pc": 66.7,
+          "s_pc": 61.7
+        }
+      ],
+      "n": 2,
+      "m": 386,
+      "m_pc": 64.3,
+      "p": 402,
+      "p_pc": 67.0,
+      "s": 372,
+      "s_pc": 62.0,
+      "tot_score": 1160,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 7,
+      "name": "Savannah",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Hard Hearted Hannah",
+          "m": 192,
+          "p": 196,
+          "s": 193,
+          "tot_score": 581,
+          "pc_score": 64.6,
+          "m_pc": 64.0,
+          "p_pc": 65.3,
+          "s_pc": 64.3
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 198,
+          "p": 192,
+          "s": 189,
+          "tot_score": 579,
+          "pc_score": 64.3,
+          "m_pc": 66.0,
+          "p_pc": 64.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 390,
+      "m_pc": 65.0,
+      "p": 388,
+      "p_pc": 64.7,
+      "s": 382,
+      "s_pc": 63.7,
+      "tot_score": 1160,
+      "pc_score": 64.4
+    },
+    {
+      "rank": 9,
+      "name": "Good Fortune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Gal Sal",
+          "m": 186,
+          "p": 195,
+          "s": 183,
+          "tot_score": 564,
+          "pc_score": 62.7,
+          "m_pc": 62.0,
+          "p_pc": 65.0,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "For Me And My Gal",
+          "m": 196,
+          "p": 193,
+          "s": 183,
+          "tot_score": 572,
+          "pc_score": 63.6,
+          "m_pc": 65.3,
+          "p_pc": 64.3,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 382,
+      "m_pc": 63.7,
+      "p": 388,
+      "p_pc": 64.7,
+      "s": 366,
+      "s_pc": 61.0,
+      "tot_score": 1136,
+      "pc_score": 63.1
+    },
+    {
+      "rank": 10,
+      "name": "Rhapsody",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Red, Red Robin Comes Bob, Bob, Bobbin' Along",
+          "m": 190,
+          "p": 196,
+          "s": 188,
+          "tot_score": 574,
+          "pc_score": 63.8,
+          "m_pc": 63.3,
+          "p_pc": 65.3,
+          "s_pc": 62.7
+        },
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 188,
+          "p": 190,
+          "s": 181,
+          "tot_score": 559,
+          "pc_score": 62.1,
+          "m_pc": 62.7,
+          "p_pc": 63.3,
+          "s_pc": 60.3
+        }
+      ],
+      "n": 2,
+      "m": 378,
+      "m_pc": 63.0,
+      "p": 386,
+      "p_pc": 64.3,
+      "s": 369,
+      "s_pc": 61.5,
+      "tot_score": 1133,
+      "pc_score": 62.9
+    },
+    {
+      "rank": 11,
+      "name": "Legacy",
+      "songs": [
+        {
+          "n": 1,
+          "name": "She Didn't Say No",
+          "m": 198,
+          "p": 195,
+          "s": 174,
+          "tot_score": 567,
+          "pc_score": 63.0,
+          "m_pc": 66.0,
+          "p_pc": 65.0,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "You Made Me Love You",
+          "m": 188,
+          "p": 187,
+          "s": 168,
+          "tot_score": 543,
+          "pc_score": 60.3,
+          "m_pc": 62.7,
+          "p_pc": 62.3,
+          "s_pc": 56.0
+        }
+      ],
+      "n": 2,
+      "m": 386,
+      "m_pc": 64.3,
+      "p": 382,
+      "p_pc": 63.7,
+      "s": 342,
+      "s_pc": 57.0,
+      "tot_score": 1110,
+      "pc_score": 61.7
+    },
+    {
+      "rank": 12,
+      "name": "Close Encounters",
+      "songs": [
+        {
+          "n": 1,
+          "name": "If You Love Me Really Love Me",
+          "m": 184,
+          "p": 192,
+          "s": 182,
+          "tot_score": 558,
+          "pc_score": 62.0,
+          "m_pc": 61.3,
+          "p_pc": 64.0,
+          "s_pc": 60.7
+        },
+        {
+          "n": 1,
+          "name": "On A Slow Boat To China",
+          "m": 188,
+          "p": 183,
+          "s": 174,
+          "tot_score": 545,
+          "pc_score": 60.6,
+          "m_pc": 62.7,
+          "p_pc": 61.0,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 372,
+      "m_pc": 62.0,
+      "p": 375,
+      "p_pc": 62.5,
+      "s": 356,
+      "s_pc": 59.3,
+      "tot_score": 1103,
+      "pc_score": 61.3
+    },
+    {
+      "rank": 13,
+      "name": "Vocal Instinct",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 183,
+          "p": 181,
+          "s": 176,
+          "tot_score": 540,
+          "pc_score": 60.0,
+          "m_pc": 61.0,
+          "p_pc": 60.3,
+          "s_pc": 58.7
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 187,
+          "p": 184,
+          "s": 171,
+          "tot_score": 542,
+          "pc_score": 60.2,
+          "m_pc": 62.3,
+          "p_pc": 61.3,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 370,
+      "m_pc": 61.7,
+      "p": 365,
+      "p_pc": 60.8,
+      "s": 347,
+      "s_pc": 57.8,
+      "tot_score": 1082,
+      "pc_score": 60.1
+    },
+    {
+      "rank": 14,
+      "name": "Fine Blend",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 174,
+          "p": 185,
+          "s": 173,
+          "tot_score": 532,
+          "pc_score": 59.1,
+          "m_pc": 58.0,
+          "p_pc": 61.7,
+          "s_pc": 57.7
+        },
+        {
+          "n": 1,
+          "name": "Heart Of My Heart (The Story Of The Rose)",
+          "m": 162,
+          "p": 174,
+          "s": 168,
+          "tot_score": 504,
+          "pc_score": 56.0,
+          "m_pc": 54.0,
+          "p_pc": 58.0,
+          "s_pc": 56.0
+        }
+      ],
+      "n": 2,
+      "m": 336,
+      "m_pc": 56.0,
+      "p": 359,
+      "p_pc": 59.8,
+      "s": 341,
+      "s_pc": 56.8,
+      "tot_score": 1036,
+      "pc_score": 57.6
+    },
+    {
+      "rank": 15,
+      "name": "Bagatelle",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You",
+          "m": 158,
+          "p": 171,
+          "s": 168,
+          "tot_score": 497,
+          "pc_score": 55.2,
+          "m_pc": 52.7,
+          "p_pc": 57.0,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Honeysuckle Moon",
+          "m": 152,
+          "p": 174,
+          "s": 167,
+          "tot_score": 493,
+          "pc_score": 54.8,
+          "m_pc": 50.7,
+          "p_pc": 58.0,
+          "s_pc": 55.7
+        }
+      ],
+      "n": 2,
+      "m": 310,
+      "m_pc": 51.7,
+      "p": 345,
+      "p_pc": 57.5,
+      "s": 335,
+      "s_pc": 55.8,
+      "tot_score": 990,
+      "pc_score": 55.0
+    },
+    {
+      "rank": 16,
+      "name": "Afterglow",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Don't Blame Me",
+          "m": 162,
+          "p": 171,
+          "s": 160,
+          "tot_score": 493,
+          "pc_score": 54.8,
+          "m_pc": 54.0,
+          "p_pc": 57.0,
+          "s_pc": 53.3
+        },
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 155,
+          "p": 167,
+          "s": 152,
+          "tot_score": 474,
+          "pc_score": 52.7,
+          "m_pc": 51.7,
+          "p_pc": 55.7,
+          "s_pc": 50.7
+        }
+      ],
+      "n": 2,
+      "m": 317,
+      "m_pc": 52.8,
+      "p": 338,
+      "p_pc": 56.3,
+      "s": 312,
+      "s_pc": 52.0,
+      "tot_score": 967,
+      "pc_score": 53.7
+    }
+  ]
+}

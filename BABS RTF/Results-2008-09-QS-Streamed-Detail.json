@@ -1,0 +1,1026 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2008-09-QS-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET SEMI-FINAL",
+  "location": "LLANDUDNO",
+  "year": "2008/09",
+  "type": "q",
+  "date": "22/05/2009",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Don't Know Me",
+          "m": 231,
+          "p": 231,
+          "s": 230,
+          "tot_score": 692,
+          "pc_score": 76.9,
+          "m_pc": 77.0,
+          "p_pc": 77.0,
+          "s_pc": 76.7
+        },
+        {
+          "n": 1,
+          "name": "Cuddle Up A Little Closer, Lovey Mine",
+          "m": 241,
+          "p": 234,
+          "s": 234,
+          "tot_score": 709,
+          "pc_score": 78.8,
+          "m_pc": 80.3,
+          "p_pc": 78.0,
+          "s_pc": 78.0
+        }
+      ],
+      "n": 2,
+      "m": 472,
+      "m_pc": 78.7,
+      "p": 465,
+      "p_pc": 77.5,
+      "s": 464,
+      "s_pc": 77.3,
+      "tot_score": 1401,
+      "pc_score": 77.8
+    },
+    {
+      "rank": 2,
+      "name": "Monkey Magic",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Zac"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Undecided Medley",
+          "m": 235,
+          "p": 231,
+          "s": 231,
+          "tot_score": 697,
+          "pc_score": 77.4,
+          "m_pc": 78.3,
+          "p_pc": 77.0,
+          "s_pc": 77.0
+        },
+        {
+          "n": 1,
+          "name": "What Kind Of Fool Am I",
+          "m": 234,
+          "p": 231,
+          "s": 233,
+          "tot_score": 698,
+          "pc_score": 77.6,
+          "m_pc": 78.0,
+          "p_pc": 77.0,
+          "s_pc": 77.7
+        }
+      ],
+      "n": 2,
+      "m": 469,
+      "m_pc": 78.2,
+      "p": 462,
+      "p_pc": 77.0,
+      "s": 464,
+      "s_pc": 77.3,
+      "tot_score": 1395,
+      "pc_score": 77.5
+    },
+    {
+      "rank": 3,
+      "name": "Steel",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Keith"
+        },
+        {
+          "part": "bari",
+          "name": "Peter"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me",
+          "m": 231,
+          "p": 231,
+          "s": 233,
+          "tot_score": 695,
+          "pc_score": 77.2,
+          "m_pc": 77.0,
+          "p_pc": 77.0,
+          "s_pc": 77.7
+        },
+        {
+          "n": 1,
+          "name": "Time After Time",
+          "m": 229,
+          "p": 229,
+          "s": 231,
+          "tot_score": 689,
+          "pc_score": 76.6,
+          "m_pc": 76.3,
+          "p_pc": 76.3,
+          "s_pc": 77.0
+        }
+      ],
+      "n": 2,
+      "m": 460,
+      "m_pc": 76.7,
+      "p": 460,
+      "p_pc": 76.7,
+      "s": 464,
+      "s_pc": 77.3,
+      "tot_score": 1384,
+      "pc_score": 76.9
+    },
+    {
+      "rank": 4,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 206,
+          "p": 195,
+          "s": 200,
+          "tot_score": 601,
+          "pc_score": 66.8,
+          "m_pc": 68.7,
+          "p_pc": 65.0,
+          "s_pc": 66.7
+        },
+        {
+          "n": 1,
+          "name": "Where The Southern Roses Grow",
+          "m": 207,
+          "p": 196,
+          "s": 203,
+          "tot_score": 606,
+          "pc_score": 67.3,
+          "m_pc": 69.0,
+          "p_pc": 65.3,
+          "s_pc": 67.7
+        }
+      ],
+      "n": 2,
+      "m": 413,
+      "m_pc": 68.8,
+      "p": 391,
+      "p_pc": 65.2,
+      "s": 403,
+      "s_pc": 67.2,
+      "tot_score": 1207,
+      "pc_score": 67.1
+    },
+    {
+      "rank": 5,
+      "name": "Four Blokes Singin'",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Chris"
+        },
+        {
+          "part": "lead",
+          "name": "Glen"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 197,
+          "p": 205,
+          "s": 197,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 65.7,
+          "p_pc": 68.3,
+          "s_pc": 65.7
+        },
+        {
+          "n": 1,
+          "name": "The Way You Look Tonight",
+          "m": 197,
+          "p": 206,
+          "s": 199,
+          "tot_score": 602,
+          "pc_score": 66.9,
+          "m_pc": 65.7,
+          "p_pc": 68.7,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 394,
+      "m_pc": 65.7,
+      "p": 411,
+      "p_pc": 68.5,
+      "s": 396,
+      "s_pc": 66.0,
+      "tot_score": 1201,
+      "pc_score": 66.7
+    },
+    {
+      "rank": 6,
+      "name": "Qube",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Tim"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Tipperary / Packup Your Troubles Medley",
+          "m": 199,
+          "p": 195,
+          "s": 203,
+          "tot_score": 597,
+          "pc_score": 66.3,
+          "m_pc": 66.3,
+          "p_pc": 65.0,
+          "s_pc": 67.7
+        },
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 201,
+          "p": 197,
+          "s": 202,
+          "tot_score": 600,
+          "pc_score": 66.7,
+          "m_pc": 67.0,
+          "p_pc": 65.7,
+          "s_pc": 67.3
+        }
+      ],
+      "n": 2,
+      "m": 400,
+      "m_pc": 66.7,
+      "p": 392,
+      "p_pc": 65.3,
+      "s": 405,
+      "s_pc": 67.5,
+      "tot_score": 1197,
+      "pc_score": 66.5
+    },
+    {
+      "rank": 7,
+      "name": "Retro",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Always",
+          "m": 194,
+          "p": 195,
+          "s": 195,
+          "tot_score": 584,
+          "pc_score": 64.9,
+          "m_pc": 64.7,
+          "p_pc": 65.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "You're Nobody 'Til Somebody Loves You",
+          "m": 191,
+          "p": 200,
+          "s": 199,
+          "tot_score": 590,
+          "pc_score": 65.6,
+          "m_pc": 63.7,
+          "p_pc": 66.7,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 385,
+      "m_pc": 64.2,
+      "p": 395,
+      "p_pc": 65.8,
+      "s": 394,
+      "s_pc": 65.7,
+      "tot_score": 1174,
+      "pc_score": 65.2
+    },
+    {
+      "rank": 8,
+      "name": "The Royal Males",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Michael"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "Richard"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wonderful Day Medley",
+          "m": 188,
+          "p": 179,
+          "s": 180,
+          "tot_score": 547,
+          "pc_score": 60.8,
+          "m_pc": 62.7,
+          "p_pc": 59.7,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Walkin' My Baby Back Home",
+          "m": 193,
+          "p": 179,
+          "s": 180,
+          "tot_score": 552,
+          "pc_score": 61.3,
+          "m_pc": 64.3,
+          "p_pc": 59.7,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 381,
+      "m_pc": 63.5,
+      "p": 358,
+      "p_pc": 59.7,
+      "s": 360,
+      "s_pc": 60.0,
+      "tot_score": 1099,
+      "pc_score": 61.1
+    },
+    {
+      "rank": 9,
+      "name": "Sharp Practice",
+      "members": [
+        {
+          "part": "director",
+          "name": "James"
+        },
+        {
+          "part": "director",
+          "name": "Steve"
+        },
+        {
+          "part": "director",
+          "name": "Nigel. Keith"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 178,
+          "p": 180,
+          "s": 183,
+          "tot_score": 541,
+          "pc_score": 60.1,
+          "m_pc": 59.3,
+          "p_pc": 60.0,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 189,
+          "p": 183,
+          "s": 184,
+          "tot_score": 556,
+          "pc_score": 61.8,
+          "m_pc": 63.0,
+          "p_pc": 61.0,
+          "s_pc": 61.3
+        }
+      ],
+      "n": 2,
+      "m": 367,
+      "m_pc": 61.2,
+      "p": 363,
+      "p_pc": 60.5,
+      "s": 367,
+      "s_pc": 61.2,
+      "tot_score": 1097,
+      "pc_score": 60.9
+    },
+    {
+      "rank": 10,
+      "name": "Quadrahedron",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 181,
+          "p": 182,
+          "s": 185,
+          "tot_score": 548,
+          "pc_score": 60.9,
+          "m_pc": 60.3,
+          "p_pc": 60.7,
+          "s_pc": 61.7
+        },
+        {
+          "n": 1,
+          "name": "A Nightingale Sang In Berkeley Square",
+          "m": 182,
+          "p": 181,
+          "s": 184,
+          "tot_score": 547,
+          "pc_score": 60.8,
+          "m_pc": 60.7,
+          "p_pc": 60.3,
+          "s_pc": 61.3
+        }
+      ],
+      "n": 2,
+      "m": 363,
+      "m_pc": 60.5,
+      "p": 363,
+      "p_pc": 60.5,
+      "s": 369,
+      "s_pc": 61.5,
+      "tot_score": 1095,
+      "pc_score": 60.8
+    },
+    {
+      "rank": 11,
+      "name": "Free Range",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Phil"
+        },
+        {
+          "part": "lead",
+          "name": "Graham"
+        },
+        {
+          "part": "bari",
+          "name": "Geof"
+        },
+        {
+          "part": "bass",
+          "name": "Stewart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes",
+          "m": 167,
+          "p": 189,
+          "s": 181,
+          "tot_score": 537,
+          "pc_score": 59.7,
+          "m_pc": 55.7,
+          "p_pc": 63.0,
+          "s_pc": 60.3
+        },
+        {
+          "n": 1,
+          "name": "Beautiful Dreamer",
+          "m": 186,
+          "p": 186,
+          "s": 182,
+          "tot_score": 554,
+          "pc_score": 61.6,
+          "m_pc": 62.0,
+          "p_pc": 62.0,
+          "s_pc": 60.7
+        }
+      ],
+      "n": 2,
+      "m": 353,
+      "m_pc": 58.8,
+      "p": 375,
+      "p_pc": 62.5,
+      "s": 363,
+      "s_pc": 60.5,
+      "tot_score": 1091,
+      "pc_score": 60.6
+    },
+    {
+      "rank": 12,
+      "name": "Cadence",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "How Deep Is The Ocean",
+          "m": 175,
+          "p": 183,
+          "s": 180,
+          "tot_score": 538,
+          "pc_score": 59.8,
+          "m_pc": 58.3,
+          "p_pc": 61.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 178,
+          "p": 187,
+          "s": 185,
+          "tot_score": 550,
+          "pc_score": 61.1,
+          "m_pc": 59.3,
+          "p_pc": 62.3,
+          "s_pc": 61.7
+        }
+      ],
+      "n": 2,
+      "m": 353,
+      "m_pc": 58.8,
+      "p": 370,
+      "p_pc": 61.7,
+      "s": 365,
+      "s_pc": 60.8,
+      "tot_score": 1088,
+      "pc_score": 60.4
+    },
+    {
+      "rank": 13,
+      "name": "Catch 22",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Greg"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Basin Street Blues",
+          "m": 175,
+          "p": 181,
+          "s": 176,
+          "tot_score": 532,
+          "pc_score": 59.1,
+          "m_pc": 58.3,
+          "p_pc": 60.3,
+          "s_pc": 58.7
+        },
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 183,
+          "p": 186,
+          "s": 174,
+          "tot_score": 543,
+          "pc_score": 60.3,
+          "m_pc": 61.0,
+          "p_pc": 62.0,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 358,
+      "m_pc": 59.7,
+      "p": 367,
+      "p_pc": 61.2,
+      "s": 350,
+      "s_pc": 58.3,
+      "tot_score": 1075,
+      "pc_score": 59.7
+    },
+    {
+      "rank": 14,
+      "name": "Velvet Blue",
+      "members": [
+        {
+          "part": "director",
+          "name": "Thom"
+        },
+        {
+          "part": "director",
+          "name": "Andrew"
+        },
+        {
+          "part": "director",
+          "name": "Tom. Mark"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Orange Coloured Sky",
+          "m": 173,
+          "p": 177,
+          "s": 175,
+          "tot_score": 525,
+          "pc_score": 58.3,
+          "m_pc": 57.7,
+          "p_pc": 59.0,
+          "s_pc": 58.3
+        },
+        {
+          "n": 1,
+          "name": "The Sweetest Story Ever Told",
+          "m": 179,
+          "p": 182,
+          "s": 175,
+          "tot_score": 536,
+          "pc_score": 59.6,
+          "m_pc": 59.7,
+          "p_pc": 60.7,
+          "s_pc": 58.3
+        }
+      ],
+      "n": 2,
+      "m": 352,
+      "m_pc": 58.7,
+      "p": 359,
+      "p_pc": 59.8,
+      "s": 350,
+      "s_pc": 58.3,
+      "tot_score": 1061,
+      "pc_score": 58.9
+    },
+    {
+      "rank": 15,
+      "name": "Chordwright",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Wayne"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Steven"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Alone Because I Love You",
+          "m": 173,
+          "p": 168,
+          "s": 175,
+          "tot_score": 516,
+          "pc_score": 57.3,
+          "m_pc": 57.7,
+          "p_pc": 56.0,
+          "s_pc": 58.3
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 180,
+          "p": 175,
+          "s": 174,
+          "tot_score": 529,
+          "pc_score": 58.8,
+          "m_pc": 60.0,
+          "p_pc": 58.3,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 353,
+      "m_pc": 58.8,
+      "p": 343,
+      "p_pc": 57.2,
+      "s": 349,
+      "s_pc": 58.2,
+      "tot_score": 1045,
+      "pc_score": 58.1
+    },
+    {
+      "rank": 16,
+      "name": "Chord Bards",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tam"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "Nigel"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Made Me Love You / It Had To Be You Medley",
+          "m": 172,
+          "p": 167,
+          "s": 172,
+          "tot_score": 511,
+          "pc_score": 56.8,
+          "m_pc": 57.3,
+          "p_pc": 55.7,
+          "s_pc": 57.3
+        },
+        {
+          "n": 1,
+          "name": "When Somebody Thinks You're Wonderful",
+          "m": 181,
+          "p": 170,
+          "s": 174,
+          "tot_score": 525,
+          "pc_score": 58.3,
+          "m_pc": 60.3,
+          "p_pc": 56.7,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 353,
+      "m_pc": 58.8,
+      "p": 337,
+      "p_pc": 56.2,
+      "s": 346,
+      "s_pc": 57.7,
+      "tot_score": 1036,
+      "pc_score": 57.6
+    },
+    {
+      "rank": 17,
+      "name": "4getmenots",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Colin"
+        },
+        {
+          "part": "lead",
+          "name": "Colin"
+        },
+        {
+          "part": "bari",
+          "name": "Steve"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 166,
+          "p": 169,
+          "s": 170,
+          "tot_score": 505,
+          "pc_score": 56.1,
+          "m_pc": 55.3,
+          "p_pc": 56.3,
+          "s_pc": 56.7
+        },
+        {
+          "n": 1,
+          "name": "Sentimental Gentleman From Georgia",
+          "m": 172,
+          "p": 177,
+          "s": 177,
+          "tot_score": 526,
+          "pc_score": 58.4,
+          "m_pc": 57.3,
+          "p_pc": 59.0,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 338,
+      "m_pc": 56.3,
+      "p": 346,
+      "p_pc": 57.7,
+      "s": 347,
+      "s_pc": 57.8,
+      "tot_score": 1031,
+      "pc_score": 57.3
+    }
+  ]
+}

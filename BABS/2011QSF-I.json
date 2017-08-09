@@ -42,23 +42,23 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "76.4",
       "songs": [
         {
-          "title": "Moonlight Becomes You",
+          "name": "Moonlight Becomes You",
           "m": "228",
           "s": "229",
           "p": "231"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "231",
           "s": "228",
           "p": "229"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian"
@@ -115,19 +115,19 @@
       "pc_score": "75.5",
       "songs": [
         {
-          "title": "I'll Get By (As Long As I Have You)",
+          "name": "I'll Get By (As Long As I Have You)",
           "m": "230",
           "s": "225",
           "p": "226"
         },
         {
-          "title": "Smile Medley",
+          "name": "Smile Medley",
           "m": "230",
           "s": "222",
           "p": "226"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tony"
@@ -156,19 +156,19 @@
       "pc_score": "70.0",
       "songs": [
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "210",
           "s": "204",
           "p": "218"
         },
         {
-          "title": "Melancholy Baby",
+          "name": "Melancholy Baby",
           "m": "204",
           "s": "214",
           "p": "210"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon"
@@ -197,19 +197,19 @@
       "pc_score": "68.2",
       "songs": [
         {
-          "title": "Sentimental Gentleman From Georgia",
+          "name": "Sentimental Gentleman From Georgia",
           "m": "213",
           "s": "203",
           "p": "205"
         },
         {
-          "title": "Lover Come Back",
+          "name": "Lover Come Back",
           "m": "204",
           "s": "199",
           "p": "204"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James"
@@ -238,19 +238,19 @@
       "pc_score": "68.0",
       "songs": [
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "202",
           "s": "199",
           "p": "208"
         },
         {
-          "title": "Cheer Up Charlie",
+          "name": "Cheer Up Charlie",
           "m": "199",
           "s": "209",
           "p": "207"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard"
@@ -279,19 +279,19 @@
       "pc_score": "67.4",
       "songs": [
         {
-          "title": "Friends To The End",
+          "name": "Friends To The End",
           "m": "200",
           "s": "208",
           "p": "198"
         },
         {
-          "title": "From The First Hello To The Last Goodbye [parody]",
+          "name": "From The First Hello To The Last Goodbye [parody]",
           "m": "208",
           "s": "199",
           "p": "201"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard"
@@ -320,19 +320,19 @@
       "pc_score": "66.5",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "191",
           "s": "201",
           "p": "198"
         },
         {
-          "title": "Cheer Up Charlie",
+          "name": "Cheer Up Charlie",
           "m": "208",
           "s": "201",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
@@ -361,19 +361,19 @@
       "pc_score": "66.5",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "201",
           "s": "199",
           "p": "196"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "201",
           "s": "199",
           "p": "201"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian"
@@ -402,19 +402,19 @@
       "pc_score": "66.5",
       "songs": [
         {
-          "title": "Sweet Adeline",
+          "name": "Sweet Adeline",
           "m": "191",
           "s": "202",
           "p": "194"
         },
         {
-          "title": "Dear Hearts And Gentle People",
+          "name": "Dear Hearts And Gentle People",
           "m": "201",
           "s": "204",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
@@ -443,19 +443,19 @@
       "pc_score": "66.3",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "188",
           "s": "198",
           "p": "199"
         },
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "198",
           "s": "205",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy"
@@ -484,19 +484,19 @@
       "pc_score": "65.2",
       "songs": [
         {
-          "title": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
           "m": "195",
           "s": "199",
           "p": "198"
         },
         {
-          "title": "That's Life",
+          "name": "That's Life",
           "m": "200",
           "s": "192",
           "p": "190"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris"
@@ -525,19 +525,19 @@
       "pc_score": "64.9",
       "songs": [
         {
-          "title": "I'm Beginning To See The Light",
+          "name": "I'm Beginning To See The Light",
           "m": "197",
           "s": "196",
           "p": "195"
         },
         {
-          "title": "For All We Know",
+          "name": "For All We Know",
           "m": "194",
           "s": "194",
           "p": "192"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Greg"
@@ -562,23 +562,64 @@
       "rank_s": "13",
       "rank_p": "9",
       "rank": "13",
-      "name": "Footlights 63.7 1140 Make 'Em Laugh Love Me And The World Is Mine 190 186 202 195 185 182 13 12 15 Category rankings: 14: Quartetones",
-      "pc_score": "63.3",
+      "name": "Footlights",
+      "pc_score": "63.7",
       "songs": [
         {
-          "title": "Zing! Went The Strings Of My Heart",
+          "name": "Zing! Went The Strings Of My Heart",
           "m": "179",
           "s": "198",
           "p": "190"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "201",
           "s": "189",
           "p": "189"
         }
       ],
-      "singers": [
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
+        }
+      ]
+    },
+    {
+      "tot_score": "1140",
+      "rank_m": "13",
+      "rank_s": "15",
+      "rank_p": "12",
+      "rank": "14",
+      "name": "Quartetones",
+      "pc_score": "63.3",
+      "songs": [
+        {
+          "name": "Make 'Em Laugh",
+          "m": "190",
+          "s": "202",
+          "p": "186"
+        },
+        {
+          "name": "Love Me And The World Is Mine",
+          "m": "195",
+          "s": "182",
+          "p": "185"
+        }
+      ],
+      "members": [
         {
           "part": "tenor",
           "name": "Guthrie"
@@ -607,19 +648,19 @@
       "pc_score": "61.7",
       "songs": [
         {
-          "title": "Always",
+          "name": "Always",
           "m": "183",
           "s": "186",
           "p": "182"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "189",
           "s": "185",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter"
@@ -648,19 +689,19 @@
       "pc_score": "60.3",
       "songs": [
         {
-          "title": "I'm Beginning To See The Light",
+          "name": "I'm Beginning To See The Light",
           "m": "175",
           "s": "183",
           "p": "182"
         },
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "186",
           "s": "179",
           "p": "180"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tim"
@@ -676,6 +717,47 @@
         {
           "part": "bass",
           "name": "Dave"
+        }
+      ]
+    },
+    {
+      "tot_score": "1064",
+      "rank_m": "17",
+      "rank_s": "17",
+      "rank_p": "17",
+      "rank": "17",
+      "name": "Four To The Bar",
+      "pc_score": "59.1",
+      "songs": [
+        {
+          "name": "Sweet Georgia Brown",
+          "m": "176",
+          "s": "183",
+          "p": "172"
+        },
+        {
+          "name": "Once Upon A Time",
+          "m": "184",
+          "s": "174",
+          "p": "175"
+        }
+      ],
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
         }
       ]
     }

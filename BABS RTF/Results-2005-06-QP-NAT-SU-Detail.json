@@ -1,0 +1,599 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2005-06-QP-NAT-SU-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NAT QUARTET PRELIM - SU",
+  "location": "BABLAKE SCHOOL, COVENTRY",
+  "year": "2005/06",
+  "type": "q",
+  "date": "16/10/2005",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Mike Taylor"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Andy Milner"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Pitch Invasion",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Eyes Medley",
+          "m": 153,
+          "p": 144,
+          "s": 144,
+          "tot_score": 441,
+          "pc_score": 73.5,
+          "m_pc": 76.5,
+          "p_pc": 72.0,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "Fancy You Fancying Me",
+          "m": 151,
+          "p": 147,
+          "s": 144,
+          "tot_score": 442,
+          "pc_score": 73.7,
+          "m_pc": 75.5,
+          "p_pc": 73.5,
+          "s_pc": 72.0
+        }
+      ],
+      "n": 2,
+      "m": 304,
+      "m_pc": 76.0,
+      "p": 291,
+      "p_pc": 72.8,
+      "s": 288,
+      "s_pc": 72.0,
+      "tot_score": 883,
+      "pc_score": 73.6
+    },
+    {
+      "rank": 2,
+      "name": "Q. E. D.",
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 142,
+          "p": 131,
+          "s": 141,
+          "tot_score": 414,
+          "pc_score": 69.0,
+          "m_pc": 71.0,
+          "p_pc": 65.5,
+          "s_pc": 70.5
+        },
+        {
+          "n": 1,
+          "name": "My Honey's Lovin' Arms",
+          "m": 141,
+          "p": 132,
+          "s": 142,
+          "tot_score": 415,
+          "pc_score": 69.2,
+          "m_pc": 70.5,
+          "p_pc": 66.0,
+          "s_pc": 71.0
+        }
+      ],
+      "n": 2,
+      "m": 283,
+      "m_pc": 70.8,
+      "p": 263,
+      "p_pc": 65.8,
+      "s": 283,
+      "s_pc": 70.8,
+      "tot_score": 829,
+      "pc_score": 69.1
+    },
+    {
+      "rank": 3,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 138,
+          "p": 141,
+          "s": 137,
+          "tot_score": 416,
+          "pc_score": 69.3,
+          "m_pc": 69.0,
+          "p_pc": 70.5,
+          "s_pc": 68.5
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 135,
+          "p": 142,
+          "s": 134,
+          "tot_score": 411,
+          "pc_score": 68.5,
+          "m_pc": 67.5,
+          "p_pc": 71.0,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 2,
+      "m": 273,
+      "m_pc": 68.3,
+      "p": 283,
+      "p_pc": 70.8,
+      "s": 271,
+      "s_pc": 67.8,
+      "tot_score": 827,
+      "pc_score": 68.9
+    },
+    {
+      "rank": 4,
+      "name": "Revelation!",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ya Gotta Know How To Love",
+          "m": 139,
+          "p": 130,
+          "s": 125,
+          "tot_score": 394,
+          "pc_score": 65.7,
+          "m_pc": 69.5,
+          "p_pc": 65.0,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "I'm All Alone",
+          "m": 133,
+          "p": 130,
+          "s": 124,
+          "tot_score": 387,
+          "pc_score": 64.5,
+          "m_pc": 66.5,
+          "p_pc": 65.0,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 272,
+      "m_pc": 68.0,
+      "p": 260,
+      "p_pc": 65.0,
+      "s": 249,
+      "s_pc": 62.3,
+      "tot_score": 781,
+      "pc_score": 65.1
+    },
+    {
+      "rank": 5,
+      "name": "The Stunt Monkeys",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Are The One I Love",
+          "m": 130,
+          "p": 115,
+          "s": 126,
+          "tot_score": 371,
+          "pc_score": 61.8,
+          "m_pc": 65.0,
+          "p_pc": 57.5,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "I Can't Give You Anything But Love",
+          "m": 134,
+          "p": 118,
+          "s": 126,
+          "tot_score": 378,
+          "pc_score": 63.0,
+          "m_pc": 67.0,
+          "p_pc": 59.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 264,
+      "m_pc": 66.0,
+      "p": 233,
+      "p_pc": 58.3,
+      "s": 252,
+      "s_pc": 63.0,
+      "tot_score": 749,
+      "pc_score": 62.4
+    },
+    {
+      "rank": 6,
+      "name": "Figaro",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 122,
+          "p": 130,
+          "s": 121,
+          "tot_score": 373,
+          "pc_score": 62.2,
+          "m_pc": 61.0,
+          "p_pc": 65.0,
+          "s_pc": 60.5
+        },
+        {
+          "n": 1,
+          "name": "Sentimental Journey",
+          "m": 116,
+          "p": 127,
+          "s": 116,
+          "tot_score": 359,
+          "pc_score": 59.8,
+          "m_pc": 58.0,
+          "p_pc": 63.5,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 238,
+      "m_pc": 59.5,
+      "p": 257,
+      "p_pc": 64.3,
+      "s": 237,
+      "s_pc": 59.3,
+      "tot_score": 732,
+      "pc_score": 61.0
+    },
+    {
+      "rank": 7,
+      "name": "Arrival",
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 128,
+          "p": 112,
+          "s": 126,
+          "tot_score": 366,
+          "pc_score": 61.0,
+          "m_pc": 64.0,
+          "p_pc": 56.0,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 122,
+          "p": 110,
+          "s": 128,
+          "tot_score": 360,
+          "pc_score": 60.0,
+          "m_pc": 61.0,
+          "p_pc": 55.0,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 250,
+      "m_pc": 62.5,
+      "p": 222,
+      "p_pc": 55.5,
+      "s": 254,
+      "s_pc": 63.5,
+      "tot_score": 726,
+      "pc_score": 60.5
+    },
+    {
+      "rank": 8,
+      "name": "Vocal Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Bye Bye Blackbird",
+          "m": 121,
+          "p": 117,
+          "s": 125,
+          "tot_score": 363,
+          "pc_score": 60.5,
+          "m_pc": 60.5,
+          "p_pc": 58.5,
+          "s_pc": 62.5
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 115,
+          "p": 111,
+          "s": 121,
+          "tot_score": 347,
+          "pc_score": 57.8,
+          "m_pc": 57.5,
+          "p_pc": 55.5,
+          "s_pc": 60.5
+        }
+      ],
+      "n": 2,
+      "m": 236,
+      "m_pc": 59.0,
+      "p": 228,
+      "p_pc": 57.0,
+      "s": 246,
+      "s_pc": 61.5,
+      "tot_score": 710,
+      "pc_score": 59.2
+    },
+    {
+      "rank": 9,
+      "name": "Premier Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 123,
+          "p": 117,
+          "s": 120,
+          "tot_score": 360,
+          "pc_score": 60.0,
+          "m_pc": 61.5,
+          "p_pc": 58.5,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "Dream A Little Dream Of Me",
+          "m": 116,
+          "p": 110,
+          "s": 112,
+          "tot_score": 338,
+          "pc_score": 56.3,
+          "m_pc": 58.0,
+          "p_pc": 55.0,
+          "s_pc": 56.0
+        }
+      ],
+      "n": 2,
+      "m": 239,
+      "m_pc": 59.8,
+      "p": 227,
+      "p_pc": 56.8,
+      "s": 232,
+      "s_pc": 58.0,
+      "tot_score": 698,
+      "pc_score": 58.2
+    },
+    {
+      "rank": 10,
+      "name": "A Cappella Fellas",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 118,
+          "p": 117,
+          "s": 114,
+          "tot_score": 349,
+          "pc_score": 58.2,
+          "m_pc": 59.0,
+          "p_pc": 58.5,
+          "s_pc": 57.0
+        },
+        {
+          "n": 1,
+          "name": "Midnight Rose",
+          "m": 115,
+          "p": 117,
+          "s": 113,
+          "tot_score": 345,
+          "pc_score": 57.5,
+          "m_pc": 57.5,
+          "p_pc": 58.5,
+          "s_pc": 56.5
+        }
+      ],
+      "n": 2,
+      "m": 233,
+      "m_pc": 58.3,
+      "p": 234,
+      "p_pc": 58.5,
+      "s": 227,
+      "s_pc": 56.8,
+      "tot_score": 694,
+      "pc_score": 57.8
+    },
+    {
+      "rank": 11,
+      "name": "Time Out",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 113,
+          "p": 112,
+          "s": 100,
+          "tot_score": 325,
+          "pc_score": 54.2,
+          "m_pc": 56.5,
+          "p_pc": 56.0,
+          "s_pc": 50.0
+        },
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 110,
+          "p": 108,
+          "s": 100,
+          "tot_score": 318,
+          "pc_score": 53.0,
+          "m_pc": 55.0,
+          "p_pc": 54.0,
+          "s_pc": 50.0
+        }
+      ],
+      "n": 2,
+      "m": 223,
+      "m_pc": 55.8,
+      "p": 220,
+      "p_pc": 55.0,
+      "s": 200,
+      "s_pc": 50.0,
+      "tot_score": 643,
+      "pc_score": 53.6
+    },
+    {
+      "rank": 12,
+      "name": "Four Blokes Singin'",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night On The Back Porch",
+          "m": 115,
+          "p": 110,
+          "s": 100,
+          "tot_score": 325,
+          "pc_score": 54.2,
+          "m_pc": 57.5,
+          "p_pc": 55.0,
+          "s_pc": 50.0
+        },
+        {
+          "n": 1,
+          "name": "Moonlight Brings Memories",
+          "m": 110,
+          "p": 107,
+          "s": 95,
+          "tot_score": 312,
+          "pc_score": 52.0,
+          "m_pc": 55.0,
+          "p_pc": 53.5,
+          "s_pc": 47.5
+        }
+      ],
+      "n": 2,
+      "m": 225,
+      "m_pc": 56.3,
+      "p": 217,
+      "p_pc": 54.3,
+      "s": 195,
+      "s_pc": 48.8,
+      "tot_score": 637,
+      "pc_score": 53.1
+    },
+    {
+      "rank": 13,
+      "name": "Bless 'Em All",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Wild Irish Rose",
+          "m": 100,
+          "p": 114,
+          "s": 96,
+          "tot_score": 310,
+          "pc_score": 51.7,
+          "m_pc": 50.0,
+          "p_pc": 57.0,
+          "s_pc": 48.0
+        },
+        {
+          "n": 1,
+          "name": "If You Were The Only Girl In The World",
+          "m": 105,
+          "p": 117,
+          "s": 95,
+          "tot_score": 317,
+          "pc_score": 52.8,
+          "m_pc": 52.5,
+          "p_pc": 58.5,
+          "s_pc": 47.5
+        }
+      ],
+      "n": 2,
+      "m": 205,
+      "m_pc": 51.3,
+      "p": 231,
+      "p_pc": 57.8,
+      "s": 191,
+      "s_pc": 47.8,
+      "tot_score": 627,
+      "pc_score": 52.3
+    },
+    {
+      "rank": 14,
+      "name": "Vocal Icing",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 112,
+          "p": 107,
+          "s": 94,
+          "tot_score": 313,
+          "pc_score": 52.2,
+          "m_pc": 56.0,
+          "p_pc": 53.5,
+          "s_pc": 47.0
+        },
+        {
+          "n": 1,
+          "name": "Let's Get Away From It All",
+          "m": 110,
+          "p": 105,
+          "s": 91,
+          "tot_score": 306,
+          "pc_score": 51.0,
+          "m_pc": 55.0,
+          "p_pc": 52.5,
+          "s_pc": 45.5
+        }
+      ],
+      "n": 2,
+      "m": 222,
+      "m_pc": 55.5,
+      "p": 212,
+      "p_pc": 53.0,
+      "s": 185,
+      "s_pc": 46.3,
+      "tot_score": 619,
+      "pc_score": 51.6
+    }
+  ]
+}

@@ -30,19 +30,19 @@
       "name": "Nicky Salt"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
@@ -55,21 +55,26 @@
       "rank_p": "1",
       "rank": "1",
       "name": "Green Street Blues",
-      "director": "Timm Barkworth",
       "size": "23",
       "pc_score": "73.0",
       "songs": [
         {
-          "title": "What Kind Of Fool Am I?",
+          "name": "What Kind Of Fool Am I?",
           "m": "143",
           "s": "148",
           "p": "142"
         },
         {
-          "title": "I Love Jazz Medley",
+          "name": "I Love Jazz Medley",
           "m": "146",
           "s": "148",
           "p": "149"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Timm Barkworth"
         }
       ]
     },
@@ -80,21 +85,26 @@
       "rank_p": "2",
       "rank": "2",
       "name": "Capital Connection",
-      "director": "Debi Cox",
       "size": "32",
       "pc_score": "70.8",
       "songs": [
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "139",
           "s": "141",
           "p": "137"
         },
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "137",
           "s": "148",
           "p": "147"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Debi Cox"
         }
       ]
     },
@@ -105,21 +115,26 @@
       "rank_p": "4",
       "rank": "3",
       "name": "Guildford Harmony",
-      "director": "Andrew Edgley",
       "size": "21",
       "pc_score": "63.2",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "129",
           "s": "127",
           "p": "124"
         },
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "125",
           "s": "127",
           "p": "126"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Andrew Edgley"
         }
       ]
     },
@@ -130,21 +145,26 @@
       "rank_p": "3",
       "rank": "4",
       "name": "Norwich Harmony",
-      "director": "Alison Thompson/Carol Logan",
       "size": "37",
       "pc_score": "62.9",
       "songs": [
         {
-          "title": "I'd Give A Million Tomorrows",
+          "name": "I'd Give A Million Tomorrows",
           "m": "122",
           "s": "125",
           "p": "120"
         },
         {
-          "title": "Lucky Day / Sitting On Top Of The World Medley",
+          "name": "Lucky Day / Sitting On Top Of The World Medley",
           "m": "129",
           "s": "132",
           "p": "127"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Alison Thompson/Carol Logan"
         }
       ]
     },
@@ -155,21 +175,26 @@
       "rank_p": "6",
       "rank": "5",
       "name": "The Barberettes",
-      "director": "Emma Lelliott",
       "size": "24",
       "pc_score": "60.4",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "126",
           "s": "118",
           "p": "122"
         },
         {
-          "title": "How Deep Is The Ocean?",
+          "name": "How Deep Is The Ocean?",
           "m": "120",
           "s": "117",
           "p": "122"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Emma Lelliott"
         }
       ]
     },
@@ -180,21 +205,26 @@
       "rank_p": "5",
       "rank": "6",
       "name": "Welwyn Harmony",
-      "director": "Alan Hooke",
       "size": "36",
       "pc_score": "59.4",
       "songs": [
         {
-          "title": "Wrap Your Troubles In Dreams",
+          "name": "Wrap Your Troubles In Dreams",
           "m": "119",
           "s": "118",
           "p": "121"
         },
         {
-          "title": "My Baby Just Cares For Me",
+          "name": "My Baby Just Cares For Me",
           "m": "124",
           "s": "117",
           "p": "114"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Alan Hooke"
         }
       ]
     },
@@ -205,21 +235,26 @@
       "rank_p": "8",
       "rank": "7",
       "name": "Harmony Inspires",
-      "director": "Helen Carter",
       "size": "27",
       "pc_score": "53.8",
       "songs": [
         {
-          "title": "When I Just Wear My Smile",
+          "name": "When I Just Wear My Smile",
           "m": "110",
           "s": "110",
           "p": "106"
         },
         {
-          "title": "Linger Awhile",
+          "name": "Linger Awhile",
           "m": "106",
           "s": "107",
           "p": "107"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Helen Carter"
         }
       ]
     },
@@ -230,21 +265,26 @@
       "rank_p": "7",
       "rank": "7",
       "name": "Spirit Of The South",
-      "director": "Lucy van de Ven",
       "size": "19",
       "pc_score": "53.8",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "104",
           "s": "109",
           "p": "111"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "110",
           "s": "106",
           "p": "106"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lucy van de Ven"
         }
       ]
     }

@@ -1,0 +1,383 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-1999-00-QF-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "BRIGHTON",
+  "year": "1999/00",
+  "type": "q",
+  "date": "30/04/2000",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "Joyce Stroud"
+    },
+    {
+      "cat": "m",
+      "name": "Glenis Todd"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Nick Frampton"
+    },
+    {
+      "cat": "p",
+      "name": "Sandra Landey"
+    },
+    {
+      "cat": "p",
+      "name": "Lynda Wood"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "Lynn Randall"
+    },
+    {
+      "cat": "s",
+      "name": "Graham Sutton"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "Alan Peech"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "The Likely Lads",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When My Baby Smiles At Me",
+          "m": 304,
+          "p": 267,
+          "s": 298,
+          "tot_score": 869,
+          "pc_score": 72.4,
+          "m_pc": 76.0,
+          "p_pc": 66.8,
+          "s_pc": 74.5
+        },
+        {
+          "n": 1,
+          "name": "I've Found My Sweetheart Sally",
+          "m": 291,
+          "p": 268,
+          "s": 289,
+          "tot_score": 848,
+          "pc_score": 70.7,
+          "m_pc": 72.8,
+          "p_pc": 67.0,
+          "s_pc": 72.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 606.0,
+          "p": 578.0,
+          "s": 563.0,
+          "tot_score": 1747.0,
+          "pc_score": 72.8,
+          "m_pc": 75.8,
+          "p_pc": 72.3,
+          "s_pc": 70.4
+        }
+      ],
+      "n": 4,
+      "m": 1201.0,
+      "m_pc": 75.1,
+      "p": 1113.0,
+      "p_pc": 69.6,
+      "s": 1150.0,
+      "s_pc": 71.9,
+      "tot_score": 3464.0,
+      "pc_score": 72.2
+    },
+    {
+      "rank": 2,
+      "name": "High Fidelity",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 281,
+          "p": 287,
+          "s": 263,
+          "tot_score": 831,
+          "pc_score": 69.3,
+          "m_pc": 70.3,
+          "p_pc": 71.8,
+          "s_pc": 65.8
+        },
+        {
+          "n": 1,
+          "name": "So Long, Mother",
+          "m": 287,
+          "p": 291,
+          "s": 264,
+          "tot_score": 842,
+          "pc_score": 70.2,
+          "m_pc": 71.8,
+          "p_pc": 72.8,
+          "s_pc": 66.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 585.0,
+          "p": 598.0,
+          "s": 558.0,
+          "tot_score": 1741.0,
+          "pc_score": 72.5,
+          "m_pc": 73.1,
+          "p_pc": 74.8,
+          "s_pc": 69.8
+        }
+      ],
+      "n": 4,
+      "m": 1153.0,
+      "m_pc": 72.1,
+      "p": 1176.0,
+      "p_pc": 73.5,
+      "s": 1085.0,
+      "s_pc": 67.8,
+      "tot_score": 3414.0,
+      "pc_score": 71.1
+    },
+    {
+      "rank": 3,
+      "name": "Wheel Of Harmony",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wedding Bells Are Breaking Up That Old Gang Of Mine",
+          "m": 288,
+          "p": 263,
+          "s": 274,
+          "tot_score": 825,
+          "pc_score": 68.8,
+          "m_pc": 72.0,
+          "p_pc": 65.8,
+          "s_pc": 68.5
+        },
+        {
+          "n": 1,
+          "name": "That Old Quartet Of Mine",
+          "m": 293,
+          "p": 299,
+          "s": 279,
+          "tot_score": 871,
+          "pc_score": 72.6,
+          "m_pc": 73.3,
+          "p_pc": 74.8,
+          "s_pc": 69.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 587.0,
+          "p": 549.0,
+          "s": 568.0,
+          "tot_score": 1704.0,
+          "pc_score": 71.0,
+          "m_pc": 73.4,
+          "p_pc": 68.6,
+          "s_pc": 71.0
+        }
+      ],
+      "n": 4,
+      "m": 1168.0,
+      "m_pc": 73.0,
+      "p": 1111.0,
+      "p_pc": 69.4,
+      "s": 1121.0,
+      "s_pc": 70.1,
+      "tot_score": 3400.0,
+      "pc_score": 70.8
+    },
+    {
+      "rank": 4,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Moment I Saw Your Eyes Parody",
+          "m": 266,
+          "p": 296,
+          "s": 249,
+          "tot_score": 811,
+          "pc_score": 67.6,
+          "m_pc": 66.5,
+          "p_pc": 74.0,
+          "s_pc": 62.3
+        },
+        {
+          "n": 1,
+          "name": "Where Have My Old Friends Gone Parody",
+          "m": 271,
+          "p": 293,
+          "s": 247,
+          "tot_score": 811,
+          "pc_score": 67.6,
+          "m_pc": 67.8,
+          "p_pc": 73.3,
+          "s_pc": 61.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 572.0,
+          "p": 554.0,
+          "s": 523.0,
+          "tot_score": 1649.0,
+          "pc_score": 68.7,
+          "m_pc": 71.5,
+          "p_pc": 69.3,
+          "s_pc": 65.4
+        }
+      ],
+      "n": 4,
+      "m": 1109.0,
+      "m_pc": 69.3,
+      "p": 1143.0,
+      "p_pc": 71.4,
+      "s": 1019.0,
+      "s_pc": 63.7,
+      "tot_score": 3271.0,
+      "pc_score": 68.1
+    },
+    {
+      "rank": 5,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Bright Was The Night",
+          "m": 274,
+          "p": 269,
+          "s": 258,
+          "tot_score": 801,
+          "pc_score": 66.8,
+          "m_pc": 68.5,
+          "p_pc": 67.3,
+          "s_pc": 64.5
+        },
+        {
+          "n": 1,
+          "name": "Tie Me To Your Apron Strings Again",
+          "m": 274,
+          "p": 279,
+          "s": 265,
+          "tot_score": 818,
+          "pc_score": 68.2,
+          "m_pc": 68.5,
+          "p_pc": 69.8,
+          "s_pc": 66.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 518.0,
+          "p": 555.0,
+          "s": 527.0,
+          "tot_score": 1600.0,
+          "pc_score": 66.7,
+          "m_pc": 64.8,
+          "p_pc": 69.4,
+          "s_pc": 65.9
+        }
+      ],
+      "n": 4,
+      "m": 1066.0,
+      "m_pc": 66.6,
+      "p": 1103.0,
+      "p_pc": 68.9,
+      "s": 1050.0,
+      "s_pc": 65.6,
+      "tot_score": 3219.0,
+      "pc_score": 67.1
+    },
+    {
+      "rank": 6,
+      "name": "Legacy",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 270,
+          "p": 267,
+          "s": 271,
+          "tot_score": 808,
+          "pc_score": 67.3,
+          "m_pc": 67.5,
+          "p_pc": 66.8,
+          "s_pc": 67.8
+        },
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 274,
+          "p": 264,
+          "s": 271,
+          "tot_score": 809,
+          "pc_score": 67.4,
+          "m_pc": 68.5,
+          "p_pc": 66.0,
+          "s_pc": 67.8
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 560.0,
+          "p": 477.0,
+          "s": 513.0,
+          "tot_score": 1550.0,
+          "pc_score": 64.6,
+          "m_pc": 70.0,
+          "p_pc": 59.6,
+          "s_pc": 64.1
+        }
+      ],
+      "n": 4,
+      "m": 1104.0,
+      "m_pc": 69.0,
+      "p": 1008.0,
+      "p_pc": 63.0,
+      "s": 1055.0,
+      "s_pc": 65.9,
+      "tot_score": 3167.0,
+      "pc_score": 66.0
+    }
+  ]
+}

@@ -30,35 +30,35 @@
       "name": "Mark Grindall"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Nancy Philbin"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Katie Dew"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Marilyn Penketh"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "73.6",
       "songs": [
         {
-          "title": "You Took Advantage Of Me",
+          "name": "You Took Advantage Of Me",
           "m": "153",
           "s": "147",
           "p": "140"
         },
         {
-          "title": "I Want You, I Need You, I Love You",
+          "name": "I Want You, I Need You, I Love You",
           "m": "147",
           "s": "148",
           "p": "148"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrea Day"
@@ -115,19 +115,19 @@
       "pc_score": "73.2",
       "songs": [
         {
-          "title": "Undecided Medley",
+          "name": "Undecided Medley",
           "m": "144",
           "s": "148",
           "p": "148"
         },
         {
-          "title": "If I Had My Way",
+          "name": "If I Had My Way",
           "m": "146",
           "s": "146",
           "p": "146"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ali Jack"
@@ -156,19 +156,19 @@
       "pc_score": "72.5",
       "songs": [
         {
-          "title": "Yesterday I Heard The Rain",
+          "name": "Yesterday I Heard The Rain",
           "m": "144",
           "s": "142",
           "p": "149"
         },
         {
-          "title": "Little Patch Of Heaven",
+          "name": "Little Patch Of Heaven",
           "m": "142",
           "s": "146",
           "p": "147"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Warner"
@@ -197,19 +197,19 @@
       "pc_score": "71.3",
       "songs": [
         {
-          "title": "Bring Back Those Good Old Days",
+          "name": "Bring Back Those Good Old Days",
           "m": "147",
           "s": "147",
           "p": "124"
         },
         {
-          "title": "How To Build A Quartet",
+          "name": "How To Build A Quartet",
           "m": "150",
           "s": "142",
           "p": "146"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Emily Atherton"
@@ -238,19 +238,19 @@
       "pc_score": "71.2",
       "songs": [
         {
-          "title": "Let The Rest Of The World Go By",
+          "name": "Let The Rest Of The World Go By",
           "m": "146",
           "s": "137",
           "p": "146"
         },
         {
-          "title": "Wait Till The Sun Shines, Nellie",
+          "name": "Wait Till The Sun Shines, Nellie",
           "m": "140",
           "s": "143",
           "p": "142"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Karen Whitworth"
@@ -279,19 +279,19 @@
       "pc_score": "63.0",
       "songs": [
         {
-          "title": "Why Should I Cry Over You?",
+          "name": "Why Should I Cry Over You?",
           "m": "123",
           "s": "124",
           "p": "122"
         },
         {
-          "title": "So Long Dearie",
+          "name": "So Long Dearie",
           "m": "128",
           "s": "130",
           "p": "129"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alison Thompson"
@@ -320,19 +320,19 @@
       "pc_score": "58.5",
       "songs": [
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "117",
           "s": "121",
           "p": "114"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "119",
           "s": "114",
           "p": "117"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mary Williams"

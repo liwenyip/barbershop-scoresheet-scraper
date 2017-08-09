@@ -42,27 +42,27 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     }
   ],
   "type": "quartet final",
   "contestants": [
     {
-      "tot_score": "1494",
-      "final_tot_score": "2986",
+      "prev_tot_score": "1494",
+      "tot_score": "2986",
       "rank_m": "1",
       "rank_s": "1",
       "rank_p": "2",
@@ -71,25 +71,25 @@
       "pc_score": "82.9",
       "songs": [
         {
-          "title": "You're The Girl I Love",
+          "name": "You're The Girl I Love",
           "m": "251",
           "s": "243",
           "p": "252"
         },
         {
-          "title": "Five Foot Two",
+          "name": "Five Foot Two",
           "m": "249",
           "s": "248",
           "p": "251"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "500",
           "s": "495",
           "p": "497"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James Williams"
@@ -109,8 +109,8 @@
       ]
     },
     {
-      "tot_score": "1488",
-      "final_tot_score": "2973",
+      "prev_tot_score": "1488",
+      "tot_score": "2973",
       "rank_m": "2",
       "rank_s": "2",
       "rank_p": "1",
@@ -119,25 +119,25 @@
       "pc_score": "82.6",
       "songs": [
         {
-          "title": "A Sunday Kind Of Love",
+          "name": "A Sunday Kind Of Love",
           "m": "247",
           "s": "250",
           "p": "250"
         },
         {
-          "title": "PS I Love You",
+          "name": "PS I Love You",
           "m": "251",
           "s": "246",
           "p": "244"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "498",
           "s": "487",
           "p": "500"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Foster"
@@ -157,8 +157,8 @@
       ]
     },
     {
-      "tot_score": "1433",
-      "final_tot_score": "2871",
+      "prev_tot_score": "1433",
+      "tot_score": "2871",
       "rank_m": "4",
       "rank_s": "3",
       "rank_p": "4",
@@ -167,25 +167,25 @@
       "pc_score": "79.8",
       "songs": [
         {
-          "title": "Me And Mrs Jones",
+          "name": "Me And Mrs Jones",
           "m": "240",
           "s": "237",
           "p": "237"
         },
         {
-          "title": "Lover Come Back",
+          "name": "Lover Come Back",
           "m": "238",
           "s": "243",
           "p": "238"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "475",
           "s": "475",
           "p": "488"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Antoine Kaiserman"
@@ -205,8 +205,8 @@
       ]
     },
     {
-      "tot_score": "1443",
-      "final_tot_score": "2870",
+      "prev_tot_score": "1443",
+      "tot_score": "2870",
       "rank_m": "3",
       "rank_s": "4",
       "rank_p": "5",
@@ -215,25 +215,25 @@
       "pc_score": "79.7",
       "songs": [
         {
-          "title": "Wouldn't It Be Lovely",
+          "name": "Wouldn't It Be Lovely",
           "m": "247",
           "s": "241",
           "p": "235"
         },
         {
-          "title": "You Took Advantage Of Me",
+          "name": "You Took Advantage Of Me",
           "m": "242",
           "s": "237",
           "p": "241"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "474",
           "s": "477",
           "p": "476"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ian James"
@@ -253,8 +253,8 @@
       ]
     },
     {
-      "tot_score": "1437",
-      "final_tot_score": "2853",
+      "prev_tot_score": "1437",
+      "tot_score": "2853",
       "rank_m": "5",
       "rank_s": "5",
       "rank_p": "3",
@@ -263,25 +263,25 @@
       "pc_score": "79.3",
       "songs": [
         {
-          "title": "The Nearness Of You",
+          "name": "The Nearness Of You",
           "m": "246",
           "s": "243",
           "p": "230"
         },
         {
-          "title": "Recipe For Makin' Love",
+          "name": "Recipe For Makin' Love",
           "m": "245",
           "s": "234",
           "p": "239"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "466",
           "s": "473",
           "p": "477"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ben Ferguson"
@@ -301,8 +301,8 @@
       ]
     },
     {
-      "tot_score": "1413",
-      "final_tot_score": "2796",
+      "prev_tot_score": "1413",
+      "tot_score": "2796",
       "rank_m": "5",
       "rank_s": "6",
       "rank_p": "6",
@@ -311,25 +311,25 @@
       "pc_score": "77.7",
       "songs": [
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "239",
           "s": "231",
           "p": "238"
         },
         {
-          "title": "I Have Dreamed",
+          "name": "I Have Dreamed",
           "m": "229",
           "s": "239",
           "p": "237"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "465",
           "s": "460",
           "p": "458"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard Fisher"
@@ -349,8 +349,8 @@
       ]
     },
     {
-      "tot_score": "1358",
-      "final_tot_score": "2730",
+      "prev_tot_score": "1358",
+      "tot_score": "2730",
       "rank_m": "8",
       "rank_s": "7",
       "rank_p": "7",
@@ -359,25 +359,25 @@
       "pc_score": "75.8",
       "songs": [
         {
-          "title": "Something Tells Me I'm Into Something Good",
+          "name": "Something Tells Me I'm Into Something Good",
           "m": "225",
           "s": "230",
           "p": "228"
         },
         {
-          "title": "Over The Rainbow",
+          "name": "Over The Rainbow",
           "m": "230",
           "s": "221",
           "p": "224"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "459",
           "s": "462",
           "p": "451"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Eoin Conway"
@@ -397,8 +397,8 @@
       ]
     },
     {
-      "tot_score": "1358",
-      "final_tot_score": "2710",
+      "prev_tot_score": "1358",
+      "tot_score": "2710",
       "rank_m": "7",
       "rank_s": "8",
       "rank_p": "8",
@@ -407,25 +407,25 @@
       "pc_score": "75.3",
       "songs": [
         {
-          "title": "I'm Looking Over A Four Leaf Clover",
+          "name": "I'm Looking Over A Four Leaf Clover",
           "m": "233",
           "s": "223",
           "p": "228"
         },
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "223",
           "s": "225",
           "p": "226"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "458",
           "s": "446",
           "p": "448"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ruaidhri O'Dalaigh"
@@ -445,8 +445,8 @@
       ]
     },
     {
-      "tot_score": "1320",
-      "final_tot_score": "2638",
+      "prev_tot_score": "1320",
+      "tot_score": "2638",
       "rank_m": "9",
       "rank_s": "9",
       "rank_p": "9",
@@ -455,25 +455,25 @@
       "pc_score": "73.3",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "223",
           "s": "225",
           "p": "218"
         },
         {
-          "title": "Let A Baritone Lead The Way",
+          "name": "Let A Baritone Lead The Way",
           "m": "227",
           "s": "204",
           "p": "223"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "440",
           "s": "443",
           "p": "435"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Sanctuary"
@@ -493,8 +493,8 @@
       ]
     },
     {
-      "tot_score": "1285",
-      "final_tot_score": "2550",
+      "prev_tot_score": "1285",
+      "tot_score": "2550",
       "rank_m": "10",
       "rank_s": "10",
       "rank_p": "11",
@@ -503,25 +503,25 @@
       "pc_score": "70.8",
       "songs": [
         {
-          "title": "Cinderella",
+          "name": "Cinderella",
           "m": "213",
           "s": "207",
           "p": "219"
         },
         {
-          "title": "I'll Forget You",
+          "name": "I'll Forget You",
           "m": "216",
           "s": "216",
           "p": "214"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "432",
           "s": "417",
           "p": "416"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jamie Braham"
@@ -541,8 +541,8 @@
       ]
     },
     {
-      "tot_score": "1302",
-      "final_tot_score": "2532",
+      "prev_tot_score": "1302",
+      "tot_score": "2532",
       "rank_m": "11",
       "rank_s": "11",
       "rank_p": "10",
@@ -551,25 +551,25 @@
       "pc_score": "70.3",
       "songs": [
         {
-          "title": "When She Loved Me",
+          "name": "When She Loved Me",
           "m": "207",
           "s": "219",
           "p": "222"
         },
         {
-          "title": "I Love Being Here With You",
+          "name": "I Love Being Here With You",
           "m": "226",
           "s": "218",
           "p": "210"
         },
         {
-          "title": "Previous",
+          "name": "Previous",
           "m": "403",
           "s": "417",
           "p": "410"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Luke Freeney"

@@ -1,0 +1,1046 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2010-11-QS-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET SEMI-FINAL",
+  "location": "LLANDUDNO",
+  "year": "2010/11",
+  "type": "q",
+  "date": "27/05/2012",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Pru Van De Bilt"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Hine"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Dick Knight"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Crossfire",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Andrew"
+        },
+        {
+          "part": "bass",
+          "name": "Neil"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Moonlight Becomes You",
+          "m": 228,
+          "p": 229,
+          "s": 229,
+          "tot_score": 686,
+          "pc_score": 76.2,
+          "m_pc": 76.0,
+          "p_pc": 76.3,
+          "s_pc": 76.3
+        },
+        {
+          "n": 1,
+          "name": "You're Nobody 'Til Somebody Loves You",
+          "m": 231,
+          "p": 231,
+          "s": 228,
+          "tot_score": 690,
+          "pc_score": 76.7,
+          "m_pc": 77.0,
+          "p_pc": 77.0,
+          "s_pc": 76.0
+        }
+      ],
+      "n": 2,
+      "m": 459,
+      "m_pc": 76.5,
+      "p": 460,
+      "p_pc": 76.7,
+      "s": 457,
+      "s_pc": 76.2,
+      "tot_score": 1376,
+      "pc_score": 76.4
+    },
+    {
+      "rank": 2,
+      "name": "Evolution",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tony"
+        },
+        {
+          "part": "lead",
+          "name": "Michael"
+        },
+        {
+          "part": "bari",
+          "name": "Timm"
+        },
+        {
+          "part": "bass",
+          "name": "Stuart"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Get By (As Long As I Have You)",
+          "m": 230,
+          "p": 225,
+          "s": 226,
+          "tot_score": 681,
+          "pc_score": 75.7,
+          "m_pc": 76.7,
+          "p_pc": 75.0,
+          "s_pc": 75.3
+        },
+        {
+          "n": 1,
+          "name": "Smile Medley",
+          "m": 226,
+          "p": 230,
+          "s": 222,
+          "tot_score": 678,
+          "pc_score": 75.3,
+          "m_pc": 75.3,
+          "p_pc": 76.7,
+          "s_pc": 74.0
+        }
+      ],
+      "n": 2,
+      "m": 456,
+      "m_pc": 76.0,
+      "p": 455,
+      "p_pc": 75.8,
+      "s": 448,
+      "s_pc": 74.7,
+      "tot_score": 1359,
+      "pc_score": 75.5
+    },
+    {
+      "rank": 3,
+      "name": "Celebration",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Simon"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Jack"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "That's Life",
+          "m": 210,
+          "p": 204,
+          "s": 210,
+          "tot_score": 624,
+          "pc_score": 69.3,
+          "m_pc": 70.0,
+          "p_pc": 68.0,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "My Melancholy Baby",
+          "m": 218,
+          "p": 204,
+          "s": 214,
+          "tot_score": 636,
+          "pc_score": 70.7,
+          "m_pc": 72.7,
+          "p_pc": 68.0,
+          "s_pc": 71.3
+        }
+      ],
+      "n": 2,
+      "m": 428,
+      "m_pc": 71.3,
+      "p": 408,
+      "p_pc": 68.0,
+      "s": 424,
+      "s_pc": 70.7,
+      "tot_score": 1260,
+      "pc_score": 70.0
+    },
+    {
+      "rank": 4,
+      "name": "4getmenots",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Colin"
+        },
+        {
+          "part": "lead",
+          "name": "James"
+        },
+        {
+          "part": "bari",
+          "name": "Stephen"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sentimental Gentleman From Georgia",
+          "m": 213,
+          "p": 203,
+          "s": 204,
+          "tot_score": 620,
+          "pc_score": 68.9,
+          "m_pc": 71.0,
+          "p_pc": 67.7,
+          "s_pc": 68.0
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 205,
+          "p": 204,
+          "s": 199,
+          "tot_score": 608,
+          "pc_score": 67.6,
+          "m_pc": 68.3,
+          "p_pc": 68.0,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 418,
+      "m_pc": 69.7,
+      "p": 407,
+      "p_pc": 67.8,
+      "s": 403,
+      "s_pc": 67.2,
+      "tot_score": 1228,
+      "pc_score": 68.2
+    },
+    {
+      "rank": 5,
+      "name": "Vox",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Graham"
+        },
+        {
+          "part": "bass",
+          "name": "Mark"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 202,
+          "p": 199,
+          "s": 207,
+          "tot_score": 608,
+          "pc_score": 67.6,
+          "m_pc": 67.3,
+          "p_pc": 66.3,
+          "s_pc": 69.0
+        },
+        {
+          "n": 1,
+          "name": "Cheer Up Charlie",
+          "m": 208,
+          "p": 199,
+          "s": 209,
+          "tot_score": 616,
+          "pc_score": 68.4,
+          "m_pc": 69.3,
+          "p_pc": 66.3,
+          "s_pc": 69.7
+        }
+      ],
+      "n": 2,
+      "m": 410,
+      "m_pc": 68.3,
+      "p": 398,
+      "p_pc": 66.3,
+      "s": 416,
+      "s_pc": 69.3,
+      "tot_score": 1224,
+      "pc_score": 68.0
+    },
+    {
+      "rank": 6,
+      "name": "The Serious Chord Squad",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Frank"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Bob"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Friends To The End",
+          "m": 200,
+          "p": 208,
+          "s": 201,
+          "tot_score": 609,
+          "pc_score": 67.7,
+          "m_pc": 66.7,
+          "p_pc": 69.3,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "From The First Hello To The Last Goodbye [parody]",
+          "m": 198,
+          "p": 208,
+          "s": 199,
+          "tot_score": 605,
+          "pc_score": 67.2,
+          "m_pc": 66.0,
+          "p_pc": 69.3,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 398,
+      "m_pc": 66.3,
+      "p": 416,
+      "p_pc": 69.3,
+      "s": 400,
+      "s_pc": 66.7,
+      "tot_score": 1214,
+      "pc_score": 67.4
+    },
+    {
+      "rank": 7,
+      "name": "Cadence",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Duncan"
+        },
+        {
+          "part": "bari",
+          "name": "Victor"
+        },
+        {
+          "part": "bass",
+          "name": "Tom"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 191,
+          "p": 201,
+          "s": 198,
+          "tot_score": 590,
+          "pc_score": 65.6,
+          "m_pc": 63.7,
+          "p_pc": 67.0,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "Cheer Up Charlie",
+          "m": 198,
+          "p": 208,
+          "s": 201,
+          "tot_score": 607,
+          "pc_score": 67.4,
+          "m_pc": 66.0,
+          "p_pc": 69.3,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 2,
+      "m": 389,
+      "m_pc": 64.8,
+      "p": 409,
+      "p_pc": 68.2,
+      "s": 399,
+      "s_pc": 66.5,
+      "tot_score": 1197,
+      "pc_score": 66.5
+    },
+    {
+      "rank": 7,
+      "name": "Quadrahedron",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Make 'Em Laugh",
+          "m": 201,
+          "p": 199,
+          "s": 201,
+          "tot_score": 601,
+          "pc_score": 66.8,
+          "m_pc": 67.0,
+          "p_pc": 66.3,
+          "s_pc": 67.0
+        },
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 196,
+          "p": 201,
+          "s": 199,
+          "tot_score": 596,
+          "pc_score": 66.2,
+          "m_pc": 65.3,
+          "p_pc": 67.0,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 2,
+      "m": 397,
+      "m_pc": 66.2,
+      "p": 400,
+      "p_pc": 66.7,
+      "s": 400,
+      "s_pc": 66.7,
+      "tot_score": 1197,
+      "pc_score": 66.5
+    },
+    {
+      "rank": 7,
+      "name": "Reunion",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Giles"
+        },
+        {
+          "part": "bass",
+          "name": "Martin"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sweet Adeline",
+          "m": 191,
+          "p": 202,
+          "s": 205,
+          "tot_score": 598,
+          "pc_score": 66.4,
+          "m_pc": 63.7,
+          "p_pc": 67.3,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "Dear Hearts And Gentle People",
+          "m": 194,
+          "p": 201,
+          "s": 204,
+          "tot_score": 599,
+          "pc_score": 66.6,
+          "m_pc": 64.7,
+          "p_pc": 67.0,
+          "s_pc": 68.0
+        }
+      ],
+      "n": 2,
+      "m": 385,
+      "m_pc": 64.2,
+      "p": 403,
+      "p_pc": 67.2,
+      "s": 409,
+      "s_pc": 68.2,
+      "tot_score": 1197,
+      "pc_score": 66.5
+    },
+    {
+      "rank": 10,
+      "name": "Qube",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "David"
+        },
+        {
+          "part": "lead",
+          "name": "Dave"
+        },
+        {
+          "part": "bari",
+          "name": "David"
+        },
+        {
+          "part": "bass",
+          "name": "Andy"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love Me",
+          "m": 188,
+          "p": 198,
+          "s": 205,
+          "tot_score": 591,
+          "pc_score": 65.7,
+          "m_pc": 62.7,
+          "p_pc": 66.0,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 199,
+          "p": 198,
+          "s": 205,
+          "tot_score": 602,
+          "pc_score": 66.9,
+          "m_pc": 66.3,
+          "p_pc": 66.0,
+          "s_pc": 68.3
+        }
+      ],
+      "n": 2,
+      "m": 387,
+      "m_pc": 64.5,
+      "p": 396,
+      "p_pc": 66.0,
+      "s": 410,
+      "s_pc": 68.3,
+      "tot_score": 1193,
+      "pc_score": 66.3
+    },
+    {
+      "rank": 11,
+      "name": "Revised Edition",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Giles"
+        },
+        {
+          "part": "lead",
+          "name": "Glenn"
+        },
+        {
+          "part": "bari",
+          "name": "Adrian"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Gonna Sit Right Down And Write Myself A Letter",
+          "m": 195,
+          "p": 199,
+          "s": 190,
+          "tot_score": 584,
+          "pc_score": 64.9,
+          "m_pc": 65.0,
+          "p_pc": 66.3,
+          "s_pc": 63.3
+        },
+        {
+          "n": 1,
+          "name": "That's Life",
+          "m": 198,
+          "p": 200,
+          "s": 192,
+          "tot_score": 590,
+          "pc_score": 65.6,
+          "m_pc": 66.0,
+          "p_pc": 66.7,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 393,
+      "m_pc": 65.5,
+      "p": 399,
+      "p_pc": 66.5,
+      "s": 382,
+      "s_pc": 63.7,
+      "tot_score": 1174,
+      "pc_score": 65.2
+    },
+    {
+      "rank": 12,
+      "name": "Catch 22",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon"
+        },
+        {
+          "part": "lead",
+          "name": "Greg"
+        },
+        {
+          "part": "bari",
+          "name": "Andy"
+        },
+        {
+          "part": "bass",
+          "name": "Paul"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 197,
+          "p": 196,
+          "s": 192,
+          "tot_score": 585,
+          "pc_score": 65.0,
+          "m_pc": 65.7,
+          "p_pc": 65.3,
+          "s_pc": 64.0
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 195,
+          "p": 194,
+          "s": 194,
+          "tot_score": 583,
+          "pc_score": 64.8,
+          "m_pc": 65.0,
+          "p_pc": 64.7,
+          "s_pc": 64.7
+        }
+      ],
+      "n": 2,
+      "m": 392,
+      "m_pc": 65.3,
+      "p": 390,
+      "p_pc": 65.0,
+      "s": 386,
+      "s_pc": 64.3,
+      "tot_score": 1168,
+      "pc_score": 64.9
+    },
+    {
+      "rank": 13,
+      "name": "Footlights",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Erik"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff"
+        },
+        {
+          "part": "bass",
+          "name": "Geoff"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Zing! Went The Strings Of My Heart",
+          "m": 179,
+          "p": 198,
+          "s": 189,
+          "tot_score": 566,
+          "pc_score": 62.9,
+          "m_pc": 59.7,
+          "p_pc": 66.0,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 190,
+          "p": 201,
+          "s": 189,
+          "tot_score": 580,
+          "pc_score": 64.4,
+          "m_pc": 63.3,
+          "p_pc": 67.0,
+          "s_pc": 63.0
+        }
+      ],
+      "n": 2,
+      "m": 369,
+      "m_pc": 61.5,
+      "p": 399,
+      "p_pc": 66.5,
+      "s": 378,
+      "s_pc": 63.0,
+      "tot_score": 1146,
+      "pc_score": 63.7
+    },
+    {
+      "rank": 14,
+      "name": "QuarteTones",
+      "members": [
+        {
+          "part": "director",
+          "name": "Graham"
+        },
+        {
+          "part": "director",
+          "name": "Guthrie"
+        },
+        {
+          "part": "director",
+          "name": "Alex"
+        },
+        {
+          "part": "director",
+          "name": "Iain"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Make 'Em Laugh",
+          "m": 190,
+          "p": 202,
+          "s": 185,
+          "tot_score": 577,
+          "pc_score": 64.1,
+          "m_pc": 63.3,
+          "p_pc": 67.3,
+          "s_pc": 61.7
+        },
+        {
+          "n": 1,
+          "name": "Love Me And The World Is Mine",
+          "m": 186,
+          "p": 195,
+          "s": 182,
+          "tot_score": 563,
+          "pc_score": 62.6,
+          "m_pc": 62.0,
+          "p_pc": 65.0,
+          "s_pc": 60.7
+        }
+      ],
+      "n": 2,
+      "m": 376,
+      "m_pc": 62.7,
+      "p": 397,
+      "p_pc": 66.2,
+      "s": 367,
+      "s_pc": 61.2,
+      "tot_score": 1140,
+      "pc_score": 63.3
+    },
+    {
+      "rank": 15,
+      "name": "Retro",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Peter"
+        },
+        {
+          "part": "lead",
+          "name": "Rob"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Always",
+          "m": 183,
+          "p": 186,
+          "s": 186,
+          "tot_score": 555,
+          "pc_score": 61.7,
+          "m_pc": 61.0,
+          "p_pc": 62.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "You're Nobody 'Til Somebody Loves You",
+          "m": 182,
+          "p": 189,
+          "s": 185,
+          "tot_score": 556,
+          "pc_score": 61.8,
+          "m_pc": 60.7,
+          "p_pc": 63.0,
+          "s_pc": 61.7
+        }
+      ],
+      "n": 2,
+      "m": 365,
+      "m_pc": 60.8,
+      "p": 375,
+      "p_pc": 62.5,
+      "s": 371,
+      "s_pc": 61.8,
+      "tot_score": 1111,
+      "pc_score": 61.7
+    },
+    {
+      "rank": 16,
+      "name": "Forte",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Tim"
+        },
+        {
+          "part": "lead",
+          "name": "Graham"
+        },
+        {
+          "part": "bari",
+          "name": "Dave"
+        },
+        {
+          "part": "bass",
+          "name": "James"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 175,
+          "p": 183,
+          "s": 180,
+          "tot_score": 538,
+          "pc_score": 59.8,
+          "m_pc": 58.3,
+          "p_pc": 61.0,
+          "s_pc": 60.0
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 182,
+          "p": 186,
+          "s": 179,
+          "tot_score": 547,
+          "pc_score": 60.8,
+          "m_pc": 60.7,
+          "p_pc": 62.0,
+          "s_pc": 59.7
+        }
+      ],
+      "n": 2,
+      "m": 357,
+      "m_pc": 59.5,
+      "p": 369,
+      "p_pc": 61.5,
+      "s": 359,
+      "s_pc": 59.8,
+      "tot_score": 1085,
+      "pc_score": 60.3
+    },
+    {
+      "rank": 17,
+      "name": "Four To The Bar",
+      "members": [
+        {
+          "part": "director",
+          "name": "Norman"
+        },
+        {
+          "part": "director",
+          "name": "Paul"
+        },
+        {
+          "part": "director",
+          "name": "John"
+        },
+        {
+          "part": "director",
+          "name": "Peter"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sweet Georgia Brown",
+          "m": 176,
+          "p": 183,
+          "s": 175,
+          "tot_score": 534,
+          "pc_score": 59.3,
+          "m_pc": 58.7,
+          "p_pc": 61.0,
+          "s_pc": 58.3
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 172,
+          "p": 184,
+          "s": 174,
+          "tot_score": 530,
+          "pc_score": 58.9,
+          "m_pc": 57.3,
+          "p_pc": 61.3,
+          "s_pc": 58.0
+        }
+      ],
+      "n": 2,
+      "m": 348,
+      "m_pc": 58.0,
+      "p": 367,
+      "p_pc": 61.2,
+      "s": 349,
+      "s_pc": 58.2,
+      "tot_score": 1064,
+      "pc_score": 59.1
+    }
+  ]
+}

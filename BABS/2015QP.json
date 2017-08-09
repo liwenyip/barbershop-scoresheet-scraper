@@ -42,23 +42,23 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "80.0",
       "songs": [
         {
-          "title": "You're The Girl I Love",
+          "name": "You're The Girl I Love",
           "m": "236",
           "s": "242",
           "p": "242"
         },
         {
-          "title": "I Got Rhythm",
+          "name": "I Got Rhythm",
           "m": "243",
           "s": "241",
           "p": "236"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James Williams"
@@ -115,19 +115,19 @@
       "pc_score": "74.8",
       "songs": [
         {
-          "title": "Don't Break The Heart That Loves You",
+          "name": "Don't Break The Heart That Loves You",
           "m": "229",
           "s": "220",
           "p": "229"
         },
         {
-          "title": "How Deep Is The Ocean",
+          "name": "How Deep Is The Ocean",
           "m": "224",
           "s": "223",
           "p": "222"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Sanctuary"
@@ -156,19 +156,19 @@
       "pc_score": "74.7",
       "songs": [
         {
-          "title": "Love Me And The World Is Mine",
+          "name": "Love Me And The World Is Mine",
           "m": "223",
           "s": "224",
           "p": "223"
         },
         {
-          "title": "Ain't That A Kick In The Head",
+          "name": "Ain't That A Kick In The Head",
           "m": "223",
           "s": "226",
           "p": "226"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Neil Firth"
@@ -197,19 +197,19 @@
       "pc_score": "73.3",
       "songs": [
         {
-          "title": "Drivin' Me Crazy",
+          "name": "Drivin' Me Crazy",
           "m": "219",
           "s": "214",
           "p": "223"
         },
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "217",
           "s": "224",
           "p": "222"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard Fisher"
@@ -238,19 +238,19 @@
       "pc_score": "72.1",
       "songs": [
         {
-          "title": "That's An Irish Lullaby",
+          "name": "That's An Irish Lullaby",
           "m": "215",
           "s": "216",
           "p": "216"
         },
         {
-          "title": "Five Foot Two",
+          "name": "Five Foot Two",
           "m": "220",
           "s": "213",
           "p": "217"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Edwards"
@@ -279,19 +279,19 @@
       "pc_score": "69.9",
       "songs": [
         {
-          "title": "Cruella De Vil",
+          "name": "Cruella De Vil",
           "m": "221",
           "s": "218",
           "p": "210"
         },
         {
-          "title": "Lucky Old Sun",
+          "name": "Lucky Old Sun",
           "m": "211",
           "s": "196",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Luke Freeney"
@@ -320,19 +320,19 @@
       "pc_score": "69.1",
       "songs": [
         {
-          "title": "Walkin' My Baby Back Home",
+          "name": "Walkin' My Baby Back Home",
           "m": "204",
           "s": "208",
           "p": "207"
         },
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "210",
           "s": "206",
           "p": "208"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Salter"
@@ -361,19 +361,19 @@
       "pc_score": "68.7",
       "songs": [
         {
-          "title": "Old Cape Cod",
+          "name": "Old Cape Cod",
           "m": "208",
           "s": "209",
           "p": "204"
         },
         {
-          "title": "There's A Brand New Gang",
+          "name": "There's A Brand New Gang",
           "m": "211",
           "s": "202",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Gary Roussak"
@@ -402,19 +402,19 @@
       "pc_score": "68.3",
       "songs": [
         {
-          "title": "When The Gold Turns To Grey",
+          "name": "When The Gold Turns To Grey",
           "m": "208",
           "s": "215",
           "p": "200"
         },
         {
-          "title": "We Kinda Miss Those Good Old Songs",
+          "name": "We Kinda Miss Those Good Old Songs",
           "m": "206",
           "s": "197",
           "p": "204"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mick Barnacle"
@@ -443,19 +443,19 @@
       "pc_score": "68.1",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "209",
           "s": "207",
           "p": "208"
         },
         {
-          "title": "With A Wink And A Smile",
+          "name": "With A Wink And A Smile",
           "m": "203",
           "s": "199",
           "p": "200"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Woolley"
@@ -484,19 +484,19 @@
       "pc_score": "68.0",
       "songs": [
         {
-          "title": "Cinderella",
+          "name": "Cinderella",
           "m": "207",
           "s": "201",
           "p": "209"
         },
         {
-          "title": "I'll Forget You",
+          "name": "I'll Forget You",
           "m": "203",
           "s": "203",
           "p": "201"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jamie Braham"
@@ -525,19 +525,19 @@
       "pc_score": "66.8",
       "songs": [
         {
-          "title": "Hello My Baby",
+          "name": "Hello My Baby",
           "m": "201",
           "s": "203",
           "p": "197"
         },
         {
-          "title": "The Sunshine Of Your Smile",
+          "name": "The Sunshine Of Your Smile",
           "m": "203",
           "s": "199",
           "p": "199"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alex Sanctuary"
@@ -566,19 +566,19 @@
       "pc_score": "66.2",
       "songs": [
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "197",
           "s": "201",
           "p": "194"
         },
         {
-          "title": "Last Night On The Back Porch",
+          "name": "Last Night On The Back Porch",
           "m": "200",
           "s": "197",
           "p": "202"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris Blatchford"
@@ -607,19 +607,19 @@
       "pc_score": "66.2",
       "songs": [
         {
-          "title": "I Dream Of Jeannie With The Light Brown Hair",
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
           "m": "200",
           "s": "202",
           "p": "198"
         },
         {
-          "title": "You Brought A New Kind Of Love To Me",
+          "name": "You Brought A New Kind Of Love To Me",
           "m": "204",
           "s": "194",
           "p": "193"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Stephen Cox"
@@ -648,19 +648,19 @@
       "pc_score": "65.8",
       "songs": [
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "192",
           "s": "204",
           "p": "190"
         },
         {
-          "title": "Zing! Went The Strings Of My Heart",
+          "name": "Zing! Went The Strings Of My Heart",
           "m": "205",
           "s": "196",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrew Edgley"
@@ -689,19 +689,19 @@
       "pc_score": "65.6",
       "songs": [
         {
-          "title": "Cinderella",
+          "name": "Cinderella",
           "m": "197",
           "s": "201",
           "p": "196"
         },
         {
-          "title": "Sweet, Sweet Roses Of Morn",
+          "name": "Sweet, Sweet Roses Of Morn",
           "m": "195",
           "s": "194",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter Sayer"
@@ -730,19 +730,19 @@
       "pc_score": "64.7",
       "songs": [
         {
-          "title": "Zip-A - Dee-Doodah",
+          "name": "Zip-A - Dee-Doodah",
           "m": "199",
           "s": "197",
           "p": "198"
         },
         {
-          "title": "I Won't Send Roses",
+          "name": "I Won't Send Roses",
           "m": "191",
           "s": "188",
           "p": "191"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Robert Gall"
@@ -771,19 +771,19 @@
       "pc_score": "64.1",
       "songs": [
         {
-          "title": "My Wife The Dancer",
+          "name": "My Wife The Dancer",
           "m": "198",
           "s": "197",
           "p": "196"
         },
         {
-          "title": "Jazz Came Up The River From New Orleans",
+          "name": "Jazz Came Up The River From New Orleans",
           "m": "198",
           "s": "183",
           "p": "182"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martin Procter"
@@ -812,19 +812,19 @@
       "pc_score": "63.7",
       "songs": [
         {
-          "title": "A Sunday Kind Of Love",
+          "name": "A Sunday Kind Of Love",
           "m": "192",
           "s": "196",
           "p": "189"
         },
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "195",
           "s": "189",
           "p": "186"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martyn Lapworth"
@@ -853,19 +853,19 @@
       "pc_score": "62.8",
       "songs": [
         {
-          "title": "Zing! Went The Strings Of My Heart",
+          "name": "Zing! Went The Strings Of My Heart",
           "m": "190",
           "s": "195",
           "p": "186"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "189",
           "s": "179",
           "p": "191"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nigel Kearney"
@@ -894,19 +894,19 @@
       "pc_score": "61.9",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "181",
           "s": "192",
           "p": "182"
         },
         {
-          "title": "You Don't Know Me",
+          "name": "You Don't Know Me",
           "m": "190",
           "s": "181",
           "p": "188"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Brian Shorrocks"
@@ -935,19 +935,19 @@
       "pc_score": "60.9",
       "songs": [
         {
-          "title": "Ain't Misbehavin'",
+          "name": "Ain't Misbehavin'",
           "m": "182",
           "s": "187",
           "p": "182"
         },
         {
-          "title": "If You Were The Only Girl In The World",
+          "name": "If You Were The Only Girl In The World",
           "m": "185",
           "s": "183",
           "p": "178"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "John Beesley"
@@ -976,19 +976,19 @@
       "pc_score": "60.0",
       "songs": [
         {
-          "title": "When She Loved Me",
+          "name": "When She Loved Me",
           "m": "187",
           "s": "186",
           "p": "183"
         },
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "177",
           "s": "171",
           "p": "176"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tom Fitch"
@@ -1017,19 +1017,19 @@
       "pc_score": "60.0",
       "songs": [
         {
-          "title": "I Will Go Sailing No More",
+          "name": "I Will Go Sailing No More",
           "m": "186",
           "s": "173",
           "p": "187"
         },
         {
-          "title": "Swanee",
+          "name": "Swanee",
           "m": "183",
           "s": "181",
           "p": "170"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Richard Platt"
@@ -1058,19 +1058,19 @@
       "pc_score": "59.3",
       "songs": [
         {
-          "title": "Mona Lisa",
+          "name": "Mona Lisa",
           "m": "185",
           "s": "176",
           "p": "179"
         },
         {
-          "title": "Sweet And Lovely",
+          "name": "Sweet And Lovely",
           "m": "176",
           "s": "174",
           "p": "177"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Bob Devine"
@@ -1099,19 +1099,19 @@
       "pc_score": "57.4",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "173",
           "s": "169",
           "p": "171"
         },
         {
-          "title": "When She Loved Me",
+          "name": "When She Loved Me",
           "m": "172",
           "s": "174",
           "p": "174"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Colin Howarth"
@@ -1140,19 +1140,19 @@
       "pc_score": "55.2",
       "songs": [
         {
-          "title": "When You Wore A Tulip",
+          "name": "When You Wore A Tulip",
           "m": "172",
           "s": "165",
           "p": "168"
         },
         {
-          "title": "Sweet Georgia Brown",
+          "name": "Sweet Georgia Brown",
           "m": "162",
           "s": "159",
           "p": "168"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Barclay Marshall"
@@ -1181,19 +1181,19 @@
       "pc_score": "54.8",
       "songs": [
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "168",
           "s": "166",
           "p": "163"
         },
         {
-          "title": "For Sale, One Broken Heart",
+          "name": "For Sale, One Broken Heart",
           "m": "162",
           "s": "161",
           "p": "166"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "John Dunning"
@@ -1222,19 +1222,19 @@
       "pc_score": "51.7",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "162",
           "s": "150",
           "p": "165"
         },
         {
-          "title": "Lover Come Back",
+          "name": "Lover Come Back",
           "m": "147",
           "s": "152",
           "p": "155"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Colin Howart"

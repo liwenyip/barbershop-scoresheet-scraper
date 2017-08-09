@@ -42,27 +42,27 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Katie Dew"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Rachel Small"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     }
   ],
@@ -78,19 +78,19 @@
       "pc_score": "76.6",
       "songs": [
         {
-          "title": "Yesterday I Heard The Rain",
+          "name": "Yesterday I Heard The Rain",
           "m": "232",
           "s": "230",
           "p": "227"
         },
         {
-          "title": "Love And The Weather",
+          "name": "Love And The Weather",
           "m": "228",
           "s": "231",
           "p": "230"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hicks"
@@ -119,19 +119,19 @@
       "pc_score": "74.2",
       "songs": [
         {
-          "title": "If Ever I Would Leave You",
+          "name": "If Ever I Would Leave You",
           "m": "219",
           "s": "218",
           "p": "221"
         },
         {
-          "title": "Goody Goodbye",
+          "name": "Goody Goodbye",
           "m": "223",
           "s": "227",
           "p": "228"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -160,19 +160,19 @@
       "pc_score": "72.2",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "219",
           "s": "215",
           "p": "213"
         },
         {
-          "title": "I Will Love You 'Til The End Of Time",
+          "name": "I Will Love You 'Til The End Of Time",
           "m": "214",
           "s": "217",
           "p": "221"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -201,19 +201,19 @@
       "pc_score": "69.7",
       "songs": [
         {
-          "title": "Flirty Eyes",
+          "name": "Flirty Eyes",
           "m": "204",
           "s": "205",
           "p": "206"
         },
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "212",
           "s": "215",
           "p": "213"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Heidi Walsh"
@@ -242,19 +242,19 @@
       "pc_score": "69.1",
       "songs": [
         {
-          "title": "Oh! Look At Me Now",
+          "name": "Oh! Look At Me Now",
           "m": "211",
           "s": "206",
           "p": "210"
         },
         {
-          "title": "It's You",
+          "name": "It's You",
           "m": "209",
           "s": "209",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -283,19 +283,19 @@
       "pc_score": "67.4",
       "songs": [
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "201",
           "s": "202",
           "p": "205"
         },
         {
-          "title": "Cabaret",
+          "name": "Cabaret",
           "m": "209",
           "s": "196",
           "p": "201"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Myfanwy Beynon"
@@ -324,19 +324,19 @@
       "pc_score": "67.4",
       "songs": [
         {
-          "title": "I'm Gonna Love That Guy",
+          "name": "I'm Gonna Love That Guy",
           "m": "199",
           "s": "206",
           "p": "197"
         },
         {
-          "title": "Knock On My Door",
+          "name": "Knock On My Door",
           "m": "204",
           "s": "201",
           "p": "206"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jane Wadsworth"
@@ -365,19 +365,19 @@
       "pc_score": "66.5",
       "songs": [
         {
-          "title": "I've Got A Feeling I'm Falling",
+          "name": "I've Got A Feeling I'm Falling",
           "m": "203",
           "s": "196",
           "p": "200"
         },
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "203",
           "s": "197",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Joanna Kea"
@@ -406,19 +406,19 @@
       "pc_score": "65.9",
       "songs": [
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "202",
           "s": "196",
           "p": "198"
         },
         {
-          "title": "Liar Medley",
+          "name": "Liar Medley",
           "m": "202",
           "s": "191",
           "p": "197"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Janet Micklewright"
@@ -447,19 +447,19 @@
       "pc_score": "64.5",
       "songs": [
         {
-          "title": "Red Hot",
+          "name": "Red Hot",
           "m": "201",
           "s": "191",
           "p": "191"
         },
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "187",
           "s": "191",
           "p": "200"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sue Hunt"
@@ -488,19 +488,19 @@
       "pc_score": "64.3",
       "songs": [
         {
-          "title": "Ain't He Sweet",
+          "name": "Ain't He Sweet",
           "m": "197",
           "s": "190",
           "p": "191"
         },
         {
-          "title": "When I Leave The World Behind",
+          "name": "When I Leave The World Behind",
           "m": "184",
           "s": "195",
           "p": "200"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Barbara Wardle"
@@ -529,19 +529,19 @@
       "pc_score": "64.2",
       "songs": [
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "190",
           "s": "193",
           "p": "195"
         },
         {
-          "title": "You Don't Kinow Me",
+          "name": "You Don't Kinow Me",
           "m": "199",
           "s": "189",
           "p": "189"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nicky Sims"
@@ -570,19 +570,19 @@
       "pc_score": "64.1",
       "songs": [
         {
-          "title": "Bye Bye Baby Medley",
+          "name": "Bye Bye Baby Medley",
           "m": "187",
           "s": "191",
           "p": "195"
         },
         {
-          "title": "Oh, How I Miss You Tonight",
+          "name": "Oh, How I Miss You Tonight",
           "m": "193",
           "s": "195",
           "p": "192"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lara Payne"
@@ -611,19 +611,19 @@
       "pc_score": "63.6",
       "songs": [
         {
-          "title": "'Deed I Do / Put Your Arms Around Me, Honey Medley",
+          "name": "'Deed I Do / Put Your Arms Around Me, Honey Medley",
           "m": "191",
           "s": "190",
           "p": "191"
         },
         {
-          "title": "Dream A Little Dream Of Me",
+          "name": "Dream A Little Dream Of Me",
           "m": "192",
           "s": "191",
           "p": "189"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martha Tomlinson"
@@ -652,19 +652,19 @@
       "pc_score": "62.9",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "183",
           "s": "186",
           "p": "187"
         },
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "188",
           "s": "194",
           "p": "194"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dot Cook"
@@ -693,19 +693,19 @@
       "pc_score": "62.4",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "189",
           "s": "187",
           "p": "184"
         },
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "183",
           "s": "190",
           "p": "191"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jenni Slee"
@@ -734,19 +734,19 @@
       "pc_score": "62.0",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "191",
           "s": "181",
           "p": "189"
         },
         {
-          "title": "The Sunshine Of Your Smile",
+          "name": "The Sunshine Of Your Smile",
           "m": "180",
           "s": "186",
           "p": "189"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Ruth Thomas"

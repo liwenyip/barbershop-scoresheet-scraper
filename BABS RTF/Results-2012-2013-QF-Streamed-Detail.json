@@ -1,0 +1,552 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2012-2013-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "BOURNEMOUTH",
+  "year": "2012/2013",
+  "type": "q",
+  "date": "05/05/2013",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Rod Butcher"
+    },
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Lucy Van De Ven"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "s",
+      "name": "Jon Conway"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Peter Hughes"
+    },
+    {
+      "cat": "a",
+      "name": "Alastair Taylor-Payne"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Steel",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy Foster"
+        },
+        {
+          "part": "lead",
+          "name": "Keith Rees"
+        },
+        {
+          "part": "bari",
+          "name": "Dale Kynaston"
+        },
+        {
+          "part": "bass",
+          "name": "Andy Funnell"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Yes Sir, That's My Baby",
+          "m": 230,
+          "p": 233,
+          "s": 235,
+          "tot_score": 698,
+          "pc_score": 77.6,
+          "m_pc": 76.7,
+          "p_pc": 77.7,
+          "s_pc": 78.3
+        },
+        {
+          "n": 1,
+          "name": "It's Impossible",
+          "m": 237,
+          "p": 235,
+          "s": 244,
+          "tot_score": 716,
+          "pc_score": 79.6,
+          "m_pc": 79.0,
+          "p_pc": 78.3,
+          "s_pc": 81.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 468.0,
+          "p": 468.0,
+          "s": 466.0,
+          "tot_score": 1402.0,
+          "pc_score": 77.9,
+          "m_pc": 78.0,
+          "p_pc": 78.0,
+          "s_pc": 77.7
+        }
+      ],
+      "n": 4,
+      "m": 935.0,
+      "m_pc": 77.9,
+      "p": 936.0,
+      "p_pc": 78.0,
+      "s": 945.0,
+      "s_pc": 78.8,
+      "tot_score": 2816.0,
+      "pc_score": 78.2
+    },
+    {
+      "rank": 2,
+      "name": "The Emerald Guard",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Antoine Kaiserman"
+        },
+        {
+          "part": "lead",
+          "name": "Tim Briggs"
+        },
+        {
+          "part": "bari",
+          "name": "Andy Allen"
+        },
+        {
+          "part": "bass",
+          "name": "Duncan Blackeby"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Desperado",
+          "m": 224,
+          "p": 222,
+          "s": 225,
+          "tot_score": 671,
+          "pc_score": 74.6,
+          "m_pc": 74.7,
+          "p_pc": 74.0,
+          "s_pc": 75.0
+        },
+        {
+          "n": 1,
+          "name": "Oklahoma",
+          "m": 228,
+          "p": 233,
+          "s": 231,
+          "tot_score": 692,
+          "pc_score": 76.9,
+          "m_pc": 76.0,
+          "p_pc": 77.7,
+          "s_pc": 77.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 455.0,
+          "p": 436.0,
+          "s": 447.0,
+          "tot_score": 1338.0,
+          "pc_score": 74.3,
+          "m_pc": 75.8,
+          "p_pc": 72.7,
+          "s_pc": 74.5
+        }
+      ],
+      "n": 4,
+      "m": 907.0,
+      "m_pc": 75.6,
+      "p": 891.0,
+      "p_pc": 74.3,
+      "s": 903.0,
+      "s_pc": 75.3,
+      "tot_score": 2701.0,
+      "pc_score": 75.0
+    },
+    {
+      "rank": 3,
+      "name": "Park Street",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Laurence Hasson"
+        },
+        {
+          "part": "lead",
+          "name": "Alastair Hay-Plumb"
+        },
+        {
+          "part": "bari",
+          "name": "David Foot"
+        },
+        {
+          "part": "bass",
+          "name": "Simon Arnott"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Drivin' Me Crazy",
+          "m": 226,
+          "p": 238,
+          "s": 231,
+          "tot_score": 695,
+          "pc_score": 77.2,
+          "m_pc": 75.3,
+          "p_pc": 79.3,
+          "s_pc": 77.0
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 219,
+          "p": 225,
+          "s": 224,
+          "tot_score": 668,
+          "pc_score": 74.2,
+          "m_pc": 73.0,
+          "p_pc": 75.0,
+          "s_pc": 74.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 449.0,
+          "p": 424.0,
+          "s": 441.0,
+          "tot_score": 1314.0,
+          "pc_score": 73.0,
+          "m_pc": 74.8,
+          "p_pc": 70.7,
+          "s_pc": 73.5
+        }
+      ],
+      "n": 4,
+      "m": 894.0,
+      "m_pc": 74.5,
+      "p": 887.0,
+      "p_pc": 73.9,
+      "s": 896.0,
+      "s_pc": 74.7,
+      "tot_score": 2677.0,
+      "pc_score": 74.4
+    },
+    {
+      "rank": 4,
+      "name": "Homespun",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "James Williams"
+        },
+        {
+          "part": "lead",
+          "name": "Eddie Williams"
+        },
+        {
+          "part": "bari",
+          "name": "Nick Williams"
+        },
+        {
+          "part": "bass",
+          "name": "Nigel Williams"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Original Dixieland One - Step",
+          "m": 219,
+          "p": 220,
+          "s": 219,
+          "tot_score": 658,
+          "pc_score": 73.1,
+          "m_pc": 73.0,
+          "p_pc": 73.3,
+          "s_pc": 73.0
+        },
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 227,
+          "p": 222,
+          "s": 225,
+          "tot_score": 674,
+          "pc_score": 74.9,
+          "m_pc": 75.7,
+          "p_pc": 74.0,
+          "s_pc": 75.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 451.0,
+          "p": 424.0,
+          "s": 453.0,
+          "tot_score": 1328.0,
+          "pc_score": 73.8,
+          "m_pc": 75.2,
+          "p_pc": 70.7,
+          "s_pc": 75.5
+        }
+      ],
+      "n": 4,
+      "m": 897.0,
+      "m_pc": 74.8,
+      "p": 866.0,
+      "p_pc": 72.2,
+      "s": 897.0,
+      "s_pc": 74.8,
+      "tot_score": 2660.0,
+      "pc_score": 73.9
+    },
+    {
+      "rank": 5,
+      "name": "Tagline",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ben Ferguson"
+        },
+        {
+          "part": "lead",
+          "name": "James Gower-Smith"
+        },
+        {
+          "part": "bari",
+          "name": "Christopher Langworthy"
+        },
+        {
+          "part": "bass",
+          "name": "Robert Foot"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Cheer Up Charlie",
+          "m": 207,
+          "p": 217,
+          "s": 209,
+          "tot_score": 633,
+          "pc_score": 70.3,
+          "m_pc": 69.0,
+          "p_pc": 72.3,
+          "s_pc": 69.7
+        },
+        {
+          "n": 1,
+          "name": "Steppin' Out With My Baby",
+          "m": 214,
+          "p": 214,
+          "s": 211,
+          "tot_score": 639,
+          "pc_score": 71.0,
+          "m_pc": 71.3,
+          "p_pc": 71.3,
+          "s_pc": 70.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 443.0,
+          "p": 416.0,
+          "s": 437.0,
+          "tot_score": 1296.0,
+          "pc_score": 72.0,
+          "m_pc": 73.8,
+          "p_pc": 69.3,
+          "s_pc": 72.8
+        }
+      ],
+      "n": 4,
+      "m": 864.0,
+      "m_pc": 72.0,
+      "p": 847.0,
+      "p_pc": 70.6,
+      "s": 857.0,
+      "s_pc": 71.4,
+      "tot_score": 2568.0,
+      "pc_score": 71.3
+    },
+    {
+      "rank": 6,
+      "name": "QuarteTones",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Graham Harper"
+        },
+        {
+          "part": "lead",
+          "name": "Richard Gardner"
+        },
+        {
+          "part": "bari",
+          "name": "Alex du Bruin"
+        },
+        {
+          "part": "bass",
+          "name": "Iain Hallam"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When I Leave The World Behind",
+          "m": 213,
+          "p": 214,
+          "s": 211,
+          "tot_score": 638,
+          "pc_score": 70.9,
+          "m_pc": 71.0,
+          "p_pc": 71.3,
+          "s_pc": 70.3
+        },
+        {
+          "n": 1,
+          "name": "All Aboard For Dixie Land",
+          "m": 223,
+          "p": 220,
+          "s": 211,
+          "tot_score": 654,
+          "pc_score": 72.7,
+          "m_pc": 74.3,
+          "p_pc": 73.3,
+          "s_pc": 70.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 401.0,
+          "p": 422.0,
+          "s": 417.0,
+          "tot_score": 1240.0,
+          "pc_score": 68.9,
+          "m_pc": 66.8,
+          "p_pc": 70.3,
+          "s_pc": 69.5
+        }
+      ],
+      "n": 4,
+      "m": 837.0,
+      "m_pc": 69.8,
+      "p": 856.0,
+      "p_pc": 71.3,
+      "s": 839.0,
+      "s_pc": 69.9,
+      "tot_score": 2532.0,
+      "pc_score": 70.3
+    },
+    {
+      "rank": 7,
+      "name": "Excel",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Simon Hunt"
+        },
+        {
+          "part": "lead",
+          "name": "Andy Salter"
+        },
+        {
+          "part": "bari",
+          "name": "David Whittle"
+        },
+        {
+          "part": "bass",
+          "name": "Jon Dawson"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "May I Never Love Again",
+          "m": 216,
+          "p": 211,
+          "s": 215,
+          "tot_score": 642,
+          "pc_score": 71.3,
+          "m_pc": 72.0,
+          "p_pc": 70.3,
+          "s_pc": 71.7
+        },
+        {
+          "n": 1,
+          "name": "You're Nobody 'Til Somebody Loves You",
+          "m": 218,
+          "p": 220,
+          "s": 213,
+          "tot_score": 651,
+          "pc_score": 72.3,
+          "m_pc": 72.7,
+          "p_pc": 73.3,
+          "s_pc": 71.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 421.0,
+          "p": 394.0,
+          "s": 412.0,
+          "tot_score": 1227.0,
+          "pc_score": 68.2,
+          "m_pc": 70.2,
+          "p_pc": 65.7,
+          "s_pc": 68.7
+        }
+      ],
+      "n": 4,
+      "m": 855.0,
+      "m_pc": 71.3,
+      "p": 825.0,
+      "p_pc": 68.8,
+      "s": 840.0,
+      "s_pc": 70.0,
+      "tot_score": 2520.0,
+      "pc_score": 70.0
+    }
+  ]
+}

@@ -1,0 +1,689 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2002-03-QS-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET SEMI-FINALS",
+  "location": "HARROGATE",
+  "year": "2002/03",
+  "type": "q",
+  "date": "23/05/2003",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "John Grant"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love Parody",
+          "m": 244,
+          "p": 241,
+          "s": 237,
+          "tot_score": 722,
+          "pc_score": 80.2,
+          "m_pc": 81.3,
+          "p_pc": 80.3,
+          "s_pc": 79.0
+        },
+        {
+          "n": 1,
+          "name": "After You've Gone Parody",
+          "m": 235,
+          "p": 244,
+          "s": 233,
+          "tot_score": 712,
+          "pc_score": 79.1,
+          "m_pc": 78.3,
+          "p_pc": 81.3,
+          "s_pc": 77.7
+        }
+      ],
+      "n": 2,
+      "m": 479,
+      "m_pc": 79.8,
+      "p": 485,
+      "p_pc": 80.8,
+      "s": 470,
+      "s_pc": 78.3,
+      "tot_score": 1434,
+      "pc_score": 79.7
+    },
+    {
+      "rank": 2,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Little Girl",
+          "m": 214,
+          "p": 219,
+          "s": 214,
+          "tot_score": 647,
+          "pc_score": 71.9,
+          "m_pc": 71.3,
+          "p_pc": 73.0,
+          "s_pc": 71.3
+        },
+        {
+          "n": 1,
+          "name": "Is This Just Another Song About Love?",
+          "m": 201,
+          "p": 217,
+          "s": 216,
+          "tot_score": 634,
+          "pc_score": 70.4,
+          "m_pc": 67.0,
+          "p_pc": 72.3,
+          "s_pc": 72.0
+        }
+      ],
+      "n": 2,
+      "m": 415,
+      "m_pc": 69.2,
+      "p": 436,
+      "p_pc": 72.7,
+      "s": 430,
+      "s_pc": 71.7,
+      "tot_score": 1281,
+      "pc_score": 71.2
+    },
+    {
+      "rank": 3,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Beautiful Dreamer",
+          "m": 205,
+          "p": 212,
+          "s": 216,
+          "tot_score": 633,
+          "pc_score": 70.3,
+          "m_pc": 68.3,
+          "p_pc": 70.7,
+          "s_pc": 72.0
+        },
+        {
+          "n": 1,
+          "name": "Just Because / Shine Medley",
+          "m": 189,
+          "p": 219,
+          "s": 214,
+          "tot_score": 622,
+          "pc_score": 69.1,
+          "m_pc": 63.0,
+          "p_pc": 73.0,
+          "s_pc": 71.3
+        }
+      ],
+      "n": 2,
+      "m": 394,
+      "m_pc": 65.7,
+      "p": 431,
+      "p_pc": 71.8,
+      "s": 430,
+      "s_pc": 71.7,
+      "tot_score": 1255,
+      "pc_score": 69.7
+    },
+    {
+      "rank": 4,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 203,
+          "p": 207,
+          "s": 207,
+          "tot_score": 617,
+          "pc_score": 68.6,
+          "m_pc": 67.7,
+          "p_pc": 69.0,
+          "s_pc": 69.0
+        },
+        {
+          "n": 1,
+          "name": "Make 'Em Laugh",
+          "m": 200,
+          "p": 218,
+          "s": 201,
+          "tot_score": 619,
+          "pc_score": 68.8,
+          "m_pc": 66.7,
+          "p_pc": 72.7,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 2,
+      "m": 403,
+      "m_pc": 67.2,
+      "p": 425,
+      "p_pc": 70.8,
+      "s": 408,
+      "s_pc": 68.0,
+      "tot_score": 1236,
+      "pc_score": 68.7
+    },
+    {
+      "rank": 5,
+      "name": "High Spirits",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 198,
+          "p": 214,
+          "s": 203,
+          "tot_score": 615,
+          "pc_score": 68.3,
+          "m_pc": 66.0,
+          "p_pc": 71.3,
+          "s_pc": 67.7
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 192,
+          "p": 212,
+          "s": 203,
+          "tot_score": 607,
+          "pc_score": 67.4,
+          "m_pc": 64.0,
+          "p_pc": 70.7,
+          "s_pc": 67.7
+        }
+      ],
+      "n": 2,
+      "m": 390,
+      "m_pc": 65.0,
+      "p": 426,
+      "p_pc": 71.0,
+      "s": 406,
+      "s_pc": 67.7,
+      "tot_score": 1222,
+      "pc_score": 67.9
+    },
+    {
+      "rank": 6,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Lazy River",
+          "m": 199,
+          "p": 211,
+          "s": 209,
+          "tot_score": 619,
+          "pc_score": 68.8,
+          "m_pc": 66.3,
+          "p_pc": 70.3,
+          "s_pc": 69.7
+        },
+        {
+          "n": 1,
+          "name": "There Goes My Heart",
+          "m": 187,
+          "p": 208,
+          "s": 207,
+          "tot_score": 602,
+          "pc_score": 66.9,
+          "m_pc": 62.3,
+          "p_pc": 69.3,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 386,
+      "m_pc": 64.3,
+      "p": 419,
+      "p_pc": 69.8,
+      "s": 416,
+      "s_pc": 69.3,
+      "tot_score": 1221,
+      "pc_score": 67.8
+    },
+    {
+      "rank": 7,
+      "name": "Rhapsody",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Melancholy Baby",
+          "m": 195,
+          "p": 199,
+          "s": 195,
+          "tot_score": 589,
+          "pc_score": 65.4,
+          "m_pc": 65.0,
+          "p_pc": 66.3,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Oh! You Beautiful Doll",
+          "m": 181,
+          "p": 200,
+          "s": 193,
+          "tot_score": 574,
+          "pc_score": 63.8,
+          "m_pc": 60.3,
+          "p_pc": 66.7,
+          "s_pc": 64.3
+        }
+      ],
+      "n": 2,
+      "m": 376,
+      "m_pc": 62.7,
+      "p": 399,
+      "p_pc": 66.5,
+      "s": 388,
+      "s_pc": 64.7,
+      "tot_score": 1163,
+      "pc_score": 64.6
+    },
+    {
+      "rank": 8,
+      "name": "A Cappella Fellas",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Wonderful Day Medley",
+          "m": 192,
+          "p": 192,
+          "s": 186,
+          "tot_score": 570,
+          "pc_score": 63.3,
+          "m_pc": 64.0,
+          "p_pc": 64.0,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "Ain't Misbehavin'",
+          "m": 189,
+          "p": 191,
+          "s": 180,
+          "tot_score": 560,
+          "pc_score": 62.2,
+          "m_pc": 63.0,
+          "p_pc": 63.7,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 381,
+      "m_pc": 63.5,
+      "p": 383,
+      "p_pc": 63.8,
+      "s": 366,
+      "s_pc": 61.0,
+      "tot_score": 1130,
+      "pc_score": 62.8
+    },
+    {
+      "rank": 9,
+      "name": "Format",
+      "songs": [
+        {
+          "n": 1,
+          "name": "On A Slow Boat To China",
+          "m": 175,
+          "p": 200,
+          "s": 195,
+          "tot_score": 570,
+          "pc_score": 63.3,
+          "m_pc": 58.3,
+          "p_pc": 66.7,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 175,
+          "p": 187,
+          "s": 188,
+          "tot_score": 550,
+          "pc_score": 61.1,
+          "m_pc": 58.3,
+          "p_pc": 62.3,
+          "s_pc": 62.7
+        }
+      ],
+      "n": 2,
+      "m": 350,
+      "m_pc": 58.3,
+      "p": 387,
+      "p_pc": 64.5,
+      "s": 383,
+      "s_pc": 63.8,
+      "tot_score": 1120,
+      "pc_score": 62.2
+    },
+    {
+      "rank": 10,
+      "name": "Almost Gentlemen",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Last Night Was The End Of The World",
+          "m": 179,
+          "p": 189,
+          "s": 179,
+          "tot_score": 547,
+          "pc_score": 60.8,
+          "m_pc": 59.7,
+          "p_pc": 63.0,
+          "s_pc": 59.7
+        },
+        {
+          "n": 1,
+          "name": "Get Out And Get Under The Moon",
+          "m": 180,
+          "p": 200,
+          "s": 180,
+          "tot_score": 560,
+          "pc_score": 62.2,
+          "m_pc": 60.0,
+          "p_pc": 66.7,
+          "s_pc": 60.0
+        }
+      ],
+      "n": 2,
+      "m": 359,
+      "m_pc": 59.8,
+      "p": 389,
+      "p_pc": 64.8,
+      "s": 359,
+      "s_pc": 59.8,
+      "tot_score": 1107,
+      "pc_score": 61.5
+    },
+    {
+      "rank": 11,
+      "name": "Forever A Cappella",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Mention My Name In Sheboygan",
+          "m": 181,
+          "p": 181,
+          "s": 174,
+          "tot_score": 536,
+          "pc_score": 59.6,
+          "m_pc": 60.3,
+          "p_pc": 60.3,
+          "s_pc": 58.0
+        },
+        {
+          "n": 1,
+          "name": "Roses Of Picardy",
+          "m": 183,
+          "p": 188,
+          "s": 177,
+          "tot_score": 548,
+          "pc_score": 60.9,
+          "m_pc": 61.0,
+          "p_pc": 62.7,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 364,
+      "m_pc": 60.7,
+      "p": 369,
+      "p_pc": 61.5,
+      "s": 351,
+      "s_pc": 58.5,
+      "tot_score": 1084,
+      "pc_score": 60.2
+    },
+    {
+      "rank": 12,
+      "name": "Four Across",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Love To Hear That Old Barbershop Style",
+          "m": 170,
+          "p": 180,
+          "s": 172,
+          "tot_score": 522,
+          "pc_score": 58.0,
+          "m_pc": 56.7,
+          "p_pc": 60.0,
+          "s_pc": 57.3
+        },
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 162,
+          "p": 178,
+          "s": 177,
+          "tot_score": 517,
+          "pc_score": 57.4,
+          "m_pc": 54.0,
+          "p_pc": 59.3,
+          "s_pc": 59.0
+        }
+      ],
+      "n": 2,
+      "m": 332,
+      "m_pc": 55.3,
+      "p": 358,
+      "p_pc": 59.7,
+      "s": 349,
+      "s_pc": 58.2,
+      "tot_score": 1039,
+      "pc_score": 57.7
+    },
+    {
+      "rank": 13,
+      "name": "Bostin' 4 A Pitch",
+      "songs": [
+        {
+          "n": 1,
+          "name": "There's A Rainbow Round My Shoulder",
+          "m": 165,
+          "p": 177,
+          "s": 163,
+          "tot_score": 505,
+          "pc_score": 56.1,
+          "m_pc": 55.0,
+          "p_pc": 59.0,
+          "s_pc": 54.3
+        },
+        {
+          "n": 1,
+          "name": "Heart Of A Clown Parody",
+          "m": 176,
+          "p": 191,
+          "s": 146,
+          "tot_score": 513,
+          "pc_score": 57.0,
+          "m_pc": 58.7,
+          "p_pc": 63.7,
+          "s_pc": 48.7
+        }
+      ],
+      "n": 2,
+      "m": 341,
+      "m_pc": 56.8,
+      "p": 368,
+      "p_pc": 61.3,
+      "s": 309,
+      "s_pc": 51.5,
+      "tot_score": 1018,
+      "pc_score": 56.6
+    },
+    {
+      "rank": 14,
+      "name": "Fine Blend",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Here Am I Broken Hearted",
+          "m": 160,
+          "p": 178,
+          "s": 156,
+          "tot_score": 494,
+          "pc_score": 54.9,
+          "m_pc": 53.3,
+          "p_pc": 59.3,
+          "s_pc": 52.0
+        },
+        {
+          "n": 1,
+          "name": "I Didn't Want To Fall",
+          "m": 162,
+          "p": 183,
+          "s": 163,
+          "tot_score": 508,
+          "pc_score": 56.4,
+          "m_pc": 54.0,
+          "p_pc": 61.0,
+          "s_pc": 54.3
+        }
+      ],
+      "n": 2,
+      "m": 322,
+      "m_pc": 53.7,
+      "p": 361,
+      "p_pc": 60.2,
+      "s": 319,
+      "s_pc": 53.2,
+      "tot_score": 1002,
+      "pc_score": 55.7
+    },
+    {
+      "rank": 15,
+      "name": "Speculation",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Peg O' My Heart",
+          "m": 141,
+          "p": 178,
+          "s": 162,
+          "tot_score": 481,
+          "pc_score": 53.4,
+          "m_pc": 47.0,
+          "p_pc": 59.3,
+          "s_pc": 54.0
+        },
+        {
+          "n": 1,
+          "name": "I'd Give The World To Be In My Home Town",
+          "m": 154,
+          "p": 183,
+          "s": 163,
+          "tot_score": 500,
+          "pc_score": 55.6,
+          "m_pc": 51.3,
+          "p_pc": 61.0,
+          "s_pc": 54.3
+        }
+      ],
+      "n": 2,
+      "m": 295,
+      "m_pc": 49.2,
+      "p": 361,
+      "p_pc": 60.2,
+      "s": 325,
+      "s_pc": 54.2,
+      "tot_score": 981,
+      "pc_score": 54.5
+    },
+    {
+      "rank": 16,
+      "name": "Fourtune",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Rock - A - Bye Your Baby With A Dixie Melody",
+          "m": 162,
+          "p": 169,
+          "s": 156,
+          "tot_score": 487,
+          "pc_score": 54.1,
+          "m_pc": 54.0,
+          "p_pc": 56.3,
+          "s_pc": 52.0
+        },
+        {
+          "n": 1,
+          "name": "You Keep Coming Back Like A Song",
+          "m": 155,
+          "p": 167,
+          "s": 160,
+          "tot_score": 482,
+          "pc_score": 53.6,
+          "m_pc": 51.7,
+          "p_pc": 55.7,
+          "s_pc": 53.3
+        }
+      ],
+      "n": 2,
+      "m": 317,
+      "m_pc": 52.8,
+      "p": 336,
+      "p_pc": 56.0,
+      "s": 316,
+      "s_pc": 52.7,
+      "tot_score": 969,
+      "pc_score": 53.8
+    }
+  ]
+}

@@ -42,23 +42,23 @@
       "name": "Paula T-Williams"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Dick Knight"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "61.2",
       "songs": [
         {
-          "title": "Jazz Came Up The River From New Orleans",
+          "name": "Jazz Came Up The River From New Orleans",
           "m": "181",
           "s": "187",
           "p": "182"
         },
         {
-          "title": "The Birth Of The Blues",
+          "name": "The Birth Of The Blues",
           "m": "191",
           "s": "181",
           "p": "179"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alan"
@@ -111,23 +111,64 @@
       "rank_s": "2",
       "rank_p": "7",
       "rank": "2",
-      "name": "Vintage Spirit 56.1 1005 For All We Know Old St Louis 177 176 165 167 160 160 3 2 6 Category rankings: 3: Broadside",
-      "pc_score": "55.8",
+      "name": "Vintage Spirit",
+      "pc_score": "56.1",
       "songs": [
         {
-          "title": "Let The Rest Of The World Go By",
+          "name": "Let The Rest Of The World Go By",
           "m": "177",
           "s": "156",
           "p": "180"
         },
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "156",
           "s": "171",
           "p": "170"
         }
       ],
-      "singers": [
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
+        }
+      ]
+    },
+    {
+      "tot_score": "1005",
+      "rank_m": "3",
+      "rank_s": "6",
+      "rank_p": "2",
+      "rank": "3",
+      "name": "Broadside",
+      "pc_score": "55.8",
+      "songs": [
+        {
+          "name": "For All We Know",
+          "m": "177",
+          "s": "165",
+          "p": "176"
+        },
+        {
+          "name": "Old St Louis",
+          "m": "167",
+          "s": "160",
+          "p": "160"
+        }
+      ],
+      "members": [
         {
           "part": "tenor",
           "name": "Frank"
@@ -152,23 +193,64 @@
       "rank_s": "2",
       "rank_p": "3",
       "rank": "4",
-      "name": "Union Square 55.2 974 When The Gold Turns To Grey Sweet Georgia Brown 168 163 158 161 161 163 4 6 5 Category rankings: 5: Classmates",
-      "pc_score": "54.1",
+      "name": "Union Square",
+      "pc_score": "55.2",
       "songs": [
         {
-          "title": "It's A Brand New Day / It's A Good Day Medley",
+          "name": "It's A Brand New Day / It's A Good Day Medley",
           "m": "158",
           "s": "165",
           "p": "165"
         },
         {
-          "title": "After You've Gone",
+          "name": "After You've Gone",
           "m": "164",
           "s": "169",
           "p": "172"
         }
       ],
-      "singers": [
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
+        }
+      ]
+    },
+    {
+      "tot_score": "974",
+      "rank_m": "4",
+      "rank_s": "5",
+      "rank_p": "6",
+      "rank": "5",
+      "name": "Classmates",
+      "pc_score": "54.1",
+      "songs": [
+        {
+          "name": "When The Gold Turns To Grey",
+          "m": "168",
+          "s": "158",
+          "p": "163"
+        },
+        {
+          "name": "Sweet Georgia Brown",
+          "m": "161",
+          "s": "163",
+          "p": "161"
+        }
+      ],
+      "members": [
         {
           "part": "tenor",
           "name": "Colin"
@@ -184,6 +266,88 @@
         {
           "part": "bass",
           "name": "George"
+        }
+      ]
+    },
+    {
+      "tot_score": "972",
+      "rank_m": "7",
+      "rank_s": "4",
+      "rank_p": "4",
+      "rank": "6",
+      "name": "Jigsaw",
+      "pc_score": "54.0",
+      "songs": [
+        {
+          "name": "When She Loved Me",
+          "m": "155",
+          "s": "165",
+          "p": "161"
+        },
+        {
+          "name": "It's A Good Day",
+          "m": "162",
+          "s": "164",
+          "p": "165"
+        }
+      ],
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
+        }
+      ]
+    },
+    {
+      "tot_score": "971",
+      "rank_m": "5",
+      "rank_s": "7",
+      "rank_p": "5",
+      "rank": "7",
+      "name": "Harmony Express",
+      "pc_score": "53.9",
+      "songs": [
+        {
+          "name": "When You And I Were Young, Maggie",
+          "m": "160",
+          "s": "160",
+          "p": "168"
+        },
+        {
+          "name": "Who's Sorry Now?",
+          "m": "166",
+          "s": "160",
+          "p": "157"
+        }
+      ],
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
         }
       ]
     }

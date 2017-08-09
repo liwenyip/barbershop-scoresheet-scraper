@@ -1,0 +1,1713 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2011-12-QP1-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET PRELIM CONTEST 1",
+  "location": "BIRMINGHAM",
+  "year": "2011/12",
+  "type": "q",
+  "date": "20/11/2011",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Heather Lane"
+    },
+    {
+      "cat": "m",
+      "name": "Neil Watkins"
+    },
+    {
+      "cat": "p",
+      "name": "Derek Davies"
+    },
+    {
+      "cat": "p",
+      "name": "Liz Joyce"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Monica Funnell"
+    },
+    {
+      "cat": "a",
+      "name": "Tony Wright"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    },
+    {
+      "cat": "a",
+      "name": "Norma Head"
+    },
+    {
+      "cat": "a",
+      "name": "Jackie Mumford"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Fish & Chaps",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Richard"
+        },
+        {
+          "part": "lead",
+          "name": "Steve"
+        },
+        {
+          "part": "bari",
+          "name": "Joe"
+        },
+        {
+          "part": "bass",
+          "name": "Phil"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Drivin' Me Crazy",
+          "m": 141,
+          "p": 141,
+          "s": 145,
+          "tot_score": 427,
+          "pc_score": 71.2,
+          "m_pc": 70.5,
+          "p_pc": 70.5,
+          "s_pc": 72.5
+        },
+        {
+          "n": 1,
+          "name": "Heart Of My Heart (The Story Of The Rose)",
+          "m": 140,
+          "p": 135,
+          "s": 141,
+          "tot_score": 416,
+          "pc_score": 69.3,
+          "m_pc": 70.0,
+          "p_pc": 67.5,
+          "s_pc": 70.5
+        }
+      ],
+      "n": 2,
+      "m": 281,
+      "m_pc": 70.3,
+      "p": 276,
+      "p_pc": 69.0,
+      "s": 286,
+      "s_pc": 71.5,
+      "tot_score": 843,
+      "pc_score": 70.3
+    },
+    {
+      "rank": 2,
+      "name": "QuarteTones",
+      "members": [
+        {
+          "part": "director",
+          "name": "Graham"
+        },
+        {
+          "part": "director",
+          "name": "Guthrie"
+        },
+        {
+          "part": "director",
+          "name": "Alex"
+        },
+        {
+          "part": "director",
+          "name": "Iain"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "The Way You Look Tonight",
+          "m": 135,
+          "p": 131,
+          "s": 131,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 67.5,
+          "p_pc": 65.5,
+          "s_pc": 65.5
+        },
+        {
+          "n": 1,
+          "name": "Oh You Beautiful Doll",
+          "m": 139,
+          "p": 133,
+          "s": 130,
+          "tot_score": 402,
+          "pc_score": 67.0,
+          "m_pc": 69.5,
+          "p_pc": 66.5,
+          "s_pc": 65.0
+        }
+      ],
+      "n": 2,
+      "m": 274,
+      "m_pc": 68.5,
+      "p": 264,
+      "p_pc": 66.0,
+      "s": 261,
+      "s_pc": 65.3,
+      "tot_score": 799,
+      "pc_score": 66.6
+    },
+    {
+      "rank": 3,
+      "name": "Footlights",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Alan"
+        },
+        {
+          "part": "lead",
+          "name": "Erik"
+        },
+        {
+          "part": "bari",
+          "name": "Geoff"
+        },
+        {
+          "part": "bass",
+          "name": "Geoff"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "If I Love Again",
+          "m": 132,
+          "p": 128,
+          "s": 135,
+          "tot_score": 395,
+          "pc_score": 65.8,
+          "m_pc": 66.0,
+          "p_pc": 64.0,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "It's Only A Paper Moon",
+          "m": 132,
+          "p": 133,
+          "s": 136,
+          "tot_score": 401,
+          "pc_score": 66.8,
+          "m_pc": 66.0,
+          "p_pc": 66.5,
+          "s_pc": 68.0
+        }
+      ],
+      "n": 2,
+      "m": 264,
+      "m_pc": 66.0,
+      "p": 261,
+      "p_pc": 65.3,
+      "s": 271,
+      "s_pc": 67.8,
+      "tot_score": 796,
+      "pc_score": 66.3
+    },
+    {
+      "rank": 4,
+      "name": "Park Street",
+      "members": [
+        {
+          "part": "director",
+          "name": "Laurence"
+        },
+        {
+          "part": "director",
+          "name": "Simon"
+        },
+        {
+          "part": "director",
+          "name": "David"
+        },
+        {
+          "part": "director",
+          "name": "Alastair"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "I Dream Of Jeannie With The Light Brown Hair",
+          "m": 134,
+          "p": 129,
+          "s": 135,
+          "tot_score": 398,
+          "pc_score": 66.3,
+          "m_pc": 67.0,
+          "p_pc": 64.5,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "You're Sixteen",
+          "m": 135,
+          "p": 128,
+          "s": 134,
+          "tot_score": 397,
+          "pc_score": 66.2,
+          "m_pc": 67.5,
+          "p_pc": 64.0,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 2,
+      "m": 269,
+      "m_pc": 67.3,
+      "p": 257,
+      "p_pc": 64.3,
+      "s": 269,
+      "s_pc": 67.3,
+      "tot_score": 795,
+      "pc_score": 66.3
+    },
+    {
+      "rank": 5,
+      "name": "The Back Room Boys",
+      "members": [
+        {
+          "part": "director",
+          "name": "Geoff"
+        },
+        {
+          "part": "director",
+          "name": "Frank"
+        },
+        {
+          "part": "director",
+          "name": "Peter"
+        },
+        {
+          "part": "director",
+          "name": "Zac"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sing Me That Song Again",
+          "m": 134,
+          "p": 129,
+          "s": 135,
+          "tot_score": 398,
+          "pc_score": 66.3,
+          "m_pc": 67.0,
+          "p_pc": 64.5,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "You're Sixteen",
+          "m": 131,
+          "p": 128,
+          "s": 137,
+          "tot_score": 396,
+          "pc_score": 66.0,
+          "m_pc": 65.5,
+          "p_pc": 64.0,
+          "s_pc": 68.5
+        }
+      ],
+      "n": 2,
+      "m": 265,
+      "m_pc": 66.3,
+      "p": 257,
+      "p_pc": 64.3,
+      "s": 272,
+      "s_pc": 68.0,
+      "tot_score": 794,
+      "pc_score": 66.2
+    },
+    {
+      "rank": 6,
+      "name": "4getmenots",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Colin"
+        },
+        {
+          "part": "lead",
+          "name": "James"
+        },
+        {
+          "part": "bari",
+          "name": "Stephen"
+        },
+        {
+          "part": "bass",
+          "name": "Steve"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Hello My Baby",
+          "m": 124,
+          "p": 130,
+          "s": 139,
+          "tot_score": 393,
+          "pc_score": 65.5,
+          "m_pc": 62.0,
+          "p_pc": 65.0,
+          "s_pc": 69.5
+        },
+        {
+          "n": 1,
+          "name": "There's A New Gang On The Corner",
+          "m": 130,
+          "p": 132,
+          "s": 138,
+          "tot_score": 400,
+          "pc_score": 66.7,
+          "m_pc": 65.0,
+          "p_pc": 66.0,
+          "s_pc": 69.0
+        }
+      ],
+      "n": 2,
+      "m": 254,
+      "m_pc": 63.5,
+      "p": 262,
+      "p_pc": 65.5,
+      "s": 277,
+      "s_pc": 69.3,
+      "tot_score": 793,
+      "pc_score": 66.1
+    },
+    {
+      "rank": 7,
+      "name": "Just In Time",
+      "members": [
+        {
+          "part": "director",
+          "name": "Dick"
+        },
+        {
+          "part": "director",
+          "name": "David"
+        },
+        {
+          "part": "director",
+          "name": "Colin"
+        },
+        {
+          "part": "director",
+          "name": "Richard"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Always",
+          "m": 131,
+          "p": 131,
+          "s": 133,
+          "tot_score": 395,
+          "pc_score": 65.8,
+          "m_pc": 65.5,
+          "p_pc": 65.5,
+          "s_pc": 66.5
+        },
+        {
+          "n": 1,
+          "name": "Just In Time",
+          "m": 131,
+          "p": 123,
+          "s": 134,
+          "tot_score": 388,
+          "pc_score": 64.7,
+          "m_pc": 65.5,
+          "p_pc": 61.5,
+          "s_pc": 67.0
+        }
+      ],
+      "n": 2,
+      "m": 262,
+      "m_pc": 65.5,
+      "p": 254,
+      "p_pc": 63.5,
+      "s": 267,
+      "s_pc": 66.8,
+      "tot_score": 783,
+      "pc_score": 65.3
+    },
+    {
+      "rank": 8,
+      "name": "Quadrahedron",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ian"
+        },
+        {
+          "part": "lead",
+          "name": "Dean"
+        },
+        {
+          "part": "bari",
+          "name": "Simon"
+        },
+        {
+          "part": "bass",
+          "name": "Peter"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Just In Time",
+          "m": 125,
+          "p": 130,
+          "s": 130,
+          "tot_score": 385,
+          "pc_score": 64.2,
+          "m_pc": 62.5,
+          "p_pc": 65.0,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "My Melancholy Baby",
+          "m": 126,
+          "p": 129,
+          "s": 128,
+          "tot_score": 383,
+          "pc_score": 63.8,
+          "m_pc": 63.0,
+          "p_pc": 64.5,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 251,
+      "m_pc": 62.8,
+      "p": 259,
+      "p_pc": 64.8,
+      "s": 258,
+      "s_pc": 64.5,
+      "tot_score": 768,
+      "pc_score": 64.0
+    },
+    {
+      "rank": 9,
+      "name": "Lads 'n' Dads",
+      "members": [
+        {
+          "part": "director",
+          "name": "Duncan"
+        },
+        {
+          "part": "director",
+          "name": "Alan"
+        },
+        {
+          "part": "director",
+          "name": "Peter"
+        },
+        {
+          "part": "director",
+          "name": "Peter"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Give Me The Simple Life",
+          "m": 130,
+          "p": 125,
+          "s": 130,
+          "tot_score": 385,
+          "pc_score": 64.2,
+          "m_pc": 65.0,
+          "p_pc": 62.5,
+          "s_pc": 65.0
+        },
+        {
+          "n": 1,
+          "name": "How Can I Miss You If You Won't Go Away?",
+          "m": 128,
+          "p": 125,
+          "s": 128,
+          "tot_score": 381,
+          "pc_score": 63.5,
+          "m_pc": 64.0,
+          "p_pc": 62.5,
+          "s_pc": 64.0
+        }
+      ],
+      "n": 2,
+      "m": 258,
+      "m_pc": 64.5,
+      "p": 250,
+      "p_pc": 62.5,
+      "s": 258,
+      "s_pc": 64.5,
+      "tot_score": 766,
+      "pc_score": 63.8
+    },
+    {
+      "rank": 10,
+      "name": "The Grand Dads",
+      "members": [
+        {
+          "part": "director",
+          "name": "Mick"
+        },
+        {
+          "part": "director",
+          "name": "Rob"
+        },
+        {
+          "part": "director",
+          "name": "Rob"
+        },
+        {
+          "part": "director",
+          "name": "David"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Make 'Em Laugh",
+          "m": 122,
+          "p": 124,
+          "s": 135,
+          "tot_score": 381,
+          "pc_score": 63.5,
+          "m_pc": 61.0,
+          "p_pc": 62.0,
+          "s_pc": 67.5
+        },
+        {
+          "n": 1,
+          "name": "This Is All I Ask",
+          "m": 119,
+          "p": 122,
+          "s": 129,
+          "tot_score": 370,
+          "pc_score": 61.7,
+          "m_pc": 59.5,
+          "p_pc": 61.0,
+          "s_pc": 64.5
+        }
+      ],
+      "n": 2,
+      "m": 241,
+      "m_pc": 60.3,
+      "p": 246,
+      "p_pc": 61.5,
+      "s": 264,
+      "s_pc": 66.0,
+      "tot_score": 751,
+      "pc_score": 62.6
+    },
+    {
+      "rank": 11,
+      "name": "One Shot",
+      "members": [
+        {
+          "part": "director",
+          "name": "Alex"
+        },
+        {
+          "part": "director",
+          "name": "Giovanni"
+        },
+        {
+          "part": "director",
+          "name": "Ray"
+        },
+        {
+          "part": "director",
+          "name": "Peter"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Georgia On My Mind",
+          "m": 123,
+          "p": 126,
+          "s": 126,
+          "tot_score": 375,
+          "pc_score": 62.5,
+          "m_pc": 61.5,
+          "p_pc": 63.0,
+          "s_pc": 63.0
+        },
+        {
+          "n": 1,
+          "name": "For All We Know",
+          "m": 124,
+          "p": 126,
+          "s": 124,
+          "tot_score": 374,
+          "pc_score": 62.3,
+          "m_pc": 62.0,
+          "p_pc": 63.0,
+          "s_pc": 62.0
+        }
+      ],
+      "n": 2,
+      "m": 247,
+      "m_pc": 61.8,
+      "p": 252,
+      "p_pc": 63.0,
+      "s": 250,
+      "s_pc": 62.5,
+      "tot_score": 749,
+      "pc_score": 62.4
+    },
+    {
+      "rank": 12,
+      "name": "Star Shine",
+      "members": [
+        {
+          "part": "director",
+          "name": "Michael"
+        },
+        {
+          "part": "director",
+          "name": "Bob"
+        },
+        {
+          "part": "director",
+          "name": "James"
+        },
+        {
+          "part": "director",
+          "name": "David"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 122,
+          "p": 123,
+          "s": 124,
+          "tot_score": 369,
+          "pc_score": 61.5,
+          "m_pc": 61.0,
+          "p_pc": 61.5,
+          "s_pc": 62.0
+        },
+        {
+          "n": 1,
+          "name": "On A Wonderful Day Like Today/Zip-a-dee-doo-dah/it's a good ",
+          "m": 122,
+          "p": 128,
+          "s": 125,
+          "tot_score": 375,
+          "pc_score": 62.5,
+          "m_pc": 61.0,
+          "p_pc": 64.0,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 2,
+      "m": 244,
+      "m_pc": 61.0,
+      "p": 251,
+      "p_pc": 62.8,
+      "s": 249,
+      "s_pc": 62.3,
+      "tot_score": 744,
+      "pc_score": 62.0
+    },
+    {
+      "rank": 13,
+      "name": "Four To The Bar",
+      "members": [
+        {
+          "part": "director",
+          "name": "Norman"
+        },
+        {
+          "part": "director",
+          "name": "Paul"
+        },
+        {
+          "part": "director",
+          "name": "John"
+        },
+        {
+          "part": "director",
+          "name": "Peter"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 123,
+          "p": 122,
+          "s": 132,
+          "tot_score": 377,
+          "pc_score": 62.8,
+          "m_pc": 61.5,
+          "p_pc": 61.0,
+          "s_pc": 66.0
+        },
+        {
+          "n": 1,
+          "name": "That's An Irish Lullaby",
+          "m": 119,
+          "p": 120,
+          "s": 127,
+          "tot_score": 366,
+          "pc_score": 61.0,
+          "m_pc": 59.5,
+          "p_pc": 60.0,
+          "s_pc": 63.5
+        }
+      ],
+      "n": 2,
+      "m": 242,
+      "m_pc": 60.5,
+      "p": 242,
+      "p_pc": 60.5,
+      "s": 259,
+      "s_pc": 64.8,
+      "tot_score": 743,
+      "pc_score": 61.9
+    },
+    {
+      "rank": 14,
+      "name": "Compass",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Colin"
+        },
+        {
+          "part": "lead",
+          "name": "Ken"
+        },
+        {
+          "part": "bari",
+          "name": "Neil"
+        },
+        {
+          "part": "bass",
+          "name": "Simon"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You're Sixteen",
+          "m": 121,
+          "p": 127,
+          "s": 123,
+          "tot_score": 371,
+          "pc_score": 61.8,
+          "m_pc": 60.5,
+          "p_pc": 63.5,
+          "s_pc": 61.5
+        },
+        {
+          "n": 1,
+          "name": "This Is All I Ask",
+          "m": 121,
+          "p": 121,
+          "s": 114,
+          "tot_score": 356,
+          "pc_score": 59.3,
+          "m_pc": 60.5,
+          "p_pc": 60.5,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 242,
+      "m_pc": 60.5,
+      "p": 248,
+      "p_pc": 62.0,
+      "s": 237,
+      "s_pc": 59.3,
+      "tot_score": 727,
+      "pc_score": 60.6
+    },
+    {
+      "rank": 15,
+      "name": "Buzz Cut",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Nick"
+        },
+        {
+          "part": "lead",
+          "name": "Alistair"
+        },
+        {
+          "part": "bari",
+          "name": "David"
+        },
+        {
+          "part": "bass",
+          "name": "John"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When The Midnight Choo - Choo Leaves For Alabam'",
+          "m": 121,
+          "p": 125,
+          "s": 119,
+          "tot_score": 365,
+          "pc_score": 60.8,
+          "m_pc": 60.5,
+          "p_pc": 62.5,
+          "s_pc": 59.5
+        },
+        {
+          "n": 1,
+          "name": "The Masquerade Is Over",
+          "m": 122,
+          "p": 122,
+          "s": 117,
+          "tot_score": 361,
+          "pc_score": 60.2,
+          "m_pc": 61.0,
+          "p_pc": 61.0,
+          "s_pc": 58.5
+        }
+      ],
+      "n": 2,
+      "m": 243,
+      "m_pc": 60.8,
+      "p": 247,
+      "p_pc": 61.8,
+      "s": 236,
+      "s_pc": 59.0,
+      "tot_score": 726,
+      "pc_score": 60.5
+    },
+    {
+      "rank": 16,
+      "name": "Getting On",
+      "members": [
+        {
+          "part": "director",
+          "name": "Geoff"
+        },
+        {
+          "part": "director",
+          "name": "Frank"
+        },
+        {
+          "part": "director",
+          "name": "Sid"
+        },
+        {
+          "part": "director",
+          "name": "Rob"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "From The First Hello To The Last Goodbye",
+          "m": 118,
+          "p": 117,
+          "s": 117,
+          "tot_score": 352,
+          "pc_score": 58.7,
+          "m_pc": 59.0,
+          "p_pc": 58.5,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 119,
+          "p": 120,
+          "s": 115,
+          "tot_score": 354,
+          "pc_score": 59.0,
+          "m_pc": 59.5,
+          "p_pc": 60.0,
+          "s_pc": 57.5
+        }
+      ],
+      "n": 2,
+      "m": 237,
+      "m_pc": 59.3,
+      "p": 237,
+      "p_pc": 59.3,
+      "s": 232,
+      "s_pc": 58.0,
+      "tot_score": 706,
+      "pc_score": 58.8
+    },
+    {
+      "rank": 17,
+      "name": "Graffiti",
+      "members": [
+        {
+          "part": "director",
+          "name": "Terry"
+        },
+        {
+          "part": "director",
+          "name": "Nick"
+        },
+        {
+          "part": "director",
+          "name": "Peter"
+        },
+        {
+          "part": "director",
+          "name": "Gary"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When My Baby Smiles At Me",
+          "m": 122,
+          "p": 119,
+          "s": 112,
+          "tot_score": 353,
+          "pc_score": 58.8,
+          "m_pc": 61.0,
+          "p_pc": 59.5,
+          "s_pc": 56.0
+        },
+        {
+          "n": 1,
+          "name": "Old Cape Cod",
+          "m": 119,
+          "p": 122,
+          "s": 109,
+          "tot_score": 350,
+          "pc_score": 58.3,
+          "m_pc": 59.5,
+          "p_pc": 61.0,
+          "s_pc": 54.5
+        }
+      ],
+      "n": 2,
+      "m": 241,
+      "m_pc": 60.3,
+      "p": 241,
+      "p_pc": 60.3,
+      "s": 221,
+      "s_pc": 55.3,
+      "tot_score": 703,
+      "pc_score": 58.6
+    },
+    {
+      "rank": 18,
+      "name": "Bandwagon",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Glenn"
+        },
+        {
+          "part": "lead",
+          "name": "Bob"
+        },
+        {
+          "part": "bari",
+          "name": "Paul"
+        },
+        {
+          "part": "bass",
+          "name": "Andrew"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 116,
+          "p": 112,
+          "s": 114,
+          "tot_score": 342,
+          "pc_score": 57.0,
+          "m_pc": 58.0,
+          "p_pc": 56.0,
+          "s_pc": 57.0
+        },
+        {
+          "n": 1,
+          "name": "What'll I Do",
+          "m": 117,
+          "p": 111,
+          "s": 113,
+          "tot_score": 341,
+          "pc_score": 56.8,
+          "m_pc": 58.5,
+          "p_pc": 55.5,
+          "s_pc": 56.5
+        }
+      ],
+      "n": 2,
+      "m": 233,
+      "m_pc": 58.3,
+      "p": 223,
+      "p_pc": 55.8,
+      "s": 227,
+      "s_pc": 56.8,
+      "tot_score": 683,
+      "pc_score": 56.9
+    },
+    {
+      "rank": 19,
+      "name": "Finest Kind",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Andy"
+        },
+        {
+          "part": "lead",
+          "name": "Neil"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Gordon"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "When You And I Were Young, Maggie",
+          "m": 109,
+          "p": 112,
+          "s": 122,
+          "tot_score": 343,
+          "pc_score": 57.2,
+          "m_pc": 54.5,
+          "p_pc": 56.0,
+          "s_pc": 61.0
+        },
+        {
+          "n": 1,
+          "name": "The Gang That Sang 'Heart Of My Heart'",
+          "m": 108,
+          "p": 108,
+          "s": 122,
+          "tot_score": 338,
+          "pc_score": 56.3,
+          "m_pc": 54.0,
+          "p_pc": 54.0,
+          "s_pc": 61.0
+        }
+      ],
+      "n": 2,
+      "m": 217,
+      "m_pc": 54.3,
+      "p": 220,
+      "p_pc": 55.0,
+      "s": 244,
+      "s_pc": 61.0,
+      "tot_score": 681,
+      "pc_score": 56.8
+    },
+    {
+      "rank": 20,
+      "name": "Black Velvet",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Clive"
+        },
+        {
+          "part": "lead",
+          "name": "Mark"
+        },
+        {
+          "part": "bari",
+          "name": "Eddie"
+        },
+        {
+          "part": "bass",
+          "name": "Jim"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Basin Street Blues",
+          "m": 119,
+          "p": 116,
+          "s": 106,
+          "tot_score": 341,
+          "pc_score": 56.8,
+          "m_pc": 59.5,
+          "p_pc": 58.0,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "My Sunny Day",
+          "m": 119,
+          "p": 113,
+          "s": 104,
+          "tot_score": 336,
+          "pc_score": 56.0,
+          "m_pc": 59.5,
+          "p_pc": 56.5,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 238,
+      "m_pc": 59.5,
+      "p": 229,
+      "p_pc": 57.3,
+      "s": 210,
+      "s_pc": 52.5,
+      "tot_score": 677,
+      "pc_score": 56.4
+    },
+    {
+      "rank": 21,
+      "name": "Classmates",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Ed"
+        },
+        {
+          "part": "lead",
+          "name": "John"
+        },
+        {
+          "part": "bari",
+          "name": "George"
+        },
+        {
+          "part": "bass",
+          "name": "Henry"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old Cape Cod",
+          "m": 115,
+          "p": 108,
+          "s": 113,
+          "tot_score": 336,
+          "pc_score": 56.0,
+          "m_pc": 57.5,
+          "p_pc": 54.0,
+          "s_pc": 56.5
+        },
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 113,
+          "p": 109,
+          "s": 113,
+          "tot_score": 335,
+          "pc_score": 55.8,
+          "m_pc": 56.5,
+          "p_pc": 54.5,
+          "s_pc": 56.5
+        }
+      ],
+      "n": 2,
+      "m": 228,
+      "m_pc": 57.0,
+      "p": 217,
+      "p_pc": 54.3,
+      "s": 226,
+      "s_pc": 56.5,
+      "tot_score": 671,
+      "pc_score": 55.9
+    },
+    {
+      "rank": 22,
+      "name": "Jigsaw",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Steve"
+        },
+        {
+          "part": "lead",
+          "name": "David"
+        },
+        {
+          "part": "bari",
+          "name": "John"
+        },
+        {
+          "part": "bass",
+          "name": "Mike"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "It's A Good Day",
+          "m": 113,
+          "p": 105,
+          "s": 115,
+          "tot_score": 333,
+          "pc_score": 55.5,
+          "m_pc": 56.5,
+          "p_pc": 52.5,
+          "s_pc": 57.5
+        },
+        {
+          "n": 1,
+          "name": "Baby Face",
+          "m": 114,
+          "p": 107,
+          "s": 113,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 57.0,
+          "p_pc": 53.5,
+          "s_pc": 56.5
+        }
+      ],
+      "n": 2,
+      "m": 227,
+      "m_pc": 56.8,
+      "p": 212,
+      "p_pc": 53.0,
+      "s": 228,
+      "s_pc": 57.0,
+      "tot_score": 667,
+      "pc_score": 55.6
+    },
+    {
+      "rank": 22,
+      "name": "Quaynote Vectis",
+      "members": [
+        {
+          "part": "director",
+          "name": "Stephen"
+        },
+        {
+          "part": "director",
+          "name": "David"
+        },
+        {
+          "part": "director",
+          "name": "John"
+        },
+        {
+          "part": "director",
+          "name": "Dave"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Nevertheless",
+          "m": 114,
+          "p": 115,
+          "s": 107,
+          "tot_score": 336,
+          "pc_score": 56.0,
+          "m_pc": 57.0,
+          "p_pc": 57.5,
+          "s_pc": 53.5
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 114,
+          "p": 114,
+          "s": 103,
+          "tot_score": 331,
+          "pc_score": 55.2,
+          "m_pc": 57.0,
+          "p_pc": 57.0,
+          "s_pc": 51.5
+        }
+      ],
+      "n": 2,
+      "m": 228,
+      "m_pc": 57.0,
+      "p": 229,
+      "p_pc": 57.3,
+      "s": 210,
+      "s_pc": 52.5,
+      "tot_score": 667,
+      "pc_score": 55.6
+    },
+    {
+      "rank": 24,
+      "name": "Vintage Spirit",
+      "members": [
+        {
+          "part": "director",
+          "name": "Terry"
+        },
+        {
+          "part": "director",
+          "name": "Brian"
+        },
+        {
+          "part": "director",
+          "name": "Mike"
+        },
+        {
+          "part": "director",
+          "name": "Chris"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Each Time I Fall In Love",
+          "m": 109,
+          "p": 105,
+          "s": 117,
+          "tot_score": 331,
+          "pc_score": 55.2,
+          "m_pc": 54.5,
+          "p_pc": 52.5,
+          "s_pc": 58.5
+        },
+        {
+          "n": 1,
+          "name": "Taking A Chance On Love",
+          "m": 112,
+          "p": 108,
+          "s": 114,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 56.0,
+          "p_pc": 54.0,
+          "s_pc": 57.0
+        }
+      ],
+      "n": 2,
+      "m": 221,
+      "m_pc": 55.3,
+      "p": 213,
+      "p_pc": 53.3,
+      "s": 231,
+      "s_pc": 57.8,
+      "tot_score": 665,
+      "pc_score": 55.4
+    },
+    {
+      "rank": 25,
+      "name": "Doubletake",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Den"
+        },
+        {
+          "part": "lead",
+          "name": "Alf"
+        },
+        {
+          "part": "bari",
+          "name": "Bob"
+        },
+        {
+          "part": "bass",
+          "name": "Dave"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Bring Back Those Good Old Days",
+          "m": 113,
+          "p": 113,
+          "s": 103,
+          "tot_score": 329,
+          "pc_score": 54.8,
+          "m_pc": 56.5,
+          "p_pc": 56.5,
+          "s_pc": 51.5
+        },
+        {
+          "n": 1,
+          "name": "The Band Played On",
+          "m": 110,
+          "p": 119,
+          "s": 102,
+          "tot_score": 331,
+          "pc_score": 55.2,
+          "m_pc": 55.0,
+          "p_pc": 59.5,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 223,
+      "m_pc": 55.8,
+      "p": 232,
+      "p_pc": 58.0,
+      "s": 205,
+      "s_pc": 51.3,
+      "tot_score": 660,
+      "pc_score": 55.0
+    },
+    {
+      "rank": 25,
+      "name": "The Pantones",
+      "members": [
+        {
+          "part": "director",
+          "name": "Andrew"
+        },
+        {
+          "part": "director",
+          "name": "Phil"
+        },
+        {
+          "part": "director",
+          "name": "Julian"
+        },
+        {
+          "part": "director",
+          "name": "Aidan"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "Sentimental Journey",
+          "m": 113,
+          "p": 115,
+          "s": 106,
+          "tot_score": 334,
+          "pc_score": 55.7,
+          "m_pc": 56.5,
+          "p_pc": 57.5,
+          "s_pc": 53.0
+        },
+        {
+          "n": 1,
+          "name": "Their Hearts Were Full Of Spring",
+          "m": 112,
+          "p": 110,
+          "s": 104,
+          "tot_score": 326,
+          "pc_score": 54.3,
+          "m_pc": 56.0,
+          "p_pc": 55.0,
+          "s_pc": 52.0
+        }
+      ],
+      "n": 2,
+      "m": 225,
+      "m_pc": 56.3,
+      "p": 225,
+      "p_pc": 56.3,
+      "s": 210,
+      "s_pc": 52.5,
+      "tot_score": 660,
+      "pc_score": 55.0
+    },
+    {
+      "rank": 27,
+      "name": "The Business",
+      "members": [
+        {
+          "part": "director",
+          "name": "James"
+        },
+        {
+          "part": "director",
+          "name": "Chris"
+        },
+        {
+          "part": "director",
+          "name": "Gary"
+        },
+        {
+          "part": "director",
+          "name": "Andy"
+        },
+        {
+          "part": "director",
+          "name": ""
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "There Goes My Heart",
+          "m": 106,
+          "p": 104,
+          "s": 102,
+          "tot_score": 312,
+          "pc_score": 52.0,
+          "m_pc": 53.0,
+          "p_pc": 52.0,
+          "s_pc": 51.0
+        },
+        {
+          "n": 1,
+          "name": "Dream A Little Dream Of Me",
+          "m": 110,
+          "p": 108,
+          "s": 102,
+          "tot_score": 320,
+          "pc_score": 53.3,
+          "m_pc": 55.0,
+          "p_pc": 54.0,
+          "s_pc": 51.0
+        }
+      ],
+      "n": 2,
+      "m": 216,
+      "m_pc": 54.0,
+      "p": 212,
+      "p_pc": 53.0,
+      "s": 204,
+      "s_pc": 51.0,
+      "tot_score": 632,
+      "pc_score": 52.7
+    },
+    {
+      "rank": 28,
+      "name": "Chords Of Steel",
+      "members": [
+        {
+          "part": "tenor",
+          "name": "Bob"
+        },
+        {
+          "part": "lead",
+          "name": "Paul"
+        },
+        {
+          "part": "bari",
+          "name": "Glenn"
+        },
+        {
+          "part": "bass",
+          "name": "David"
+        }
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "name": "You Make Me Feel So Young",
+          "m": 100,
+          "p": 105,
+          "s": 101,
+          "tot_score": 306,
+          "pc_score": 51.0,
+          "m_pc": 50.0,
+          "p_pc": 52.5,
+          "s_pc": 50.5
+        },
+        {
+          "n": 1,
+          "name": "Over The Rainbow",
+          "m": 99,
+          "p": 101,
+          "s": 98,
+          "tot_score": 298,
+          "pc_score": 49.7,
+          "m_pc": 49.5,
+          "p_pc": 50.5,
+          "s_pc": 49.0
+        }
+      ],
+      "n": 2,
+      "m": 199,
+      "m_pc": 49.8,
+      "p": 206,
+      "p_pc": 51.5,
+      "s": 199,
+      "s_pc": 49.8,
+      "tot_score": 604,
+      "pc_score": 50.3
+    }
+  ]
+}

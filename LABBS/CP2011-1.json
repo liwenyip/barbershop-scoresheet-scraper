@@ -30,15 +30,15 @@
       "name": "Nicky Salt"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Norma Head"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
@@ -51,21 +51,26 @@
       "rank_p": "1",
       "rank": "1",
       "name": "The White Rosettes",
-      "director": "Sally McLean",
       "size": "55",
       "pc_score": "79.8",
       "songs": [
         {
-          "title": "Let Yourself Go",
+          "name": "Let Yourself Go",
           "m": "155",
           "s": "162",
           "p": "160"
         },
         {
-          "title": "Auld Lang Syne",
+          "name": "Auld Lang Syne",
           "m": "164",
           "s": "158",
           "p": "158"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Sally McLean"
         }
       ]
     },
@@ -76,21 +81,26 @@
       "rank_p": "2",
       "rank": "2",
       "name": "Cheshire Chord Company",
-      "director": "Jo Braham",
       "size": "33",
       "pc_score": "77.4",
       "songs": [
         {
-          "title": "Tramp Medley",
+          "name": "Tramp Medley",
           "m": "155",
           "s": "154",
           "p": "156"
         },
         {
-          "title": "Are You Lonesome Tonight?",
+          "name": "Are You Lonesome Tonight?",
           "m": "149",
           "s": "158",
           "p": "157"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Jo Braham"
         }
       ]
     },
@@ -101,21 +111,26 @@
       "rank_p": "3",
       "rank": "3",
       "name": "Gem Connection",
-      "director": "Rachael Murphy",
       "size": "44",
       "pc_score": "70.8",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "143",
           "s": "138",
           "p": "148"
         },
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "142",
           "s": "140",
           "p": "139"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Rachael Murphy"
         }
       ]
     },
@@ -126,21 +141,26 @@
       "rank_p": "4",
       "rank": "4",
       "name": "Crystal Chords",
-      "director": "Monica Funnell",
       "size": "50",
       "pc_score": "70.8",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "151",
           "s": "141",
           "p": "146"
         },
         {
-          "title": "The Nearness Of You",
+          "name": "The Nearness Of You",
           "m": "137",
           "s": "136",
           "p": "138"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Monica Funnell"
         }
       ]
     },
@@ -151,21 +171,26 @@
       "rank_p": "6",
       "rank": "5",
       "name": "Silver Lining",
-      "director": "Sara Jackson",
       "size": "31",
       "pc_score": "64.3",
       "songs": [
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "126",
           "s": "125",
           "p": "130"
         },
         {
-          "title": "You're Nobody 'Til Somebody Loves You",
+          "name": "You're Nobody 'Til Somebody Loves You",
           "m": "129",
           "s": "130",
           "p": "132"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Sara Jackson"
         }
       ]
     },
@@ -176,21 +201,26 @@
       "rank_p": "5",
       "rank": "6",
       "name": "Red Rosettes",
-      "director": "Katy Phillips",
       "size": "36",
       "pc_score": "63.5",
       "songs": [
         {
-          "title": "Stars Fell On Alabama",
+          "name": "Stars Fell On Alabama",
           "m": "126",
           "s": "127",
           "p": "126"
         },
         {
-          "title": "I Never Meant To Fall In Love",
+          "name": "I Never Meant To Fall In Love",
           "m": "129",
           "s": "127",
           "p": "127"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Katy Phillips"
         }
       ]
     },
@@ -201,21 +231,26 @@
       "rank_p": "7",
       "rank": "7",
       "name": "Mountain Harmony",
-      "director": "Derek Hollis",
       "size": "44",
       "pc_score": "58.3",
       "songs": [
         {
-          "title": "There Goes My Heart",
+          "name": "There Goes My Heart",
           "m": "122",
           "s": "115",
           "p": "117"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "117",
           "s": "113",
           "p": "115"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Derek Hollis"
         }
       ]
     },
@@ -226,21 +261,26 @@
       "rank_p": "9",
       "rank": "8",
       "name": "Abbey Belles",
-      "director": "Anne Turner/Catrina Lakin",
       "size": "27",
       "pc_score": "55.9",
       "songs": [
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "118",
           "s": "109",
           "p": "112"
         },
         {
-          "title": "Love Is The Sweetest Thing",
+          "name": "Love Is The Sweetest Thing",
           "m": "110",
           "s": "110",
           "p": "112"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Anne Turner/Catrina Lakin"
         }
       ]
     },
@@ -251,21 +291,26 @@
       "rank_p": "8",
       "rank": "9",
       "name": "A Touch Of TLC",
-      "director": "Peter Jones",
       "size": "34",
       "pc_score": "55.7",
       "songs": [
         {
-          "title": "If You Love Me Really Love Me",
+          "name": "If You Love Me Really Love Me",
           "m": "118",
           "s": "112",
           "p": "117"
         },
         {
-          "title": "I Can't Give You Anything But Love / Steppin' Out With My Baby",
+          "name": "I Can't Give You Anything But Love / Steppin' Out With My Baby",
           "m": "114",
           "s": "102",
           "p": "105"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Peter Jones"
         }
       ]
     },
@@ -276,21 +321,26 @@
       "rank_p": "9",
       "rank": "10",
       "name": "Mersey Harmony",
-      "director": "Lesley Crawford",
       "size": "33",
       "pc_score": "55.0",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "112",
           "s": "108",
           "p": "114"
         },
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "111",
           "s": "108",
           "p": "107"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Lesley Crawford"
         }
       ]
     },
@@ -301,21 +351,26 @@
       "rank_p": "11",
       "rank": "11",
       "name": "Main Street Sound",
-      "director": "Terry Adamson",
       "size": "24",
       "pc_score": "54.4",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "118",
           "s": "109",
           "p": "119"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "105",
           "s": "100",
           "p": "102"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Terry Adamson"
         }
       ]
     },
@@ -326,21 +381,26 @@
       "rank_p": "12",
       "rank": "12",
       "name": "Tartan Harmony",
-      "director": "Juliet Erskine",
       "size": "51",
       "pc_score": "53.8",
       "songs": [
         {
-          "title": "How Do You Like Your Eggs In The Morning?",
+          "name": "How Do You Like Your Eggs In The Morning?",
           "m": "113",
           "s": "109",
           "p": "111"
         },
         {
-          "title": "When I Just Wear My Smile",
+          "name": "When I Just Wear My Smile",
           "m": "104",
           "s": "104",
           "p": "104"
+        }
+      ],
+      "members": [
+        {
+          "part": "director",
+          "name": "Juliet Erskine"
         }
       ]
     }

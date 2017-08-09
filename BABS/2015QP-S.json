@@ -42,23 +42,23 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Yvonne Hughes"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Alastair Taylor-Payne"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Peter Hughes"
     }
   ],
@@ -74,19 +74,19 @@
       "pc_score": "69.1",
       "songs": [
         {
-          "title": "Walkin' My Baby Back Home",
+          "name": "Walkin' My Baby Back Home",
           "m": "204",
           "s": "208",
           "p": "207"
         },
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "210",
           "s": "206",
           "p": "208"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy Salter"
@@ -115,19 +115,19 @@
       "pc_score": "68.7",
       "songs": [
         {
-          "title": "Old Cape Cod",
+          "name": "Old Cape Cod",
           "m": "208",
           "s": "209",
           "p": "204"
         },
         {
-          "title": "There's A Brand New Gang",
+          "name": "There's A Brand New Gang",
           "m": "211",
           "s": "202",
           "p": "203"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Gary Roussak"
@@ -156,19 +156,19 @@
       "pc_score": "64.1",
       "songs": [
         {
-          "title": "My Wife The Dancer",
+          "name": "My Wife The Dancer",
           "m": "198",
           "s": "197",
           "p": "196"
         },
         {
-          "title": "Jazz Came Up The River From New Orleans",
+          "name": "Jazz Came Up The River From New Orleans",
           "m": "198",
           "s": "183",
           "p": "182"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martin Procter"
@@ -197,19 +197,19 @@
       "pc_score": "55.2",
       "songs": [
         {
-          "title": "When You Wore A Tulip",
+          "name": "When You Wore A Tulip",
           "m": "172",
           "s": "165",
           "p": "168"
         },
         {
-          "title": "Sweet Georgia Brown",
+          "name": "Sweet Georgia Brown",
           "m": "162",
           "s": "159",
           "p": "168"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Barclay Marshall"

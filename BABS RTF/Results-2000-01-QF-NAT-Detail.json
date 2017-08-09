@@ -1,0 +1,371 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2000-01-QF-NAT-Detail.txt",
+  "assoc": "BABS",
+  "contest": "NATIONAL QUARTET FINALS",
+  "location": "GLASGOW",
+  "year": "2000/01",
+  "type": "q",
+  "date": "06/05/2001",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Graham Lawrence"
+    },
+    {
+      "cat": "p",
+      "name": "Bob Walker"
+    },
+    {
+      "cat": "p",
+      "name": "Mike Warner"
+    },
+    {
+      "cat": "s",
+      "name": "Roger Chantrelle"
+    },
+    {
+      "cat": "s",
+      "name": "Peter Isiger"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Gordon Horne"
+    },
+    {
+      "cat": "a",
+      "name": "Graham Starkie"
+    },
+    {
+      "cat": "a",
+      "name": "Barry Coles"
+    },
+    {
+      "cat": "a",
+      "name": "John Penketh"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Matrix",
+      "songs": [
+        {
+          "n": 1,
+          "name": "When My Baby Smiles At Me",
+          "m": 244,
+          "p": 230,
+          "s": 225,
+          "tot_score": 699,
+          "pc_score": 77.7,
+          "m_pc": 81.3,
+          "p_pc": 76.7,
+          "s_pc": 75.0
+        },
+        {
+          "n": 1,
+          "name": "Lover Come Back",
+          "m": 253,
+          "p": 243,
+          "s": 220,
+          "tot_score": 716,
+          "pc_score": 79.6,
+          "m_pc": 84.3,
+          "p_pc": 81.0,
+          "s_pc": 73.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 472.0,
+          "p": 441.0,
+          "s": 416.0,
+          "tot_score": 1329.0,
+          "pc_score": 73.8,
+          "m_pc": 78.7,
+          "p_pc": 73.5,
+          "s_pc": 69.3
+        }
+      ],
+      "n": 4,
+      "m": 969.0,
+      "m_pc": 80.8,
+      "p": 914.0,
+      "p_pc": 76.2,
+      "s": 861.0,
+      "s_pc": 71.8,
+      "tot_score": 2744.0,
+      "pc_score": 76.2
+    },
+    {
+      "rank": 2,
+      "name": "The Light Industrial Choral Society",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Who'll Dry Your Tears When You Cry?",
+          "m": 224,
+          "p": 222,
+          "s": 210,
+          "tot_score": 656,
+          "pc_score": 72.9,
+          "m_pc": 74.7,
+          "p_pc": 74.0,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "I'd Love To Fall Asleep And Wake Up In My Mammy's Arms",
+          "m": 218,
+          "p": 226,
+          "s": 206,
+          "tot_score": 650,
+          "pc_score": 72.2,
+          "m_pc": 72.7,
+          "p_pc": 75.3,
+          "s_pc": 68.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 485.0,
+          "p": 471.0,
+          "s": 449.0,
+          "tot_score": 1405.0,
+          "pc_score": 78.1,
+          "m_pc": 80.8,
+          "p_pc": 78.5,
+          "s_pc": 74.8
+        }
+      ],
+      "n": 4,
+      "m": 927.0,
+      "m_pc": 77.3,
+      "p": 919.0,
+      "p_pc": 76.6,
+      "s": 865.0,
+      "s_pc": 72.1,
+      "tot_score": 2711.0,
+      "pc_score": 75.3
+    },
+    {
+      "rank": 3,
+      "name": "Sound Crew",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Loves Old Sweet Song  Parody",
+          "m": 221,
+          "p": 234,
+          "s": 197,
+          "tot_score": 652,
+          "pc_score": 72.4,
+          "m_pc": 73.7,
+          "p_pc": 78.0,
+          "s_pc": 65.7
+        },
+        {
+          "n": 1,
+          "name": "I Found A Million Dollar Baby Parody",
+          "m": 236,
+          "p": 248,
+          "s": 199,
+          "tot_score": 683,
+          "pc_score": 75.9,
+          "m_pc": 78.7,
+          "p_pc": 82.7,
+          "s_pc": 66.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 439.0,
+          "p": 447.0,
+          "s": 373.0,
+          "tot_score": 1259.0,
+          "pc_score": 69.9,
+          "m_pc": 73.2,
+          "p_pc": 74.5,
+          "s_pc": 62.2
+        }
+      ],
+      "n": 4,
+      "m": 896.0,
+      "m_pc": 74.7,
+      "p": 929.0,
+      "p_pc": 77.4,
+      "s": 769.0,
+      "s_pc": 64.1,
+      "tot_score": 2594.0,
+      "pc_score": 72.1
+    },
+    {
+      "rank": 4,
+      "name": "Spotlight",
+      "songs": [
+        {
+          "n": 1,
+          "name": "You're Breaking In A New Heart",
+          "m": 217,
+          "p": 211,
+          "s": 202,
+          "tot_score": 630,
+          "pc_score": 70.0,
+          "m_pc": 72.3,
+          "p_pc": 70.3,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Star Medley",
+          "m": 230,
+          "p": 222,
+          "s": 196,
+          "tot_score": 648,
+          "pc_score": 72.0,
+          "m_pc": 76.7,
+          "p_pc": 74.0,
+          "s_pc": 65.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 431.0,
+          "p": 416.0,
+          "s": 388.0,
+          "tot_score": 1235.0,
+          "pc_score": 68.6,
+          "m_pc": 71.8,
+          "p_pc": 69.3,
+          "s_pc": 64.7
+        }
+      ],
+      "n": 4,
+      "m": 878.0,
+      "m_pc": 73.2,
+      "p": 849.0,
+      "p_pc": 70.8,
+      "s": 786.0,
+      "s_pc": 65.5,
+      "tot_score": 2513.0,
+      "pc_score": 69.8
+    },
+    {
+      "rank": 5,
+      "name": "Class Act",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Old St. Louis",
+          "m": 200,
+          "p": 203,
+          "s": 202,
+          "tot_score": 605,
+          "pc_score": 67.2,
+          "m_pc": 66.7,
+          "p_pc": 67.7,
+          "s_pc": 67.3
+        },
+        {
+          "n": 1,
+          "name": "Pal Of My Cradle Days",
+          "m": 212,
+          "p": 211,
+          "s": 192,
+          "tot_score": 615,
+          "pc_score": 68.3,
+          "m_pc": 70.7,
+          "p_pc": 70.3,
+          "s_pc": 64.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 389.0,
+          "p": 407.0,
+          "s": 394.0,
+          "tot_score": 1190.0,
+          "pc_score": 66.1,
+          "m_pc": 64.8,
+          "p_pc": 67.8,
+          "s_pc": 65.7
+        }
+      ],
+      "n": 4,
+      "m": 801.0,
+      "m_pc": 66.8,
+      "p": 821.0,
+      "p_pc": 68.4,
+      "s": 788.0,
+      "s_pc": 65.7,
+      "tot_score": 2410.0,
+      "pc_score": 66.9
+    },
+    {
+      "rank": 6,
+      "name": "Prime Time",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Love's Old Sweet Song",
+          "m": 211,
+          "p": 203,
+          "s": 196,
+          "tot_score": 610,
+          "pc_score": 67.8,
+          "m_pc": 70.3,
+          "p_pc": 67.7,
+          "s_pc": 65.3
+        },
+        {
+          "n": 1,
+          "name": "Gotta Be On My Way",
+          "m": 205,
+          "p": 196,
+          "s": 191,
+          "tot_score": 592,
+          "pc_score": 65.8,
+          "m_pc": 68.3,
+          "p_pc": 65.3,
+          "s_pc": 63.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 424.0,
+          "p": 401.0,
+          "s": 375.0,
+          "tot_score": 1200.0,
+          "pc_score": 66.7,
+          "m_pc": 70.7,
+          "p_pc": 66.8,
+          "s_pc": 62.5
+        }
+      ],
+      "n": 4,
+      "m": 840.0,
+      "m_pc": 70.0,
+      "p": 800.0,
+      "p_pc": 66.7,
+      "s": 762.0,
+      "s_pc": 63.5,
+      "tot_score": 2402.0,
+      "pc_score": 66.7
+    }
+  ]
+}

@@ -42,19 +42,19 @@
       "name": "Alison Thompson"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Pauline Spiller"
     }
   ],
@@ -70,19 +70,19 @@
       "pc_score": "76.7",
       "songs": [
         {
-          "title": "Love Me",
+          "name": "Love Me",
           "m": "232",
           "s": "232",
           "p": "230"
         },
         {
-          "title": "If Ever I Would Leave You",
+          "name": "If Ever I Would Leave You",
           "m": "230",
           "s": "229",
           "p": "228"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jennifer Carson-Fox"
@@ -111,19 +111,19 @@
       "pc_score": "75.1",
       "songs": [
         {
-          "title": "I Used To Call Him Baby Medley",
+          "name": "I Used To Call Him Baby Medley",
           "m": "231",
           "s": "227",
           "p": "224"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "222",
           "s": "223",
           "p": "225"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Kim Potter"
@@ -152,19 +152,19 @@
       "pc_score": "72.8",
       "songs": [
         {
-          "title": "You Turned The Tables On Me",
+          "name": "You Turned The Tables On Me",
           "m": "218",
           "s": "215",
           "p": "222"
         },
         {
-          "title": "I Will Love You 'Til The End Of Time",
+          "name": "I Will Love You 'Til The End Of Time",
           "m": "221",
           "s": "217",
           "p": "217"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Becky Middleton"
@@ -193,19 +193,19 @@
       "pc_score": "72.2",
       "songs": [
         {
-          "title": "My Foolish Heart",
+          "name": "My Foolish Heart",
           "m": "219",
           "s": "212",
           "p": "223"
         },
         {
-          "title": "Yes Sir, That's My Baby",
+          "name": "Yes Sir, That's My Baby",
           "m": "214",
           "s": "216",
           "p": "215"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Hannah Braham"
@@ -234,19 +234,19 @@
       "pc_score": "70.4",
       "songs": [
         {
-          "title": "It's A Pity To Say Goodnight",
+          "name": "It's A Pity To Say Goodnight",
           "m": "210",
           "s": "205",
           "p": "215"
         },
         {
-          "title": "Yesterday I Heard The Rain",
+          "name": "Yesterday I Heard The Rain",
           "m": "215",
           "s": "212",
           "p": "210"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Astrid Shepherd"
@@ -275,19 +275,19 @@
       "pc_score": "70.1",
       "songs": [
         {
-          "title": "I Can't Give You Anything But Love / L-O - V-E Medley",
+          "name": "I Can't Give You Anything But Love / L-O - V-E Medley",
           "m": "210",
           "s": "205",
           "p": "214"
         },
         {
-          "title": "When I Fall In Love",
+          "name": "When I Fall In Love",
           "m": "211",
           "s": "216",
           "p": "206"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Rebecca Fish"
@@ -316,19 +316,19 @@
       "pc_score": "70.1",
       "songs": [
         {
-          "title": "Next Time I Love",
+          "name": "Next Time I Love",
           "m": "202",
           "s": "210",
           "p": "215"
         },
         {
-          "title": "Deed I Do",
+          "name": "Deed I Do",
           "m": "215",
           "s": "209",
           "p": "211"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Myfanwy Beynon"
@@ -357,19 +357,19 @@
       "pc_score": "69.2",
       "songs": [
         {
-          "title": "Are You The One?",
+          "name": "Are You The One?",
           "m": "208",
           "s": "204",
           "p": "212"
         },
         {
-          "title": "It's You",
+          "name": "It's You",
           "m": "205",
           "s": "207",
           "p": "210"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Leigh Holden"
@@ -398,19 +398,19 @@
       "pc_score": "68.8",
       "songs": [
         {
-          "title": "At Last",
+          "name": "At Last",
           "m": "200",
           "s": "205",
           "p": "206"
         },
         {
-          "title": "Oh Look At Me Now",
+          "name": "Oh Look At Me Now",
           "m": "207",
           "s": "209",
           "p": "211"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sue Hughes"
@@ -439,19 +439,19 @@
       "pc_score": "68.7",
       "songs": [
         {
-          "title": "Oh Look At Me Now",
+          "name": "Oh Look At Me Now",
           "m": "203",
           "s": "202",
           "p": "213"
         },
         {
-          "title": "It's You",
+          "name": "It's You",
           "m": "205",
           "s": "209",
           "p": "205"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Michelle Jeffries"
@@ -480,19 +480,19 @@
       "pc_score": "66.7",
       "songs": [
         {
-          "title": "Fit As A Fiddle",
+          "name": "Fit As A Fiddle",
           "m": "197",
           "s": "199",
           "p": "206"
         },
         {
-          "title": "All The Way",
+          "name": "All The Way",
           "m": "200",
           "s": "200",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dot Cook"
@@ -521,19 +521,19 @@
       "pc_score": "66.5",
       "songs": [
         {
-          "title": "A Dream Is A Wish Your Heart Makes",
+          "name": "A Dream Is A Wish Your Heart Makes",
           "m": "200",
           "s": "196",
           "p": "207"
         },
         {
-          "title": "I Can't Give You Anything But Love",
+          "name": "I Can't Give You Anything But Love",
           "m": "199",
           "s": "196",
           "p": "199"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Warner"
@@ -562,19 +562,19 @@
       "pc_score": "66.1",
       "songs": [
         {
-          "title": "You Don't Kinow Me",
+          "name": "You Don't Kinow Me",
           "m": "192",
           "s": "202",
           "p": "195"
         },
         {
-          "title": "It's A Sin To Tell A Lie",
+          "name": "It's A Sin To Tell A Lie",
           "m": "203",
           "s": "198",
           "p": "200"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Angela Sanchez-Rosemurgey"
@@ -603,19 +603,19 @@
       "pc_score": "65.2",
       "songs": [
         {
-          "title": "Last Night Was The End Of The World",
+          "name": "Last Night Was The End Of The World",
           "m": "196",
           "s": "188",
           "p": "200"
         },
         {
-          "title": "I Can't Give You Anything But Love / Love Medley",
+          "name": "I Can't Give You Anything But Love / Love Medley",
           "m": "193",
           "s": "199",
           "p": "198"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Lynne Paterson"
@@ -644,19 +644,19 @@
       "pc_score": "64.4",
       "songs": [
         {
-          "title": "When You Wish Upon A Star",
+          "name": "When You Wish Upon A Star",
           "m": "192",
           "s": "188",
           "p": "195"
         },
         {
-          "title": "Red Hot",
+          "name": "Red Hot",
           "m": "191",
           "s": "197",
           "p": "196"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sue Hunt"

@@ -30,15 +30,15 @@
       "name": "Mark Grindall"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Jackie Mumford"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Gail Grainger"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Charles Grainger"
     }
   ],
@@ -54,19 +54,19 @@
       "pc_score": "76.8",
       "songs": [
         {
-          "title": "The Nearness Of You",
+          "name": "The Nearness Of You",
           "m": "152",
           "s": "153",
           "p": "154"
         },
         {
-          "title": "You Took Advantage Of Me",
+          "name": "You Took Advantage Of Me",
           "m": "153",
           "s": "156",
           "p": "154"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andrea Day"
@@ -95,19 +95,19 @@
       "pc_score": "74.1",
       "songs": [
         {
-          "title": "Steppin' Out With My Baby",
+          "name": "Steppin' Out With My Baby",
           "m": "144",
           "s": "145",
           "p": "147"
         },
         {
-          "title": "You Are So Beautiful",
+          "name": "You Are So Beautiful",
           "m": "147",
           "s": "152",
           "p": "154"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Cherie Morgan"
@@ -136,19 +136,19 @@
       "pc_score": "73.5",
       "songs": [
         {
-          "title": "Sooner Or Later / Ask Me Medley",
+          "name": "Sooner Or Later / Ask Me Medley",
           "m": "149",
           "s": "146",
           "p": "148"
         },
         {
-          "title": "Always",
+          "name": "Always",
           "m": "147",
           "s": "146",
           "p": "146"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Rose Hopkinson"
@@ -177,19 +177,19 @@
       "pc_score": "66.6",
       "songs": [
         {
-          "title": "On A Slow Boat To China",
+          "name": "On A Slow Boat To China",
           "m": "139",
           "s": "131",
           "p": "136"
         },
         {
-          "title": "Almost Like Being In Love",
+          "name": "Almost Like Being In Love",
           "m": "129",
           "s": "133",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dick Knight"
@@ -218,19 +218,19 @@
       "pc_score": "65.1",
       "songs": [
         {
-          "title": "Lover Come Back To Me",
+          "name": "Lover Come Back To Me",
           "m": "127",
           "s": "129",
           "p": "129"
         },
         {
-          "title": "Nice Work If You Can Get It",
+          "name": "Nice Work If You Can Get It",
           "m": "132",
           "s": "133",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Helen Lappert"
@@ -259,19 +259,19 @@
       "pc_score": "64.9",
       "songs": [
         {
-          "title": "'Til I Hear You Sing",
+          "name": "'Til I Hear You Sing",
           "m": "127",
           "s": "123",
           "p": "137"
         },
         {
-          "title": "The Night Has A Thousand Eyes",
+          "name": "The Night Has A Thousand Eyes",
           "m": "128",
           "s": "133",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Pippa Goodall"
@@ -300,19 +300,19 @@
       "pc_score": "64.2",
       "songs": [
         {
-          "title": "There, I've Said It Again",
+          "name": "There, I've Said It Again",
           "m": "133",
           "s": "127",
           "p": "129"
         },
         {
-          "title": "Dream A Little Dream Of Me",
+          "name": "Dream A Little Dream Of Me",
           "m": "128",
           "s": "126",
           "p": "127"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alison Thompson"
@@ -341,19 +341,19 @@
       "pc_score": "62.9",
       "songs": [
         {
-          "title": "A Fool Such As I",
+          "name": "A Fool Such As I",
           "m": "138",
           "s": "125",
           "p": "128"
         },
         {
-          "title": "Come What May",
+          "name": "Come What May",
           "m": "117",
           "s": "116",
           "p": "131"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Boo de Bruin"
@@ -382,19 +382,19 @@
       "pc_score": "61.5",
       "songs": [
         {
-          "title": "Smile",
+          "name": "Smile",
           "m": "131",
           "s": "120",
           "p": "134"
         },
         {
-          "title": "It Had To Be You",
+          "name": "It Had To Be You",
           "m": "122",
           "s": "116",
           "p": "115"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Nicki Brant"
@@ -423,19 +423,19 @@
       "pc_score": "59.8",
       "songs": [
         {
-          "title": "Love Me, And The World Is Mine",
+          "name": "Love Me, And The World Is Mine",
           "m": "128",
           "s": "119",
           "p": "122"
         },
         {
-          "title": "Make 'Em Laugh",
+          "name": "Make 'Em Laugh",
           "m": "120",
           "s": "113",
           "p": "116"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Mary Williams"
@@ -464,19 +464,19 @@
       "pc_score": "57.6",
       "songs": [
         {
-          "title": "Dream A Little Dream Of Me",
+          "name": "Dream A Little Dream Of Me",
           "m": "112",
           "s": "116",
           "p": "115"
         },
         {
-          "title": "Heart Of My Heart",
+          "name": "Heart Of My Heart",
           "m": "119",
           "s": "114",
           "p": "115"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Val Metcalf"
@@ -505,19 +505,19 @@
       "pc_score": "57.3",
       "songs": [
         {
-          "title": "Peter Pan Medley",
+          "name": "Peter Pan Medley",
           "m": "113",
           "s": "116",
           "p": "120"
         },
         {
-          "title": "Second Star From The Right",
+          "name": "Second Star From The Right",
           "m": "118",
           "s": "115",
           "p": "105"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Sarah Hooker"
@@ -546,19 +546,19 @@
       "pc_score": "57.3",
       "songs": [
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "113",
           "s": "117",
           "p": "115"
         },
         {
-          "title": "I'm Alone Because I Love You",
+          "name": "I'm Alone Because I Love You",
           "m": "115",
           "s": "114",
           "p": "113"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Rachel Dunn"
@@ -587,19 +587,19 @@
       "pc_score": "56.7",
       "songs": [
         {
-          "title": "For All We Know",
+          "name": "For All We Know",
           "m": "118",
           "s": "113",
           "p": "117"
         },
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "114",
           "s": "110",
           "p": "108"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Jill Barnes"

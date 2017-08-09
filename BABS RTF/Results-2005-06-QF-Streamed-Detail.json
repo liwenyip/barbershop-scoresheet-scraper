@@ -1,0 +1,371 @@
+{
+  "filename": "C:\\Users\\Li-Wen Yip\\Documents\\GitHub\\barbershop-scoresheet-scraper\\BABS RTF\\Results-2005-06-QF-Streamed-Detail.txt",
+  "assoc": "BABS",
+  "contest": "QUARTET FINAL",
+  "location": "HARROGATE",
+  "year": "2005/06",
+  "type": "q",
+  "date": "21/05/2006",
+  "judges": [
+    {
+      "cat": "m",
+      "name": "Bob Croft"
+    },
+    {
+      "cat": "m",
+      "name": "Paul Davies"
+    },
+    {
+      "cat": "m",
+      "name": "John Palmer"
+    },
+    {
+      "cat": "p",
+      "name": "Ron Billard"
+    },
+    {
+      "cat": "p",
+      "name": "Pat Deeble"
+    },
+    {
+      "cat": "p",
+      "name": "Carol Sherry"
+    },
+    {
+      "cat": "s",
+      "name": "Barry Clinton"
+    },
+    {
+      "cat": "s",
+      "name": "Mark Grindall"
+    },
+    {
+      "cat": "s",
+      "name": "Stuart Lines"
+    },
+    {
+      "cat": "a",
+      "name": "Ken Hulme"
+    },
+    {
+      "cat": "a",
+      "name": "Andy Milner"
+    },
+    {
+      "cat": "a",
+      "name": "Phil Mobsby"
+    },
+    {
+      "cat": "a",
+      "name": "Chris Tideman"
+    }
+  ],
+  "contestants": [
+    {
+      "rank": 1,
+      "name": "Pitch Invasion",
+      "songs": [
+        {
+          "n": 1,
+          "name": "The One I Love Belongs To Somebody Else",
+          "m": 236,
+          "p": 210,
+          "s": 221,
+          "tot_score": 667,
+          "pc_score": 74.1,
+          "m_pc": 78.7,
+          "p_pc": 70.0,
+          "s_pc": 73.7
+        },
+        {
+          "n": 1,
+          "name": "Somebody Knows",
+          "m": 229,
+          "p": 222,
+          "s": 217,
+          "tot_score": 668,
+          "pc_score": 74.2,
+          "m_pc": 76.3,
+          "p_pc": 74.0,
+          "s_pc": 72.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 451.0,
+          "p": 441.0,
+          "s": 444.0,
+          "tot_score": 1336.0,
+          "pc_score": 74.2,
+          "m_pc": 75.2,
+          "p_pc": 73.5,
+          "s_pc": 74.0
+        }
+      ],
+      "n": 4,
+      "m": 916.0,
+      "m_pc": 76.3,
+      "p": 873.0,
+      "p_pc": 72.8,
+      "s": 882.0,
+      "s_pc": 73.5,
+      "tot_score": 2671.0,
+      "pc_score": 74.2
+    },
+    {
+      "rank": 2,
+      "name": "Q. E. D.",
+      "songs": [
+        {
+          "n": 1,
+          "name": "My Honey's Lovin' Arms",
+          "m": 225,
+          "p": 206,
+          "s": 219,
+          "tot_score": 650,
+          "pc_score": 72.2,
+          "m_pc": 75.0,
+          "p_pc": 68.7,
+          "s_pc": 73.0
+        },
+        {
+          "n": 1,
+          "name": "Once Upon A Time",
+          "m": 220,
+          "p": 216,
+          "s": 227,
+          "tot_score": 663,
+          "pc_score": 73.7,
+          "m_pc": 73.3,
+          "p_pc": 72.0,
+          "s_pc": 75.7
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 438.0,
+          "p": 416.0,
+          "s": 420.0,
+          "tot_score": 1274.0,
+          "pc_score": 70.8,
+          "m_pc": 73.0,
+          "p_pc": 69.3,
+          "s_pc": 70.0
+        }
+      ],
+      "n": 4,
+      "m": 883.0,
+      "m_pc": 73.6,
+      "p": 838.0,
+      "p_pc": 69.8,
+      "s": 866.0,
+      "s_pc": 72.2,
+      "tot_score": 2587.0,
+      "pc_score": 71.9
+    },
+    {
+      "rank": 3,
+      "name": "By Appointment",
+      "songs": [
+        {
+          "n": 1,
+          "name": "I'll Be Seeing You / Parody",
+          "m": 216,
+          "p": 222,
+          "s": 207,
+          "tot_score": 645,
+          "pc_score": 71.7,
+          "m_pc": 72.0,
+          "p_pc": 74.0,
+          "s_pc": 69.0
+        },
+        {
+          "n": 1,
+          "name": "That's Life / Parody",
+          "m": 222,
+          "p": 224,
+          "s": 205,
+          "tot_score": 651,
+          "pc_score": 72.3,
+          "m_pc": 74.0,
+          "p_pc": 74.7,
+          "s_pc": 68.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 417.0,
+          "p": 435.0,
+          "s": 421.0,
+          "tot_score": 1273.0,
+          "pc_score": 70.7,
+          "m_pc": 69.5,
+          "p_pc": 72.5,
+          "s_pc": 70.2
+        }
+      ],
+      "n": 4,
+      "m": 855.0,
+      "m_pc": 71.3,
+      "p": 881.0,
+      "p_pc": 73.4,
+      "s": 833.0,
+      "s_pc": 69.4,
+      "tot_score": 2569.0,
+      "pc_score": 71.4
+    },
+    {
+      "rank": 4,
+      "name": "This Way Up",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Yes Sir, That's My Baby",
+          "m": 212,
+          "p": 215,
+          "s": 210,
+          "tot_score": 637,
+          "pc_score": 70.8,
+          "m_pc": 70.7,
+          "p_pc": 71.7,
+          "s_pc": 70.0
+        },
+        {
+          "n": 1,
+          "name": "You Are My Sunshine",
+          "m": 207,
+          "p": 213,
+          "s": 211,
+          "tot_score": 631,
+          "pc_score": 70.1,
+          "m_pc": 69.0,
+          "p_pc": 71.0,
+          "s_pc": 70.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 437.0,
+          "p": 405.0,
+          "s": 403.0,
+          "tot_score": 1245.0,
+          "pc_score": 69.2,
+          "m_pc": 72.8,
+          "p_pc": 67.5,
+          "s_pc": 67.2
+        }
+      ],
+      "n": 4,
+      "m": 856.0,
+      "m_pc": 71.3,
+      "p": 833.0,
+      "p_pc": 69.4,
+      "s": 824.0,
+      "s_pc": 68.7,
+      "tot_score": 2513.0,
+      "pc_score": 69.8
+    },
+    {
+      "rank": 5,
+      "name": "dB4",
+      "songs": [
+        {
+          "n": 1,
+          "name": "After You've Gone",
+          "m": 197,
+          "p": 192,
+          "s": 203,
+          "tot_score": 592,
+          "pc_score": 65.8,
+          "m_pc": 65.7,
+          "p_pc": 64.0,
+          "s_pc": 67.7
+        },
+        {
+          "n": 1,
+          "name": "I'm Beginning To See The Light",
+          "m": 185,
+          "p": 193,
+          "s": 204,
+          "tot_score": 582,
+          "pc_score": 64.7,
+          "m_pc": 61.7,
+          "p_pc": 64.3,
+          "s_pc": 68.0
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 431.0,
+          "p": 390.0,
+          "s": 410.0,
+          "tot_score": 1231.0,
+          "pc_score": 68.4,
+          "m_pc": 71.8,
+          "p_pc": 65.0,
+          "s_pc": 68.3
+        }
+      ],
+      "n": 4,
+      "m": 813.0,
+      "m_pc": 67.8,
+      "p": 775.0,
+      "p_pc": 64.6,
+      "s": 817.0,
+      "s_pc": 68.1,
+      "tot_score": 2405.0,
+      "pc_score": 66.8
+    },
+    {
+      "rank": 6,
+      "name": "The Stunt Monkeys",
+      "songs": [
+        {
+          "n": 1,
+          "name": "Let The Rest Of The World Go By",
+          "m": 198,
+          "p": 189,
+          "s": 205,
+          "tot_score": 592,
+          "pc_score": 65.8,
+          "m_pc": 66.0,
+          "p_pc": 63.0,
+          "s_pc": 68.3
+        },
+        {
+          "n": 1,
+          "name": "Come Fly With Me",
+          "m": 201,
+          "p": 191,
+          "s": 205,
+          "tot_score": 597,
+          "pc_score": 66.3,
+          "m_pc": 67.0,
+          "p_pc": 63.7,
+          "s_pc": 68.3
+        },
+        {
+          "n": 2,
+          "name": "Previous (balanced):",
+          "m": 406.0,
+          "p": 379.0,
+          "s": 398.0,
+          "tot_score": 1183.0,
+          "pc_score": 65.7,
+          "m_pc": 67.7,
+          "p_pc": 63.2,
+          "s_pc": 66.3
+        }
+      ],
+      "n": 4,
+      "m": 805.0,
+      "m_pc": 67.1,
+      "p": 759.0,
+      "p_pc": 63.3,
+      "s": 808.0,
+      "s_pc": 67.3,
+      "tot_score": 2372.0,
+      "pc_score": 65.9
+    }
+  ]
+}

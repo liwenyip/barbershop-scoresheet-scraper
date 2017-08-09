@@ -42,19 +42,19 @@
       "name": "Stuart Lines"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Ken Hulme"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Chris Tideman"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Tony Wright"
     },
     {
-      "cat": "ca",
+      "cat": "a",
       "name": "Phil Mobsby"
     }
   ],
@@ -70,19 +70,19 @@
       "pc_score": "76.7",
       "songs": [
         {
-          "title": "What'll I Do",
+          "name": "What'll I Do",
           "m": "229",
           "s": "228",
           "p": "236"
         },
         {
-          "title": "No No Nora",
+          "name": "No No Nora",
           "m": "226",
           "s": "230",
           "p": "232"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Alan"
@@ -111,19 +111,19 @@
       "pc_score": "74.9",
       "songs": [
         {
-          "title": "The Way You Look Tonight",
+          "name": "The Way You Look Tonight",
           "m": "224",
           "s": "224",
           "p": "224"
         },
         {
-          "title": "Taking A Chance On Love",
+          "name": "Taking A Chance On Love",
           "m": "223",
           "s": "227",
           "p": "226"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Tony"
@@ -152,19 +152,19 @@
       "pc_score": "71.1",
       "songs": [
         {
-          "title": "If I Give My Heart To You",
+          "name": "If I Give My Heart To You",
           "m": "212",
           "s": "213",
           "p": "209"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "215",
           "s": "213",
           "p": "217"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Martin"
@@ -193,19 +193,19 @@
       "pc_score": "70.4",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "209",
           "s": "209",
           "p": "216"
         },
         {
-          "title": "May I Never Love Again",
+          "name": "May I Never Love Again",
           "m": "202",
           "s": "214",
           "p": "217"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Andy"
@@ -234,19 +234,19 @@
       "pc_score": "66.7",
       "songs": [
         {
-          "title": "Yes Sir, That's My Baby",
+          "name": "Yes Sir, That's My Baby",
           "m": "203",
           "s": "203",
           "p": "195"
         },
         {
-          "title": "How Deep Is The Ocean",
+          "name": "How Deep Is The Ocean",
           "m": "194",
           "s": "199",
           "p": "206"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Chris"
@@ -275,19 +275,19 @@
       "pc_score": "65.6",
       "songs": [
         {
-          "title": "Come Fly With Me",
+          "name": "Come Fly With Me",
           "m": "196",
           "s": "204",
           "p": "183"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "196",
           "s": "194",
           "p": "208"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Simon"
@@ -316,19 +316,19 @@
       "pc_score": "65.5",
       "songs": [
         {
-          "title": "It's Only A Paper Moon",
+          "name": "It's Only A Paper Moon",
           "m": "189",
           "s": "204",
           "p": "190"
         },
         {
-          "title": "Moonlight Becomes You",
+          "name": "Moonlight Becomes You",
           "m": "202",
           "s": "195",
           "p": "199"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Peter"
@@ -357,19 +357,19 @@
       "pc_score": "64.1",
       "songs": [
         {
-          "title": "How Deep Is The Ocean",
+          "name": "How Deep Is The Ocean",
           "m": "181",
           "s": "198",
           "p": "180"
         },
         {
-          "title": "Midnight Rose",
+          "name": "Midnight Rose",
           "m": "192",
           "s": "201",
           "p": "202"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
@@ -398,19 +398,19 @@
       "pc_score": "61.2",
       "songs": [
         {
-          "title": "Wonderful Day Medley",
+          "name": "Wonderful Day Medley",
           "m": "176",
           "s": "184",
           "p": "187"
         },
         {
-          "title": "For All We Know",
+          "name": "For All We Know",
           "m": "186",
           "s": "184",
           "p": "185"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "James"
@@ -435,23 +435,64 @@
       "rank_s": "11",
       "rank_p": "12",
       "rank": "10",
-      "name": "Retro 59.8 1063 What'll I Do For All We Know 167 174 181 183 181 177 12 11 10 Category rankings: 11: Doghouse",
-      "pc_score": "59.1",
+      "name": "Retro",
+      "pc_score": "59.8",
       "songs": [
         {
-          "title": "Last Night On The Back Porch",
+          "name": "Last Night On The Back Porch",
           "m": "177",
           "s": "181",
           "p": "185"
         },
         {
-          "title": "Where The Southern Roses Grow",
+          "name": "Where The Southern Roses Grow",
           "m": "181",
           "s": "179",
           "p": "173"
         }
       ],
-      "singers": [
+      "members": [
+        {
+          "part": "tenor",
+          "name": null
+        },
+        {
+          "part": "lead",
+          "name": null
+        },
+        {
+          "part": "bari",
+          "name": null
+        },
+        {
+          "part": "bass",
+          "name": null
+        }
+      ]
+    },
+    {
+      "tot_score": "1063",
+      "rank_m": "12",
+      "rank_s": "10",
+      "rank_p": "11",
+      "rank": "11",
+      "name": "Doghouse",
+      "pc_score": "59.1",
+      "songs": [
+        {
+          "name": "What'll I Do",
+          "m": "167",
+          "s": "181",
+          "p": "174"
+        },
+        {
+          "name": "For All We Know",
+          "m": "183",
+          "s": "177",
+          "p": "181"
+        }
+      ],
+      "members": [
         {
           "part": "tenor",
           "name": "Andy"
@@ -480,19 +521,19 @@
       "pc_score": "58.7",
       "songs": [
         {
-          "title": "There's A Brand New Gang",
+          "name": "There's A Brand New Gang",
           "m": "169",
           "s": "193",
           "p": "170"
         },
         {
-          "title": "I'll Take You Home Again, Kathleen",
+          "name": "I'll Take You Home Again, Kathleen",
           "m": "187",
           "s": "168",
           "p": "169"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Geoff"
@@ -521,19 +562,19 @@
       "pc_score": "58.1",
       "songs": [
         {
-          "title": "Old St. Louis",
+          "name": "Old St. Louis",
           "m": "166",
           "s": "178",
           "p": "171"
         },
         {
-          "title": "She Didn't Say No",
+          "name": "She Didn't Say No",
           "m": "179",
           "s": "174",
           "p": "177"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Dave"
@@ -562,19 +603,19 @@
       "pc_score": "57.8",
       "songs": [
         {
-          "title": "I'm Beginning To See The Light",
+          "name": "I'm Beginning To See The Light",
           "m": "169",
           "s": "177",
           "p": "174"
         },
         {
-          "title": "You Make Me Feel So Young",
+          "name": "You Make Me Feel So Young",
           "m": "174",
           "s": "174",
           "p": "173"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "John"
@@ -603,19 +644,19 @@
       "pc_score": "57.8",
       "songs": [
         {
-          "title": "For All We Know",
+          "name": "For All We Know",
           "m": "168",
           "s": "178",
           "p": "168"
         },
         {
-          "title": "Once Upon A Time",
+          "name": "Once Upon A Time",
           "m": "183",
           "s": "172",
           "p": "172"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
@@ -644,19 +685,19 @@
       "pc_score": "54.1",
       "songs": [
         {
-          "title": "Georgia On My Mind",
+          "name": "Georgia On My Mind",
           "m": "155",
           "s": "175",
           "p": "152"
         },
         {
-          "title": "Five Foot Two",
+          "name": "Five Foot Two",
           "m": "171",
           "s": "160",
           "p": "161"
         }
       ],
-      "singers": [
+      "members": [
         {
           "part": "tenor",
           "name": "Steve"
